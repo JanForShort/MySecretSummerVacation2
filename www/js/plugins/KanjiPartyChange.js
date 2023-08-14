@@ -1147,7 +1147,7 @@
     };
 
     Window_PCActorList.prototype.standardFontSize = function () {
-        return 22;
+        return 18;
     };
 
     Window_PCActorList.prototype.drawItem = function (index) {
@@ -1253,7 +1253,7 @@
             if (actor) {
                 var w = Graphics.boxWidth, h = Graphics.boxHeight, a, x, y, width;
 
-                window.contents.fontSize = 26;
+                window.contents.fontSize = 20;
                 if (param.swFaceType !== "none") {
                     a = eval(param.facePos);
                     switch (param.swFaceType) {
