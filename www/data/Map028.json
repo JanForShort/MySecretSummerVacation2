@@ -3718,8 +3718,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "強くてニューゲーム",
-                                    "通常ニューゲーム"
+                                    "Strong New Game",
+                                    "New Game (Normal Mode)"
                                 ],
                                 -1,
                                 0,
@@ -3787,7 +3787,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オープニング＋チュートリアルをスキップしますか？"
+                                "Would you like to skip the opening and tutorial?"
                             ]
                         },
                         {
@@ -3795,8 +3795,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "スキップする",
-                                    "スキップしない"
+                                    "Skip",
+                                    "Don't skip"
                                 ],
                                 -1,
                                 0,
@@ -3891,28 +3891,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "私は夏休みを"
+                                "I spent my summer vacation at my aunt's pension\nand met a female college student from the\nneighboring atelier and my cousin. After finishing\nlunch that day..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "叔母の経営するペンションで過ごすことになり"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "隣のアトリエの女子大生と従妹と出会い"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "その日の昼食を終えた…。"
+                                ""
                             ]
                         },
                         {
@@ -3999,7 +3999,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おばちゃんの呼び名は？"
+                                "What is the aunt's name?"
                             ]
                         },
                         {
@@ -4007,9 +4007,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "おばちゃん",
-                                    "お母さん",
-                                    "ママ"
+                                    "Aunt",
+                                    "Mother",
+                                    "Mama"
                                 ],
                                 -1,
                                 0,
@@ -4132,7 +4132,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "さっちゃんからの呼び名は？"
+                                "What is the nickname for Sacchan?"
                             ]
                         },
                         {
@@ -4140,8 +4140,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お兄ちゃん",
-                                    "ボク君"
+                                    "Big brother",
+                                    "Boku-kun"
                                 ],
                                 -1,
                                 0,
@@ -4328,14 +4328,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ムシバトルの難易度を選択して下さい。"
+                                "Please select the difficulty level for Mushi\nBattle. *It can be changed in the options during\nthe game."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "※ゲーム中にオプションで変更可能です。"
+                                ""
                             ]
                         },
                         {
@@ -4343,10 +4343,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "とってもかんたん",
-                                    "かんたん",
-                                    "ふつう（デフォルト）",
-                                    "むずかしい"
+                                    "Very Easy",
+                                    "Easy",
+                                    "Normal (Default)",
+                                    "Difficult"
                                 ],
                                 1,
                                 2,
@@ -4497,7 +4497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ムシバトルの演出を選択して下さい。"
+                                "Please select the presentation for the Mushi\nBattle."
                             ]
                         },
                         {
@@ -4514,52 +4514,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "本作の戦闘は"
+                                "The battles in this game are usually depicted with\npixel art of beetles such as rhinoceros beetles."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "通常はカブトムシなどの甲虫等の"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ドットイラストで表現していますが、"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "虫が苦手な方のために、虫のドットイラストを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ヒーロー消しゴムに変更する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "”ヒーロー消しゴムモード”を用意しています。"
+                                ""
                             ]
                         },
                         {
@@ -4576,7 +4545,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "※ゲーム中にオプションで変更可能です。"
+                                "We have prepared a Hero Eraser Mode that changes\nthe insect pixel art into hero erasers for those\nwho are not good with bugs."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "*Can be changed in the options during the game."
                             ]
                         },
                         {
@@ -4584,8 +4584,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ムシバトル（デフォルト）",
-                                    "ヒーロー消しゴムモード"
+                                    "Bug Battle (Default)",
+                                    "Hero Eraser Mode"
                                 ],
                                 -1,
                                 0,
@@ -4663,14 +4663,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミニゲームの難易度を選択して下さい。"
+                                "Please select the difficulty level for the mini-\ngame. *It can be changed in the options during the\ngame."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "※ゲーム中にオプションで変更可能です。"
+                                ""
                             ]
                         },
                         {
@@ -4678,10 +4678,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "とってもかんたん",
-                                    "かんたん",
-                                    "ふつう（デフォルト）",
-                                    "むずかしい"
+                                    "Very easy",
+                                    "Easy",
+                                    "Normal (Default)",
+                                    "Difficult"
                                 ],
                                 1,
                                 2,
@@ -4804,28 +4804,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "BL表現（少年同士の性行為）の有無を選択して下さい。"
+                                "Please select whether to include BL content\n(sexual activities between boys). *It can be\nchanged in the options during the game, but\ndepending on the timing, there may be events that\ndo not occur."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "※ゲーム中にオプションで変更可能ですが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　タイミングによっては、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　イベントが発生しない場合もあります。"
+                                ""
                             ]
                         },
                         {
@@ -4833,9 +4833,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "すべて有り（デフォルト）",
-                                    "有りだが、主人公の受けは無し",
-                                    "無し"
+                                    "All included (default)",
+                                    "Yes, it exists, but the protagonist does not participate",
+                                    "None"
                                 ],
                                 -1,
                                 0,
@@ -4955,21 +4955,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ランダムキャラクター生成等での"
+                                "Please select whether to include male characters\nin random character generation, etc. *It can be\nchanged in the options during the game."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "少年キャラクターの有無を選択して下さい。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "※ゲーム中にオプションで変更可能です。"
+                                ""
                             ]
                         },
                         {
@@ -4977,8 +4977,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "有り",
-                                    "無し"
+                                    "Yes",
+                                    "None"
                                 ],
                                 -1,
                                 0,
@@ -5049,21 +5049,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ランダムキャラクター生成等での"
+                                "Please select whether to include characters with\nmale genitalia in random character generation,\netc. *It can be changed in the options during the\ngame."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "男性器を持ったキャラクターの有無を選択して下さい。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "※ゲーム中にオプションで変更可能です。"
+                                ""
                             ]
                         },
                         {
@@ -5071,8 +5071,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "有り",
-                                    "無し"
+                                    "Yes",
+                                    "None"
                                 ],
                                 -1,
                                 0,
@@ -5143,28 +5143,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "初期設定は以上になります。"
+                                "The initial settings are as mentioned above.\nPlease check the options for other detailed\nsettings. *For more detailed information, please\nrefer to the enclosed instruction manual."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "その他の細かい設定等は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "オプションをご確認下さい。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "※詳しい内容は同封の\"説明書\"を参照して下さい。"
+                                ""
                             ]
                         },
                         {
@@ -5181,7 +5181,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それでは、本編をお楽しみ下さい。"
+                                "Now, please enjoy the main story."
                             ]
                         },
                         {
@@ -5290,7 +5290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#君は、憶えているだろうか…。"
+                                "\\# Do you remember..."
                             ]
                         },
                         {
@@ -5307,7 +5307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#あの遠い、夏の日々を…。"
+                                "\\#Those distant, summer days..."
                             ]
                         },
                         {
@@ -5324,25 +5324,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#何処までも続く青空と"
+                                "\\#The endless blue sky, \\#the overwhelming scent\nof trees... \\#the incessant sound of cicadas..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#むせかえるような木々の匂い…、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#鳴りやむことのない蝉の声…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -5362,14 +5362,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#夏が来るたびに思い出す"
+                                "\\#Every time summer comes, I remember \\#distant,\ndistant... memories of my childhood..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#遠い遠い…少年のころの記憶…。"
+                                ""
                             ]
                         },
                         {
