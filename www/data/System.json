@@ -732,11 +732,11 @@
             "Lv",
             "Stamina",
             "Stamina",
-            "Move Points",
-            "Special Move P",
+            "Move P",
+            "Skill P",
             "Spirit",
             "Spirit",
-            "Experience points",
+            "Experience P",
             "EXP"
         ],
         "commands": [

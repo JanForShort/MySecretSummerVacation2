@@ -1253,7 +1253,7 @@
             if (actor) {
                 var w = Graphics.boxWidth, h = Graphics.boxHeight, a, x, y, width;
 
-                window.contents.fontSize = 20;
+                window.contents.fontSize = 16;
                 if (param.swFaceType !== "none") {
                     a = eval(param.facePos);
                     switch (param.swFaceType) {
