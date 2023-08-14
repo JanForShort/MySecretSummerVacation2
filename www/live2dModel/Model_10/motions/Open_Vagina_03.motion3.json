@@ -1,0 +1,163 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 3.983,
+		"Fps": 60.0,
+		"Loop": true,
+		"AreBeziersRestricted": false,
+		"CurveCount": 9,
+		"TotalSegmentCount": 17,
+		"TotalPointCount": 38,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "AB_Pose",
+			"Segments": [
+				0,
+				13,
+				1,
+				0.306,
+				13,
+				0.611,
+				13,
+				0.917,
+				13,
+				1,
+				0.944,
+				13,
+				0.972,
+				13.071,
+				1,
+				13.121,
+				1,
+				1.333,
+				13.725,
+				1.667,
+				14,
+				2,
+				14,
+				0,
+				3.983,
+				14
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "LB_Pose",
+			"Segments": [
+				0,
+				0,
+				0,
+				3.983,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Position",
+			"Segments": [
+				0,
+				-10,
+				0,
+				3.983,
+				-10
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Piston",
+			"Segments": [
+				0,
+				-2.8,
+				0,
+				0.933,
+				-2.8,
+				1,
+				1.289,
+				-2.8,
+				1.644,
+				0,
+				2,
+				0,
+				0,
+				3.983,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "kupaa",
+			"Segments": [
+				0,
+				3,
+				0,
+				3.983,
+				3
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "bikubiku2",
+			"Segments": [
+				0,
+				0,
+				0,
+				0.933,
+				0,
+				1,
+				1.289,
+				0,
+				1.644,
+				1,
+				2,
+				1,
+				1,
+				2.333,
+				1,
+				2.667,
+				0,
+				3,
+				0,
+				0,
+				3.983,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "player_Pose",
+			"Segments": [
+				0,
+				3,
+				0,
+				3.983,
+				3
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "player_PC",
+			"Segments": [
+				0,
+				0,
+				0,
+				3.983,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "player_C",
+			"Segments": [
+				0,
+				0,
+				0,
+				3.983,
+				0
+			]
+		}
+	]
+}

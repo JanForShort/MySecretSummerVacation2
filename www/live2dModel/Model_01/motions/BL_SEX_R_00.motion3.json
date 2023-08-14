@@ -1,0 +1,262 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 5,
+		"Fps": 60.0,
+		"Loop": true,
+		"AreBeziersRestricted": false,
+		"CurveCount": 16,
+		"TotalSegmentCount": 26,
+		"TotalPointCount": 62,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "Erection",
+			"Segments": [
+				0,
+				1,
+				0,
+				5,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamPenisC",
+			"Segments": [
+				0,
+				1,
+				0,
+				5,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "AB_Pose",
+			"Segments": [
+				0,
+				30,
+				0,
+				5,
+				30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "LB_Pose",
+			"Segments": [
+				0,
+				5,
+				0,
+				5,
+				5
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Position",
+			"Segments": [
+				0,
+				-2,
+				0,
+				5,
+				-2
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBodyAngleX",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.25,
+				0,
+				0.5,
+				0,
+				0.75,
+				0,
+				1,
+				1.139,
+				0,
+				1.528,
+				0,
+				1.917,
+				0,
+				1,
+				2.111,
+				0,
+				2.306,
+				0,
+				2.5,
+				0,
+				1,
+				3.167,
+				0,
+				3.833,
+				0,
+				4.5,
+				0,
+				1,
+				4.583,
+				0,
+				4.667,
+				0,
+				4.75,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamBodyAngleY",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.25,
+				0,
+				0.5,
+				-5,
+				0.75,
+				-5,
+				1,
+				1.139,
+				-5,
+				1.528,
+				0,
+				1.917,
+				0,
+				1,
+				2.111,
+				0,
+				2.306,
+				0,
+				2.5,
+				0,
+				1,
+				3.167,
+				0,
+				3.833,
+				0.516,
+				4.5,
+				2,
+				1,
+				4.583,
+				2.185,
+				4.667,
+				5,
+				4.75,
+				5,
+				0,
+				5,
+				5
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "kupaa",
+			"Segments": [
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "burun",
+			"Segments": [
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "bikubiku",
+			"Segments": [
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "syasei",
+			"Segments": [
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Sperm",
+			"Segments": [
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Houhi",
+			"Segments": [
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "player_piston",
+			"Segments": [
+				0,
+				1,
+				0,
+				5,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "player_Pose",
+			"Segments": [
+				0,
+				10,
+				0,
+				5,
+				10
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "player_Pose2",
+			"Segments": [
+				0,
+				4,
+				0,
+				5,
+				4
+			]
+		}
+	]
+}

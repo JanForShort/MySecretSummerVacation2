@@ -1,0 +1,669 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup",
+			"Name": "左目　笑顔"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup",
+			"Name": "右目　笑顔"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "AHE",
+			"GroupId": "ParamGroup",
+			"Name": "アへ顔"
+		},
+		{
+			"Id": "Eye_small",
+			"GroupId": "ParamGroup",
+			"Name": "瞳縮小"
+		},
+		{
+			"Id": "Eye_highlight",
+			"GroupId": "ParamGroup",
+			"Name": "瞳ハイライト"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "ParamGroup",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup",
+			"Name": "左眉　上下"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "ParamGroup",
+			"Name": "照れ"
+		},
+		{
+			"Id": "Tears",
+			"GroupId": "ParamGroup",
+			"Name": "涙"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "ParamGroup",
+			"Name": "髪揺れ　前"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "ParamGroup",
+			"Name": "髪揺れ　横"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "ParamGroup",
+			"Name": "髪揺れ　後"
+		},
+		{
+			"Id": "ParamHairEX",
+			"GroupId": "ParamGroup",
+			"Name": "髪飾り揺れ"
+		},
+		{
+			"Id": "F_hair",
+			"GroupId": "ParamGroup2",
+			"Name": "前髪"
+		},
+		{
+			"Id": "S_hair",
+			"GroupId": "ParamGroup2",
+			"Name": "横髪"
+		},
+		{
+			"Id": "R_hair",
+			"GroupId": "ParamGroup2",
+			"Name": "後ろ髪"
+		},
+		{
+			"Id": "R_hair_L",
+			"GroupId": "ParamGroup2",
+			"Name": "後ろ髪長さ"
+		},
+		{
+			"Id": "EX_hair",
+			"GroupId": "ParamGroup2",
+			"Name": "追加髪"
+		},
+		{
+			"Id": "Brow",
+			"GroupId": "ParamGroup2",
+			"Name": "眉"
+		},
+		{
+			"Id": "Eye_liner",
+			"GroupId": "ParamGroup2",
+			"Name": "アイライン"
+		},
+		{
+			"Id": "Eye_size",
+			"GroupId": "ParamGroup2",
+			"Name": "眼サイズ"
+		},
+		{
+			"Id": "Pupil_size",
+			"GroupId": "ParamGroup2",
+			"Name": "瞳サイズ"
+		},
+		{
+			"Id": "CP",
+			"GroupId": "ParamGroup2",
+			"Name": "特徴"
+		},
+		{
+			"Id": "Makeup",
+			"GroupId": "ParamGroup2",
+			"Name": "化粧"
+		},
+		{
+			"Id": "FAT_face",
+			"GroupId": "ParamGroup2",
+			"Name": "顔ぽっちゃり"
+		},
+		{
+			"Id": "Accessory",
+			"GroupId": "ParamGroup2",
+			"Name": "アクセサリ"
+		},
+		{
+			"Id": "Bust",
+			"GroupId": "ParamGroup2",
+			"Name": "胸サイズ"
+		},
+		{
+			"Id": "Bust_UP",
+			"GroupId": "ParamGroup2",
+			"Name": "胸向き"
+		},
+		{
+			"Id": "Nipple_size",
+			"GroupId": "ParamGroup2",
+			"Name": "乳首サイズ"
+		},
+		{
+			"Id": "Nipple",
+			"GroupId": "ParamGroup2",
+			"Name": "乳首種類"
+		},
+		{
+			"Id": "FAT",
+			"GroupId": "ParamGroup2",
+			"Name": "ぽっちゃり"
+		},
+		{
+			"Id": "AH_size",
+			"GroupId": "ParamGroup2",
+			"Name": "陰毛"
+		},
+		{
+			"Id": "SEX",
+			"GroupId": "ParamGroup2",
+			"Name": "性別"
+		},
+		{
+			"Id": "Penis",
+			"GroupId": "ParamGroup2",
+			"Name": "男性器"
+		},
+		{
+			"Id": "AG",
+			"GroupId": "ParamGroup2",
+			"Name": "発育"
+		},
+		{
+			"Id": "Erection",
+			"GroupId": "",
+			"Name": "勃起"
+		},
+		{
+			"Id": "SB",
+			"GroupId": "",
+			"Name": "日焼け"
+		},
+		{
+			"Id": "SB_type",
+			"GroupId": "",
+			"Name": "日焼けタイプ"
+		},
+		{
+			"Id": "Sweat",
+			"GroupId": "",
+			"Name": "汗"
+		},
+		{
+			"Id": "PW",
+			"GroupId": "",
+			"Name": "ボテ腹"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamBreath2",
+			"GroupId": "",
+			"Name": "吐息"
+		},
+		{
+			"Id": "ParamBust",
+			"GroupId": "",
+			"Name": "胸揺れ"
+		},
+		{
+			"Id": "ParamFat",
+			"GroupId": "",
+			"Name": "脂肪揺れ"
+		},
+		{
+			"Id": "ParamParts",
+			"GroupId": "",
+			"Name": "部位揺れ"
+		},
+		{
+			"Id": "ParamPenis",
+			"GroupId": "",
+			"Name": "陰茎揺れ"
+		},
+		{
+			"Id": "ParamPenisC",
+			"GroupId": "",
+			"Name": "陰茎揺れ抑制"
+		},
+		{
+			"Id": "ParamGoods",
+			"GroupId": "",
+			"Name": "グッズ揺れ"
+		},
+		{
+			"Id": "ParamPenis_player",
+			"GroupId": "",
+			"Name": "主人公陰茎揺れ"
+		},
+		{
+			"Id": "AB_Pose",
+			"GroupId": "",
+			"Name": "上半身ポーズ"
+		},
+		{
+			"Id": "LB_Pose",
+			"GroupId": "",
+			"Name": "下半身ポーズ"
+		},
+		{
+			"Id": "Bondage",
+			"GroupId": "",
+			"Name": "拘束種類"
+		},
+		{
+			"Id": "Move",
+			"GroupId": "",
+			"Name": "女性移動"
+		},
+		{
+			"Id": "Bondage_F",
+			"GroupId": "",
+			"Name": "顔拘束"
+		},
+		{
+			"Id": "Position",
+			"GroupId": "",
+			"Name": "体位"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "体の回転　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "体の回転　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "体の回転　Z"
+		},
+		{
+			"Id": "Piston",
+			"GroupId": "",
+			"Name": "ピストン"
+		},
+		{
+			"Id": "Piston2",
+			"GroupId": "",
+			"Name": "ピストン2（フェラ）"
+		},
+		{
+			"Id": "Piston3",
+			"GroupId": "",
+			"Name": "ピストン3（手コキ）"
+		},
+		{
+			"Id": "TIT",
+			"GroupId": "",
+			"Name": "パイズリ"
+		},
+		{
+			"Id": "FJ",
+			"GroupId": "",
+			"Name": "足コキ"
+		},
+		{
+			"Id": "BJ_hand",
+			"GroupId": "",
+			"Name": "フェラ手種類"
+		},
+		{
+			"Id": "Masturbation",
+			"GroupId": "",
+			"Name": "自慰"
+		},
+		{
+			"Id": "Masturbation_P",
+			"GroupId": "",
+			"Name": "自慰種類"
+		},
+		{
+			"Id": "houhi2",
+			"GroupId": "",
+			"Name": "皮むき"
+		},
+		{
+			"Id": "BJ",
+			"GroupId": "",
+			"Name": "ひょっとこ"
+		},
+		{
+			"Id": "Tongue",
+			"GroupId": "",
+			"Name": "舌"
+		},
+		{
+			"Id": "Tongue2",
+			"GroupId": "",
+			"Name": "舌2"
+		},
+		{
+			"Id": "AF",
+			"GroupId": "",
+			"Name": "アナル"
+		},
+		{
+			"Id": "kupaa",
+			"GroupId": "",
+			"Name": "くぱぁ"
+		},
+		{
+			"Id": "kupaa2",
+			"GroupId": "",
+			"Name": "アナルくぱぁ"
+		},
+		{
+			"Id": "Vibration_P",
+			"GroupId": "",
+			"Name": "バイブレーション種類"
+		},
+		{
+			"Id": "Vibration",
+			"GroupId": "",
+			"Name": "バイブレーション"
+		},
+		{
+			"Id": "Sextoy",
+			"GroupId": "",
+			"Name": "グッズ"
+		},
+		{
+			"Id": "bikubiku2",
+			"GroupId": "",
+			"Name": "びくびく"
+		},
+		{
+			"Id": "burun",
+			"GroupId": "",
+			"Name": "ぶるん"
+		},
+		{
+			"Id": "bikubiku",
+			"GroupId": "",
+			"Name": "主人公びくびく"
+		},
+		{
+			"Id": "Deflating",
+			"GroupId": "",
+			"Name": "主人公陰茎萎え"
+		},
+		{
+			"Id": "syasei",
+			"GroupId": "",
+			"Name": "射精"
+		},
+		{
+			"Id": "syasei2",
+			"GroupId": "",
+			"Name": "射精2"
+		},
+		{
+			"Id": "bukkake",
+			"GroupId": "",
+			"Name": "射精方法"
+		},
+		{
+			"Id": "Sperm",
+			"GroupId": "",
+			"Name": "精液垂れ"
+		},
+		{
+			"Id": "sumata",
+			"GroupId": "",
+			"Name": "素股"
+		},
+		{
+			"Id": "facial",
+			"GroupId": "",
+			"Name": "顔射"
+		},
+		{
+			"Id": "OC",
+			"GroupId": "",
+			"Name": "上半身着衣"
+		},
+		{
+			"Id": "UC",
+			"GroupId": "",
+			"Name": "下半身着衣"
+		},
+		{
+			"Id": "COS",
+			"GroupId": "",
+			"Name": "服"
+		},
+		{
+			"Id": "UW",
+			"GroupId": "",
+			"Name": "下着"
+		},
+		{
+			"Id": "R15",
+			"GroupId": "",
+			"Name": "R15"
+		},
+		{
+			"Id": "Houhi",
+			"GroupId": "",
+			"Name": "P皮むき"
+		},
+		{
+			"Id": "player_piston",
+			"GroupId": "",
+			"Name": "Pピストン（手コキ）"
+		},
+		{
+			"Id": "player_piston2",
+			"GroupId": "",
+			"Name": "Pピストン2"
+		},
+		{
+			"Id": "player_piston3",
+			"GroupId": "",
+			"Name": "Pピストン3（男性器手コキ）"
+		},
+		{
+			"Id": "player_Pose",
+			"GroupId": "",
+			"Name": "プレイヤーポーズ"
+		},
+		{
+			"Id": "player_Pose2",
+			"GroupId": "",
+			"Name": "プレイヤーポーズ2"
+		},
+		{
+			"Id": "player_SB",
+			"GroupId": "",
+			"Name": "プレイヤー日焼け"
+		},
+		{
+			"Id": "Only_RH",
+			"GroupId": "",
+			"Name": "プレイヤー右手のみ表示"
+		},
+		{
+			"Id": "Only_LH",
+			"GroupId": "",
+			"Name": "プレイヤー左手のみ表示"
+		},
+		{
+			"Id": "P_Sweat",
+			"GroupId": "",
+			"Name": "プレイヤー汗"
+		},
+		{
+			"Id": "player_PS",
+			"GroupId": "",
+			"Name": "プレイヤー陰茎サイズ"
+		},
+		{
+			"Id": "player_PC",
+			"GroupId": "",
+			"Name": "プレイヤー陰茎透明度"
+		},
+		{
+			"Id": "player_C",
+			"GroupId": "",
+			"Name": "プレイヤー透明度"
+		},
+		{
+			"Id": "Condom",
+			"GroupId": "",
+			"Name": "コンドーム"
+		},
+		{
+			"Id": "Player_Move",
+			"GroupId": "",
+			"Name": "プレイヤー移動"
+		},
+		{
+			"Id": "BP",
+			"GroupId": "",
+			"Name": "陰茎シルエット"
+		},
+		{
+			"Id": "Only",
+			"GroupId": "",
+			"Name": "主人公オンリー"
+		},
+		{
+			"Id": "angle",
+			"GroupId": "",
+			"Name": "全体の角度"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "頭"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "キャラクターパラメータ"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "MO",
+			"Name": "モザイク"
+		},
+		{
+			"Id": "FR",
+			"Name": "FR"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamBrowLX",
+			"ParamBrowLY"
+		],
+		[
+			"ParamBrowRX",
+			"ParamBrowRY"
+		],
+		[
+			"ParamBodyAngleX",
+			"ParamBodyAngleY"
+		]
+	]
+}

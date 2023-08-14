@@ -1,0 +1,241 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 4,
+		"Fps": 60.0,
+		"Loop": true,
+		"AreBeziersRestricted": false,
+		"CurveCount": 15,
+		"TotalSegmentCount": 23,
+		"TotalPointCount": 56,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "Penis",
+			"Segments": [
+				0,
+				1,
+				0,
+				4,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Erection",
+			"Segments": [
+				0,
+				1,
+				0,
+				4,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Position",
+			"Segments": [
+				0,
+				-1,
+				0,
+				4,
+				-1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "houhi2",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.333,
+				0,
+				0.667,
+				0,
+				1,
+				0,
+				1,
+				1.667,
+				0,
+				2.333,
+				1,
+				3,
+				1,
+				0,
+				4,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "kupaa",
+			"Segments": [
+				0,
+				0,
+				0,
+				4,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "burun",
+			"Segments": [
+				0,
+				0,
+				0,
+				4,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "bikubiku",
+			"Segments": [
+				0,
+				0,
+				0,
+				4,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "syasei",
+			"Segments": [
+				0,
+				0,
+				0,
+				4,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Sperm",
+			"Segments": [
+				0,
+				0,
+				0,
+				4,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Houhi",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.333,
+				0,
+				0.667,
+				0,
+				1,
+				0,
+				1,
+				1.667,
+				0,
+				2.333,
+				1,
+				3,
+				1,
+				0,
+				4,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "player_piston",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.333,
+				0,
+				0.667,
+				0,
+				1,
+				0,
+				1,
+				1.667,
+				0,
+				2.333,
+				1,
+				3,
+				1,
+				1,
+				3.333,
+				1,
+				3.667,
+				0.984,
+				4,
+				0.957
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "player_piston3",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.333,
+				0,
+				0.667,
+				0,
+				1,
+				0,
+				1,
+				1.667,
+				0,
+				2.333,
+				1,
+				3,
+				1,
+				0,
+				4,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "player_Pose",
+			"Segments": [
+				0,
+				6,
+				0,
+				4,
+				6
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "player_Pose2",
+			"Segments": [
+				0,
+				0,
+				0,
+				4,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Player_Move",
+			"Segments": [
+				0,
+				0,
+				0,
+				4,
+				0
+			]
+		}
+	]
+}

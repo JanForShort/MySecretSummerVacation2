@@ -1,0 +1,1311 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Model_01.moc3",
+		"Textures": [
+			"Model_01.4096/texture_00.png",
+			"Model_01.4096/texture_01.png",
+			"Model_01.4096/texture_02.png",
+			"Model_01.4096/texture_03.png",
+			"Model_01.4096/texture_04.png",
+			"Model_01.4096/texture_05.png",
+			"Model_01.4096/texture_06.png"
+		],
+		"Physics": "Model_01.physics3.json",
+		"DisplayInfo": "Model_01.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "AU00",
+				"File": "expressions/AU00.exp3.json"
+			},
+			{
+				"Name": "AV00",
+				"File": "expressions/AV00.exp3.json"
+			},
+			{
+				"Name": "AV01",
+				"File": "expressions/AV01.exp3.json"
+			},
+			{
+				"Name": "AV02",
+				"File": "expressions/AV02.exp3.json"
+			},
+			{
+				"Name": "AV03",
+				"File": "expressions/AV03.exp3.json"
+			},
+			{
+				"Name": "AV04",
+				"File": "expressions/AV04.exp3.json"
+			},
+			{
+				"Name": "BS00",
+				"File": "expressions/BS00.exp3.json"
+			},
+			{
+				"Name": "Boy00",
+				"File": "expressions/Boy00.exp3.json"
+			},
+			{
+				"Name": "ED00",
+				"File": "expressions/ED00.exp3.json"
+			},
+			{
+				"Name": "EX00",
+				"File": "expressions/EX00.exp3.json"
+			},
+			{
+				"Name": "FM00",
+				"File": "expressions/FM00.exp3.json"
+			},
+			{
+				"Name": "FM01",
+				"File": "expressions/FM01.exp3.json"
+			},
+			{
+				"Name": "JC00",
+				"File": "expressions/JC00.exp3.json"
+			},
+			{
+				"Name": "JS00",
+				"File": "expressions/JS00.exp3.json"
+			},
+			{
+				"Name": "JS01",
+				"File": "expressions/JS01.exp3.json"
+			},
+			{
+				"Name": "LS00",
+				"File": "expressions/LS00.exp3.json"
+			},
+			{
+				"Name": "MA00",
+				"File": "expressions/MA00.exp3.json"
+			},
+			{
+				"Name": "PT00",
+				"File": "expressions/PT00.exp3.json"
+			},
+			{
+				"Name": "PT01",
+				"File": "expressions/PT01.exp3.json"
+			},
+			{
+				"Name": "PT02",
+				"File": "expressions/PT02.exp3.json"
+			},
+			{
+				"Name": "PT03",
+				"File": "expressions/PT03.exp3.json"
+			},
+			{
+				"Name": "PT04",
+				"File": "expressions/PT04.exp3.json"
+			},
+			{
+				"Name": "SF00",
+				"File": "expressions/SF00.exp3.json"
+			},
+			{
+				"Name": "UN00",
+				"File": "expressions/UN00.exp3.json"
+			},
+			{
+				"Name": "UN01",
+				"File": "expressions/UN01.exp3.json"
+			},
+			{
+				"Name": "WG00",
+				"File": "expressions/WG00.exp3.json"
+			},
+			{
+				"Name": "P_OL_BS00",
+				"File": "expressions/P_OL_BS00.exp3.json"
+			},
+			{
+				"Name": "P_OL_BS01",
+				"File": "expressions/P_OL_BS01.exp3.json"
+			},
+			{
+				"Name": "P_OL_BS02",
+				"File": "expressions/P_OL_BS02.exp3.json"
+			},
+			{
+				"Name": "P_OL_BS03",
+				"File": "expressions/P_OL_BS03.exp3.json"
+			},
+			{
+				"Name": "P_OL_BS04",
+				"File": "expressions/P_OL_BS04.exp3.json"
+			},
+			{
+				"Name": "P_OL_BS05",
+				"File": "expressions/P_OL_BS05.exp3.json"
+			},
+			{
+				"Name": "P_OL_BS06_F",
+				"File": "expressions/P_OL_BS06_F.exp3.json"
+			},
+			{
+				"Name": "P_OL_BS07",
+				"File": "expressions/P_OL_BS07.exp3.json"
+			},
+			{
+				"Name": "P_ACC_BS00",
+				"File": "expressions/P_ACC_BS00.exp3.json"
+			},
+			{
+				"Name": "P_ACC_BS01",
+				"File": "expressions/P_ACC_BS01.exp3.json"
+			},
+			{
+				"Name": "P_ACC_BS02",
+				"File": "expressions/P_ACC_BS02.exp3.json"
+			},
+			{
+				"Name": "P_SEX_BS00",
+				"File": "expressions/P_SEX_BS00.exp3.json"
+			},
+			{
+				"Name": "P_SEX_BS01",
+				"File": "expressions/P_SEX_BS01.exp3.json"
+			},
+			{
+				"Name": "P_SEX_BS02",
+				"File": "expressions/P_SEX_BS02.exp3.json"
+			},
+			{
+				"Name": "P_SEX_BS03",
+				"File": "expressions/P_SEX_BS03.exp3.json"
+			},
+			{
+				"Name": "P_SEX_BS04",
+				"File": "expressions/P_SEX_BS04.exp3.json"
+			},
+			{
+				"Name": "P_SEX_BS05",
+				"File": "expressions/P_SEX_BS05.exp3.json"
+			},
+			{
+				"Name": "P_SEX_BS06_F",
+				"File": "expressions/P_SEX_BS06_F.exp3.json"
+			},
+			{
+				"Name": "P_SEX_BS07",
+				"File": "expressions/P_SEX_BS07.exp3.json"
+			},
+			{
+				"Name": "P_HJ_BS00",
+				"File": "expressions/P_HJ_BS00.exp3.json"
+			},
+			{
+				"Name": "P_HJ_BS01",
+				"File": "expressions/P_HJ_BS01.exp3.json"
+			},
+			{
+				"Name": "P_ZZZ_BS00",
+				"File": "expressions/P_ZZZ_BS00.exp3.json"
+			},
+			{
+				"Name": "AV",
+				"File": "expressions/AV.exp3.json"
+			},
+			{
+				"Name": "P_ZZZ",
+				"File": "expressions/P_ZZZ.exp3.json"
+			},
+			{
+				"Name": "P_SEX_AU00",
+				"File": "expressions/P_SEX_AU00.exp3.json"
+			},
+			{
+				"Name": "P_SEX_AU01",
+				"File": "expressions/P_SEX_AU01.exp3.json"
+			},
+			{
+				"Name": "P_SEX_AU02",
+				"File": "expressions/P_SEX_AU02.exp3.json"
+			},
+			{
+				"Name": "P_SEX_AU03",
+				"File": "expressions/P_SEX_AU03.exp3.json"
+			},
+			{
+				"Name": "P_SEX_AU04",
+				"File": "expressions/P_SEX_AU04.exp3.json"
+			},
+			{
+				"Name": "P_SEX_AU05",
+				"File": "expressions/P_SEX_AU05.exp3.json"
+			},
+			{
+				"Name": "P_SEX_AU06_F",
+				"File": "expressions/P_SEX_AU06_F.exp3.json"
+			},
+			{
+				"Name": "P_SEX_AU07",
+				"File": "expressions/P_SEX_AU07.exp3.json"
+			},
+			{
+				"Name": "P_SEX_SF00",
+				"File": "expressions/P_SEX_SF00.exp3.json"
+			},
+			{
+				"Name": "P_SEX_SF01",
+				"File": "expressions/P_SEX_SF01.exp3.json"
+			},
+			{
+				"Name": "P_SEX_SF02",
+				"File": "expressions/P_SEX_SF02.exp3.json"
+			},
+			{
+				"Name": "P_SEX_SF03",
+				"File": "expressions/P_SEX_SF03.exp3.json"
+			},
+			{
+				"Name": "P_SEX_SF04",
+				"File": "expressions/P_SEX_SF04.exp3.json"
+			},
+			{
+				"Name": "P_SEX_SF05",
+				"File": "expressions/P_SEX_SF05.exp3.json"
+			},
+			{
+				"Name": "P_SEX_SF06_F",
+				"File": "expressions/P_SEX_SF06_F.exp3.json"
+			},
+			{
+				"Name": "P_SEX_SF07",
+				"File": "expressions/P_SEX_SF07.exp3.json"
+			},
+			{
+				"Name": "KISS_AU",
+				"File": "expressions/KISS_AU.exp3.json"
+			},
+			{
+				"Name": "P_SEX_EX00",
+				"File": "expressions/P_SEX_EX00.exp3.json"
+			},
+			{
+				"Name": "P_SEX_EX01",
+				"File": "expressions/P_SEX_EX01.exp3.json"
+			},
+			{
+				"Name": "P_SEX_EX02",
+				"File": "expressions/P_SEX_EX02.exp3.json"
+			},
+			{
+				"Name": "P_SEX_EX03",
+				"File": "expressions/P_SEX_EX03.exp3.json"
+			},
+			{
+				"Name": "P_SEX_EX04",
+				"File": "expressions/P_SEX_EX04.exp3.json"
+			},
+			{
+				"Name": "P_SEX_EX05",
+				"File": "expressions/P_SEX_EX05.exp3.json"
+			},
+			{
+				"Name": "P_SEX_EX06_F",
+				"File": "expressions/P_SEX_EX06_F.exp3.json"
+			},
+			{
+				"Name": "P_SEX_EX07",
+				"File": "expressions/P_SEX_EX07.exp3.json"
+			},
+			{
+				"Name": "P_SEX_UN00",
+				"File": "expressions/P_SEX_UN00.exp3.json"
+			},
+			{
+				"Name": "P_SEX_UN01",
+				"File": "expressions/P_SEX_UN01.exp3.json"
+			},
+			{
+				"Name": "P_SEX_UN02",
+				"File": "expressions/P_SEX_UN02.exp3.json"
+			},
+			{
+				"Name": "P_SEX_UN03",
+				"File": "expressions/P_SEX_UN03.exp3.json"
+			},
+			{
+				"Name": "P_SEX_UN04",
+				"File": "expressions/P_SEX_UN04.exp3.json"
+			},
+			{
+				"Name": "P_SEX_UN05",
+				"File": "expressions/P_SEX_UN05.exp3.json"
+			},
+			{
+				"Name": "P_SEX_UN06_F",
+				"File": "expressions/P_SEX_UN06_F.exp3.json"
+			},
+			{
+				"Name": "P_SEX_UN07",
+				"File": "expressions/P_SEX_UN07.exp3.json"
+			},
+			{
+				"Name": "P_SEX_FM00",
+				"File": "expressions/P_SEX_FM00.exp3.json"
+			},
+			{
+				"Name": "P_SEX_FM01",
+				"File": "expressions/P_SEX_FM01.exp3.json"
+			},
+			{
+				"Name": "P_SEX_FM02",
+				"File": "expressions/P_SEX_FM02.exp3.json"
+			},
+			{
+				"Name": "P_SEX_FM03",
+				"File": "expressions/P_SEX_FM03.exp3.json"
+			},
+			{
+				"Name": "P_SEX_FM04",
+				"File": "expressions/P_SEX_FM04.exp3.json"
+			},
+			{
+				"Name": "P_SEX_FM05",
+				"File": "expressions/P_SEX_FM05.exp3.json"
+			},
+			{
+				"Name": "P_SEX_FM06_F",
+				"File": "expressions/P_SEX_FM06_F.exp3.json"
+			},
+			{
+				"Name": "P_SEX_FM07",
+				"File": "expressions/P_SEX_FM07.exp3.json"
+			},
+			{
+				"Name": "P_SEX_MA00",
+				"File": "expressions/P_SEX_MA00.exp3.json"
+			},
+			{
+				"Name": "P_SEX_MA01",
+				"File": "expressions/P_SEX_MA01.exp3.json"
+			},
+			{
+				"Name": "P_SEX_MA02",
+				"File": "expressions/P_SEX_MA02.exp3.json"
+			},
+			{
+				"Name": "P_SEX_MA03",
+				"File": "expressions/P_SEX_MA03.exp3.json"
+			},
+			{
+				"Name": "P_SEX_MA04",
+				"File": "expressions/P_SEX_MA04.exp3.json"
+			},
+			{
+				"Name": "P_SEX_MA05",
+				"File": "expressions/P_SEX_MA05.exp3.json"
+			},
+			{
+				"Name": "P_SEX_MA06_F",
+				"File": "expressions/P_SEX_MA06_F.exp3.json"
+			},
+			{
+				"Name": "P_SEX_MA07",
+				"File": "expressions/P_SEX_MA07.exp3.json"
+			},
+			{
+				"Name": "P_SEX_JC00",
+				"File": "expressions/P_SEX_JC00.exp3.json"
+			},
+			{
+				"Name": "P_SEX_JC01",
+				"File": "expressions/P_SEX_JC01.exp3.json"
+			},
+			{
+				"Name": "P_SEX_JC02",
+				"File": "expressions/P_SEX_JC02.exp3.json"
+			},
+			{
+				"Name": "P_SEX_JC03",
+				"File": "expressions/P_SEX_JC03.exp3.json"
+			},
+			{
+				"Name": "P_SEX_JC04",
+				"File": "expressions/P_SEX_JC04.exp3.json"
+			},
+			{
+				"Name": "P_SEX_JC05",
+				"File": "expressions/P_SEX_JC05.exp3.json"
+			},
+			{
+				"Name": "P_SEX_JC06_F",
+				"File": "expressions/P_SEX_JC06_F.exp3.json"
+			},
+			{
+				"Name": "P_SEX_JC07",
+				"File": "expressions/P_SEX_JC07.exp3.json"
+			},
+			{
+				"Name": "P_SEX_JS00",
+				"File": "expressions/P_SEX_JS00.exp3.json"
+			},
+			{
+				"Name": "P_SEX_JS01",
+				"File": "expressions/P_SEX_JS01.exp3.json"
+			},
+			{
+				"Name": "P_SEX_JS02",
+				"File": "expressions/P_SEX_JS02.exp3.json"
+			},
+			{
+				"Name": "P_SEX_JS03",
+				"File": "expressions/P_SEX_JS03.exp3.json"
+			},
+			{
+				"Name": "P_SEX_JS04",
+				"File": "expressions/P_SEX_JS04.exp3.json"
+			},
+			{
+				"Name": "P_SEX_JS05",
+				"File": "expressions/P_SEX_JS05.exp3.json"
+			},
+			{
+				"Name": "P_SEX_JS06_F",
+				"File": "expressions/P_SEX_JS06_F.exp3.json"
+			},
+			{
+				"Name": "P_SEX_JS07",
+				"File": "expressions/P_SEX_JS07.exp3.json"
+			},
+			{
+				"Name": "P_SEX_LS00",
+				"File": "expressions/P_SEX_LS00.exp3.json"
+			},
+			{
+				"Name": "P_SEX_LS01",
+				"File": "expressions/P_SEX_LS01.exp3.json"
+			},
+			{
+				"Name": "P_SEX_LS02",
+				"File": "expressions/P_SEX_LS02.exp3.json"
+			},
+			{
+				"Name": "P_SEX_LS03",
+				"File": "expressions/P_SEX_LS03.exp3.json"
+			},
+			{
+				"Name": "P_SEX_LS04",
+				"File": "expressions/P_SEX_LS04.exp3.json"
+			},
+			{
+				"Name": "P_SEX_LS05",
+				"File": "expressions/P_SEX_LS05.exp3.json"
+			},
+			{
+				"Name": "P_SEX_LS06_F",
+				"File": "expressions/P_SEX_LS06_F.exp3.json"
+			},
+			{
+				"Name": "P_SEX_LS07",
+				"File": "expressions/P_SEX_LS07.exp3.json"
+			},
+			{
+				"Name": "P_SEX_WG00",
+				"File": "expressions/P_SEX_WG00.exp3.json"
+			},
+			{
+				"Name": "P_SEX_WG01",
+				"File": "expressions/P_SEX_WG01.exp3.json"
+			},
+			{
+				"Name": "P_SEX_WG02",
+				"File": "expressions/P_SEX_WG02.exp3.json"
+			},
+			{
+				"Name": "P_SEX_WG03",
+				"File": "expressions/P_SEX_WG03.exp3.json"
+			},
+			{
+				"Name": "P_SEX_WG04",
+				"File": "expressions/P_SEX_WG04.exp3.json"
+			},
+			{
+				"Name": "P_SEX_WG05",
+				"File": "expressions/P_SEX_WG05.exp3.json"
+			},
+			{
+				"Name": "P_SEX_WG06_F",
+				"File": "expressions/P_SEX_WG06_F.exp3.json"
+			},
+			{
+				"Name": "P_SEX_WG07",
+				"File": "expressions/P_SEX_WG07.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Boy00",
+				"File": "expressions/P_SEX_Boy00.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Boy01",
+				"File": "expressions/P_SEX_Boy01.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Boy02",
+				"File": "expressions/P_SEX_Boy02.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Boy03",
+				"File": "expressions/P_SEX_Boy03.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Boy04",
+				"File": "expressions/P_SEX_Boy04.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Boy05",
+				"File": "expressions/P_SEX_Boy05.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Boy06_F",
+				"File": "expressions/P_SEX_Boy06_F.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Boy07",
+				"File": "expressions/P_SEX_Boy07.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Hate00",
+				"File": "expressions/P_SEX_Hate00.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Hate01",
+				"File": "expressions/P_SEX_Hate01.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Hate02",
+				"File": "expressions/P_SEX_Hate02.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Hate03",
+				"File": "expressions/P_SEX_Hate03.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Hate04",
+				"File": "expressions/P_SEX_Hate04.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Hate05",
+				"File": "expressions/P_SEX_Hate05.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Hate06_F",
+				"File": "expressions/P_SEX_Hate06_F.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Hate07",
+				"File": "expressions/P_SEX_Hate07.exp3.json"
+			},
+			{
+				"Name": "PokerFaced",
+				"File": "expressions/PokerFaced.exp3.json"
+			},
+			{
+				"Name": "TimeStop",
+				"File": "expressions/TimeStop.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Rape00",
+				"File": "expressions/P_SEX_Rape00.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Rape01",
+				"File": "expressions/P_SEX_Rape01.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Rape02",
+				"File": "expressions/P_SEX_Rape02.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Rape03",
+				"File": "expressions/P_SEX_Rape03.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Rape04",
+				"File": "expressions/P_SEX_Rape04.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Rape05",
+				"File": "expressions/P_SEX_Rape05.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Rape06_F",
+				"File": "expressions/P_SEX_Rape06_F.exp3.json"
+			},
+			{
+				"Name": "P_SEX_Rape07",
+				"File": "expressions/P_SEX_Rape07.exp3.json"
+			},
+			{
+				"Name": "P_BJ_BS00",
+				"File": "expressions/P_BJ_BS00.exp3.json"
+			},
+			{
+				"Name": "P_BJ_BS01",
+				"File": "expressions/P_BJ_BS01.exp3.json"
+			},
+			{
+				"Name": "P_BJ_AU00",
+				"File": "expressions/P_BJ_AU00.exp3.json"
+			},
+			{
+				"Name": "P_BJ_AU01",
+				"File": "expressions/P_BJ_AU01.exp3.json"
+			},
+			{
+				"Name": "P_BJ_Boy00",
+				"File": "expressions/P_BJ_Boy00.exp3.json"
+			},
+			{
+				"Name": "P_BJ_Boy01",
+				"File": "expressions/P_BJ_Boy01.exp3.json"
+			},
+			{
+				"Name": "P_BJ_EX00",
+				"File": "expressions/P_BJ_EX00.exp3.json"
+			},
+			{
+				"Name": "P_BJ_EX01",
+				"File": "expressions/P_BJ_EX01.exp3.json"
+			},
+			{
+				"Name": "P_BJ_FM00",
+				"File": "expressions/P_BJ_FM00.exp3.json"
+			},
+			{
+				"Name": "P_BJ_FM01",
+				"File": "expressions/P_BJ_FM01.exp3.json"
+			},
+			{
+				"Name": "P_BJ_JC00",
+				"File": "expressions/P_BJ_JC00.exp3.json"
+			},
+			{
+				"Name": "P_BJ_JC01",
+				"File": "expressions/P_BJ_JC01.exp3.json"
+			},
+			{
+				"Name": "P_BJ_JS00",
+				"File": "expressions/P_BJ_JS00.exp3.json"
+			},
+			{
+				"Name": "P_BJ_JS01",
+				"File": "expressions/P_BJ_JS01.exp3.json"
+			},
+			{
+				"Name": "P_BJ_LS00",
+				"File": "expressions/P_BJ_LS00.exp3.json"
+			},
+			{
+				"Name": "P_BJ_LS01",
+				"File": "expressions/P_BJ_LS01.exp3.json"
+			},
+			{
+				"Name": "P_BJ_MA00",
+				"File": "expressions/P_BJ_MA00.exp3.json"
+			},
+			{
+				"Name": "P_BJ_MA01",
+				"File": "expressions/P_BJ_MA01.exp3.json"
+			},
+			{
+				"Name": "P_BJ_SF00",
+				"File": "expressions/P_BJ_SF00.exp3.json"
+			},
+			{
+				"Name": "P_BJ_SF01",
+				"File": "expressions/P_BJ_SF01.exp3.json"
+			},
+			{
+				"Name": "P_BJ_UN00",
+				"File": "expressions/P_BJ_UN00.exp3.json"
+			},
+			{
+				"Name": "P_BJ_UN01",
+				"File": "expressions/P_BJ_UN01.exp3.json"
+			},
+			{
+				"Name": "P_BJ_WG00",
+				"File": "expressions/P_BJ_WG00.exp3.json"
+			},
+			{
+				"Name": "P_BJ_WG01",
+				"File": "expressions/P_BJ_WG01.exp3.json"
+			},
+			{
+				"Name": "Toilet",
+				"File": "expressions/Toilet.exp3.json"
+			}
+		],
+		"Motions": {
+			"Entry": [
+				{
+					"File": "motions/00_Entry.motion3.json"
+				}
+			],
+			"BS": [
+				{
+					"File": "motions/basic_00.motion3.json"
+				},
+				{
+					"File": "motions/basic_01.motion3.json"
+				},
+				{
+					"File": "motions/basic_02_R.motion3.json"
+				},
+				{
+					"File": "motions/basic_03_R.motion3.json"
+				},
+				{
+					"File": "motions/basic_04_R.motion3.json"
+				},
+				{
+					"File": "motions/basic_05_R.motion3.json"
+				},
+				{
+					"File": "motions/basic_06_F.motion3.json"
+				},
+				{
+					"File": "motions/basic_07_F.motion3.json"
+				}
+			],
+			"BS_BL": [
+				{
+					"File": "motions/basic_08_F_BL.motion3.json"
+				}
+			],
+			"": [
+				{
+					"File": "motions/Dummy.motion3.json"
+				},
+				{
+					"File": "motions/MasturbationF_00.motion3.json"
+				},
+				{
+					"File": "motions/MasturbationV_01.motion3.json"
+				}
+			],
+			"Dance": [
+				{
+					"File": "motions/Dance.motion3.json"
+				}
+			],
+			"MB": [
+				{
+					"File": "motions/Masturbation_00.motion3.json"
+				},
+				{
+					"File": "motions/Masturbation_01.motion3.json"
+				},
+				{
+					"File": "motions/Masturbation_02_R.motion3.json"
+				},
+				{
+					"File": "motions/Masturbation_03_R.motion3.json"
+				},
+				{
+					"File": "motions/Masturbation_04_R.motion3.json"
+				},
+				{
+					"File": "motions/Masturbation_05_R.motion3.json"
+				},
+				{
+					"File": "motions/Masturbation_06_F.motion3.json"
+				}
+			],
+			"OV": [
+				{
+					"File": "motions/Open_Vagina_00.motion3.json"
+				},
+				{
+					"File": "motions/Open_Vagina_01.motion3.json"
+				},
+				{
+					"File": "motions/Open_Vagina_02.motion3.json"
+				},
+				{
+					"File": "motions/Open_Vagina_03.motion3.json"
+				},
+				{
+					"File": "motions/Open_Vagina_04.motion3.json"
+				},
+				{
+					"File": "motions/Open_Vagina_05.motion3.json"
+				}
+			],
+			"OL": [
+				{
+					"File": "motions/Open_legs_00.motion3.json"
+				},
+				{
+					"File": "motions/Open_legs_01.motion3.json"
+				},
+				{
+					"File": "motions/Open_legs_02_R.motion3.json"
+				},
+				{
+					"File": "motions/Open_legs_03_R.motion3.json"
+				},
+				{
+					"File": "motions/Open_legs_04_R.motion3.json"
+				},
+				{
+					"File": "motions/Open_legs_05_R.motion3.json"
+				},
+				{
+					"File": "motions/Open_legs_06_R.motion3.json"
+				},
+				{
+					"File": "motions/Open_legs_07_F.motion3.json"
+				}
+			],
+			"HJ": [
+				{
+					"File": "motions/Handjob_00.motion3.json"
+				},
+				{
+					"File": "motions/Handjob_01.motion3.json"
+				},
+				{
+					"File": "motions/Handjob_02_R.motion3.json"
+				},
+				{
+					"File": "motions/Handjob_03_R.motion3.json"
+				},
+				{
+					"File": "motions/Handjob_04_R.motion3.json"
+				},
+				{
+					"File": "motions/Handjob_05_R.motion3.json"
+				},
+				{
+					"File": "motions/Handjob_06_F.motion3.json"
+				}
+			],
+			"ACC": [
+				{
+					"File": "motions/accident_00.motion3.json"
+				}
+			],
+			"ISEX": [
+				{
+					"File": "motions/intercrural_sex_00.motion3.json"
+				},
+				{
+					"File": "motions/intercrural_sex_01.motion3.json"
+				},
+				{
+					"File": "motions/intercrural_sex_02_R.motion3.json"
+				},
+				{
+					"File": "motions/intercrural_sex_03_R.motion3.json"
+				},
+				{
+					"File": "motions/intercrural_sex_04_R.motion3.json"
+				},
+				{
+					"File": "motions/intercrural_sex_05_R.motion3.json"
+				},
+				{
+					"File": "motions/intercrural_sex_06_F.motion3.json"
+				},
+				{
+					"File": "motions/intercrural_sex_07_F2.motion3.json"
+				}
+			],
+			"Reset": [
+				{
+					"File": "motions/reset.motion3.json"
+				}
+			],
+			"BL_BJ": [
+				{
+					"File": "motions/BL_BJ_00.motion3.json"
+				},
+				{
+					"File": "motions/BL_BJ_01.motion3.json"
+				},
+				{
+					"File": "motions/BL_BJ_02_R.motion3.json"
+				},
+				{
+					"File": "motions/BL_BJ_03_R.motion3.json"
+				},
+				{
+					"File": "motions/BL_BJ_04_R.motion3.json"
+				},
+				{
+					"File": "motions/BL_BJ_05_R.motion3.json"
+				},
+				{
+					"File": "motions/BL_BJ_06_F.motion3.json"
+				}
+			],
+			"BL_SEX": [
+				{
+					"File": "motions/BL_SEX_00.motion3.json"
+				},
+				{
+					"File": "motions/BL_SEX_01.motion3.json"
+				},
+				{
+					"File": "motions/BL_SEX_02_R.motion3.json"
+				},
+				{
+					"File": "motions/BL_SEX_03_R.motion3.json"
+				},
+				{
+					"File": "motions/BL_SEX_04_R.motion3.json"
+				},
+				{
+					"File": "motions/BL_SEX_05_R.motion3.json"
+				},
+				{
+					"File": "motions/BL_SEX_06_F.motion3.json"
+				}
+			],
+			"BL_SEX_RHJ": [
+				{
+					"File": "motions/BL_SEX_RHJ_00.motion3.json"
+				},
+				{
+					"File": "motions/BL_SEX_RHJ_01.motion3.json"
+				},
+				{
+					"File": "motions/BL_SEX_RHJ_02_R.motion3.json"
+				},
+				{
+					"File": "motions/BL_SEX_RHJ_03_R.motion3.json"
+				},
+				{
+					"File": "motions/BL_SEX_RHJ_04_R.motion3.json"
+				},
+				{
+					"File": "motions/BL_SEX_RHJ_05_R.motion3.json"
+				},
+				{
+					"File": "motions/BL_SEX_RHJ_06_F.motion3.json"
+				}
+			],
+			"BL_SEX_R": [
+				{
+					"File": "motions/BL_SEX_R_00.motion3.json"
+				},
+				{
+					"File": "motions/BL_SEX_R_01.motion3.json"
+				},
+				{
+					"File": "motions/BL_SEX_R_02_R.motion3.json"
+				},
+				{
+					"File": "motions/BL_SEX_R_03_R.motion3.json"
+				},
+				{
+					"File": "motions/BL_SEX_R_04_R.motion3.json"
+				},
+				{
+					"File": "motions/BL_SEX_R_05_R.motion3.json"
+				},
+				{
+					"File": "motions/BL_SEX_R_06_F.motion3.json"
+				}
+			],
+			"BJ_EX": [
+				{
+					"File": "motions/BlowJob2_00.motion3.json"
+				},
+				{
+					"File": "motions/BlowJob2_01.motion3.json"
+				},
+				{
+					"File": "motions/BlowJob2_02_R.motion3.json"
+				}
+			],
+			"BJ": [
+				{
+					"File": "motions/BlowJob_00.motion3.json"
+				},
+				{
+					"File": "motions/BlowJob_01.motion3.json"
+				},
+				{
+					"File": "motions/BlowJob_02_R.motion3.json"
+				},
+				{
+					"File": "motions/BlowJob_03_R.motion3.json"
+				},
+				{
+					"File": "motions/BlowJob_04_R.motion3.json"
+				},
+				{
+					"File": "motions/BlowJob_05_R.motion3.json"
+				},
+				{
+					"File": "motions/BlowJob_06_F.motion3.json"
+				},
+				{
+					"File": "motions/BlowJob_07_R.motion3.json"
+				},
+				{
+					"File": "motions/BlowJob_08_F.motion3.json"
+				},
+				{
+					"File": "motions/BlowJob_09.motion3.json"
+				},
+				{
+					"File": "motions/BlowJob_10.motion3.json"
+				}
+			],
+			"CL": [
+				{
+					"File": "motions/Cunnilingus_00.motion3.json"
+				},
+				{
+					"File": "motions/Cunnilingus_01_R.motion3.json"
+				},
+				{
+					"File": "motions/Cunnilingus_02_R.motion3.json"
+				}
+			],
+			"FJ": [
+				{
+					"File": "motions/Footjob_00.motion3.json"
+				},
+				{
+					"File": "motions/Footjob_01.motion3.json"
+				},
+				{
+					"File": "motions/Footjob_02_R.motion3.json"
+				},
+				{
+					"File": "motions/Footjob_03_R.motion3.json"
+				},
+				{
+					"File": "motions/Footjob_04_R.motion3.json"
+				},
+				{
+					"File": "motions/Footjob_05_R.motion3.json"
+				},
+				{
+					"File": "motions/Footjob_06_F.motion3.json"
+				}
+			],
+			"MW": [
+				{
+					"File": "motions/MasturbationW_00.motion3.json"
+				},
+				{
+					"File": "motions/MasturbationW_01.motion3.json"
+				},
+				{
+					"File": "motions/MasturbationW_02_R.motion3.json"
+				},
+				{
+					"File": "motions/MasturbationW_03_R.motion3.json"
+				},
+				{
+					"File": "motions/MasturbationW_04_R.motion3.json"
+				},
+				{
+					"File": "motions/MasturbationW_05_R.motion3.json"
+				},
+				{
+					"File": "motions/MasturbationW_06_F.motion3.json"
+				},
+				{
+					"File": "motions/MasturbationW_07_F.motion3.json"
+				},
+				{
+					"File": "motions/MasturbationW_08_F_BL.motion3.json"
+				},
+				{
+					"File": "motions/MasturbationW_09_F.motion3.json"
+				}
+			],
+			"M_SBJ": [
+				{
+					"File": "motions/Masturbation_SBJ_00.motion3.json"
+				},
+				{
+					"File": "motions/Masturbation_SBJ_01.motion3.json"
+				},
+				{
+					"File": "motions/Masturbation_SBJ_02_R.motion3.json"
+				},
+				{
+					"File": "motions/Masturbation_SBJ_03_R.motion3.json"
+				},
+				{
+					"File": "motions/Masturbation_SBJ_04_R.motion3.json"
+				},
+				{
+					"File": "motions/Masturbation_SBJ_05_R.motion3.json"
+				},
+				{
+					"File": "motions/Masturbation_SBJ_06_F.motion3.json"
+				},
+				{
+					"File": "motions/Masturbation_SBJ_07_F.motion3.json"
+				}
+			],
+			"SBJ": [
+				{
+					"File": "motions/SBJ_00.motion3.json"
+				},
+				{
+					"File": "motions/SBJ_01.motion3.json"
+				},
+				{
+					"File": "motions/SBJ_02_R.motion3.json"
+				},
+				{
+					"File": "motions/SBJ_03_R.motion3.json"
+				},
+				{
+					"File": "motions/SBJ_04_R.motion3.json"
+				},
+				{
+					"File": "motions/SBJ_05_R.motion3.json"
+				},
+				{
+					"File": "motions/SBJ_06_F.motion3.json"
+				}
+			],
+			"SHJ": [
+				{
+					"File": "motions/SHJ_00.motion3.json"
+				},
+				{
+					"File": "motions/SHJ_01.motion3.json"
+				},
+				{
+					"File": "motions/SHJ_02_R.motion3.json"
+				},
+				{
+					"File": "motions/SHJ_03_R.motion3.json"
+				},
+				{
+					"File": "motions/SHJ_04_R.motion3.json"
+				},
+				{
+					"File": "motions/SHJ_05_R.motion3.json"
+				},
+				{
+					"File": "motions/SHJ_06_F.motion3.json"
+				}
+			],
+			"TIT": [
+				{
+					"File": "motions/TIT_00.motion3.json"
+				},
+				{
+					"File": "motions/TIT_01.motion3.json"
+				},
+				{
+					"File": "motions/TIT_02_R.motion3.json"
+				},
+				{
+					"File": "motions/TIT_03_R.motion3.json"
+				},
+				{
+					"File": "motions/TIT_04_R.motion3.json"
+				},
+				{
+					"File": "motions/TIT_05_R.motion3.json"
+				},
+				{
+					"File": "motions/TIT_06_F.motion3.json"
+				}
+			],
+			"STIT": [
+				{
+					"File": "motions/STIT_00.motion3.json"
+				},
+				{
+					"File": "motions/STIT_01.motion3.json"
+				},
+				{
+					"File": "motions/STIT_02_R.motion3.json"
+				},
+				{
+					"File": "motions/STIT_03_R.motion3.json"
+				},
+				{
+					"File": "motions/STIT_04_R.motion3.json"
+				},
+				{
+					"File": "motions/STIT_05_R.motion3.json"
+				},
+				{
+					"File": "motions/STIT_06_F.motion3.json"
+				}
+			],
+			"CG": [
+				{
+					"File": "motions/CG_00.motion3.json"
+				},
+				{
+					"File": "motions/CG_01.motion3.json"
+				}
+			],
+			"SA": [
+				{
+					"File": "motions/SA_00.motion3.json"
+				},
+				{
+					"File": "motions/SA_01.motion3.json"
+				}
+			],
+			"BSB": [
+				{
+					"File": "motions/basicB_00.motion3.json"
+				},
+				{
+					"File": "motions/basicB_01.motion3.json"
+				},
+				{
+					"File": "motions/basicB_02_R.motion3.json"
+				},
+				{
+					"File": "motions/basicB_03_R.motion3.json"
+				},
+				{
+					"File": "motions/basicB_04_R.motion3.json"
+				},
+				{
+					"File": "motions/basicB_05_R.motion3.json"
+				},
+				{
+					"File": "motions/basicB_06_F.motion3.json"
+				},
+				{
+					"File": "motions/basicB_07_F.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

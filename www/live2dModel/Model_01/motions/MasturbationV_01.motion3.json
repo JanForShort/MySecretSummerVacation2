@@ -1,0 +1,236 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 1.983,
+		"Fps": 60.0,
+		"Loop": true,
+		"AreBeziersRestricted": false,
+		"CurveCount": 17,
+		"TotalSegmentCount": 20,
+		"TotalPointCount": 49,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "AB_Pose",
+			"Segments": [
+				0,
+				10,
+				0,
+				1.983,
+				10
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "LB_Pose",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.983,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Position",
+			"Segments": [
+				0,
+				-5,
+				0,
+				1.983,
+				-5
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Masturbation",
+			"Segments": [
+				0,
+				-10,
+				0,
+				1.983,
+				-10
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Masturbation_P",
+			"Segments": [
+				0,
+				5,
+				0,
+				1.983,
+				5
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "kupaa",
+			"Segments": [
+				0,
+				2.02,
+				0,
+				1.983,
+				2.02
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "kupaa2",
+			"Segments": [
+				0,
+				1,
+				0,
+				1.983,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Vibration_P",
+			"Segments": [
+				0,
+				0.5,
+				0,
+				1.983,
+				0.5
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Vibration",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.983,
+				11.9
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Sextoy",
+			"Segments": [
+				0,
+				3,
+				0,
+				1.983,
+				3
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "bikubiku2",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.333,
+				0,
+				0.667,
+				1,
+				1,
+				1,
+				1,
+				1.328,
+				1,
+				1.656,
+				0.033,
+				1.983,
+				0.001
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Houhi",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.333,
+				0,
+				0.667,
+				1,
+				1,
+				1,
+				1,
+				1.328,
+				1,
+				1.656,
+				0.033,
+				1.983,
+				0.001
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "player_piston",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.333,
+				0,
+				0.667,
+				1,
+				1,
+				1,
+				1,
+				1.328,
+				1,
+				1.656,
+				0.033,
+				1.983,
+				0.001
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "player_Pose",
+			"Segments": [
+				0,
+				1,
+				0,
+				1.983,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Only_RH",
+			"Segments": [
+				0,
+				1,
+				0,
+				1.983,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "player_PC",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.983,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "player_C",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.983,
+				0
+			]
+		}
+	]
+}

@@ -1,0 +1,129 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 5,
+		"Fps": 60.0,
+		"Loop": true,
+		"AreBeziersRestricted": false,
+		"CurveCount": 9,
+		"TotalSegmentCount": 11,
+		"TotalPointCount": 24,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "AB_Pose",
+			"Segments": [
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Position",
+			"Segments": [
+				0,
+				3,
+				0,
+				5,
+				3
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Piston",
+			"Segments": [
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Piston3",
+			"Segments": [
+				0,
+				-10,
+				1,
+				0.167,
+				-10,
+				0.333,
+				-2.891,
+				0.5,
+				0,
+				1,
+				1,
+				8.672,
+				1.5,
+				11,
+				2,
+				11,
+				0,
+				5,
+				11
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "kupaa",
+			"Segments": [
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "burun",
+			"Segments": [
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "bikubiku",
+			"Segments": [
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "syasei",
+			"Segments": [
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Sperm",
+			"Segments": [
+				0,
+				0,
+				0,
+				5,
+				0
+			]
+		}
+	]
+}

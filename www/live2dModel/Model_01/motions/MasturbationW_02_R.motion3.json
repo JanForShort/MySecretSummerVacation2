@@ -1,0 +1,214 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 1.983,
+		"Fps": 60.0,
+		"Loop": true,
+		"AreBeziersRestricted": false,
+		"CurveCount": 13,
+		"TotalSegmentCount": 18,
+		"TotalPointCount": 51,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "AB_Pose",
+			"Segments": [
+				0,
+				27,
+				0,
+				1.983,
+				27
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "LB_Pose",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.983,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Position",
+			"Segments": [
+				0,
+				-5,
+				0,
+				1.983,
+				-5
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Piston",
+			"Segments": [
+				0,
+				-7,
+				0,
+				1.983,
+				-7
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Masturbation",
+			"Segments": [
+				0,
+				-10,
+				1,
+				0.333,
+				-10,
+				0.667,
+				10,
+				1,
+				10,
+				1,
+				1.328,
+				10,
+				1.656,
+				-9.339,
+				1.983,
+				-9.984
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Masturbation_P",
+			"Segments": [
+				0,
+				1,
+				0,
+				1.983,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "houhi2",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.333,
+				0,
+				0.667,
+				1,
+				1,
+				1,
+				1,
+				1.328,
+				1,
+				1.656,
+				0.033,
+				1.983,
+				0.001
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "kupaa",
+			"Segments": [
+				0,
+				1.5,
+				0,
+				1.983,
+				1.5
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "bikubiku2",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.333,
+				0,
+				0.667,
+				1,
+				1,
+				1,
+				1,
+				1.328,
+				1,
+				1.656,
+				0.033,
+				1.983,
+				0.001
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Houhi",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.333,
+				0,
+				0.667,
+				1,
+				1,
+				1,
+				1,
+				1.328,
+				1,
+				1.656,
+				0.033,
+				1.983,
+				0.001
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "player_piston",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.333,
+				0,
+				0.667,
+				1,
+				1,
+				1,
+				1,
+				1.328,
+				1,
+				1.656,
+				0.033,
+				1.983,
+				0.001
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "player_Pose",
+			"Segments": [
+				0,
+				1,
+				0,
+				1.983,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Only_RH",
+			"Segments": [
+				0,
+				1,
+				0,
+				1.983,
+				1
+			]
+		}
+	]
+}

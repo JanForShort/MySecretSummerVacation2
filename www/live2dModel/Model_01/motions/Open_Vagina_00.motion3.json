@@ -1,0 +1,76 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 0.983,
+		"Fps": 60.0,
+		"Loop": true,
+		"AreBeziersRestricted": false,
+		"CurveCount": 4,
+		"TotalSegmentCount": 4,
+		"TotalPointCount": 16,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "AB_Pose",
+			"Segments": [
+				0,
+				10,
+				1,
+				0.328,
+				10,
+				0.656,
+				10,
+				0.983,
+				10
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "LB_Pose",
+			"Segments": [
+				0,
+				2,
+				1,
+				0.328,
+				2,
+				0.656,
+				2,
+				0.983,
+				2
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Position",
+			"Segments": [
+				0,
+				-10,
+				1,
+				0.328,
+				-10,
+				0.656,
+				-10,
+				0.983,
+				-10
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "kupaa",
+			"Segments": [
+				0,
+				3,
+				1,
+				0.328,
+				3,
+				0.656,
+				3,
+				0.983,
+				3
+			]
+		}
+	]
+}

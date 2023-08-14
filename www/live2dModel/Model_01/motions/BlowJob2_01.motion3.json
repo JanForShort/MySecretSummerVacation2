@@ -1,0 +1,396 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 7.983,
+		"Fps": 60.0,
+		"Loop": true,
+		"AreBeziersRestricted": false,
+		"CurveCount": 20,
+		"TotalSegmentCount": 44,
+		"TotalPointCount": 108,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "ParamAngleX",
+			"Segments": [
+				0,
+				0,
+				0,
+				7.983,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamAngleY",
+			"Segments": [
+				0,
+				-30,
+				0,
+				7.983,
+				-30
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeBallX",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.778,
+				0,
+				1.556,
+				0,
+				2.333,
+				0,
+				1,
+				2.472,
+				0,
+				2.611,
+				0,
+				2.75,
+				0,
+				1,
+				3.361,
+				0,
+				3.972,
+				0,
+				4.583,
+				0,
+				1,
+				4.722,
+				0,
+				4.861,
+				0,
+				5,
+				0,
+				0,
+				7.983,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamEyeBallY",
+			"Segments": [
+				0,
+				-0.5,
+				1,
+				0.778,
+				-0.5,
+				1.556,
+				-0.478,
+				2.333,
+				-0.4,
+				1,
+				2.472,
+				-0.386,
+				2.611,
+				0.2,
+				2.75,
+				0.2,
+				1,
+				3.361,
+				0.2,
+				3.972,
+				0.2,
+				4.583,
+				0.2,
+				1,
+				4.722,
+				0.2,
+				4.861,
+				-0.3,
+				5,
+				-0.3,
+				0,
+				7.983,
+				-0.3
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "AHE",
+			"Segments": [
+				0,
+				0,
+				0,
+				1.067,
+				0,
+				1,
+				1.122,
+				0,
+				1.178,
+				1,
+				1.233,
+				1,
+				0,
+				7.983,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamMouthForm",
+			"Segments": [
+				0,
+				1,
+				1,
+				0.333,
+				1,
+				0.667,
+				1,
+				1,
+				1,
+				1,
+				1.056,
+				1,
+				1.111,
+				1.5,
+				1.167,
+				1.5,
+				0,
+				7.983,
+				1.5
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamMouthOpenY",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.278,
+				0,
+				0.556,
+				0,
+				0.833,
+				0,
+				1,
+				0.944,
+				0,
+				1.056,
+				1,
+				1.167,
+				1,
+				0,
+				7.983,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "AB_Pose",
+			"Segments": [
+				0,
+				0,
+				0,
+				7.983,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Position",
+			"Segments": [
+				0,
+				3,
+				0,
+				7.983,
+				3
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Piston",
+			"Segments": [
+				0,
+				-10,
+				1,
+				0.389,
+				-10,
+				0.778,
+				-10,
+				1.167,
+				-10,
+				1,
+				1.278,
+				-10,
+				1.389,
+				-10,
+				1.5,
+				-10,
+				0,
+				7.983,
+				-10
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Piston2",
+			"Segments": [
+				0,
+				-5,
+				1,
+				0.367,
+				-5,
+				0.733,
+				-5,
+				1.1,
+				-5,
+				1,
+				2.4,
+				-5,
+				3.7,
+				-5,
+				5,
+				-5,
+				1,
+				5.333,
+				-5,
+				5.667,
+				-4,
+				6,
+				-4,
+				0,
+				7.983,
+				-4
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Piston3",
+			"Segments": [
+				0,
+				10,
+				0,
+				1.417,
+				10,
+				1,
+				2.611,
+				10,
+				3.806,
+				10,
+				5,
+				10,
+				1,
+				5.333,
+				10,
+				5.667,
+				10.5,
+				6,
+				10.5,
+				0,
+				7.983,
+				10.5
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "kupaa",
+			"Segments": [
+				0,
+				0,
+				0,
+				7.983,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "burun",
+			"Segments": [
+				0,
+				0,
+				0,
+				7.983,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "bikubiku",
+			"Segments": [
+				0,
+				0,
+				0,
+				7.983,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "syasei",
+			"Segments": [
+				0,
+				0,
+				0,
+				7.983,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Sperm",
+			"Segments": [
+				0,
+				0,
+				0,
+				7.983,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Houhi",
+			"Segments": [
+				0,
+				0,
+				0,
+				7.983,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "player_piston",
+			"Segments": [
+				0,
+				0,
+				0,
+				7,
+				0,
+				1,
+				7.167,
+				0,
+				7.333,
+				1,
+				7.5,
+				1,
+				1,
+				7.661,
+				1,
+				7.822,
+				1,
+				7.983,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "player_Pose",
+			"Segments": [
+				0,
+				10,
+				0,
+				7.983,
+				10
+			]
+		}
+	]
+}

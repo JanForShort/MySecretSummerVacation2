@@ -1,0 +1,162 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Model_02.moc3",
+		"Textures": [
+			"Model_02.4096/texture_00.png",
+			"Model_02.4096/texture_01.png",
+			"Model_02.4096/texture_02.png",
+			"Model_02.4096/texture_03.png",
+			"Model_02.4096/texture_04.png",
+			"Model_02.4096/texture_05.png"
+		],
+		"Physics": "Model_02.physics3.json",
+		"DisplayInfo": "Model_02.cdi3.json",
+		"Motions": {
+			"BuJ": [
+				{
+					"File": "motions/Buttjob_00.motion3.json"
+				},
+				{
+					"File": "motions/Buttjob_01.motion3.json"
+				},
+				{
+					"File": "motions/Buttjob_02_R.motion3.json"
+				},
+				{
+					"File": "motions/Buttjob_03_R.motion3.json"
+				},
+				{
+					"File": "motions/Buttjob_04_R.motion3.json"
+				},
+				{
+					"File": "motions/Buttjob_05_R.motion3.json"
+				},
+				{
+					"File": "motions/Buttjob_06_F.motion3.json"
+				}
+			],
+			"CG": [
+				{
+					"File": "motions/CGP_00.motion3.json"
+				},
+				{
+					"File": "motions/CGP_01.motion3.json"
+				},
+				{
+					"File": "motions/CGP_02_R.motion3.json"
+				},
+				{
+					"File": "motions/CGP_03_R.motion3.json"
+				},
+				{
+					"File": "motions/CGP_04_R.motion3.json"
+				},
+				{
+					"File": "motions/CGP_05_R.motion3.json"
+				},
+				{
+					"File": "motions/CGP_06_F.motion3.json"
+				},
+				{
+					"File": "motions/CGP_07_F_BL.motion3.json"
+				}
+			],
+			"DS": [
+				{
+					"File": "motions/DS_00.motion3.json"
+				},
+				{
+					"File": "motions/DS_01.motion3.json"
+				},
+				{
+					"File": "motions/DS_02_R.motion3.json"
+				},
+				{
+					"File": "motions/DS_03_R.motion3.json"
+				},
+				{
+					"File": "motions/DS_04_R.motion3.json"
+				},
+				{
+					"File": "motions/DS_05_R.motion3.json"
+				},
+				{
+					"File": "motions/DS_06_F.motion3.json"
+				},
+				{
+					"File": "motions/DS_07_F_BL.motion3.json"
+				}
+			],
+			"MBu": [
+				{
+					"File": "motions/Masturbation_Butt_00.motion3.json"
+				},
+				{
+					"File": "motions/Masturbation_Butt_01.motion3.json"
+				},
+				{
+					"File": "motions/Masturbation_Butt_02_R.motion3.json"
+				},
+				{
+					"File": "motions/Masturbation_Butt_03_R.motion3.json"
+				},
+				{
+					"File": "motions/Masturbation_Butt_04_R.motion3.json"
+				},
+				{
+					"File": "motions/Masturbation_Butt_05_R.motion3.json"
+				},
+				{
+					"File": "motions/Masturbation_Butt_06_F.motion3.json"
+				}
+			],
+			"SAF": [
+				{
+					"File": "motions/SAF_00.motion3.json"
+				},
+				{
+					"File": "motions/SAF_01.motion3.json"
+				},
+				{
+					"File": "motions/SAF_02_R.motion3.json"
+				},
+				{
+					"File": "motions/SAF_03_R.motion3.json"
+				},
+				{
+					"File": "motions/SAF_04_R.motion3.json"
+				},
+				{
+					"File": "motions/SAF_05_R.motion3.json"
+				},
+				{
+					"File": "motions/SAF_06_F.motion3.json"
+				}
+			],
+			"Reset": [
+				{
+					"File": "motions/Reset_B.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

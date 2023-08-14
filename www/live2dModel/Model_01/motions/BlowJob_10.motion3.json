@@ -1,0 +1,269 @@
+{
+	"Version": 3,
+	"Meta": {
+		"Duration": 3,
+		"Fps": 60.0,
+		"Loop": true,
+		"AreBeziersRestricted": false,
+		"CurveCount": 16,
+		"TotalSegmentCount": 27,
+		"TotalPointCount": 65,
+		"UserDataCount": 0,
+		"TotalUserDataSize": 0
+	},
+	"Curves": [
+		{
+			"Target": "Parameter",
+			"Id": "ParamAngleX",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.333,
+				0,
+				0.667,
+				0,
+				1,
+				0,
+				1,
+				1.083,
+				0,
+				1.167,
+				0,
+				1.25,
+				0,
+				1,
+				1.333,
+				0,
+				1.417,
+				0,
+				1.5,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamAngleY",
+			"Segments": [
+				0,
+				0,
+				1,
+				0.333,
+				0,
+				0.667,
+				0,
+				1,
+				0,
+				1,
+				1.083,
+				0,
+				1.167,
+				-8,
+				1.25,
+				-8,
+				1,
+				1.333,
+				-8,
+				1.417,
+				0,
+				1.5,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Eye_small",
+			"Segments": [
+				0,
+				0.2,
+				0,
+				3,
+				0.2
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamMouthForm",
+			"Segments": [
+				0,
+				0.009,
+				1,
+				0.167,
+				0.003,
+				0.333,
+				0,
+				0.5,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamMouthOpenY",
+			"Segments": [
+				0,
+				1,
+				1,
+				0.167,
+				1,
+				0.333,
+				0,
+				0.5,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "ParamPenis",
+			"Segments": [
+				0,
+				-1,
+				0,
+				3,
+				-1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Position",
+			"Segments": [
+				0,
+				3,
+				0,
+				3,
+				3
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Piston2",
+			"Segments": [
+				0,
+				-10,
+				0,
+				3,
+				-10
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "kupaa",
+			"Segments": [
+				0,
+				1,
+				0,
+				3,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "burun",
+			"Segments": [
+				0,
+				1,
+				0,
+				3,
+				1
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "bikubiku",
+			"Segments": [
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "syasei",
+			"Segments": [
+				0,
+				7,
+				1,
+				0.333,
+				7,
+				0.667,
+				7,
+				1,
+				7,
+				1,
+				1.139,
+				7,
+				1.278,
+				10,
+				1.417,
+				10,
+				1,
+				1.944,
+				10,
+				2.472,
+				10,
+				3,
+				10
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "bukkake",
+			"Segments": [
+				0,
+				3,
+				0,
+				3,
+				3
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "Sperm",
+			"Segments": [
+				0,
+				0.05,
+				0,
+				2,
+				0.95,
+				0,
+				3,
+				0.95
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "player_piston",
+			"Segments": [
+				0,
+				0,
+				0,
+				3,
+				0
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Id": "player_Pose",
+			"Segments": [
+				0,
+				10,
+				0,
+				3,
+				10
+			]
+		}
+	]
+}
