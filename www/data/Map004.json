@@ -2986,7 +2986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Huh? What are you doing in a place like this?\nThe buses don't come until evening, you know? The buses here\nonly come twice a day."
+                                "\\N<Onee-chan>The bus won't come until evening, you know?\nThe buses here only come twice a day."
                             ]
                         },
                         {
@@ -4270,7 +4270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Auntie>And Harumi-chan, did you stay with Boku- kun?\nThank you."
+                                "\\N<Auntie>And Harumi-chan, did you stay with Boku-kun?\nThank you."
                             ]
                         },
                         {
@@ -5337,7 +5337,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Hmm, maybe because I wanted to see Onee- chan today."
+                                "\\N<Boku>Hmm, maybe because I wanted to see Onee-chan today."
                             ]
                         },
                         {
@@ -5648,7 +5648,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Boku>Hmm, maybe because I wanted to see Onee- chan today."
+                                "\\N<Boku>Hmm, maybe because I wanted to see Onee-chan today."
                             ]
                         },
                         {

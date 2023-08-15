@@ -3794,7 +3794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Oh? What is it, Boku-chan? Do you want to go\nahead...? I see, you must want to do some 'grass sliding,'\nhuh?"
+                                "\\N<Boss-kun>Oh? What is it, Boku-kun? Do you want to go\nahead...? I see, you must want to do some 'grass sliding,'\nhuh?"
                             ]
                         },
                         {
@@ -4086,7 +4086,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Oh, Boku-chan. Did you bring the cardboard box?\nIn that case, let's have a competition on the grass slope.\nIf you can beat me, I'll tell you a secret fishing spot."
+                                "\\N<Boss-kun>Oh, Boku-kun. Did you bring the cardboard box?\nIn that case, let's have a competition on the grass slope.\nIf you can beat me, I'll tell you a secret fishing spot."
                             ]
                         },
                         {
@@ -7204,7 +7204,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Boku-chan's house is a big pension over there. I\nremember someone saying there's a natural hot spring with a\nsource bath..."
+                                "\\N<Boss-kun>Boku-kun's house is a big pension over there. I\nremember someone saying there's a natural hot spring with a\nsource bath..."
                             ]
                         },
                         {
