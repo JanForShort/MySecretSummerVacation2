@@ -3161,14 +3161,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<\\N[2]>「いいお天気ね－。"
+                                "\\N<\\N[2]> The weather is so nice. The laundry\ndries well♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　洗濯物が良く乾くわ♡」"
+                                ""
                             ]
                         },
                         {
@@ -3213,7 +3213,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<\\N[2]>「今日は雲一つない快晴ね♥」"
+                                "\\N<\\N[2]> Today is a clear and sunny day♥"
                             ]
                         },
                         {
@@ -3258,14 +3258,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<\\N[2]>「ふー。"
+                                "\\N<\\N[2]> Phew. I have to be careful not to get\nsunburned..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　日焼けしないように気を付けないと…」"
+                                ""
                             ]
                         },
                         {
@@ -3310,14 +3310,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<\\N[2]>「そういえば、下着が減ってるような…？"
+                                "\\N<\\N[2]> Come to think of it, it seems like my\nunderwear is decreasing...? I wonder if I dropped\nit somewhere...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "　どこかに落としたかしら…？」"
+                                ""
                             ]
                         },
                         {
@@ -3362,14 +3362,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<\\N[2]>「あら、うろこ雲…。"
+                                "\\N<\\N[2]> Oh, look at those scattered clouds...\nSummer will be ending soon..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "　…もうすぐ、夏も終りね…」"
+                                ""
                             ]
                         },
                         {
@@ -3403,14 +3403,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<\\N[2]>「いいお天気ね－。"
+                                "\\N<\\N[2]> The weather is so nice. The laundry\ndries well♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "　洗濯物が良く乾くわ♡」"
+                                ""
                             ]
                         },
                         {

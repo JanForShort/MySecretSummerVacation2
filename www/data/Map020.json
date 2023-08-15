@@ -2239,21 +2239,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うわー…。"
+                                "\\N<Boku>Wow... a big cow... could you please move\na little?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　でっかい牛さん…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ちょっとそこどいてよー」"
+                                ""
                             ]
                         },
                         {
@@ -2289,14 +2289,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うー、だめだ…。"
+                                "\\N<Boku>Hmm... I can't pass through right now..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今はとおれないね…」"
+                                ""
                             ]
                         },
                         {
@@ -3488,14 +3488,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ナナちゃん>「あら、ボクじゃない。"
+                                "\\N<Nana-chan>Oh, it's not you. What's up? Did you\ncome to swim?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　何？　泳ぎに来たの？」"
+                                ""
                             ]
                         },
                         {
@@ -3520,14 +3520,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「うーん…。"
+                                "\\N<Boku>Hmm... What should I do..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　どうしようかな…」"
+                                ""
                             ]
                         },
                         {
@@ -3544,28 +3544,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「何？　水着でもないの？"
+                                "\\N<Nana-chan>What? You're not in a swimsuit? Then\nhow about swimming naked? If you're embarrassed to\ndo it alone, I can swim with you, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　じゃあ、裸で泳げば？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　一人だと恥ずかしいなら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あたしが一緒に泳いであげよっか？」"
+                                ""
                             ]
                         },
                         {
@@ -3592,14 +3592,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「うーん…。"
+                                "\\N<Boku>Hmm... I want to swim, but I don't have a\nswimsuit..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　泳ぎたいけど、水着がないんだ…」"
+                                ""
                             ]
                         },
                         {
@@ -3616,21 +3616,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「じゃあ、裸で泳げば？"
+                                "\\N<Nana-chan>Then, how about swimming naked? If\nyou're embarrassed to do it alone, I can swim with\nyou, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　一人だと恥ずかしいなら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あたしが一緒に泳いであげよっか？」"
+                                ""
                             ]
                         },
                         {
@@ -3657,14 +3657,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「ええっ⁉"
+                                "\\N<Boku>Huh?! Is that okay?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いいの⁉」"
+                                ""
                             ]
                         },
                         {
@@ -3681,7 +3681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ナナちゃん>「ばーか、ジョーダンよ♥」"
+                                "\\N<Nana-chan>Silly, it's Jordan ♥"
                             ]
                         },
                         {
@@ -3984,14 +3984,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「よーし！"
+                                "\\N<Boku>Alright! Let's do this!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　やるぞー！」"
+                                ""
                             ]
                         },
                         {
@@ -4077,28 +4077,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「あー。"
+                                "\\N<Boku>Ah, the bridge is broken... But maybe I\ncan fix it myself, at least something like\nthis...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　橋が壊れてる…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　……でも、このぐらいなら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ぼくでも直せるかも…？」"
+                                ""
                             ]
                         },
                         {
@@ -4115,21 +4115,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「ここに生えてる木を倒せば"
+                                "\\N<Boku>If I can cut down this tree growing here,\nI can make a bridge, right...? I wonder if there's\nany tools around here...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　橋に出来るよね…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　どこかに道具、ないかな…？」"
+                                ""
                             ]
                         },
                         {
@@ -4269,7 +4269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「やったー！」"
+                                "\\N<Boku>Yay!"
                             ]
                         },
                         {
@@ -4360,7 +4360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「やったー！」"
+                                "\\N<Boku>Yay!"
                             ]
                         },
                         {

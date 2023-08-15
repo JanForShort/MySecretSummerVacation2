@@ -2108,21 +2108,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「わ！　魚だ！"
+                                "\\N<Boku>Wow! It's a fish!... If only I had a\nfishing rod, I could catch it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　…釣り竿があったら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　釣れるのになー…」"
+                                ""
                             ]
                         },
                         {
@@ -2570,14 +2570,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「よ、よーし…。"
+                                "\\N<Boku>Alright... almost there, the goal..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もうすぐ、ゴールだ…」"
+                                ""
                             ]
                         },
                         {
@@ -2737,21 +2737,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「わぁ⁉"
+                                "\\N<Boku>Wow! A human soul?! Let's run, Nana- chan!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　人魂だー⁉"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　に、逃げよう、ナナちゃん！」"
+                                ""
                             ]
                         },
                         {
@@ -2768,7 +2768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ナナちゃん>「あ、ちょっと…！」"
+                                "\\N<Nana-chan>Ah, wait a moment...!"
                             ]
                         },
                         {
@@ -2816,45 +2816,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その時の私は無我夢中で"
+                                "In that moment, I grabbed her hand in a frenzy and\ntried to leave that place."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "彼女の手を引き、その場を離れようとした。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ナナちゃん>「ちょっと、落ち着きなさいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あれ、人魂なんかじゃなくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ホタルよ」"
+                                ""
                             ]
                         },
                         {
@@ -2871,14 +2840,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「え…？"
+                                "\\N<Nana-chan>Hey, calm down. Wait, it's not a\nhuman soul, it's fireflies."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ホタル…？」"
+                                "\\N<Boku>Huh...? Fireflies...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2985,14 +2985,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「これがホタルなんだ…。"
+                                "\\N<Boku>So this is a firefly... I've never seen\none before..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ぼく、初めて見たな…」"
+                                ""
                             ]
                         },
                         {
@@ -3009,7 +3009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ナナちゃん>「ふーん…」"
+                                "\\N<Nana-chan>Hmm..."
                             ]
                         },
                         {
@@ -3035,7 +3035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ナナちゃん>「あのさ、手…、いつまで握ってんの？」"
+                                "\\N<Nana-chan>Hey, um... how long are you going to\nkeep holding my hand?"
                             ]
                         },
                         {
@@ -3092,14 +3092,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「え⁉"
+                                "\\N<Boku>Eh?! Ah, sorry!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あ、ごめん！」"
+                                ""
                             ]
                         },
                         {
@@ -3116,7 +3116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ナナちゃん>「…ま、いいけどね」"
+                                "\\N<Nana-chan>...Well, it's fine, I guess."
                             ]
                         },
                         {
@@ -3173,28 +3173,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホタルの淡い光に照らされた"
+                                "The expression on her face, illuminated by the\nfaint light of the fireflies, was not clear, but I\nstill vividly remember the warmth of her hand from\nthat moment..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "彼女の表情はよくは見えなかったが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの時の彼女の手のぬくもりを"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今でもはっきりと覚えている…。"
+                                ""
                             ]
                         },
                         {

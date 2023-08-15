@@ -2594,52 +2594,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボウシくん>「あ、ボクくん⁉"
+                                "\\N<Boushi-kun>Ah, Boku-kun? This is my secret bug-\ncatching spot! No entry allowed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ここはぼくの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ひみつのムシ取りスポットだよ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　立ち入り禁止！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「えー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ぼくも入りたいなー…」"
+                                ""
                             ]
                         },
                         {
@@ -2656,28 +2632,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボウシくん>「うーん…しかたないなー。"
+                                "\\N<Boku>Eh? I want to go in too..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　だったらぼくと\"セミ取り\"で勝負しよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　こう見えてぼく\"セミ取り名人\"なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　10秒で\\V[431]匹のセミを捕まえたんだよ！」"
+                                ""
                             ]
                         },
                         {
@@ -2694,7 +2656,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「す、すごい…！」"
+                                "\\N<Boushi-kun>Hmm... I guess there's no helping\nit. In that case, let's have a competition of\n'catching cicadas' between you and me. You see,\nI'm actually a 'cicada catching expert'. I caught\n\\V[431] cicadas in just 10 seconds!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2711,28 +2694,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボウシくん>「でしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　もしボク君が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　10秒で\\V[431]匹より多く捕まえられたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ここでムシを取っていいよ」"
+                                "\\N<Boku>A-Amazing...!"
                             ]
                         },
                         {
@@ -2749,7 +2711,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「わかった！」"
+                                "\\N<Boushi-kun>Right? If Boku-kun can catch more\nthan \\V[431] bugs in 10 seconds, then you can\ncatch bugs here."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Boku>Got it!"
                             ]
                         },
                         {
@@ -2784,21 +2784,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボウシくん>「またセミ取りに挑戦するんだね。"
+                                "\\N<Boushi-kun>You're going to challenge catching\ncicadas again, huh? If you can catch more than\n\\V[431] bugs in 10 seconds, then you can catch\nbugs here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　10秒で\\V[431]匹より多く捕まえられたら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ここでムシを取っていいよ」」"
+                                ""
                             ]
                         },
                         {
@@ -2825,14 +2825,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボウシくん>「それじゃあ、今から10秒数えるから"
+                                "\\N<Boushi-kun>Alright, then I'll count to 10\nseconds starting now. Try to catch as many cicadas\nas you can."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　出来るだけ多くのセミを捕まえてね」"
+                                ""
                             ]
                         },
                         {
@@ -2902,14 +2902,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#Start!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#スタート！"
+                                ""
                             ]
                         },
                         {
@@ -3005,7 +3005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボウシくん>「早くセミを捕まえなきゃ！」"
+                                "\\N<Boushi-kun>I have to catch the cicada quickly!"
                             ]
                         },
                         {
@@ -3127,7 +3127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボウシくん>「はい、しゅうりょー」"
+                                "\\N<Boushi-kun>Alright, I'm finished."
                             ]
                         },
                         {
@@ -3144,14 +3144,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#結果　"
+                                "\\#Result\\#\\V[437] matches!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\\V[437] 匹！"
+                                ""
                             ]
                         },
                         {
@@ -3179,21 +3179,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボウシくん>「なんてこった…。"
+                                "\\N<Boushi-kun>Oh no... I'll give up the title of\nthe Cicada Catching Master to you, Sacchan... But\nI'll train hard and someday take back that title!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　セミ取り名人の称号は、ボクくんにゆずるよ…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　でも特訓して、いつか称号を取り返すんだ！」"
+                                ""
                             ]
                         },
                         {
@@ -3311,28 +3311,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボウシくん>「残念でしたー。"
+                                "\\N<Boushi-kun>Too bad. You can try again if you\nwant. But I don't think the caught cicada will\ncome back until tomorrow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　また挑戦してもいいよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　でも、捕まえたセミは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　明日まで戻ってこないと思うけどね」"
+                                ""
                             ]
                         },
                         {
@@ -4645,14 +4645,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「こ、これは…⁉"
+                                "\\N<Boku>Th-This is...?! It's a really nice-\nlooking 'tree branch'‼"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　とってもいい感じの\"木の枝\"だ‼」"
+                                ""
                             ]
                         },
                         {
@@ -4698,28 +4698,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「長さ、重さ、堅さ…、"
+                                "\\N<Boku>The length, weight, hardness... and the\nway the leaves are attached... It's the perfect\nbranch in every aspect! With this, I won't be\nafraid of spider webs anymore!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そして葉っぱの付き具合…、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どれをとっても最高の枝だよ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これでもう、クモの巣なんて怖くないぞ！」"
+                                ""
                             ]
                         },
                         {
@@ -4736,14 +4736,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# I obtained a plaything, a tree branch!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#遊び道具\"木の枝\"を手に入れた！"
+                                ""
                             ]
                         },
                         {

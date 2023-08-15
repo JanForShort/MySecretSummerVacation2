@@ -3498,21 +3498,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「えっと…。"
+                                "\\N<Boku>Um... it's not good to enter someone's\nhouse without permission, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　知らない人の家に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　かってに入ったらダメだよね…」"
+                                ""
                             ]
                         },
                         {
@@ -3611,7 +3611,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「今日はもう、やめとうこう…」"
+                                "\\N<Boku>I think I'll stop here for today..."
                             ]
                         },
                         {
@@ -3696,21 +3696,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「えっと…。"
+                                "\\N<Boku>Um... It's not good to enter someone's\nhouse without permission, right...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　知らない人の家に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　かってに入ったらダメだよね…」"
+                                ""
                             ]
                         },
                         {
@@ -3797,21 +3797,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「えっと…。"
+                                "\\N<Boku>Um... it's not good to enter someone's\nhouse without permission, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　知らない人の家に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　かってに入ったらダメだよね…」"
+                                ""
                             ]
                         },
                         {
@@ -3888,28 +3888,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ハカセくん>「ねえ、知ってる？"
+                                "\\N<Hakase-kun>Hey, did you know? There's a fire\ntruck from the fire brigade in here. I wonder if\nI'll join the fire brigade when I grow up? Then\nmaybe I can ride on the fire truck."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　この中に、消防団の消防車が入ってるんだよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　大きくなったら、ぼくも消防団に入るのかな？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そしたら、消防車にのれるかも」"
+                                ""
                             ]
                         },
                         {
@@ -3926,14 +3926,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「へー。"
+                                "\\N<Boku>Oh, I want to ride it too..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ぼくものってみたいなー…」"
+                                ""
                             ]
                         },
                         {

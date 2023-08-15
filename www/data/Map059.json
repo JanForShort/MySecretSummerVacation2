@@ -2578,52 +2578,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このクリスタルでは、"
+                                "With this crystal, it is possible to customize the\nappearance of the characters that appear in the\nmain game."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ゲーム本編に登場するキャラクターの外見を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "カスタマイズすることが可能です。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ただし、変更できるのは外見だけですので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "セリフ等の整合性がとれなくなる場合がありますので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ご注意ください。"
+                                ""
                             ]
                         },
                         {
@@ -2640,21 +2609,52 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "また、性別や男性器の有無を変更した場合"
+                                "However, please note that only the appearance can\nbe changed, so there may be inconsistencies with\nthe dialogue and other aspects."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "キャラクター固有のHイベント（とくべつなエッチ）には"
+                                "Also, please note that if you change the\ncharacter's gender or the presence of male\ngenitalia, it will not be compatible with the\ncharacter's specific H events (special intimate\nscenes)."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "対応できませんのでご注意下さい。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2730,7 +2730,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カスタマイズしたいキャラクターを選択してください。"
+                                "Please select the character you want to customize."
                             ]
                         },
                         {
@@ -2801,7 +2801,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カスタマイズする方法を選択してください。"
+                                "Please select the method of customization."
                             ]
                         },
                         {
@@ -2995,7 +2995,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "読み込みに失敗しました。"
+                                "Failed to load."
                             ]
                         },
                         {
@@ -3305,28 +3305,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "※\"肌色＆肌の明るさの変更\"と\"日焼け\"は"
+                                "※Please note that you can only choose either\nChange Skin Color & Brightness or Tanning, not\nboth.※Please note that Pregnant Belly only applies\nto the character in a naked state."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　どちらか一方しか選べませんのでご注意ください。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "※\"ボテ腹\"は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　裸の状態にしか対応していませんのでご注意ください。"
+                                ""
                             ]
                         },
                         {
@@ -3406,14 +3406,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この処理は元には戻せません。"
+                                "This process cannot be undone. Are you sure?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "よろしいですか？"
+                                ""
                             ]
                         },
                         {
@@ -3987,21 +3987,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このクリスタルでは、エンドレスモード時、"
+                                "With this crystal, during Endless Mode, it is\npossible to make it seem like you have\nsuccessfully captured a character that can only be\ncaptured for a limited time during the main game."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ゲーム本編中に期間限定でしか攻略できないキャラクターを"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "攻略したことにすることが可能です。"
+                                ""
                             ]
                         },
                         {
@@ -4029,14 +4029,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ナナちゃんと仲良くなったことにしますか？"
+                                "Shall we pretend that we've become close with\nNana-chan? *Please note that this action cannot be\nundone."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "※この操作は、元には戻せません。"
+                                ""
                             ]
                         },
                         {
@@ -4131,7 +4131,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "現在、この操作が必要なキャラクターはいません。"
+                                "Currently, there are no characters that require\nthis action."
                             ]
                         },
                         {
@@ -6649,52 +6649,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようこそ\"ひみつの屋根裏部屋\"へ。"
+                                "Welcome to the Secret Attic Room. In the Secret\nAttic Room, you can customize the appearance of\nthe characters that appear in the main game."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\"ひみつの屋根裏部屋\"では、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ゲーム本編に登場するキャラクターの外見を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "カスタマイズすることが可能です。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カスタマイズした外見を確認するための"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マネキンも設置してあります。"
+                                ""
                             ]
                         },
                         {
@@ -6711,28 +6687,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "外見を変更する事で"
+                                "There are also mannequins installed to check the\ncustomized appearances."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セリフ等の整合性が合わなくなったり"
+                                "Please be aware that changing the appearance may\ncause inconsistencies in dialogue and\nsignificantly alter the atmosphere of the game."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ゲームの雰囲気等が大きく変わる場合もありますので"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ご注意ください。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

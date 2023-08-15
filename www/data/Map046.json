@@ -2308,28 +2308,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うわぁ…。"
+                                "\\N<Boku>Wow... It's so dark... I-I'm not scared or\nanything, but maybe I shouldn't go in..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　まっくらだ…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　こ、怖くなんてないけど、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　入るのはやめとこーとっ…」"
+                                ""
                             ]
                         },
                         {

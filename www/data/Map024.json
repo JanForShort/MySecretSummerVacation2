@@ -3707,25 +3707,25 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "カスタマイズを実行しますか？"
+                                "Do you want to execute customization? ※ At the\nsame time, a pink flyer will be issued. Please\nnote that clothing will not be saved on the pink\nflyer."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "※同時にピンクチラシが発行されます。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　ピンクチラシには服装は保存されませんのでご注意下さい。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
                                 ""
@@ -3745,21 +3745,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "※チラシを発行したくない場合は"
+                                "※ If you do not want to issue a flyer, please turn\noff the option Custom Mode: Pink Flyer Issuance."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　オプションの「\"カスタムモード\"ピンクチラシ発行」を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　OFFにしてください。"
+                                ""
                             ]
                         },
                         {
@@ -3786,7 +3786,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "カスタマイズを実行しますか？"
+                                "Do you want to execute customization?"
                             ]
                         },
                         {
@@ -4076,14 +4076,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "このキャラで"
+                                "Is it okay to purchase this character?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "購入してもよろしいですか？"
+                                ""
                             ]
                         },
                         {
@@ -5013,7 +5013,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "エディットを中止しますか？"
+                                "Do you want to cancel the edit?"
                             ]
                         },
                         {

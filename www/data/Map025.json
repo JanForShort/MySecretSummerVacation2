@@ -3916,14 +3916,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<お姉さん>「ほれ、マセガキ。"
+                                "\\N<Onee-chan>Hey, brat. What kind of things do you\nwant to try today?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日はどんなこと、やってみたいんだよ？」"
+                                ""
                             ]
                         },
                         {
@@ -4244,28 +4244,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「あ…。"
+                                "\\N<Boku>Ah... Onee-chan, you're sleeping... I\nwonder if it's okay to play a little prank on\nyou...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　お姉さん、ねむってる…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　……ちょっとだけなら、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　いたずらしてもいいかな…？」"
+                                ""
                             ]
                         },
                         {
@@ -4304,14 +4304,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>（…ちょっとぐらい、いいよね…。"
+                                "\\N<Boku>(Is it okay... just a little bit... to\ntake a peek...? Just a quick look...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　ほんの少し…ちょっと見るだけだから…）"
+                                ""
                             ]
                         },
                         {
@@ -4433,28 +4433,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>（…お、おきてない…よね…？"
+                                "\\N<Boku>(...Onee-chan, you're not awake...\nright...? If you won't wake up even with just\nthis... I wonder if it's okay... to play a little\nprank...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　…これぐらいでもおきないなら…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　も、もうちょっとだけ…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　いたずらしてもいいかな…？）"
+                                ""
                             ]
                         },
                         {
@@ -4552,21 +4552,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ボク>（や、やっぱりダメダメ！"
+                                "\\N<Boku>(N-No, no good! I have to put the clothes\nback before she wakes up...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　おきる前に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　服をもどさなきゃ…！）"
+                                ""
                             ]
                         },
                         {
@@ -4734,21 +4734,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「あ…。"
+                                "\\N<Boku>Ah... Onee-chan, you're sleeping... It's\nprobably better not to wake you up..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　お姉さん、ねむってる…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　おこさない方がいいよね…」"
+                                ""
                             ]
                         },
                         {

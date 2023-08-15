@@ -2428,7 +2428,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「全部持ってるし、もういいや」"
+                                "\\N<Boku>I have everything, so I'm done."
                             ]
                         },
                         {
@@ -2566,28 +2566,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ガチャガチャがある！"
+                                "There's a gachapon! It says that each try of the\nPokemobi series costs 20 yen and there are 10\ndifferent types. If you collect all the types,\nyou'll receive a wonderful present! Should I give\nit a try?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "”ポケモビシリーズ　全１０種類　1回20円"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                " 全種類集めると素敵なプレゼント！”と書いてある。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "やってみようかな？\\$"
+                                ""
                             ]
                         },
                         {
@@ -2722,28 +2722,28 @@
                             "code": 401,
                             "indent": 13,
                             "parameters": [
-                                "\\N<ボク>「やったー！"
+                                "\\N<Boku>Yay! I collected all the types! I have to\nlet the shop girl know and receive something\namazing!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 13,
                             "parameters": [
-                                "　全しゅるい集めたぞ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 13,
                             "parameters": [
-                                "　お店のお姉さんに知らせて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 13,
                             "parameters": [
-                                "　すごいものをもらわなくちゃ！」"
+                                ""
                             ]
                         },
                         {
@@ -2935,7 +2935,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ボク>「お金が足りないや…」"
+                                "\\N<Boku>I don't have enough money..."
                             ]
                         },
                         {
@@ -4562,7 +4562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"土曜　日曜　定休日\""
+                                "\\#Closed on Saturdays and Sundays"
                             ]
                         },
                         {
@@ -4579,14 +4579,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「あれ？"
+                                "\\N<Boku>Huh? Is it closed today..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日はお休みか…」"
+                                ""
                             ]
                         },
                         {
@@ -4755,7 +4755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"土曜　日曜　定休日\""
+                                "\\#Closed on Saturdays and Sundays"
                             ]
                         },
                         {
@@ -4772,14 +4772,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「あれ？"
+                                "\\N<Boku>Huh? Is it closed today..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日はお休みか…」"
+                                ""
                             ]
                         },
                         {
@@ -4847,14 +4847,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「今日はもう、"
+                                "\\N<Boku>Let's stop for today..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　やめとこう…」"
+                                ""
                             ]
                         },
                         {
@@ -4964,14 +4964,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"土曜　日曜　定休日\""
+                                "\\#Closed on Saturdays and Sundays\\#Today,\ntemporary closure"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"本日、臨時休業\""
+                                ""
                             ]
                         },
                         {
@@ -4988,14 +4988,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「あれ？"
+                                "\\N<Boku>Huh? Is it closed today..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日はお休みか…」"
+                                ""
                             ]
                         },
                         {
@@ -5132,7 +5132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"夏季休業中\""
+                                "\\#Summer Break"
                             ]
                         },
                         {
@@ -5149,14 +5149,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うーん…。"
+                                "\\N<Boku>Hmm... It looks like the shop is closed..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お店屋さん、あいてないみたい…」"
+                                ""
                             ]
                         },
                         {
@@ -5233,7 +5233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"夏季休業中\""
+                                "\\#Summer Break"
                             ]
                         },
                         {
@@ -5250,14 +5250,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うーん…。"
+                                "\\N<Boku>Hmm... It looks like the shop is closed..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お店屋さん、あいてないみたい…」"
+                                ""
                             ]
                         },
                         {
@@ -5676,38 +5676,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「あら、ボクじゃない。"
+                                "\\N<Nana-chan>Oh, it's not you. We meet often,\ndon't we?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　よく会うわね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「あ、ナナちゃんアイス食べてる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　いいなぁ…。ぼくも買ってこようかな…」"
+                                ""
                             ]
                         },
                         {
@@ -5724,28 +5700,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「…ふーん。"
+                                "\\N<Boku>Oh, Nana-chan is eating ice cream! I'm\njealous... Maybe I should buy some too..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　そんなに食べないなら、これ食べていいわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　もうお腹いっぱいだし」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　"
+                                ""
                             ]
                         },
                         {
@@ -5762,14 +5724,52 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「いいの⁉"
+                                "\\N<Nana-chan>Hmm... If you're not going to eat\nthat much, you can have this. I'm already full\nanyway."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　わーい！　ありがとー、ナナちゃん！」"
+                                "\\N<Boku>Is it okay? Yay! Thank you, Nana-chan!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5807,31 +5807,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「…はーい、間接キスー♥"
+                                "\\N<Nana-chan>H-Hey, indirect kiss~♥ My naughty~♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ボクのエッチー♥」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「え、ええぇ…⁉」"
+                                ""
                             ]
                         },
                         {
@@ -5848,21 +5831,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「あはは、冗談よ♥"
+                                "\\N<Boku>Eh, eeeh...!?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　男子じゃあるまいし"
+                                "\\N<Nana-chan>Ahaha, it's just a joke ♥ You're not\na boy, so you don't have to say things like that\nall the time ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　いちいちそんなこといわないって♥」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5926,21 +5926,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「あはは、冗談よ♥"
+                                "\\N<Nana-chan>Ahaha, it's just a joke ♥ You're not\na boy, so you don't have to say things like that\nall the time ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　男子じゃあるまいし"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　いちいちそんなこといわないって♥」"
+                                ""
                             ]
                         },
                         {

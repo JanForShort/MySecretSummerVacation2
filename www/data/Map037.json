@@ -1825,7 +1825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おばあさん>「ナンマンダブナンマンダブ」"
+                                "\\N<Grandma>Nanmandabu nanmandabu"
                             ]
                         },
                         {
@@ -1853,7 +1853,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「こんにちわ」"
+                                "\\N<Boku>Hello"
                             ]
                         },
                         {
@@ -1915,21 +1915,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<おばあさん>「おやおや。"
+                                "\\N<Grandma>Oh my, what a lovely child. Here, let\nme give you a snack."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　可愛らしい子だね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　どれ、おやつでもあげようねー」"
+                                ""
                             ]
                         },
                         {
@@ -2266,14 +2266,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「わー！"
+                                "\\N<Boku>Wow! Thank you, Grandma!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　ありがとう、おばあさん！」"
+                                ""
                             ]
                         },
                         {
@@ -2332,31 +2332,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「ねえ、おばあさん。"
+                                "\\N<Boku>Hey, Grandma. There's something I want to\nask you, can I?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ちょっと聞きたいことがあるんだけど？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<おばあさん>「おや、何だい？」"
+                                ""
                             ]
                         },
                         {
@@ -2373,21 +2356,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「そこの川の向こうの滝でね"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　夕方に一人で泳いじゃいけないってお話"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　知ってる？」"
+                                "\\N<Grandma>Oh, what is it?"
                             ]
                         },
                         {
@@ -2404,21 +2373,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<おばあさん>「はて…？"
+                                "\\N<Boku>Do you know the story about not swimming\nalone in the waterfall beyond that river over\nthere in the evening?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　うーん、ごめんなさいねー。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ちょっと知らないねー」"
+                                ""
                             ]
                         },
                         {
@@ -2435,14 +2404,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「そっか。"
+                                "\\N<Grandma>Hmm...? Hmm, I'm sorry, but I don't\nknow."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ありがとう」"
+                                "\\N<Boku>I see. Thank you."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

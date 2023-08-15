@@ -3278,28 +3278,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「す、すごい！"
+                                "\\N<Boku>A-Amazing! It's a mountain of erotic\nbooks...⁉...but wait...? It's all just text\ninside..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　エッチな本の山だ…⁉"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　…って、あれ…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　中身は文字ばっかりだ…」"
+                                ""
                             ]
                         },
                         {
@@ -3334,14 +3334,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「あ、でも"
+                                "\\N<Boku>Ah, but there are a lot of erotic flyers\ninside!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　エッチなチラシはたくさん入ってる！」"
+                                ""
                             ]
                         },
                         {
@@ -3376,14 +3376,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「エッチなチラシ、"
+                                "\\N<Boku>There are still plenty of erotic flyers!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　まだまだ、いっぱいある！」"
+                                ""
                             ]
                         },
                         {

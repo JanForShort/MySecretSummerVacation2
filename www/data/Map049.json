@@ -2239,28 +2239,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「あれ…？"
+                                "\\N<Boku>Huh...?... This scent, it's the same scent\nas Dream Popuri... Could it be that this flower is\na Dreamflower...? Yeah, I'm sure that's it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　……この匂い、夢見のポプリと同じ匂いだ…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もしかしてこの花、夢見草の花かも…！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　うん、きっとそうだね！」"
+                                ""
                             ]
                         },
                         {
@@ -2277,21 +2277,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「寝る前にこの花のみつを飲むと、"
+                                "\\N<Boku>I remember that drinking the nectar of\nthis flower before going to bed helps me sleep\nsoundly... It sounds interesting, so let's give it\na try!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ぐっすり眠れるんだっけ…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　面白そうだし、つんでいこうっと！」"
+                                ""
                             ]
                         },
                         {

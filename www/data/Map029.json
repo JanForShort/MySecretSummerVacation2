@@ -4018,14 +4018,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# Do you want to exit the flashback mode?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#回想モードを終了しますか？"
+                                ""
                             ]
                         },
                         {
@@ -4330,28 +4330,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#Cousin's Onee-chan\\# Onee-chan seems to be in\nthe large bathhouse late at night..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"いとこのお姉ちゃん\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#お姉ちゃんは、深夜に大浴場にいるらしい…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4487,21 +4487,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<お姉ちゃん>「あ…ぼ、ボク君…？"
+                                "\\N<Onee-chan>Ah... B-Boku-kun...? Um... Do you...\nwant to do... naughty things with Onee-chan...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　えっと…お、お姉ちゃんと…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　え、エッチなこと…したいのかな…？」"
+                                ""
                             ]
                         },
                         {
@@ -4811,14 +4811,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# Missionary Position Play Knowledge"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"正常位\"プレイ知識"
+                                ""
                             ]
                         },
                         {
@@ -4886,14 +4886,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# Missionary Position Play Knowledge"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"正常位\"プレイ知識"
+                                ""
                             ]
                         },
                         {
@@ -4970,14 +4970,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#Knowledge about doggy style play"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"後背位\"プレイ知識"
+                                ""
                             ]
                         },
                         {
@@ -5045,14 +5045,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#Knowledge about doggy-style play."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"後背位\"プレイ知識"
+                                ""
                             ]
                         },
                         {
@@ -5129,14 +5129,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# Cowgirl Play Knowledge"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"騎乗位\"プレイ知識"
+                                ""
                             ]
                         },
                         {
@@ -5204,14 +5204,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# Cowgirl Play Knowledge"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"騎乗位\"プレイ知識"
+                                ""
                             ]
                         },
                         {
@@ -5288,28 +5288,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#Cousin's Onee-chan (Sleeping)\\# Someone might\ngive me the key to Onee-chan's room through a bug\nbattle..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"いとこのお姉ちゃん（睡眠中）\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#お姉ちゃんの部屋の鍵は、誰かがムシバトルでくれるかも…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5384,14 +5384,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>（寝ているお姉ちゃんと、"
+                                "\\N<Boku>(Should I do something naughty with the\nsleeping Onee-chan?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エッチなこと、しちゃおうかな？）"
+                                ""
                             ]
                         },
                         {
@@ -5520,28 +5520,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#Masturbating with a Book\\# Let's find a book and\ntry masturbating."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"本でオナニー\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#本を見つけて、オナニーしてみよう"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5616,7 +5616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「エッチな本、見ちゃおうかな？」"
+                                "\\N<Boku>Should I take a look at some naughty\nbooks?"
                             ]
                         },
                         {
@@ -5825,28 +5825,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#Masturbating with a Video\\# Let's find a video\nand try masturbating."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"ビデオでオナニー\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#ビデオを見つけて、オナニーしてみよう"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5921,7 +5921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「エッチなビデオ、見ちゃおうかな？」"
+                                "\\N<Boku>Should I watch a naughty video?"
                             ]
                         },
                         {
@@ -6050,28 +6050,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#Masturbating on Late Night TV\\# Sometimes, it\nseems there are erotic programs on late at\nnight..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"深夜番組でオナニー\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#時々深夜に、エッチな番組があるらしい…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6146,7 +6146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「エッチなテレビ、見ちゃおうかな？」"
+                                "\\N<Boku>Should I watch some naughty TV?"
                             ]
                         },
                         {
@@ -6296,28 +6296,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "\\#Naughty Dreams\\# If you're just a little good,\nsomeone might give you something on a sleepless\nnight...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"エッチな夢\""
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#少しだけ良い子なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#誰かが眠れない夜に、何かをくれるかも…？"
+                                ""
                             ]
                         },
                         {
@@ -6392,7 +6392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「エッチな夢、見ちゃおうかな？」"
+                                "\\N<Boku>Should I have a naughty dream?"
                             ]
                         },
                         {
@@ -6604,28 +6604,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こちらは\"回想モード\"になります。"
+                                "This is the Recollection Mode. You can revisit\nscenes and erotic books, videos, and more that you\nexperienced in the main game."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ゲーム本編で体験したシーンや"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "エッチな本、エッチなビデオ等を、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "再び見ることが可能です。"
+                                ""
                             ]
                         },
                         {
@@ -6642,28 +6642,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゲーム本編で体験していなくても"
+                                "Even if you haven't experienced it in the main\ngame, you can still see certain scenes by\ncombining the knowledge of the characters you've\nconquered and the gameplay."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "攻略したキャラクターと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "プレイの知識の組み合わせで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "一部のシーンを見ることも出来ます。"
+                                ""
                             ]
                         },
                         {
@@ -6922,21 +6922,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゲーム本編で手に入れた性知識や"
+                                "The knowledge of sexual techniques, positions, and\nother gameplay-related information that you\nobtained in the main game can be checked using\nthis light bulb."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "体位等のプレイの知識は、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "こちらの電球で取得状況を確認可能です。"
+                                ""
                             ]
                         },
                         {
@@ -7161,28 +7161,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "回想モードでは、"
+                                "In the Recollection Mode, you can change the time\nusing this clock. In some scenes, the brightness\nmay change depending on the time of day."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "こちらの時計で時間を変更することが可能です。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "一部シーンでは時間帯によって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "明るさなどが変化します。"
+                                ""
                             ]
                         },
                         {
@@ -7208,7 +7208,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この扉で、回想モードを終了できます。"
+                                "You can end the Recollection Mode at this door."
                             ]
                         },
                         {
@@ -7225,14 +7225,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こちらの説明は"
+                                "This explanation can be confirmed in the enclosed\ninstruction manual."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "同封の\"説明書\"で確認可能です。"
+                                ""
                             ]
                         },
                         {
@@ -7249,7 +7249,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "以上で、回想部屋の説明を終了します。"
+                                "That concludes the explanation of the Recollection\nRoom."
                             ]
                         },
                         {
@@ -7329,28 +7329,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回想モードで使用するセーブデータを選択してください。"
+                                "Please select the save data to use in the\nRecollection Mode. The appearance of your favorite\nand main characters will be applied to the\nselected save data. *This does not affect the main\ngame."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "選択したセーブデータのお気に入りや"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "メインキャラの容姿が適応されます。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "※ゲーム本編に影響はありません。"
+                                ""
                             ]
                         },
                         {
@@ -7711,28 +7711,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こちらは\"回想モード\"になります。"
+                                "This is the Recollection Mode. You can revisit\nscenes and erotic books, videos, and more that you\nexperienced in the main game."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ゲーム本編で体験したシーンや"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "エッチな本、エッチなビデオ等を、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "再び見ることが可能です。"
+                                ""
                             ]
                         },
                         {
@@ -7749,28 +7749,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゲーム本編で体験していなくても"
+                                "Even if you haven't experienced it in the main\ngame, you can still see certain scenes by\ncombining the knowledge of the characters you've\nconquered and the gameplay."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "攻略したキャラクターと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "プレイの知識の組み合わせで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "一部のシーンを見ることも出来ます。"
+                                ""
                             ]
                         },
                         {
@@ -7796,21 +7796,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゲーム本編で手に入れた"
+                                "The knowledge of positions and plays that you\nobtained in the main game can be confirmed with\nthis light bulb here."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "体位等のプレイの知識は、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "こちらの電球で確認可能です。"
+                                ""
                             ]
                         },
                         {
@@ -7836,28 +7836,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "回想モードでは、時間が進みませんが"
+                                "In the Recollection Mode, time does not progress,\nbut you can change the time using this clock here.\nIn some scenes, the brightness may change\ndepending on the time of day."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "こちらの時計で時間を変更することが可能です。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "一部シーンでは時間帯によって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "明るさなどが変化します。"
+                                ""
                             ]
                         },
                         {
@@ -7883,7 +7883,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この扉で、回想モードを終了できます。"
+                                "You can end the Recollection Mode at this door."
                             ]
                         },
                         {
@@ -7900,14 +7900,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こちらの説明は"
+                                "The explanation for this can be confirmed in the\nenclosed instruction manual."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "同封の\"説明書\"で確認可能です。"
+                                ""
                             ]
                         },
                         {
@@ -8721,14 +8721,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# Handjob Play Knowledge"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"手コキ\"プレイ知識"
+                                ""
                             ]
                         },
                         {
@@ -8796,14 +8796,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# Handjob Play Knowledge"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"手コキ\"プレイ知識"
+                                ""
                             ]
                         },
                         {
@@ -8880,14 +8880,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# Knowledge about Fellatio"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"フェラ\"知識"
+                                ""
                             ]
                         },
                         {
@@ -8955,14 +8955,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# Knowledge about Oral Play"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"フェラ\"プレイ知識"
+                                ""
                             ]
                         },
                         {
@@ -9039,14 +9039,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#Knowledge of Sleep Assault"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"睡姦\"知識"
+                                ""
                             ]
                         },
                         {
@@ -9114,14 +9114,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#Knowledge of Sleep Assault"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"睡姦\"知識"
+                                ""
                             ]
                         },
                         {
@@ -9198,14 +9198,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# Loli Knowledge"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"ロリ\"知識"
+                                ""
                             ]
                         },
                         {
@@ -9273,14 +9273,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# Loli Knowledge"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"ロリ\"知識"
+                                ""
                             ]
                         },
                         {
@@ -9357,14 +9357,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# Shota Knowledge"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"ショタ\"知識"
+                                ""
                             ]
                         },
                         {
@@ -9432,14 +9432,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# Shota Knowledge"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"ショタ\"知識"
+                                ""
                             ]
                         },
                         {
@@ -9516,14 +9516,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# Paizuri Knowledge"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"パイズリ\"知識"
+                                ""
                             ]
                         },
                         {
@@ -9591,14 +9591,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#Knowledge of Paizuri Play"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"パイズリ\"プレイ知識"
+                                ""
                             ]
                         },
                         {
@@ -9675,14 +9675,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# Anal Knowledge"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"アナル\"知識"
+                                ""
                             ]
                         },
                         {
@@ -9750,14 +9750,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# Anal Play Knowledge"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"アナル\"プレイ知識"
+                                ""
                             ]
                         },
                         {
@@ -9834,28 +9834,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#Art School Onee-chan\\# seems to be drawing some\nkind of picture in the atelier..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"美大生のお姉さん\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#アトリエで何かの絵を描いているらしい…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9991,21 +9991,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<お姉さん>「あら、ボク君？"
+                                "\\N<Onee-chan>Oh, Boku-kun? What's wrong? Do you\nwant to do something naughty with your big sister?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どうしたの？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お姉さんとエッチな事、したいのかな？」"
+                                ""
                             ]
                         },
                         {
@@ -10259,28 +10259,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#Shop Girl\\# What happens when you collect all\nthe types of gacha?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"お店のお姉さん\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#ガチャガチャを全種類集めると…？"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10416,21 +10416,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<お姉さん>「お？"
+                                "\\N<Onee-chan>Oh? What's up, brat? Do you want to\ndo something naughty with me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なんだよ、マセガキ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あたしとエロいことがしたいのか？」"
+                                ""
                             ]
                         },
                         {
@@ -10684,28 +10684,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#The foreign exchange student onee-chan\\# seems\nto be fishing at the lake..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"留学生のお姉さん\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#湖で釣りをしているらしい…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10841,21 +10841,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ジェシー>「オー、ボク？"
+                                "\\N<Jesse>Oh, me? Do you want to do something fun\nwith Jesse?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ジェシーとキモチいいこと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　したいですかー？」"
+                                ""
                             ]
                         },
                         {
@@ -11109,28 +11109,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#If you behave well, one night...\\N[2]\\#"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"\\N[2]\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#良い子にしていると、ある日の夜に…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11266,21 +11266,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>「あら、ボク君。"
+                                "\\N<\\N[2]>Oh, Boku-kun. Did you start wanting to do\nnaughty things with me...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　\\N[2]とエッチなこと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　したくなっちゃったのかな…？」"
+                                ""
                             ]
                         },
                         {
@@ -11590,28 +11590,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#When you get close to Art School Onee-chan\n(sleeping) and spend the night together..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"美大生のお姉さん（睡眠中）\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#仲良くなってお泊りすると…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11686,14 +11686,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>（寝ているお姉さんと、"
+                                "\\N<Boku>(Should I do something naughty with the\nsleeping Onee-chan?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エッチなこと、しちゃおうかな？）"
+                                ""
                             ]
                         },
                         {
@@ -11822,28 +11822,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#Shop Girl (Sleeping)\\# When you become close and\nstay overnight..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"お店のお姉さん（睡眠中）\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#仲良くなってお泊りすると…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11918,14 +11918,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>（寝ているお姉さんと、"
+                                "\\N<Boku>(Should I do something naughty with the\nsleeping Onee-chan?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エッチなこと、しちゃおうかな？）"
+                                ""
                             ]
                         },
                         {
@@ -12054,28 +12054,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#Foreign Student Onee-chan (Sleeping)\\# When you\nbecome close, she will give you the key to her\nroom..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"留学生のお姉さん（睡眠中）\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#仲良くなると部屋のカギを…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12150,14 +12150,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>（寝ているジェシーと、"
+                                "\\N<Boku>(Should I do something naughty with Jesse\nwhile they're sleeping?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エッチなこと、しちゃおうかな？）"
+                                ""
                             ]
                         },
                         {
@@ -12286,28 +12286,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#What happens if you defeat Hakase-kun in the Bug\nBattle...?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"友達のお母さん\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#ムシバトルでハカセくんに勝つと…？"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12443,28 +12443,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おばさん>「あら、ボク君？"
+                                "\\N<Aunt>Oh, Boku-kun? Um... Do you want to do\nsomething naughty with Auntie...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　えっと…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おばさんと、エッチなこと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　したいの…？」"
+                                ""
                             ]
                         },
                         {
@@ -12718,28 +12718,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#Rich Aunt\\# The paper airplane flew away..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"お金持ちのおばさん\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#紙ヒコーキが飛んで行っちゃった…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12875,21 +12875,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おばさん>「あら、坊や。"
+                                "\\N<Aunt>Oh, young one. Welcome... ♥ Let's do\nnaughty things with Auntie... ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いらっしゃい…♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おばさんとエッチなこと、しましょう…♥」"
+                                ""
                             ]
                         },
                         {
@@ -13143,28 +13143,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#There seems to be a girl who is a little older\nand good at grass sliding...\\#"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"ちょっと年上の女の子\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#草すべりが上手な女の子がいるらしい…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13300,21 +13300,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ミカちゃん>「何よ、ボク？"
+                                "\\N<Mika-chan>What is it, Boku? I bet you want to\ndo something naughty with me again, don't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　さてはまたあたしと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エッチなことしたいんでしょ？」"
+                                ""
                             ]
                         },
                         {
@@ -13568,28 +13568,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#I feel like I see girls of the same age\neverywhere in town...\\#"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"同い年の女の子\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#町のあちこちで見かける気がする…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13725,21 +13725,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ナナちゃん>「あら、ボクじゃない？"
+                                "\\N<Nana-chan>Oh, it's not me? You just want to do\nsomething naughty again, don't you? ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どうせまた"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エッチなことがしたいんでしょ？♥」"
+                                ""
                             ]
                         },
                         {
@@ -14028,28 +14028,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#It seems Sacchan\\# likes Perorin Candy..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"さっちゃん\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#ペロリンキャンディが好きらしい…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14185,14 +14185,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<さっちゃん>「ん…？"
+                                "\\N<Sacchan>Hm...? What is it... \\N[3]...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なに…\\N[3]…？」"
+                                ""
                             ]
                         },
                         {
@@ -14474,28 +14474,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#Mysterious Girl\\#???"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"不思議な女の子\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#？？？"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -14631,14 +14631,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<スイちゃん>「あら、君か♥"
+                                "\\N<Sui-chan>Oh, it's you ♥ You're energetic again,\nshould I take some for myself...♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　また元気、もらっちゃおうかな…♥」"
+                                ""
                             ]
                         },
                         {
@@ -15372,28 +15372,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#When you play together and become friends with a\nboy of the same age...\\#"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"同い年の男の子\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#いっしょに遊んで仲良くなると…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15585,21 +15585,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユウくん>「やあ、ボク君。"
+                                "\\N<Yu-kun>Hey, Boku-kun. Do you maybe want to do\nsomething naughty with me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もしかして僕と"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エッチなことがしたいの？」"
+                                ""
                             ]
                         },
                         {
@@ -16165,28 +16165,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#\\N[2](Sleeping)\\# It seems there is a sleeping\nflower that makes you fall into a deep sleep\nsomewhere..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"\\N[2]（睡眠中）\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#どこかにぐっする眠れるお花があるらしい…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16261,14 +16261,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>（寝ている\\N[2]と、"
+                                "\\N<Boku>(Should I do something naughty while\nthey're sleeping \\N[2]?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エッチなこと、しちゃおうかな？）"
+                                ""
                             ]
                         },
                         {
@@ -16397,28 +16397,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#My Friend's Mother (Sleeping)\\# When we become\nclose and spend the night..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"友達のお母さん（睡眠中）\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#仲良くなってお泊りすると…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16493,14 +16493,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>（寝ているおばさんと、"
+                                "\\N<Boku>(Should I do something naughty with the\nsleeping lady?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エッチなこと、しちゃおうかな？）"
+                                ""
                             ]
                         },
                         {
@@ -16629,28 +16629,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#Rich Auntie (Sleeping)\\# When you become close\nand stay overnight..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"お金持ちのおばさん（睡眠中）\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#仲良くなってお泊りすると…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16725,14 +16725,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>（寝ているおばさんと、"
+                                "\\N<Boku>(Should I do something naughty with the\nsleeping lady?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エッチなこと、しちゃおうかな？）"
+                                ""
                             ]
                         },
                         {
@@ -16861,28 +16861,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#A slightly older girl (sleeping)\\# Not\nimplemented in the main game."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"ちょっと年上の女の子（睡眠中）\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#ゲーム本編では未実装"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16957,14 +16957,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>（寝ているミカちゃんと、"
+                                "\\N<Boku>(Should I do something naughty with Mika-\nchan while she's sleeping?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エッチなこと、しちゃおうかな？）"
+                                ""
                             ]
                         },
                         {
@@ -17093,28 +17093,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#A girl of the same age (sleeping)\\# On a night\nat the camp..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"同い年の女の子（睡眠中）\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#キャンプの夜に…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17189,14 +17189,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>（寝ているナナちゃんと、"
+                                "\\N<Boku>(Should I do something naughty with Nana-\nchan while she's sleeping?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エッチなこと、しちゃおうかな？）"
+                                ""
                             ]
                         },
                         {
@@ -17325,28 +17325,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#A boy of the same age (sleeping)\\# On a night at\nthe camp..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"同い年の男の子（睡眠中）\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#キャンプの夜に…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17421,14 +17421,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>（寝ているユウくんと、"
+                                "\\N<Boku>(Should I do something naughty with\nsleeping Yuko-kun?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エッチなこと、しちゃおうかな？）"
+                                ""
                             ]
                         },
                         {
@@ -17557,28 +17557,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#Mysterious Girl (Sleeping)\\# Not implemented in\nthe main game."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"不思議な女の子（睡眠中）\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#ゲーム本編では未実装"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17653,14 +17653,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>（寝ているスイちゃんと、"
+                                "\\N<Boku>(Should I do something naughty with\nsleeping Sui-chan?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エッチなこと、しちゃおうかな？）"
+                                ""
                             ]
                         },
                         {
@@ -17789,28 +17789,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\#Sacchan (sleeping)\\# It seems there's a sleeping\nflower somewhere that can make you feel\nrefreshed..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\"さっちゃん（睡眠中）\""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#どこかにぐっする眠れるお花があるらしい…"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17885,14 +17885,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>（寝ているさっちゃんと、"
+                                "\\N<Boku>(Should I do something naughty with\nsleeping Sacchan?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エッチなこと、しちゃおうかな？）"
+                                ""
                             ]
                         },
                         {
@@ -18021,14 +18021,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# Sex Knowledge"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"セックス\"知識"
+                                ""
                             ]
                         },
                         {
@@ -18096,14 +18096,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# Sex Knowledge"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"セックス\"知識"
+                                ""
                             ]
                         },
                         {
@@ -18180,14 +18180,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# Masturbation Knowledge"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"オナニー\"知識"
+                                ""
                             ]
                         },
                         {
@@ -18255,14 +18255,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "\\# Masturbation Knowledge"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#\"オナニー\"知識"
+                                ""
                             ]
                         },
                         {
@@ -18348,28 +18348,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このクリスタルは\"全シーン解放システム\"です。"
+                                "This crystal is the All Scene Unlock System. It\nallows you to unlock all H-scenes in the\nreminiscence room. There are two types of unlocks\navailable: Temporary Full Unlock which is only\nvalid in the current reminiscence room, and\nComplete Full Unlock."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "回想部屋での全てのHシーンを攻略済みの状態にできます。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "現在の回想部屋のみで有効な\"一時的な全解放\"と"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\"完全な全解放\"の2種類があります。"
+                                ""
                             ]
                         },
                         {
@@ -18386,14 +18386,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "完全な全開放を実行した場合"
+                                "Please note that once you execute the Complete\nFull Unlock, you cannot revert back to the\noriginal state."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "元には戻せませんのでご注意ください。"
+                                ""
                             ]
                         },
                         {
@@ -18483,14 +18483,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#※この操作を実行すると元には戻せません。"
+                                "\\#*Please note that you cannot revert back to the\noriginal state once you execute this operation.\n\\#Are you sure you want to proceed with the\nexecution?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\#実行してよろしいですか？"
+                                ""
                             ]
                         },
                         {
@@ -18820,52 +18820,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このクリスタルでは、"
+                                "With this crystal, you can currently customize\ncharacters only in the flashback room."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "今現在の回想部屋限定での"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "キャラクターカスタマイズが出来ます。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "セーブは出来ませんので、本編に影響はありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今現在の回想を終了とすると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "カスタマイズした内容は失われます。"
+                                ""
                             ]
                         },
                         {
@@ -18882,21 +18851,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ピンクチラシも発行出来ますが"
+                                "You cannot save, so it will not affect the main\nstory. If you end the current flashback, the\ncustomized content will be lost."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ポケットに入れた場合も"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "今現在の回想部屋のみ使用できます。"
+                                ""
                             ]
                         },
                         {
@@ -18913,21 +18882,52 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "恒常的にカスタマイズしたい場合は"
+                                "You can also issue pink flyers, but if you put\nthem in your pocket, you can only use them in the\ncurrent flashback room."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゲーム本編の"
+                                "If you want to customize characters permanently,\nplease use the Secret Attic Room in the main game."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\"ひみつ屋根裏部屋\"をご利用ください。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -19003,7 +19003,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カスタマイズしたいキャラクターを選択してください。"
+                                "Please select the character you want to customize."
                             ]
                         },
                         {
@@ -19074,7 +19074,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カスタマイズする方法を選択してください。"
+                                "Please select the method to customize."
                             ]
                         },
                         {
@@ -19268,7 +19268,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "読み込みに失敗しました。"
+                                "Failed to load."
                             ]
                         },
                         {
@@ -19578,28 +19578,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "※\"肌色＆肌の明るさの変更\"と\"日焼け\"は"
+                                "※Please note that you can only choose either\nChange Skin Color & Brightness or Tanning, not\nboth.※Please note that Potbelly only applies to\nthe naked state."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　どちらか一方しか選べませんのでご注意ください。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "※\"ボテ腹\"は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　裸の状態にしか対応していませんのでご注意ください。"
+                                ""
                             ]
                         },
                         {
@@ -19679,14 +19679,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この処理は元には戻せません。"
+                                "This action cannot be undone. Are you sure?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "よろしいですか？"
+                                ""
                             ]
                         },
                         {
@@ -20316,7 +20316,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>（だれか、トイレに入ってるのかな…？）"
+                                "\\N<Boku>(I wonder if someone is in the\nbathroom...)"
                             ]
                         },
                         {
@@ -20390,14 +20390,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
+                                "\\#Preparing"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\#準備中"
+                                ""
                             ]
                         },
                         {
@@ -21087,28 +21087,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>（⁉"
+                                "\\N<Boku>(⁉ They're coming out...⁉ They might catch\nme watching...⁉ I better hide somewhere!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　出てきちゃう…⁉"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　見てたのばれちゃうかも…⁉"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　どっかにいっちゃおー！）"
+                                ""
                             ]
                         },
                         {
@@ -21309,7 +21309,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>（だれか、トイレに入ってるのかな…？）"
+                                "\\N<Boku>(I wonder if someone is in the\nbathroom...)"
                             ]
                         },
                         {
@@ -22064,21 +22064,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>（⁉"
+                                "\\N<Boku>(⁉Someone's coming out...⁉I better hide\nsomewhere!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　出てきちゃう…⁉"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　どっかにいっちゃおー！）"
+                                ""
                             ]
                         },
                         {
@@ -22261,7 +22261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>（だれか、トイレに入ってるのかな…？）"
+                                "\\N<Boku>(I wonder if someone is in the\nbathroom...)"
                             ]
                         },
                         {
@@ -23016,28 +23016,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>（⁉"
+                                "\\N<Boku>(⁉ They might come out...⁉ They might\nnotice that I was watching...⁉ I should hide\nsomewhere!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　出てきちゃう…⁉"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　見てたのばれちゃうかも…⁉"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　どっかにいっちゃおー！）"
+                                ""
                             ]
                         },
                         {

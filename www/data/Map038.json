@@ -2077,21 +2077,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ハカセくん>「うーん…。"
+                                "\\N<Hakase-kun>Hmm... Is this bug the same as the\none I caught earlier?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　この虫は、この前つかまえたのと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　同じか…」"
+                                ""
                             ]
                         },
                         {
@@ -2305,21 +2305,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「でっかいクモの巣だ！"
+                                "\\N<Boku>It's a huge spider web!... I can't touch\nthis... If only there was something like a wooden\nbranch..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　…これはさわれないよ…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　何か木の枝みたいなのがあればなー…」"
+                                ""
                             ]
                         },
                         {
@@ -2464,28 +2464,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「あっ⁉"
+                                "\\N<Boku>Ah! There's a discarded saw! It's rusty,\nbut it still seems usable... With this, I can fix\nthe bridge!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ノコギリが捨ててある！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　さびてるけど、まだ使えそう…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　これがあれば、橋を直せるぞ！」"
+                                ""
                             ]
                         },
                         {
@@ -2542,7 +2542,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「うわ、がらくたがいっぱいだ…」"
+                                "\\N<Boku>Wow, there's a lot of junk here..."
                             ]
                         },
                         {

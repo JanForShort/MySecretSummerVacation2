@@ -5014,7 +5014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「カギがかかってるや」"
+                                "\\N<Boku>The door is locked."
                             ]
                         },
                         {
@@ -5103,7 +5103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「カギがかかってるや」"
+                                "\\N<Boku>The door is locked."
                             ]
                         },
                         {
@@ -5192,7 +5192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「カギがかかってるや」"
+                                "\\N<Boku>The door is locked."
                             ]
                         },
                         {
@@ -5281,7 +5281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「カギがかかってるや」"
+                                "\\N<Boku>The door is locked."
                             ]
                         },
                         {
@@ -5370,7 +5370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「カギがかかってるや」"
+                                "\\N<Boku>The door is locked."
                             ]
                         },
                         {
@@ -5498,7 +5498,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>（カギがかかってる）"
+                                "\\N<Boku>(It's locked)"
                             ]
                         },
                         {
@@ -5706,7 +5706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「カギがかかってるや」"
+                                "\\N<Boku>The door is locked."
                             ]
                         },
                         {
@@ -5795,7 +5795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「カギがかかってるや」"
+                                "\\N<Boku>The door is locked."
                             ]
                         },
                         {
@@ -5884,7 +5884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「カギがかかってるや」"
+                                "\\N<Boku>The door is locked."
                             ]
                         },
                         {
@@ -5973,7 +5973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「カギがかかってるや」"
+                                "\\N<Boku>The door is locked."
                             ]
                         },
                         {
@@ -6142,7 +6142,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>（カギがかかってる）"
+                                "\\N<Boku>(It's locked)"
                             ]
                         },
                         {
@@ -7822,7 +7822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「絵日記、かこっと」"
+                                "\\N<Boku>My Diary, Past and Present"
                             ]
                         },
                         {
@@ -7911,132 +7911,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "注意：少年時代の楽しい時間は、"
+                                "  Note: The enjoyable moments of childhood pass by\nin the blink of an eye. This game progresses in\nreal time, meaning that time will continue to move\nforward. Additionally, time will also advance with\neach action taken and each transition between\nmaps."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっという間に過ぎてしまいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本ゲームはリアルタイムで時間が進行していきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また、各行動やマップの切り替えでも時間は進みます。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マップ切り替えでの時間経過は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "場所によって異なりますので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご注意下さい。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リアルタイムでの時間の進む速さは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイテムの\"時計\"で変更することができます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また、アイテム\"おもしろい本\"を使うことで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "時間をすぐに進めることもできます。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただし、ゲームバランスは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\"ふつう\"の速さを基準にしています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -8056,28 +7949,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無暗に速度を変更したり進めると"
+                                "Please note that the passage of time during map\ntransitions may vary depending on the location."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ゲームバランスが崩れる恐れがありますのでご注意ください。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ゲームシステムを理解したうえで二周目以降等で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "使用することをお勧めします。"
+                                ""
                             ]
                         },
                         {
@@ -8094,28 +7980,142 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おばちゃんの呼び名の変更等は"
+                                "The speed at which time progresses in real time\ncan be changed with the clock item. Additionally,\nyou can instantly advance time by using the fun\nbook item."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アイテム\"自由帳\"で変更できます。"
+                                "However, the game balance is based on the normal\nspeed."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その他の設定等は、"
+                                "Please be careful as changing or advancing the\nspeed of time without caution may disrupt the game\nbalance. It is recommended to use such features in\nsubsequent playthroughs or after understanding the\ngame system. [v0]"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オプションで確認、変更して下さい。"
+                                "You can change the way you address Auntie using\nthe Freedom Notebook item. For other settings,\nplease check and modify them in the options."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8497,14 +8497,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<\\N[2]>「あら、遊びに行くの？"
+                                "\\N<\\N[2]> Oh, are you going out to play? Be\ncareful of snakes and bees, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　蛇や蜂には気を付けてね」"
+                                ""
                             ]
                         },
                         {
@@ -8549,14 +8549,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<\\N[2]>「久しぶりのお客さんだし"
+                                "\\N<\\N[2]> It's been a while since we had a\ncustomer, so I need to clean thoroughly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　念入りにお掃除しなくっちゃ」"
+                                ""
                             ]
                         },
                         {
@@ -8601,14 +8601,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<\\N[2]>「ボク君は毎日元気ね♥"
+                                "\\N<\\N[2]>You're always full of energy, Boku-kun ♥\nShall I share a little with \\N[2] too? ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　\\N[2]にも少し分けてもらおうかしら♥」"
+                                ""
                             ]
                         },
                         {
@@ -8662,14 +8662,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<\\N[2]>「少しづつ、蝉の声も変わってきたわね…。"
+                                "\\N<\\N[2]> The sound of the cicadas is gradually\nchanging... Have you finished your summer homework\nproperly?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "　…夏休みの宿題、ちゃんと終わってる？」"
+                                ""
                             ]
                         },
                         {
@@ -8723,28 +8723,28 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<\\N[2]>「……もう、夏も終わりね…。"
+                                "\\N<\\N[2]> ...Summer is already coming to an end...\nI wonder if Onee-chan will be able to wake up\nproperly... Boku-kun, you shouldn't stay up late\nall the time either."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "　……お姉ちゃん、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "　ちゃんと起きれるようになるのかしら…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "　ボク君も夜更かしばかりしちゃだめよ」"
+                                ""
                             ]
                         },
                         {
@@ -8787,14 +8787,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<\\N[2]>「ボク君は毎日元気ね♥"
+                                "\\N<\\N[2]>You're always full of energy, Boku-kun ♥\nShall I share a little with \\N[2] too? ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "　\\N[2]にも少し分けてもらおうかしら♥」"
+                                ""
                             ]
                         },
                         {
@@ -9051,21 +9051,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「あれ？"
+                                "\\N<Boku>Huh? A letter...? Is it addressed to me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　手紙がある…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ぼく宛て？」"
+                                ""
                             ]
                         },
                         {
@@ -9082,21 +9082,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dear ボク"
+                                "Dear Boku, If you are reading this letter, I won't\nbe there anymore."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "If you are reading this letter,"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "I won't be there anymore"
+                                ""
                             ]
                         },
                         {
@@ -9113,14 +9113,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But don't be sad."
+                                "But don't be sad.I'm sure we'll meet again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "I'm sure we'll meet again.\""
+                                ""
                             ]
                         },
                         {
@@ -9137,21 +9137,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うぅ…。"
+                                "\\N<Boku>Ugh... It's written in a foreign language\nand I can't read it at all..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　外国語で書いてあって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　全然読めないよ…」"
+                                ""
                             ]
                         },
                         {
@@ -9168,59 +9168,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "PS"
+                                "Please make sure you can read this by the next\ntime we meet. From Jesse."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "次会う時までに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "読めるようになっておいてください。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ジェシーより。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ボク>「これ、ジェシーからの手紙だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　次に会うまでに読めるようになってって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そっか…。もう帰っちゃったんだ…」"
+                                ""
                             ]
                         },
                         {
@@ -9237,21 +9206,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「……。"
+                                "\\N<Boku>This is a letter from Jesse! She wants me\nto be able to read it by the next time we meet...\nI see... she's already gone..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　よーし！"
+                                "\\N<Boku>.......Alright! I'll do my best to be able\nto read it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　がんばって読めるようになるぞー！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9371,21 +9371,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「あれ？"
+                                "\\N<Boku>Huh? A letter...? Is it addressed to me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　手紙がある…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ぼく宛て？」"
+                                ""
                             ]
                         },
                         {
@@ -9402,21 +9402,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dear ボク"
+                                "Dear Boku, If you are reading this letter, I won't\nbe there anymore."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "If you are reading this letter,"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "I won't be there anymore"
+                                ""
                             ]
                         },
                         {
@@ -9433,14 +9433,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But don't be sad."
+                                "But don't be sad.I'm sure we'll meet again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "I'm sure we'll meet again.\""
+                                ""
                             ]
                         },
                         {
@@ -9457,21 +9457,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うぅ…。"
+                                "\\N<Boku>Ugh... It's written in a foreign language\nand I can't read it at all..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　外国語で書いてあって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　全然読めないよ…」"
+                                ""
                             ]
                         },
                         {
@@ -9488,59 +9488,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "PS"
+                                "Please make sure you can read this by the next\ntime we meet. From Jesse."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "次会う時までに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "読めるようになっておいてください。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ジェシーより。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ボク>「これ、ジェシーからの手紙だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　次に会うまでに読めるようになってって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そっか…。もう帰っちゃったんだ…」"
+                                ""
                             ]
                         },
                         {
@@ -9557,21 +9526,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「……。"
+                                "\\N<Boku>This is a letter from Jesse! She wants me\nto be able to read it by the next time we meet...\nI see... she's already gone..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　よーし！"
+                                "\\N<Boku>.......Alright! I'll do my best to be able\nto read it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　がんばって読めるようになるぞー！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9843,7 +9843,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「こんにちわ、お姉さん」"
+                                "\\N<Boku>Hello, Onee-chan."
                             ]
                         },
                         {
@@ -9860,52 +9860,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉ちゃん>「Oh,cute boy."
+                                "\\N<Onee-chan>Oh, cute boy. Hello. Are you a guest\nat this inn?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ハロー。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　このお宿の子ですかー？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ぼくは、ボク。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　夏休みの間、ここに住んでるんだ」"
+                                ""
                             ]
                         },
                         {
@@ -9922,45 +9891,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉ちゃん>「OK,ボク。"
+                                "\\N<Boku>Yeah, it's me. I'm Boku. I'm living here\nduring summer vacation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　マイネームイズ、ジェシカ＝グリーン。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ジェシーって呼んでくださーい」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「わかった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　よろしくね、ジェシー！」"
+                                ""
                             ]
                         },
                         {
@@ -9977,14 +9922,69 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ジェシー>「that's right."
+                                "\\N<Onee-chan>Okay, Boku. My name is Jessica Green.\nPlease call me Jesse."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　よろしくお願いしまーす、ボク」"
+                                "\\N<Boku>Got it! Nice to meet you, Jesse!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Jesse>That's right. Nice to meet you, Boku.\nPlease take care of me!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10036,52 +10036,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「ねーねー。"
+                                "\\N<Boku>Hey, hey. Jesse, why did you come to this\ntown?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ジェシーは何で、この町に来たの？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ジェシー>「オー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ニッポンの夏、ベリーホットでーす。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　でもこの町、程よくクールなので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ひ…ヒショに来てまーす」"
+                                ""
                             ]
                         },
                         {
@@ -10098,52 +10060,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ジェシー>「ここのお宿は"
+                                "\\N<Jesse>Oh, the summer in Japan is very hot. But\nthis town is pleasantly cool, so I... I came here\nsecretly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　オフシーズンでリーズナブルでーす。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　それにご飯もおいしーです。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ちょっとお部屋は狭いですがー…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ジェシー>「リトルなころに住んでいた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　モービルホームを思い出しまーす」"
+                                ""
                             ]
                         },
                         {
@@ -10160,45 +10098,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「もーびるほーむ…？"
+                                "\\N<Jesse>This inn is affordable during the off-\nseason. Plus, the food is delicious. The rooms are\na bit small though..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　何それ？」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ジェシー>「モービルホームは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　車で引っ張れるホイールのついた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　移動できるお家でーす」"
+                                ""
                             ]
                         },
                         {
@@ -10215,45 +10136,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「えー⁉　何それー⁉"
+                                "\\N<Jesse>It reminds me of the mobile home I lived\nin when I was little."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　すごーい！　かっこいい‼」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ジェシー>「オー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　それじゃあボクがアメーリカに来たら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　乗せてあげまーす」"
+                                ""
                             ]
                         },
                         {
@@ -10270,14 +10160,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「わーい！"
+                                "\\N<Boku>Mobile home...? What's that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　きっと行くね！」"
+                                ""
                             ]
                         },
                         {
@@ -10294,7 +10184,117 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ジェシー>「ウエルカムでーす」"
+                                "\\N<Jesse>A mobile home is a movable house with\nwheels that can be pulled by a car."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Boku>Eh? What's that? That's amazing! So cool!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Jesse>Oh, in that case, if I go to America,\nI'll give you a ride!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Boku>Yay! I'll definitely go!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Jesse>Welcome!"
                             ]
                         },
                         {
@@ -10512,52 +10512,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>「じゃ、じゃあ、ボク君…。"
+                                "\\N<\\N[2]> T-Then, Boku-kun... I-I'll do it with my\nmouth again..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　また、口でしてあげるわね…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ボク>「えー…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ぼく、セックスがしたい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　エッチって本当は、セックスするんだよね…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\N[2]とセックスしたいよー…」"
+                                ""
                             ]
                         },
                         {
@@ -10574,52 +10536,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>「だ、ダメよ、そんなの…！"
+                                "\\N<Boku>Um...? I want to have sex... Is it true\nthat sex is, well, actually about having sex? I\nwant to have sex with \\N[2]..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そんな…セックスだなんて…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ね？　口で我慢しましょう？」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ボク>「うぅ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　\\N[2]は、そんなにぼくと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　セックスしたくないの…？」"
+                                ""
                             ]
                         },
                         {
@@ -10636,52 +10574,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>「う…。"
+                                "\\N<\\N[2]> N-No, that's not...! Something like\nthat... sex, you mean...? Should we endure it with\nour mouths?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そ、そんなことはないのよ…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　でもね…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ボク>「じゃあ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　セックスしてもいいでしょ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ね…？」"
+                                ""
                             ]
                         },
                         {
@@ -10698,28 +10605,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>「うーん…。"
+                                "\\N<Boku>Ugh... \\N[2], you don't really want to\nhave sex with me, do you...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　セックスなんて流石にまずいわよね…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　でも、ボク君も納まりがつきそうもないし…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　……そうだ。お尻ならまだ、大丈夫かしら…？」"
+                                ""
                             ]
                         },
                         {
@@ -10736,59 +10636,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>「ボク君、その…"
+                                "\\N<\\N[2]> Ugh... Th-That's not true... but, you\nsee..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お、お尻なら…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　セックスしてもいいわよ…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ボク>「お尻…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お尻でもセックスが出来るの…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うん、したい…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お尻でセックス、してみたい！」"
+                                ""
                             ]
                         },
                         {
@@ -10805,28 +10667,166 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>「わ、わかったわ。"
+                                "\\N<Boku>Then, is it okay if we have sex...?\nRight...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　じゃ、じゃあ、ちょっと待っててね。"
+                                "\\N<\\N[2]> Hmm... Having sex is really not good,\nright... But, Boku-kun doesn't seem satisfied\neither... I know. Maybe it's okay if it's just the\nbutt...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　少し準備がいるから…。"
+                                "\\N<\\N[2]> Boku-kun, um... If it's... the, the\nbutt... it's okay to have sex..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　…まだ、ローションあったかしら…」"
+                                "\\N<Boku>The butt...? Can you have sex with the\nbutt...? Yeah, I want to...! I want to try having\nsex with the butt!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<\\N[2]> I-I understand. W-Well then, just wait a\nmoment. I need to prepare a bit... I wonder if\nthere's still some lubricant left..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10909,21 +10909,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>「おまたせ、ボク君…♥"
+                                "\\N<\\N[2]> Sorry to keep you waiting, Boku-kun... ♥\nWell then, shall we...? \\N[2] Sex with the butt...\n♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それじゃあ、しよっか…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　\\N[2]とお尻のセックス…♥」"
+                                ""
                             ]
                         },
                         {
@@ -11162,21 +11162,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>「それじゃあ、ボク君…♥"
+                                "\\N<\\N[2]>Well then, Boku-kun... ♥ What kind of\nthings do you want to do with Sacchan today...? ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日は、\\N[2]と"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どんなことしたい…？♥」"
+                                ""
                             ]
                         },
                         {
@@ -11285,7 +11285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ミカちゃん>「カギ、ちゃんとかけた？」"
+                                "\\N<Mika-chan>Did you lock the door properly?"
                             ]
                         },
                         {
@@ -11302,7 +11302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「う、うん」"
+                                "\\N<Boku>Y-Yeah"
                             ]
                         },
                         {
@@ -11319,21 +11319,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ミカちゃん>「ならいいわ。"
+                                "\\N<Mika-chan>Well, that's good then. Now, hurry up\nand take off your clothes. You want to do\nsomething naughty, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　じゃあ、早く服脱いで。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エッチなこと、したいんでしょ？」"
+                                ""
                             ]
                         },
                         {
@@ -11350,7 +11350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「う、うん…！」"
+                                "\\N<Boku>Y-Yeah...!"
                             ]
                         },
                         {
@@ -11568,45 +11568,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ミカちゃん>「わっ…。"
+                                "\\N<Mika-chan>Ah... your penis is already getting\nbigger... You wanted to do something naughty with\nme so quickly... ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もう、おちんちん大きくなってる…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そんなにはやく、あたしとエッチなこと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　したかったんだ…♥」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ボク>「う、うぅ…」"
+                                ""
                             ]
                         },
                         {
@@ -11623,21 +11606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ミカちゃん>「じゃあ、エッチなこと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しちゃおっか…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ベッドに行こ…♥」"
+                                "\\N<Boku>U-uhh..."
                             ]
                         },
                         {
@@ -11654,7 +11623,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「う、うん…！」"
+                                "\\N<Mika-chan>Well then, shall we do something\nnaughty...? Let's go to the bed... ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Boku>Y-Yeah...!"
                             ]
                         },
                         {
@@ -11695,38 +11695,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ミカちゃん>「ボクは、オナニーって知ってる…？"
+                                "\\N<Mika-chan>Do you know about masturbation,\nBoku...? It's a really naughty and pleasurable\nthing, you know...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　すごくエッチで、気持ちいいことなのよ…？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ボク>「う、うん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　知ってるよ…」"
+                                ""
                             ]
                         },
                         {
@@ -11743,28 +11719,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ミカちゃん>「え？"
+                                "\\N<Boku>Y-Yeah... I know..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そ、そうなんだ…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　へー……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　男の子って、そういうの知ってるものなんだ…」"
+                                ""
                             ]
                         },
                         {
@@ -11781,45 +11743,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ミカちゃん>「で、でも"
+                                "\\N<Mika-chan>Eh? I-Is that so...? Wow... Boys,\nthey know about those things, huh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　女の子がオナニーしてる所は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　見たことないでしょ…？」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                2,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ボク>「う、うん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　見たことない…」"
+                                ""
                             ]
                         },
                         {
@@ -11836,28 +11781,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ミカちゃん>「じゃあ今から"
+                                "\\N<Mika-chan>B-But you've never seen a girl\nmasturbating, right...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あたしがオナニーしてるところ見せてあげるから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ボクもそのまま"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　オナニーしていいよ♥」"
+                                ""
                             ]
                         },
                         {
@@ -11874,28 +11812,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「えぇ…？"
+                                "\\N<Boku>Y-Yeah... I've never seen it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ぼくがオナニーしてるところ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ミカちゃんに見せるの…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　はずかしいよぉ…」"
+                                ""
                             ]
                         },
                         {
@@ -11912,28 +11836,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ミカちゃん>「な、何よ⁉"
+                                "\\N<Mika-chan>Then, from now on, I'll show you me\nmasturbating, so you can masturbate too ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あたしだって恥ずかしいのを我慢して見せるんだから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お相子でしょ！　エッチなことしたかったんでしょ⁉"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なら、オナニー見せてよね！」"
+                                ""
                             ]
                         },
                         {
@@ -11950,14 +11874,90 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うー…。"
+                                "\\N<Boku>Huh...? You want me to show you when I'm\nmasturbating, Mika-chan...? That's embarrassing..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　わ、わかったー…」"
+                                "\\N<Mika-chan>W-What?! I'm willing to endure the\nembarrassment and show you, so you should do the\nsame! You wanted to do something naughty, right?!\nThen show me your masturbation!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Boku>Ugh... O-Okay..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11981,45 +11981,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ミカちゃん>「うーん…。"
+                                "\\N<Mika-chan>Hmm... Well, I guess it's okay. To\nmake a baby, there are certain things like\novulation days and safe days that need to be\nconsidered."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　まあ、大丈夫よね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　赤ちゃんつくるには何か排卵日？とか安全日？とか、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　色々決まりがあるみたいだし」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ボク>「そ、そうなんだ…？」"
+                                ""
                             ]
                         },
                         {
@@ -12036,28 +12019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ミカちゃん>「気にしない気にしない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そもそも大人にならなきゃ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　赤ちゃんは出来ないんでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…それに、気持ち良かったしね♥」"
+                                "\\N<Boku>I-Is that so...?"
                             ]
                         },
                         {
@@ -12074,52 +12036,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「う、うん…。"
+                                "\\N<Mika-chan>Don't worry about it, don't worry.\nAfter all, you can't make a baby unless you become\nan adult... Besides, it felt good, you know ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　すごく、きもちよかった…」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                2,
-                                2
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ミカちゃん>「でしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　セックスって、こんなに気持ちいいのね…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　また今度、してあげてもいいかも…♥」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　"
+                                ""
                             ]
                         },
                         {
@@ -12136,52 +12074,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「え!? "
+                                "\\N<Boku>Y-Yeah... It felt really good..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ホント⁉」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                2,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ミカちゃん>「あ、でも、毎日はダメよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　セックスをしすぎると頭が悪くなるって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　噂で聞いたことあるし…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　"
+                                ""
                             ]
                         },
                         {
@@ -12198,7 +12098,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「そ、そうなの…？」"
+                                "\\N<Mika-chan>See? Sex feels this good...♥ Maybe\nnext time, I can do it for you again...♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12215,28 +12136,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ミカちゃん>「よくわかんない♥"
+                                "\\N<Boku>Eh!? Really⁉"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　しょせん、噂だしね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ま、何にしても気を付けるのに越したことはないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ただでさえ夏って妙にムラムラするし…」"
+                                ""
                             ]
                         },
                         {
@@ -12253,7 +12160,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「ふーん…？」"
+                                "\\N<Mika-chan>Oh, but not every day, okay? I heard\na rumor that having too much sex makes you dumb..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12270,28 +12198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ミカちゃん>「あ、そうだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お使いしなくちゃいけないんだった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あたし、もう帰るわよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃね！」"
+                                "\\N<Boku>I-Is that so...?"
                             ]
                         },
                         {
@@ -12308,14 +12215,107 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「う、うん。"
+                                "\\N<Mika-chan>I don't really understand ♥ After\nall, it's just a rumor ♥ Well, no matter what,\nit's always better to be cautious. Especially\nduring summer, when you tend to feel strangely\naroused..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　バイバイ、ミカちゃん」"
+                                "\\N<Boku>Hmmm...?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Mika-chan>Oh, that's right! I have to run an\nerrand! I'm going home now! See you!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Boku>Y-Yeah. Goodbye, Mika-chan."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -12625,21 +12625,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ミカちゃん>「ちゃんとカギ、かけたわね？"
+                                "\\N<Mika-chan>You made sure to lock the door,\nright? So, um, what do you plan on doing today?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　じゃ、じゃあ、今日はどんなこと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　するつもりなの？」"
+                                ""
                             ]
                         },
                         {
@@ -12920,14 +12920,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユウくん>「じゃあ今日は"
+                                "\\N<Yu-kun>So, what should we do today?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どんなことしようか？」"
+                                ""
                             ]
                         },
                         {
@@ -13351,28 +13351,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「あ…。"
+                                "\\N<Boku>Ah... Jesse, you're sleeping... I wonder\nif it's okay to play a little prank on you...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ジェシー、ねむってる…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　……ちょっとだけなら、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　いたずらしてもいいかな…？」"
+                                ""
                             ]
                         },
                         {
@@ -13411,14 +13411,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>（…ちょっとぐらい、いいよね…。"
+                                "\\N<Boku>(Is it okay... just a little bit... to\ntake a peek...? Just a quick look...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　ほんの少し…ちょっと見るだけだから…）"
+                                ""
                             ]
                         },
                         {
@@ -13540,28 +13540,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>（…お、おきてない…よね…？"
+                                "\\N<Boku>(...Oh, you're not awake... right...? If\nyou won't wake up even with this... I wonder if\nit's okay... just a little bit... to play a\nprank...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　…これぐらいでもおきないなら…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　も、もうちょっとだけ…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　いたずらしてもいいかな…？）"
+                                ""
                             ]
                         },
                         {
@@ -13679,21 +13679,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ボク>（や、やっぱりダメダメ！"
+                                "\\N<Boku>(N-No, no good! I have to put your clothes\nback before you wake up...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　おきる前に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　服をもどさなきゃ…！）"
+                                ""
                             ]
                         },
                         {
@@ -13881,21 +13881,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「あ…。"
+                                "\\N<Boku>Ah... Jesse, you're sleeping... It's\nprobably better not to wake you up..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ジェシー、ねむってる…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　おこさない方がいいよね…」"
+                                ""
                             ]
                         },
                         {
@@ -14060,21 +14060,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「…ジェシーの"
+                                "\\N<Boku>...Jesse's panties are here... I wonder if\nit's okay to take just one..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　パンツがある…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　一枚ぐらいなら、もらってもいいかな…？」"
+                                ""
                             ]
                         },
                         {
@@ -14136,7 +14136,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「やっぱり、やーめた」"
+                                "\\N<Boku>Never mind, I changed my mind."
                             ]
                         },
                         {
@@ -14721,21 +14721,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲームクリアおめでとうございます。"
+                                "Congratulations on clearing the game. The secret\nattic room has been unlocked after clearing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "クリア後のコンテンツ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "”ひみつの屋根裏部屋”が解放されました。"
+                                ""
                             ]
                         },
                         {
@@ -14773,7 +14773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらのドアが開くようになっており…"
+                                "This door has become unlocked..."
                             ]
                         },
                         {
@@ -14799,21 +14799,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この梯子から\"ひみつの屋根裏部屋\"に入ることが出来ます。"
+                                "You can enter the 'Secret Attic Room' from this\nladder. The 'Secret Attic Room' can be accessed in\nNew Game mode and Endless mode as well."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\"ひみつの屋根裏部屋\"は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ニューゲーム時やエンドレスモードでも使用可能です。"
+                                ""
                             ]
                         },
                         {

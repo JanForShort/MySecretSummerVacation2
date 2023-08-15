@@ -3592,21 +3592,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うーん…？"
+                                "\\N<Boku>Hmm...? It's probably better not to go too\nfar... Let's not go any further than this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あんまり遠くには行かない方がいいよね…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これ以上行くのや、やめとこーっと」"
+                                ""
                             ]
                         },
                         {

@@ -2013,14 +2013,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ボク>「あ、もうこんな時間か…。"
+                                "\\N<Boku>Ah, is it already this late... Let's stop\nfor today."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　今日はもう、やめとこう」"
+                                ""
                             ]
                         },
                         {
@@ -2180,14 +2180,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「あ…。"
+                                "\\N<Boku>Ah... I forgot, Onee-chan is not here\nanymore..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おばさんもう、いないんだった…」"
+                                ""
                             ]
                         },
                         {
@@ -2691,7 +2691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「カギがかかってるや」"
+                                "\\N<Boku>The door is locked."
                             ]
                         },
                         {
@@ -2953,21 +2953,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「あー…。"
+                                "\\N<Boku>Ah... my airplane, it's in such a place...\nugh... I can't reach it like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　ぼくのヒコーキ、あんなところにある…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　うー…。これじゃとれないよ…」"
+                                ""
                             ]
                         },
                         {
@@ -2984,21 +2984,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「このお家、今は誰もいないみたいだし"
+                                "\\N<Boku>It seems like nobody is in this house\nright now, so I guess I have no choice but to give\nup... sigh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　あきらめるしかないか…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　とほほ…」"
+                                ""
                             ]
                         },
                         {
@@ -3051,21 +3051,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「あー…。"
+                                "\\N<Boku>Ah... my airplane, it's in such a place...\nugh... I can't reach it like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ぼくのヒコーキ、あんなところにある…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　うー…。これじゃとれないよ…」"
+                                ""
                             ]
                         },
                         {
@@ -3234,7 +3234,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<おばさん>「これ、坊やの紙飛行機？」"
+                                "\\N<Aunt>Is this your paper airplane, kiddo?"
                             ]
                         },
                         {
@@ -3251,28 +3251,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「うん。"
+                                "\\N<Boku>Yeah... I was flying it over there, but it\nflew all the way here... I'm sorry."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　向こうで飛ばしてたら、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ここまで飛んで行っちゃったんだ…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ごめんなさい」"
+                                ""
                             ]
                         },
                         {
@@ -3289,14 +3289,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<おばさん>「んふふ。"
+                                "\\N<Aunt>Hehe, it's fine, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　別にいいのよ。」"
+                                ""
                             ]
                         },
                         {
@@ -3681,7 +3681,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<おばさん>「はい、どうぞ」"
+                                "\\N<Aunt>Here, please take it."
                             ]
                         },
                         {
@@ -3698,45 +3698,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「わーい！"
+                                "\\N<Boku>Yay! Thank you, Aunt!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ありがとー、おばさん！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<おばさん>「んふふ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　あらあら、かわいい坊やね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　この近くに住んでるのかしら？」"
+                                ""
                             ]
                         },
                         {
@@ -3753,52 +3722,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「うん！"
+                                "\\N<Aunt>Hehe, oh my, you're such a cute little\none. I wonder if you live nearby?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　夏休みの間だけ、この町に住んでるんだ！」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<おばさん>「あらそうなの…。ねえ、坊や。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　お菓子があるから、おばさんのお家でお茶にしない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ちょうど退屈だったから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　話し相手になってくれないかしら？」"
+                                ""
                             ]
                         },
                         {
@@ -3815,7 +3753,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「うん！　いいよ！」"
+                                "\\N<Boku>Yeah! I'm living in this town just for the\nsummer vacation!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3832,14 +3777,69 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<おばさん>「そう、いい子ね…♥"
+                                "\\N<Aunt>Oh, is that so... Hey, kiddo. I have some\nsnacks, would you like to have tea at Auntie's\nhouse? I was just feeling bored, so would you be\nmy conversation partner?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　さ、こっちにいらっしゃい」"
+                                "\\N<Boku>Yeah! That's fine!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Aunt>That's right, you're a good kid... ♥ Come\nover here."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

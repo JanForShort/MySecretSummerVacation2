@@ -3330,28 +3330,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「ここがボスくんが言ってた"
+                                "\\N<Boku>Is this the secret path to the fishing\nspot that Boss-kun mentioned...? Oh, there's a\nrope hidden in the tree! I guess I should pull\nit..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　釣りの穴場への抜け道かな…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あ、木の中にロープがある！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これをたらせばいいのか…」"
+                                ""
                             ]
                         },
                         {
@@ -3472,7 +3472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「これでよし！」"
+                                "\\N<Boku>This should do it!"
                             ]
                         },
                         {

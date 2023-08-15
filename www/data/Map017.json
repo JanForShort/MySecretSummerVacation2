@@ -3456,21 +3456,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「えっと…。"
+                                "\\N<Boku>Um... it's not good to enter someone's\nhouse without permission, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　知らない人の家に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　かってに入ったらダメだよね…」"
+                                ""
                             ]
                         },
                         {
@@ -3547,21 +3547,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「えっと…。"
+                                "\\N<Boku>Um... it's not good to enter someone's\nhouse without permission, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　知らない人の家に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　かってに入ったらダメだよね…」"
+                                ""
                             ]
                         },
                         {
@@ -3638,21 +3638,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「えっと…。"
+                                "\\N<Boku>Um... it's not good to enter someone's\nhouse without permission, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　知らない人の家に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　かってに入ったらダメだよね…」"
+                                ""
                             ]
                         },
                         {
@@ -3800,14 +3800,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「ねえ、おじいさん。"
+                                "\\N<Boku>Hey, Grandpa. There's something I want to\nask you, can I?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ちょっと聞きたいことがあるんだけど？」"
+                                ""
                             ]
                         },
                         {
@@ -3824,14 +3824,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<おじいさん>「んー？"
+                                "\\N<Grandfather>Hmm? What is it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　何じゃー？」"
+                                ""
                             ]
                         },
                         {
@@ -3848,21 +3848,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「そこの川の向こうの滝でね"
+                                "\\N<Boku>Hey, Grandpa. Do you know the story about\nnot swimming alone in the waterfall across the\nriver over there in the evening?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　夕方に一人で泳いじゃいけないってお話"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　知ってる？」"
+                                ""
                             ]
                         },
                         {
@@ -3879,25 +3879,25 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<おじいさん>「おー、懐かしいのう。"
+                                "\\N<Grandfather>Oh, that's nostalgic. Yes, I know.\nI heard it from my grandfather when I was young."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　知っておるとも。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　わしも昔、ひい爺さんから聞いたからのう」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
                                 ""
@@ -3926,52 +3926,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「え⁉"
+                                "\\N<Boku>What? Really?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ホント⁉」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<おじいさん>「ああ、本当じゃとも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　何でもこの山には、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　男の精を喰らうて生き永らえる川姫様という"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　あやかしが住んでおるとの話での」　"
+                                ""
                             ]
                         },
                         {
@@ -3988,59 +3950,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<おじいさん>「川姫様は夕暮れに河原に近づく童の"
+                                "\\N<Grandfather>Ah, it's true. There's a legend\nthat says there's a river princess living in these\nmountains who survives by devouring men's essence."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　魂を吸い取ってしまうとか…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　まあ、夕暮れの水辺は危ないからの。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　子供は近づくなという意味の迷信じゃろ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<おじいさん>「じゃがの…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　実はわしは一度だけ、わっぱのころに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　夕暮れの河原で妙な体験をしての…」"
+                                ""
                             ]
                         },
                         {
@@ -4057,66 +3988,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<おじいさん>「川の向こうで肌の白い"
+                                "\\N<Grandfather>They say that the river princess\nabsorbs the souls of children who approach the\nriverbank in the evening... Well, it's just a\nsuperstition that means children should not\napproach the water's edge during dusk, as it can\nbe dangerous."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　髪の長いおなごを見かけたんじゃが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　見た途端、気を失ってしまっての…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　その後三日間寝込んで大変じゃった…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<おじいさん>「皆に話したが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　河原で寝て夏風邪でもひいて熱に浮かされていただろうと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　誰も信じてはくれんかったが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　もしかしたらあれは、川姫様じゃったのかもしれんな…」"
+                                ""
                             ]
                         },
                         {
@@ -4133,28 +4026,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<おじいさん>「なんての。"
+                                "\\N<Grandfather>Well... Actually, I had a strange\nexperience once on the riverbank during dusk when\nI was a child..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　もう何十年も前の話じゃし、それから恐ろしうて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　夕暮れの河原には近づいておらんから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　おかげでこうして、事故もなく長生きできておる」"
+                                ""
                             ]
                         },
                         {
@@ -4171,69 +4057,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<おじいさん>「おぬしも"
+                                "\\N<Grandfather>I saw a pale-skinned, long-haired\ngirl across the river, but as soon as I saw her, I\nlost consciousness... After that, I was bedridden\nfor three days, it was quite a ordeal..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　気を付けるんじゃぞ」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「はーい」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>（うーんと…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　お話が長くてよくわかんなかったけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　夕方の河原に女の子がいて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　セイを食べるってこと…？）"
+                                ""
                             ]
                         },
                         {
@@ -4250,28 +4095,183 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>（セイって何のことかわかんないけど"
+                                "\\N<Grandfather>I told everyone that I caught a\nsummer cold from sleeping on the riverbank and\nbeing feverish, but no one believed me. But maybe,\njust maybe, that was the river princess after\nall..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　もしかして、エッチなことかな…？"
+                                "\\N<Grandfather>Well, that's an old story from many\ndecades ago, and since then, I haven't approached\nthe riverbank during dusk out of fear. Thanks to\nthat, I've been able to live a long life without\nany accidents."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　だったら全然怖くないし、やっぱりもう一回"
+                                "\\N<Grandfather>You should be careful too."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　夕方にあの場所に行ってみようかな？）"
+                                "\\N<Boku>Yes."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Boku>(Hmm... The story was long and I didn't\nquite understand, but there's a girl by the\nriverbank in the evening who devours men's\nessence...?)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Boku>(I don't really understand what essence\nmeans, but could it be something naughty...? If\nthat's the case, then I'm not scared at all. Maybe\nI should go to that place again in the evening?)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4309,7 +4309,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<おじいさん>「今日もいい天気じゃのう…」"
+                                "\\N<Grandfather>It's a nice weather today, isn't\nit..."
                             ]
                         },
                         {

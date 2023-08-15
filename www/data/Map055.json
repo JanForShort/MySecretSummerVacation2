@@ -2908,21 +2908,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ハカセくん>「あー、ボクくん、いらっしゃい。"
+                                "\\N<Hakase-kun>Ah, Boku-kun, welcome. You've come\nto play, right? So, what do you want to do?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　遊びに来てくれたんだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　じゃあ、何してあそぼっか？」"
+                                ""
                             ]
                         },
                         {
@@ -2949,28 +2949,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ハカセくん>「あー、ボクくん、いらっしゃい。"
+                                "\\N<Hakase-kun>Ah, Boku-kun, welcome. You've come\nto play, right? Here, this is it. It's the\npromised mechanical rhinoceros beetle."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　遊びに来てくれたんだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　はい、これ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　約束のメカカブトムシだよ」"
+                                ""
                             ]
                         },
                         {
@@ -3080,14 +3080,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "\\# Mechanical Rhinoceros Beetle MkII"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\#メカカブトムシMkII"
+                                ""
                             ]
                         },
                         {
@@ -3231,21 +3231,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「わー！"
+                                "\\N<Boku>Wow! Thank you, Hakase-kun! I'll treasure\nit!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ありがとう、ハカセくん！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　大切にするね！」"
+                                ""
                             ]
                         },
                         {
@@ -3262,14 +3262,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ハカセくん>「うん。"
+                                "\\N<Hakase-kun>Alright. So, what do you want to do?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　じゃあ、何して遊ぼうか？」"
+                                ""
                             ]
                         },
                         {
@@ -3313,45 +3313,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「うーん？"
+                                "\\N<Boku>Hmm? How about playing hide and seek?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　かくれんぼとか？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ハカセくん>「かくれんぼか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　うちの中じゃ狭いし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　代わりに宝探しごっこしない？」"
+                                ""
                             ]
                         },
                         {
@@ -3368,7 +3337,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「宝探しごっこ？」"
+                                "\\N<Hakase-kun>Hide and seek, huh... It's cramped\ninside, so how about we play a treasure hunt\ninstead?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3385,28 +3368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ハカセくん>「ぼくがこのカプセルを家の中に隠すから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ボクくんがそれを探すんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　100秒以内にボクくんが見つけられたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ボクくんの勝ちだよ」"
+                                "\\N<Boku>A treasure hunt, you say?"
                             ]
                         },
                         {
@@ -3423,38 +3385,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「いいね！"
+                                "\\N<Hakase-kun>I'll hide this capsule inside the\nhouse and you, Boku-kun, will search for it. If\nyou can find it within 100 seconds, you win."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　面白そう！」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ハカセくん>「それじゃあ、やろっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　隠してくるから待っててね」"
+                                ""
                             ]
                         },
                         {
@@ -3471,7 +3423,55 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「うん！」"
+                                "\\N<Boku>Sounds good! It seems interesting!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Hakase-kun>Alright then, let's do it. I'll go\nhide, so wait for me."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Boku>Yeah!"
                             ]
                         },
                         {
@@ -3498,7 +3498,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「今日も宝探しごっこしようよ」"
+                                "\\N<Boku>Let's play treasure hunt again today."
                             ]
                         },
                         {
@@ -3515,21 +3515,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ハカセくん>「いいね。"
+                                "\\N<Hakase-kun>Sounds good. Alright then, let's do\nit. I'll go hide, so wait for me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　それじゃあ、やろっか。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　隠してくるから待っててね」"
+                                ""
                             ]
                         },
                         {
@@ -3546,7 +3546,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「うん！」"
+                                "\\N<Boku>Yeah!"
                             ]
                         },
                         {
@@ -3604,14 +3604,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ハカセくん>「１階に隠してきたよ。"
+                                "\\N<Hakase-kun>I hid it on the first floor.\nAlright, let's start!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　じゃあ、スタート！」"
+                                ""
                             ]
                         },
                         {
@@ -3725,14 +3725,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ハカセくん>「１階に隠してきたよ。"
+                                "\\N<Hakase-kun>I hid it on the first floor. Please\ngo find it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　探してきてね」"
+                                ""
                             ]
                         },
                         {

@@ -3022,28 +3022,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お姉さんのアトリエの部屋は、不思議な匂いがした…。"
+                                "The room in Onee-chan's atelier had a mysterious\nscent... Even now, as an adult, when I smell the\nscent of oil paints, the vivid scenery of that\nroom and the gentle sound of wind chimes come to\nmind."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "大人となった今でも、油絵の具の匂いを嗅ぐと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "あの部屋の光景と優しげな風鈴の音が"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "鮮やかに脳裏に浮かぶのだ…。"
+                                ""
                             ]
                         },
                         {
@@ -3797,31 +3797,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<お姉さん>「あら、いらっしゃい、ボク君。"
+                                "\\N<Onee-chan>Oh, welcome, Boku-kun. Have you found\nsomething you want to draw?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　描きたいものは見つかった？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ボク>「ううん、まだ」"
+                                ""
                             ]
                         },
                         {
@@ -3838,21 +3821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<お姉さん>「そっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも、夏休みはまだまだあるし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ゆっくり探したらいいよ」"
+                                "\\N<Boku>No, not yet."
                             ]
                         },
                         {
@@ -3869,21 +3838,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うん！"
+                                "\\N<Onee-chan>I see. But there's still plenty of\nsummer vacation left, so you can take your time\nand look around."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お姉さんは今、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　何描いてるの？」"
+                                ""
                             ]
                         },
                         {
@@ -3900,28 +3869,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<お姉さん>「ふふふ。ナイショ♥"
+                                "\\N<Boku>Yeah! Onee-chan, what are you drawing\nright now?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　来週には完成すると思うよ。"
+                                "\\N<Onee-chan>Hehehe. It's a secret♥ I think it\nwill be finished by next week... Ah, but it might\nbe a bit too stimulating for you, Boku-kun...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　…あー、でも、ボク君にはちょっと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　刺激が強いかな…？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4040,14 +4040,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<お姉さん>「いらっしゃい、ボク君。"
+                                "\\N<Onee-chan>Welcome, Boku-kun. Did you come to\nsee the paintings today?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日も絵を見に来たの？」"
+                                ""
                             ]
                         },
                         {
@@ -4064,14 +4064,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うん！"
+                                "\\N<Boku>Yeah! And I also wanted to see Onee- chan."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それに、お姉さんにも会いたかったし」"
+                                ""
                             ]
                         },
                         {
@@ -4097,14 +4097,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<お姉さん>「あら、嬉しい♥"
+                                "\\N<Onee-chan>Oh, how delightful ♥ You can take\nyour time and stay as long as you want."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ゆっくりしていっていいからね」"
+                                ""
                             ]
                         },
                         {
@@ -4121,7 +4121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うん！」"
+                                "\\N<Boku>Yeah!"
                             ]
                         },
                         {
@@ -4242,31 +4242,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「あ、ボク君。"
+                                "\\N<Onee-chan>Ah, you came again today, Boku-kun ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　今日も来てくれたんだ♥」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「うん！」"
+                                ""
                             ]
                         },
                         {
@@ -4283,21 +4266,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「…でも、もう少しで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　夏休みも終わりだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　蝉の声も変わってきてる…」"
+                                "\\N<Boku>Yeah!"
                             ]
                         },
                         {
@@ -4314,7 +4283,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「……そうだね」"
+                                "\\N<Onee-chan>...But, summer vacation is almost\nover. The sound of cicadas is starting to\nchange..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4331,14 +4314,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「ふふ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　寂しそうだね、ボク君？」"
+                                "\\N<Boku>...Yeah, you're right."
                             ]
                         },
                         {
@@ -4355,7 +4331,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「そ、そんなことないよ！」"
+                                "\\N<Onee-chan>Hehe. You seem lonely, Boku-kun?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4372,21 +4355,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「あらそうなの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　お姉さんはボク君とお別れしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　寂しいけどなー」"
+                                "\\N<Boku>N-No, it's not like that!"
                             ]
                         },
                         {
@@ -4403,45 +4372,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「うぅ…。"
+                                "\\N<Onee-chan>Oh, is that so? Even though Onee-\nchan would feel lonely if she were to part with\nyou, Boku-kun."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　じつは…ぼくも…」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<お姉さん>「ふふ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　じゃあ、残り少ない夏休み"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　もっと楽しまないとね」"
+                                ""
                             ]
                         },
                         {
@@ -4458,7 +4403,62 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「…うん！」"
+                                "\\N<Boku>Ugh... Actually... I also..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Onee-chan>Hehe. Well then, we should enjoy the\nremaining summer vacation to the fullest."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Boku>...Yeah!"
                             ]
                         },
                         {
@@ -4485,38 +4485,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「あら、ボク君。"
+                                "\\N<Onee-chan>Oh, Boku-kun. Welcome ♥ Did you come\nto see Onee-chan today?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　いらっしゃい♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　今日はお姉さんに会いに来てくれたのかな？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「う、うん…！」"
+                                ""
                             ]
                         },
                         {
@@ -4533,21 +4516,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「そっか♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　でも遊んでばかりじゃなくて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ちゃんと宿題もしないとダメよ？」"
+                                "\\N<Boku>Y-Yeah...!"
                             ]
                         },
                         {
@@ -4564,7 +4533,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「はーい」"
+                                "\\N<Onee-chan>I see ♥ But, it's not just about\nplaying, you have to do your homework properly,\nokay?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4581,21 +4564,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「それとも、絵の宿題は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　この前描いたお姉さんの裸の絵…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　持って行っちゃう…？♥」"
+                                "\\N<Boku>Yes."
                             ]
                         },
                         {
@@ -4612,7 +4581,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「だ、ダメだよー…！」"
+                                "\\N<Onee-chan>Or perhaps, should I take the nude\ndrawing of Onee-chan that you drew the other\nday... and bring it with me...? ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Boku>N-No, it's not allowed...!"
                             ]
                         },
                         {
@@ -4791,31 +4791,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「あ、ボク君…。"
+                                "\\N<Onee-chan>Ah, Boku-kun... You're going home\ntomorrow, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　…明日、帰るんだよね？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「うん…」"
+                                ""
                             ]
                         },
                         {
@@ -4832,14 +4815,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「そっか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　寂しくなるね……」"
+                                "\\N<Boku>Yeah..."
                             ]
                         },
                         {
@@ -4856,7 +4832,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「うん……」"
+                                "\\N<Onee-chan>I see... It's going to be lonely..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4873,14 +4856,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「…もう、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　男の子が、そんな顔しちゃだめだよ」"
+                                "\\N<Boku>Yeah..."
                             ]
                         },
                         {
@@ -4897,7 +4873,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「うぅ…だってー…」"
+                                "\\N<Onee-chan>...You shouldn't make such a face,\nBoku-kun."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4914,28 +4897,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　また会えるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　来年の夏、またおいで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　お姉さんもまたこのアトリエにいるから」"
+                                "\\N<Boku>Ugh... But, you know..."
                             ]
                         },
                         {
@@ -4952,7 +4914,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「…うん」"
+                                "\\N<Onee-chan>Don't worry. We'll see each other\nagain. Come back next summer. Onee-chan will still\nbe here in this atelier."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4969,14 +4952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「…それまで寂しくないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　この絵、ボク君にあげるね」"
+                                "\\N<Boku>...Yeah"
                             ]
                         },
                         {
@@ -4993,52 +4969,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「え…？"
+                                "\\N<Onee-chan>...So that you won't feel lonely\nuntil then, I'll give you this painting, Boku-\nkun."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　これ…お姉さんが描いたの…？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<お姉さん>「そうよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　また来年会うまで、大事にしててね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　お姉さんは代わりに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ボク君が描いたこの絵、大事にするから♥」"
+                                ""
                             ]
                         },
                         {
@@ -5055,28 +4993,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「えぇー⁉"
+                                "\\N<Boku>Huh...? Did Onee-chan paint this...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　そ、その絵をー…⁉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　は、はずかしいよぉ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　他のじゃダメー？」"
+                                ""
                             ]
                         },
                         {
@@ -5093,45 +5017,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「だーめ♥"
+                                "\\N<Onee-chan>That's right. Take good care of it\nuntil we meet again next year. Onee-chan will\ncherish this painting that Boku-kun drew in her\nplace ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　他の絵にして欲しかったら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　来年、また描いて…？」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「…うん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ぼく、絶対描くね！」"
+                                ""
                             ]
                         },
                         {
@@ -5148,14 +5055,107 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「うんうん。"
+                                "\\N<Boku>Whaaat?! I-Is it okay to take this\npainting...? I-It's embarrassing... Can't I have\nanother one?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　じゃあこれは、約束のおまじない…」"
+                                "\\N<Onee-chan>No ♥ If you wanted a different\npainting, then come back next year and I'll paint\nanother one...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Boku>...Yeah! I'll definitely draw it!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Onee-chan>Mhm, mhm. Then, this is a charm of\nour promise..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5222,7 +5222,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「…っ⁉」"
+                                "\\N<Boku>...Huh?!"
                             ]
                         },
                         {
@@ -5246,7 +5246,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「…それじゃあ、また会おうね」"
+                                "\\N<Onee-chan>...Well then, let's meet again, okay?"
                             ]
                         },
                         {
@@ -5263,14 +5263,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「う、うん！"
+                                "\\N<Boku>Y-Yeah! See you later, Onee-chan!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　またね！　お姉さん！」"
+                                ""
                             ]
                         },
                         {
@@ -5297,31 +5297,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「あ、ボク君。"
+                                "\\N<Onee-chan>Ah, Boku-kun. You're going home\ntomorrow, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　明日、帰るんだよね？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「うん…」"
+                                ""
                             ]
                         },
                         {
@@ -5338,28 +5321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「そっかー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　寂しくなるね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　でも、来年の夏休みには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　また会えるよ」"
+                                "\\N<Boku>Yeah..."
                             ]
                         },
                         {
@@ -5376,7 +5338,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「うん！」"
+                                "\\N<Onee-chan>I see. It'll be lonely, huh? But\nwe'll be able to meet again next summer vacation."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5393,7 +5376,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「じゃあ、また来年ね」"
+                                "\\N<Boku>Yeah!"
                             ]
                         },
                         {
@@ -5410,14 +5393,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「うん！"
+                                "\\N<Onee-chan>Well then, see you next year."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　またね、お姉さん！」"
+                                "\\N<Boku>Yeah! See you later, Onee-chan!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5602,38 +5602,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「あら、ボク君。"
+                                "\\N<Onee-chan>Oh, Boku-kun. Welcome ♥ Did you come\nto see Onee-chan today?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　いらっしゃい♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　今日はお姉さんに会いに来てくれたのかな？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「う、うん…！」"
+                                ""
                             ]
                         },
                         {
@@ -5650,21 +5633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「そっか♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　でも遊んでばかりじゃなくて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ちゃんと宿題もしないとダメよ？」"
+                                "\\N<Boku>Y-Yeah...!"
                             ]
                         },
                         {
@@ -5681,7 +5650,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「はーい」"
+                                "\\N<Onee-chan>I see ♥ But you can't just play all\nthe time, you have to do your homework properly,\nokay?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5698,21 +5681,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「それとも、絵の宿題は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　この前描いたお姉さんの裸の絵…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　持って行っちゃう…？♥」"
+                                "\\N<Boku>Yes."
                             ]
                         },
                         {
@@ -5729,7 +5698,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「だ、ダメだよー…！」"
+                                "\\N<Onee-chan>Or, would you like to take the nude\ndrawing of Onee-chan that you drew the other day\nas your art homework...? ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Boku>N-No, that's not good...!"
                             ]
                         },
                         {
@@ -5774,14 +5774,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「いらっしゃい、ボク君。"
+                                "\\N<Onee-chan>Welcome, Boku-kun. Did you come to\nsee the paintings today?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　今日も絵を見に来たの？」"
+                                ""
                             ]
                         },
                         {
@@ -5798,14 +5798,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「うん！"
+                                "\\N<Boku>Yeah! And I also wanted to see Onee- chan."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　それに、お姉さんにも会いたかったし」"
+                                ""
                             ]
                         },
                         {
@@ -5831,14 +5831,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「あら、嬉しい♥"
+                                "\\N<Onee-chan>Oh, how delightful ♥ You can take\nyour time and relax, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ゆっくりしていっていいからね」"
+                                ""
                             ]
                         },
                         {
@@ -5855,7 +5855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「うん！」"
+                                "\\N<Boku>Yeah!"
                             ]
                         },
                         {
@@ -7095,7 +7095,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>（ここにあった絵、なくなってる…）"
+                                "\\N<Boku>(The painting that was here, it's gone...)"
                             ]
                         },
                         {
@@ -7141,7 +7141,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>（まだ何も描いてないや）"
+                                "\\N<Boku>(I haven't painted anything yet.)"
                             ]
                         },
                         {
@@ -7318,14 +7318,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>（やっぱりこの絵"
+                                "\\N<Boku>(I still feel like this painting belongs\nto Onee-chan...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　お姉さんの気がするな…）"
+                                ""
                             ]
                         },
                         {
@@ -7401,7 +7401,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<お姉さん>「ねえ、ボク君？」"
+                                "Hey, Boku-kun?"
                             ]
                         },
                         {
@@ -7458,38 +7458,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「わっ!?"
+                                "\\N<Boku>Wha!? W-What...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　な、ななな、何…⁉」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\N<お姉さん>「その絵、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　最近よく見てるよね？」"
+                                ""
                             ]
                         },
                         {
@@ -7506,7 +7482,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「そ、そうかな…⁉」"
+                                "\\N<Onee-chan>You've been looking at that painting\na lot lately, haven't you?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7523,7 +7506,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<お姉さん>「もしかして…興味あるの…？」"
+                                "\\N<Boku>I-Is that so...!?"
                             ]
                         },
                         {
@@ -7540,14 +7523,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「えぇ…⁉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　あ、あの、きょーみっていうか…その…」"
+                                "\\N<Onee-chan>Could it be... you're interested...?"
                             ]
                         },
                         {
@@ -7564,31 +7540,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<お姉さん>「そっかー…。"
+                                "\\N<Boku>Eh...? Uh, um, it's just that... well..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　じゃあ、お姉さんが教えてあげようかな…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\N<ボク>「え、えぇ⁉」"
+                                ""
                             ]
                         },
                         {
@@ -7605,52 +7564,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<お姉さん>「描いてみたいんでしょ？"
+                                "\\N<Onee-chan>I see... Well then, should I teach\nyou, Onee-chan?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　人物画？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\N<ボク>「え…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　あ、う、うん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　そう！　ぼく、描いてみたいんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　じ、じんぶつ…が？っていうの」"
+                                ""
                             ]
                         },
                         {
@@ -7667,14 +7588,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<お姉さん>「やっぱり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　じゃあ、今から描いてみよっか？」"
+                                "\\N<Boku>Eh, huh⁉"
                             ]
                         },
                         {
@@ -7691,7 +7605,93 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「う、うん！」"
+                                "\\N<Onee-chan>You want to try painting, don't you?\nA portrait?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\N<Boku>Eh...? Ah, um, yeah! That's right! I... I\nwant to give it a try! Drawing... a person, you\nknow?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\N<Onee-chan>As I thought. Well then, shall we try\ndrawing now?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\N<Boku>Y-Yeah!"
                             ]
                         },
                         {
@@ -7755,31 +7755,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<お姉さん>「どう？"
+                                "\\N<Onee-chan>So? Do you think you can draw me as a\nmodel?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　お姉さんがモデルで描けそうかな？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\N<ボク>「う、うん」"
+                                ""
                             ]
                         },
                         {
@@ -7796,14 +7779,31 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<お姉さん>「…じゃあ、"
+                                "\\N<Boku>Y-Yeah."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　しっかり見て描いてね…」"
+                                "\\N<Onee-chan>Then, please look closely and draw me\nproperly..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7960,28 +7960,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それは本や映像ではない、母親以外で初めて見る"
+                                "It was the first time I saw a naked woman in real\nlife, not in books or videos... The sight of her\nskin color burned into my childhood memories."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "生身の女性の裸だった…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "その肌色の光景は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "少年のころの私の脳裏に焼き付いた。"
+                                ""
                             ]
                         },
                         {
@@ -8028,59 +8028,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「⁉"
+                                "\\N<Boku>What...!? W-Why are you undressing...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　えぇっ…⁉"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　な、何で脱いでるの…!?」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\N<お姉さん>「？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　裸婦画…女の人の裸の絵が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　描きたかったんじゃないの…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　服、着た方が良いかな？」"
+                                ""
                             ]
                         },
                         {
@@ -8097,59 +8059,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「え…？"
+                                "\\N<Onee-chan>Huh? Did you want to paint a nude\nportrait... of a woman? Should I put some clothes\non?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　い、いやでも、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　お、お姉さんは、い、嫌じゃないの…？」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\N<お姉さん>「あら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　ヌードデッサンなんて普通のことだし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　裸婦は絵のモチーフとしては"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　ポピュラーなものよ？」"
+                                ""
                             ]
                         },
                         {
@@ -8166,38 +8097,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「もちーふ…？"
+                                "\\N<Boku>Eh...? Um, but, Onee-chan, you don't\nmind...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　ぽ、ぽびゅらー…？」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\N<お姉さん>「モチーフは題材…、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　まあ、何を描くかってことで」"
+                                ""
                             ]
                         },
                         {
@@ -8214,66 +8128,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<お姉さん>「ポピュラーは一般的…"
+                                "\\N<Onee-chan>Oh, drawing a nude portrait is a\nnormal thing, and a nude woman is a popular motif\nin art, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　珍しくないってことかな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　たくさんの人が、女の人の裸の絵を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　描いてるってこと」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\N<ボク>「そ、そうなんだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　知らなかったなー…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　じゃ、じゃあぼくも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　描いてみようかな…」"
+                                ""
                             ]
                         },
                         {
@@ -8290,21 +8166,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<お姉さん>「そう？"
+                                "\\N<Boku>Mochifu...? P-Popular...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　それじゃあ、デッサンの基本は観察から。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　モデルをよく見て、描いてみてね」"
+                                ""
                             ]
                         },
                         {
@@ -8321,14 +8190,145 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「う、うん…。"
+                                "\\N<Onee-chan>The motif is the subject matter...\nwell, it's about what you're going to draw."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　や、やってみる…」"
+                                "\\N<Onee-chan>Popular means it's common... It's not\nunusual. Many people draw pictures of naked women."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\N<Boku>I-I see... I didn't know that... Well,\nthen maybe I'll try drawing too..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\N<Onee-chan>Is that so? Then, the basics of\ndrawing start with observation. Look closely at\nthe model and try drawing."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\N<Boku>Y-Yeah... I'll give it a try..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8444,31 +8444,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<お姉さん>「どう？"
+                                "\\N<Onee-chan>How is it? Are you able to draw?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　描けてるかな？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\N<ボク>「う、うん…」"
+                                ""
                             ]
                         },
                         {
@@ -8485,28 +8468,45 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<お姉さん>「へー、いいね。"
+                                "\\N<Boku>Y-Yeah..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　特徴をうまく捉えてる。"
+                                "\\N<Onee-chan>Oh, that's good. You've captured the\nfeatures well... but it seems like your focus is\nlost around this area... Is there something\nbothering you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　……でも、ここら辺から集中が切れてるみたい。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　…何か気になることでもあったのかな？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8554,7 +8554,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「え…あ、あの…」"
+                                "\\N<Boku>Um...uh, well..."
                             ]
                         },
                         {
@@ -8571,31 +8571,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<お姉さん>「もしかして…"
+                                "\\N<Onee-chan>Could it be... you wanted to see this\npart of me...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　お姉さんのここ、見たかったのかな…？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\N<ボク>「…う、うん…」"
+                                ""
                             ]
                         },
                         {
@@ -8612,28 +8595,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<お姉さん>「そっかー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　お姉さんの裸を見ながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　エッチなこと考えてたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　この前もここで、エッチなことしてたみたいだし…」"
+                                "\\N<Boku>...Y-Yeah..."
                             ]
                         },
                         {
@@ -8650,14 +8612,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「うぅ…。"
+                                "\\N<Onee-chan>I see... So you were thinking naughty\nthings while looking at Onee-chan's naked body. It\nseems like you were doing something naughty here\nthe other day too..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　ご、ごめんなさい…」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8674,28 +8650,52 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<お姉さん>「ふふ。"
+                                "\\N<Boku>Ugh... S-Sorry..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　怒ってないよ。"
+                                "\\N<Onee-chan>Hehe, I'm not mad. After all, you're\na boy, Boku-kun. It's natural for boys to be\ninterested in a woman's body, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　ボク君も男の子だもん。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　女の人の体に、興味もあるよね」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8721,14 +8721,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<お姉さん>「そんなに見たいなら、見てもいいよ♥"
+                                "\\N<Onee-chan>If you want to see that badly, you\ncan look ♥ Come over here... ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　ほら、こっち来て…♥」"
+                                ""
                             ]
                         },
                         {
@@ -8745,14 +8745,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「え？"
+                                "\\N<Boku>Huh? Huh...⁉"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　えぇ…⁉」"
+                                ""
                             ]
                         },
                         {
@@ -8928,28 +8928,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ボク>（やっぱりこれ"
+                                "\\N<Boku>(As expected, this is a naked painting of\na woman... I want to look at it more closely, but\nif I stare too much, Onee-chan might catch me...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　女の人の、裸の絵だ…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　もっとよく見てみたいけど"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　ジロジロ見てたら、お姉ちゃんにばれちゃうかも…）"
+                                ""
                             ]
                         },
                         {
@@ -8976,28 +8976,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ボク>（女の人の、裸の絵だ…！"
+                                "\\N<Boku>(It's a painting of a naked woman...!\nUgh... I'm curious, but if I look too much, Onee-\nchan might catch me...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　うぅ……気になるけど"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　あんまり見たら、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　お姉さんにばれちゃうかも…）"
+                                ""
                             ]
                         },
                         {
@@ -9118,21 +9118,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<ボク>（……もしかして、この絵って"
+                                "\\N<Boku>(......Could it be that Onee-chan was the\nmodel for this painting...? If that's the case,\nthen this is... Onee-chan's... naked body...⁉)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "　お姉さんがモデル…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "　だったらこれって…お姉さんの…裸…⁉）"
+                                ""
                             ]
                         },
                         {
@@ -9158,7 +9158,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<お姉さん>「ボク君」"
+                                "\\N<Onee-chan>Boku-kun"
                             ]
                         },
                         {
@@ -9215,38 +9215,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<ボク>「えっ⁉"
+                                "\\N<Boku>Huh? Wha...⁉"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "　な、何…⁉」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 4,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\N<お姉さん>「お姉さん、ちょっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "　下に下りてくるから」"
+                                ""
                             ]
                         },
                         {
@@ -9263,14 +9239,38 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<ボク>「う、うん。"
+                                "\\N<Onee-chan>Onee-chan, I'll come down for a\nmoment."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 4,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "　わかった」"
+                                "\\N<Boku>Y-Yeah, I understand."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 4,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9366,28 +9366,28 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<ボク>（…や、やっぱりこれ、"
+                                "\\N<Boku>(...I-Is this really Onee-chan's naked\nbody...? Ugh... my... my private parts are\nstarting to... tingle... What should I do...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "　お姉さんの裸なのかな…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "　うぅ…、おちんちんが…ムズムズしてきちゃった…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 4,
                             "parameters": [
-                                "　ど、どうしよう…）"
+                                ""
                             ]
                         },
                         {
@@ -9437,21 +9437,21 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<ボク>（ちょっとだけ…"
+                                "\\N<Boku>(Just a little... If I do it quickly, it\nshould be fine, right...? My private parts... I\ncan't hold back anymore...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "　すぐにすれば大丈夫だよね…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "　おちんちん…もう、がまんできないし…）"
+                                ""
                             ]
                         },
                         {
@@ -9506,21 +9506,21 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<ボク>（あぁっ…。"
+                                "\\N<Boku>(Ahh... while looking at Onee-chan's naked\nbody... my... my private parts... are rubbing...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "　お、お姉さんの裸を見ながら…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "　お、おちんちん…こすっちゃってる…）"
+                                ""
                             ]
                         },
                         {
@@ -9650,14 +9650,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<お姉さん>「ボク君、麦茶飲む？"
+                                "\\N<Onee-chan>Boku-kun, would you like some barley\ntea? Or would you prefer juice?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "　それとも、ジュースの方がいいかな？」"
+                                ""
                             ]
                         },
                         {
@@ -9705,52 +9705,21 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<ボク>「あ、あ、あの…⁉"
+                                "\\N<Boku>U-Um, um, um...⁉ Uh, well, um, I'm going\nhome now!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "　えっと、その、ぼく"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "　きょ、今日はもう帰るね！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 5,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\N<お姉さん>「？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "　そう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "　うん、じゃあまたね」"
+                                ""
                             ]
                         },
                         {
@@ -9767,14 +9736,45 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<ボク>「う、うん！"
+                                "\\N<Onee-chan>Hmm? Is that so? Okay, see you later."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 5,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 5,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 5,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "　ばいばい！」"
+                                "\\N<Boku>Y-Yeah! Bye-bye!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 5,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10433,21 +10433,21 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<ボク>（うぅ、こんなところでダメだよね…。"
+                                "\\N<Boku>(Ugh, it's no good doing this here... but\nif I keep looking, I won't be able to hold back\nanymore... I should just go home for today!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "　でも、これ以上見てたらがまんできないよ…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 5,
                             "parameters": [
-                                "　今日はもう、帰ろう！）"
+                                ""
                             ]
                         },
                         {
@@ -10668,21 +10668,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<お姉さん>「あら、ボク君？"
+                                "\\N<Onee-chan>Oh, Boku-kun? Are you feeling naughty\nagain and wanting to do something lewd?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　もしかしてまた、エッチなこと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　したくなっちゃったのかな？」"
+                                ""
                             ]
                         },
                         {
@@ -10721,21 +10721,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<お姉さん>「ふふ♥"
+                                "\\N<Onee-chan>Hehe ♥ Sure, that's fine ♥ Then,\nshall we go to Onee-chan's room?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　いいよ♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　それじゃあ、お姉さんのお部屋に行こっか♥」"
+                                ""
                             ]
                         },
                         {
@@ -10752,7 +10752,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「う、うん…！」"
+                                "\\N<Boku>Y-Yeah...!"
                             ]
                         },
                         {
@@ -10817,7 +10817,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「ちょ、ちょっと見てただけだよ…！」"
+                                "\\N<Boku>I-I was just looking...!"
                             ]
                         },
                         {
@@ -10834,14 +10834,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<お姉さん>「あら、そうなんだ？"
+                                "\\N<Onee-chan>Oh, is that so? Hehe"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　ふふ」"
+                                ""
                             ]
                         },
                         {
@@ -10978,7 +10978,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>（ここにあった絵、なくなってる…）"
+                                "\\N<Boku>(The painting that was here, it's gone...)"
                             ]
                         },
                         {
@@ -11065,7 +11065,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>（ここにあった絵、なくなってる…）"
+                                "\\N<Boku>(The painting that was here, it's gone...)"
                             ]
                         },
                         {
@@ -11152,14 +11152,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>（白い家と緑の丘の絵だ。"
+                                "\\N<Boku>(It's a painting of a white house and a\ngreen hill. I wonder where this scenery is?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どこの景色なんだろ？）"
+                                ""
                             ]
                         },
                         {
@@ -11236,14 +11236,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>（お花の絵だ。"
+                                "\\N<Boku>(It's a picture of flowers. I don't know\nwhat kind of flowers they are.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　何の花かは、わかんないや）"
+                                ""
                             ]
                         },
                         {
@@ -11320,14 +11320,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>（テーブルにビンにお花…。"
+                                "\\N<Boku>(Drawing flowers on a bottle on the\ntable... doesn't seem very interesting...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　描いてもつまらなそう…）"
+                                ""
                             ]
                         },
                         {

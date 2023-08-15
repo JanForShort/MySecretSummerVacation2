@@ -2262,28 +2262,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「あれ？"
+                                "\\N<Boku>Huh? If I let this vine hang down, maybe\nI'll be able to climb up... Let's give it a try!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これって、このツタを下にたらせば"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　登れるようになるかも…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　やってみよう！」"
+                                ""
                             ]
                         },
                         {
@@ -2413,7 +2413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「これでよし！」"
+                                "\\N<Boku>This should do it!"
                             ]
                         },
                         {

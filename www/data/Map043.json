@@ -4541,38 +4541,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ミカちゃん>「あら？"
+                                "\\N<Mika-chan>Oh? You've come again, huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　また来たの、君？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「うん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　また、餌やりしてもいい？」"
+                                ""
                             ]
                         },
                         {
@@ -4589,7 +4565,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ミカちゃん>「もー、好きにすれば」"
+                                "\\N<Boku>Yeah! Can I feed them again?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4606,7 +4589,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「わーい！」"
+                                "\\N<Mika-chan>Oh well, do as you please."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Boku>Yay!"
                             ]
                         },
                         {
@@ -4707,52 +4707,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女の子>「？"
+                                "\\N<Girl>Huh? Who are you? I haven't seen you\nbefore."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　誰よ、君？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　見かけない子ね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「ぼくはボク！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　いつもは遠くの街に住んでるけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　夏休みの間だけ、ここの\\N[2]の家にいるんだ」"
+                                ""
                             ]
                         },
                         {
@@ -4769,38 +4738,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女の子>「ふーん。"
+                                "\\N<Boku>I'm Boku! I usually live in a town far\naway, but during summer vacation, I stay at this\n\\N[2] house."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　都会の方から来たんだ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あっそ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「ねぇねぇ、何してるの？」"
+                                ""
                             ]
                         },
                         {
@@ -4817,28 +4769,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女の子>「見ればわかるでしょ。"
+                                "\\N<Girl>Oh, I see. You came from the city. I see."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　餌やりよ餌やり。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　今日はあたしの当番なの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　水やりと餌やりのね」"
+                                ""
                             ]
                         },
                         {
@@ -4855,14 +4800,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「そうなんだー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ねえ、ボクもやってもいい？」"
+                                "\\N<Boku>Hey, hey, what are you doing?"
                             ]
                         },
                         {
@@ -4879,21 +4817,83 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女の子>「こんなことやりたいの？"
+                                "\\N<Girl>You should be able to tell just by\nlooking. It's feeding time, feeding time. Today\nit's my turn. Watering and feeding."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　都会の学校じゃ鶏は飼ってないの？　"
+                                "\\N<Boku>Is that so? Hey, can I do it too?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　はー、まー、好きにすれば」"
+                                "\\N<Girl>You want to do something like this? Don't\nyou have chickens at your school in the city?\nWell, whatever, do as you please."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4936,7 +4936,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「やったー！」"
+                                "\\N<Boku>Yay!"
                             ]
                         },
                         {
@@ -5088,7 +5088,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<女の子>「じゃあ、あたしはもう帰るからね」"
+                                "\\N<Girl>Well then, I'm going home now."
                             ]
                         },
                         {
@@ -5136,45 +5136,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「え？"
+                                "\\N<Boku>Huh? Hey, hey, tell me your name!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ねぇねぇ、名前おしえてよー」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<女の子>「はー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ミカよ、ミカ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　これでいいでしょ。じゃーね」"
+                                ""
                             ]
                         },
                         {
@@ -5191,14 +5160,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「うん！"
+                                "\\N<Girl>Huh? It's Mika, Mika. This should be fine.\nWell then, see you."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　またね、ミカちゃん！」"
+                                "\\N<Boku>Yeah! See you later, Mika-chan!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5320,38 +5320,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ミカちゃん>「あら、ボク？"
+                                "\\N<Mika-chan>Oh, Boku? What's with the serious\nface?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　何よ、神妙な顔して」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「あのね、ボク、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　明日都会に帰るんだ…」"
+                                ""
                             ]
                         },
                         {
@@ -5368,28 +5344,52 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ミカちゃん>「あー、そっか。"
+                                "\\N<Boku>You know, I'm going back to the city\ntomorrow..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ここにいるの、夏休みの間だけなんだっけ。"
+                                "\\N<Mika-chan>Ah, I see. So you're only here during\nsummer vacation, right? Well then, today is our\nfarewell. Bye-bye!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　じゃー、今日でお別れだね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　バイバーイ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5432,7 +5432,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「そ、そんなにあっさり…」"
+                                "\\N<Boku>Y-You're saying goodbye so easily..."
                             ]
                         },
                         {
@@ -5449,52 +5449,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ミカちゃん>「何よ？"
+                                "\\N<Mika-chan>What's with that? You'll come back\nnext summer vacation, right? It's not just summer,\nthere's also winter vacation and spring vacation.\nWe can meet again anytime."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　どうせ来年の夏休みも来るんでしょ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　夏だけじゃなくて冬休みでも春休みでもあるし。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　いくらでもまた会えるじゃない」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「そっかー…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…うん！　そうだよね！」"
+                                ""
                             ]
                         },
                         {
@@ -5511,21 +5487,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ミカちゃん>「今度会う時は、"
+                                "\\N<Boku>I see... Yeah! That's right!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　草すべりで負けないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　覚えてなさいよ！」"
+                                ""
                             ]
                         },
                         {
@@ -5542,21 +5511,52 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「うん！"
+                                "\\N<Mika-chan>Next time we meet, remember that I\nwon't lose on the grass slide!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ぼくも負けないよ！"
+                                "\\N<Boku>Yeah! I won't lose either! Well then,\nlet's meet again, Mika-chan!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　じゃあ、また会おうねミカちゃん！」」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5618,21 +5618,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ミカちゃん>「あら、ボク？"
+                                "\\N<Mika-chan>Oh, Boku? What are you here for? If\nit's feeding time, it's already over."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　何しに来たの？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　餌やりならもう終わったわよ」"
+                                ""
                             ]
                         },
                         {
@@ -5671,28 +5671,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ミカちゃん>「え？　そうなの？"
+                                "\\N<Mika-chan>Huh? Is that so? Haha...? I see,\nyou're in the mood for something naughty again,\naren't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　ははーん…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　さてはまたエッチなこと、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　したくなったんでしょ？」"
+                                ""
                             ]
                         },
                         {
@@ -5731,28 +5731,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ミカちゃん>「ほーら、やっぱり…♥"
+                                "\\N<Mika-chan>See, I knew it... ♥ I can see right\nthrough you ♥ Well, if you're going to say that\nmuch, I guess I can't help it ♥ Then... let's go\nto my room ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　全部お見通しなのよ♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　ま、そこまでいうなら仕方ないわね♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　じゃー…ボクの部屋まで行きましょ♥」"
+                                ""
                             ]
                         },
                         {
@@ -5817,28 +5817,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ミカちゃん>「あら、そうなんだ？　"
+                                "\\N<Mika-chan>Oh, really? I thought boys would be\nmore aggressive, but I guess not."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　男の子ってもっと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　がつがつしてるのかと思ったんだけど"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　そうでもないんだ」"
+                                ""
                             ]
                         },
                         {
@@ -5878,7 +5878,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ミカちゃん>「残念でしたー」"
+                                "\\N<Mika-chan>Too bad~"
                             ]
                         },
                         {
@@ -6098,7 +6098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「カギがかかってるや」"
+                                "\\N<Boku>The door is locked."
                             ]
                         },
                         {

@@ -1768,38 +1768,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ナナちゃん>「あら、ボクじゃない。"
+                                "\\N<Nana-chan>Oh, it's not you... We seem to meet\noften, don't we...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　…何か、よく会うわね…？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ボク>「え？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうかな？」"
+                                ""
                             ]
                         },
                         {
@@ -1816,28 +1792,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ナナちゃん>「もしかして、"
+                                "\\N<Boku>Huh? Is that so?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あたしのこと探してるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ははーん…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さてはあたしのこと、好きなんだ？」"
+                                ""
                             ]
                         },
                         {
@@ -1854,14 +1816,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「えぇっ⁉"
+                                "\\N<Nana-chan>Could it be that you're looking for\nme? Haha~♥ So, you like me, huh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どうして、そうなるの⁉」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -1878,21 +1854,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ナナちゃん>「何よ、照れちゃって。"
+                                "\\N<Boku>Huh? Why would you think that?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　あーあー、どうしようかなー。"
+                                "\\N<Nana-chan>What's with the blushing? Ahh, what\nshould I do? I'm popular and it's causing me\ntrouble."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あたしモテて、困っちゃうなー」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -1936,28 +1936,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「ねぇ？"
+                                "\\N<Nana-chan>Hey, if you like me, should I show\nyou? My panties...♥ Boys like this kind of thing,\nright?♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あたしのこと好きなら、見せてあげようか？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あたしのパンツ…♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　男子ってこういの、好きなんでしょ？♥」"
+                                ""
                             ]
                         },
                         {
@@ -1974,14 +1974,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「えぇ…？"
+                                "\\N<Boku>Eh...? I-It's fine, it's not a big deal..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　い、いいよ、別に…」"
+                                ""
                             ]
                         },
                         {
@@ -2007,28 +2007,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「なーんだ、つまんないの…。"
+                                "\\N<Nana-chan>Oh, how boring... I guess I'm still\njust a kid. You better grow up and appreciate how\namazing I am."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ボクってまだまだガキなのね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あたしのありがたさがわかるように"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ちゃんと大人になってよね」"
+                                ""
                             ]
                         },
                         {
@@ -2145,52 +2145,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「ねぇ？"
+                                "\\N<Nana-chan>Hey, if you like me, should I show\nyou? My panties...♥ Boys like this kind of thing,\nright?♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あたしのこと好きなら、見せてあげようか？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あたしのパンツ…♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　男子ってこういの、好きなんでしょ？♥」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「え、えぇっ…⁉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ぼ、ぼくは、そ、その…！」"
+                                ""
                             ]
                         },
                         {
@@ -2207,21 +2183,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「何よ？"
+                                "\\N<Boku>Eh, w-wait...! I-I, um, that...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　見たくないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　あたしのパンツ♥」"
+                                ""
                             ]
                         },
                         {
@@ -2238,7 +2207,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「…み、見たい…かも…」"
+                                "\\N<Nana-chan>What's wrong? Don't you want to see?\nMy panties ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2255,28 +2238,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「ふーーーん？♥"
+                                "\\N<Boku>...I-I might...want to see..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　しょーがないなー♥"
+                                "\\N<Nana-chan>Hmmm? ♥ Well, if you insist... I\nguess I'll show you... ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　そこまでいうならー、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　…見せてあげる…♥」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2317,14 +2317,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「ほーら♥"
+                                "\\N<Nana-chan>Here, look closely...♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　よーく見ててね…♥」"
+                                ""
                             ]
                         },
                         {
@@ -2365,45 +2365,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「どう？♥"
+                                "\\N<Nana-chan>How is it? ♥ You're happy to see a\ngirl's panties, right? ♥ I'm better than those\nerotic books, aren't I? ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　好きな女の子のパンツ見れて、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　うれしいでしょ？♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　エッチな本より、あたしの方がいいでしょ？♥」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「う、うん…！」"
+                                ""
                             ]
                         },
                         {
@@ -2420,21 +2403,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「ふーん？♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　…ねぇねぇ、もしかして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ちんちん、大きくなった？♥」"
+                                "\\N<Boku>Y-Yeah...!"
                             ]
                         },
                         {
@@ -2451,45 +2420,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「ええぇっ…⁉"
+                                "\\N<Nana-chan>Hmm? ♥...Hey, hey, could it be that\nyour pee-pee has gotten bigger? ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　お、おちんちん…⁉」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ナナちゃん>「あー♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　大きくなってるんだ？♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ねえ、ボクのちんちん、見せてよ？」"
+                                ""
                             ]
                         },
                         {
@@ -2506,45 +2451,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「えぇ…⁉"
+                                "\\N<Boku>Wha...? Y-Your, your pee-pee...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　や、やだよー…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ナナちゃん>「あれー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　あたしのパンツは見たのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ボクは見せてくれないんだー？」"
+                                ""
                             ]
                         },
                         {
@@ -2561,52 +2475,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「じゃ、じゃあ、ぼくの"
+                                "\\N<Nana-chan>Ah ♥ Is it getting bigger? ♥ Hey, can\nI see your pee-pee?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　パンツなら見ていいよ…！」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ナナちゃん>「いやよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　男子のパンツなんか見たって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　何も面白くないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　男子と女子のパンツが同じ価値なわけないでしょ」"
+                                ""
                             ]
                         },
                         {
@@ -2623,7 +2506,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「そ、そうなんだ…」"
+                                "\\N<Boku>Eh...? N-No way...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2640,28 +2530,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「そうよ。"
+                                "\\N<Nana-chan>Huh? You saw my panties, but you\nwon't show me yours?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　じゃ、わかったら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　早くちんちん見せて♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　はずかしいなら、神社の中に行こ♥」"
+                                ""
                             ]
                         },
                         {
@@ -2678,14 +2561,131 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「う、うー…。"
+                                "\\N<Boku>T-Then, then, you can see my underwear...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　うん…」"
+                                "\\N<Nana-chan>No way. Seeing boys' underwear is not\ninteresting at all, and boys' and girls' underwear\ndon't have the same value, you know."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Boku>I-Is that so..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Nana-chan>That's right. Well, if you\nunderstand, then show me your pee-pee quickly ♥ If\nyou're embarrassed, we can go inside the shrine ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Boku>U-um... Yeah..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2992,28 +2992,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「あ、来た来た♥"
+                                "\\N<Nana-chan>Ah, you're here, you're here! Did you\nrun all the way here? Did you want to do something\nnaughty with me so quickly?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　もしかして、走ってきた？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　そんなに早くあたしと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　エッチなことしたかったんだー？♥」"
+                                ""
                             ]
                         },
                         {
@@ -3039,21 +3039,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「ま、いーよ♥"
+                                "\\N<Nana-chan>Well, it's fine ♥ It's a promise,\nafter all ♥ Come on, let's go inside the shrine ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　約束だしねー♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ほら、神社の中、行こ♥」"
+                                ""
                             ]
                         },
                         {
@@ -3070,7 +3070,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「う、うん…！」"
+                                "\\N<Boku>Y-Yeah...!"
                             ]
                         },
                         {
@@ -3195,38 +3195,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「あーらら、ボクじゃない。"
+                                "\\N<Nana-chan>Oh my, it's not me. You couldn't win\nthe Bug Battle Tournament, right? ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ムシバトル大会、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　優勝できなかったわよねー…？♥」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「う、うぅ…」"
+                                ""
                             ]
                         },
                         {
@@ -3243,21 +3226,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「じゃあ、約束通り"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　おしおきね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　さ、神社の中に行きましょ…♥」"
+                                "\\N<Boku>U-Ugh..."
                             ]
                         },
                         {
@@ -3274,7 +3243,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「うー、うん…」"
+                                "\\N<Nana-chan>Well then, as promised, it's time for\nyour punishment ♥ Come on, let's go inside the\nshrine...♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Boku>Ugh, yeah..."
                             ]
                         },
                         {
@@ -3316,45 +3316,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「さーて。"
+                                "\\N<Nana-chan>Well then, since we've worked up a\nsweat, let's go home and take a bath. And next\nyear, make sure you win the championship, okay? ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　汗かいちゃったし、帰ってお風呂入ろっと。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　じゃ、ボクは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　来年はちゃんと優勝してね♥」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「う、うん…！」"
+                                ""
                             ]
                         },
                         {
@@ -3371,7 +3354,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「バイビー」"
+                                "\\N<Boku>Y-Yeah...!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Nana-chan>Bye-bye"
                             ]
                         },
                         {
@@ -3702,28 +3702,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ナナちゃん>「あら、ボクじゃない。"
+                                "\\N<Nana-chan>Oh, it's not me. What's wrong? Could\nit be... you want to do something naughty with me,\ndon't you? ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　何、どーしたの？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もしかして…"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あたしにエッチなこと、して欲しくなったんでしょ？♥」"
+                                ""
                             ]
                         },
                         {
@@ -3762,28 +3762,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「ふーん♥"
+                                "\\N<Nana-chan>Hmm ♥ Is that so...? ♥ Well, it's\nfine ♥ Then, let's go inside the shrine ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　そうなんだー…？♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ま、いいよ♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　じゃ、神社の中、行こ♥」"
+                                ""
                             ]
                         },
                         {
@@ -3800,7 +3800,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「う、うん…！」"
+                                "\\N<Boku>Y-Yeah...!"
                             ]
                         },
                         {
@@ -3926,14 +3926,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「なーんだ。"
+                                "\\N<Nana-chan>Oh, what a bore."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　つまんないの」"
+                                ""
                             ]
                         },
                         {

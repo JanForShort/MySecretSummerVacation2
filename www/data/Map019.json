@@ -2155,14 +2155,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うわ、すごい草だ。"
+                                "\\N<Boku>Wow, this grass is so tall. I can't pass\nthrough the road like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これじゃ道がとおれないな…」"
+                                ""
                             ]
                         },
                         {
@@ -2563,14 +2563,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うわ、すごい草だ。"
+                                "\\N<Boku>Wow, this grass is so tall. I can't pass\nthrough the road like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これじゃ道がとおれないな…」"
+                                ""
                             ]
                         },
                         {
@@ -3295,14 +3295,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うわ、すごい草だ。"
+                                "\\N<Boku>Wow, this grass is so tall. I can't pass\nthrough the road like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これじゃ道がとおれないな…」"
+                                ""
                             ]
                         },
                         {
@@ -3592,14 +3592,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うわ、すごい草だ。"
+                                "\\N<Boku>Wow, this grass is so tall. I can't pass\nthrough the road like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これじゃ道がとおれないな…」"
+                                ""
                             ]
                         },
                         {
@@ -3727,14 +3727,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うわ、すごい草だ。"
+                                "\\N<Boku>Wow, this grass is so tall. I can't pass\nthrough the road like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これじゃ道がとおれないな…」"
+                                ""
                             ]
                         },
                         {
@@ -3862,14 +3862,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うわ、すごい草だ。"
+                                "\\N<Boku>Wow, this grass is so tall. I can't pass\nthrough the road like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これじゃ道がとおれないな…」"
+                                ""
                             ]
                         },
                         {
@@ -3997,14 +3997,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うわ、すごい草だ。"
+                                "\\N<Boku>Wow, this grass is so tall. I can't pass\nthrough the road like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これじゃ道がとおれないな…」"
+                                ""
                             ]
                         },
                         {
@@ -4294,14 +4294,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うわ、すごい草だ。"
+                                "\\N<Boku>Wow, this grass is so tall. I can't pass\nthrough the road like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これじゃ道がとおれないな…」"
+                                ""
                             ]
                         },
                         {
@@ -6172,38 +6172,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボウシくん>「うーん…。"
+                                "\\N<Boushi-kun>Hmm... Maybe I can catch some fish\nhere..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ここなら、魚が釣れるかも…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ボク>「えー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ぼくも釣りたいなー」"
+                                ""
                             ]
                         },
                         {
@@ -6220,14 +6196,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボウシくん>「ちょっとー！"
+                                "\\N<Boku>Hmm... I want to go fishing too."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　ぼくが先にここを見つけたんだよ！」"
+                                "\\N<Boushi-kun>Hey! I found this place first, you\nknow!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6253,21 +6253,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボウシくん>「…まあ、"
+                                "\\N<Boushi-kun>...Well, I didn't bring my fishing\nrod today, so you can go ahead and fish first."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日はさおを持ってきてないから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　先に釣ってもいいよ」"
+                                ""
                             ]
                         },
                         {
@@ -6284,14 +6284,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「そう？"
+                                "\\N<Boku>Is that so? Thanks."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ありがと」"
+                                ""
                             ]
                         },
                         {
@@ -6666,21 +6666,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>「あら、ボク君。来てくれたんだ♥"
+                                "\\N<\\N[2]> Oh, Boku-kun. You came ♥ Well then,\nlet's all finish cutting the grass together."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それじゃあみんなで、草刈り"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　終わらせちゃいましょう」"
+                                ""
                             ]
                         },
                         {
@@ -6697,7 +6697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うん！」"
+                                "\\N<Boku>Yeah!"
                             ]
                         },
                         {
@@ -6803,28 +6803,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>「ふー、やっと終わったわ。"
+                                "\\N<\\N[2]> Phew, we finally finished. Thank you,\neveryone. Take some snacks and juice before you go\nhome, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　みんな、ありがとうね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お菓子とジュース、あるから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もらってから帰ってね」"
+                                ""
                             ]
                         },
                         {
@@ -6841,7 +6841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男の子たち>「「「わーい！」」」"
+                                "\\N<Boys>Yay!"
                             ]
                         },
                         {
@@ -6964,28 +6964,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「ふー、大変だったなー。"
+                                "\\N<Boku>Phew, that was tough. There were so many\npeople, I couldn't chat with them. But now, this\npath is finally passable!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いっぱい人がいたけど、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いそがしくておしゃべりできなかったな…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　でもこれで、この道が通れるようになったぞ！」"
+                                ""
                             ]
                         },
                         {
