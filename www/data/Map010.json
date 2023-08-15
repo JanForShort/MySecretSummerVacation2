@@ -4964,7 +4964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Closed on Saturdays and Sundays\\#Today, temporary closure"
+                                "\\#Closed on Saturdays and Sundays\n\\#Today, temporary closure"
                             ]
                         },
                         {
