@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "Sword",
+        "name": "剣",
         "note": "",
         "params": [
             0,
@@ -51,7 +51,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "Axe",
+        "name": "斧",
         "note": "",
         "params": [
             0,
@@ -84,7 +84,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "Staff",
+        "name": "杖",
         "note": "",
         "params": [
             0,
@@ -117,7 +117,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "Leather Bow",
+        "name": "皮の弓",
         "note": "",
         "params": [
             0,
