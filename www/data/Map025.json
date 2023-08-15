@@ -3916,7 +3916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Hey, brat. What kind of things do you\nwant to try today?"
+                                "\\N<Onee-chan>Hey, brat. What kind of things do you want to\ntry today?"
                             ]
                         },
                         {
@@ -4244,7 +4244,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah... Onee-chan, you're sleeping... I\nwonder if it's okay to play a little prank on\nyou...?"
+                                "\\N<Boku>Ah... Onee-chan, you're sleeping... I wonder if it's\nokay to play a little prank on you...?"
                             ]
                         },
                         {
@@ -4304,7 +4304,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(Is it okay... just a little bit... to\ntake a peek...? Just a quick look...)"
+                                "\\N<Boku>(Is it okay... just a little bit... to take a\npeek...? Just a quick look...)"
                             ]
                         },
                         {
@@ -4433,7 +4433,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(...Onee-chan, you're not awake...\nright...? If you won't wake up even with just\nthis... I wonder if it's okay... to play a little\nprank...?)"
+                                "\\N<Boku>(...Onee-chan, you're not awake... right...? If you\nwon't wake up even with just this... I wonder if it's\nokay... to play a little prank...?)"
                             ]
                         },
                         {
@@ -4552,7 +4552,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>(N-No, no good! I have to put the clothes\nback before she wakes up...!)"
+                                "\\N<Boku>(N-No, no good! I have to put the clothes back\nbefore she wakes up...!)"
                             ]
                         },
                         {
@@ -4734,7 +4734,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah... Onee-chan, you're sleeping... It's\nprobably better not to wake you up..."
+                                "\\N<Boku>Ah... Onee-chan, you're sleeping... It's probably\nbetter not to wake you up..."
                             ]
                         },
                         {

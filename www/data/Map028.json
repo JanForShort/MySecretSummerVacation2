@@ -3891,7 +3891,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I spent my summer vacation at my aunt's pension\nand met a female college student from the\nneighboring atelier and my cousin. After finishing\nlunch that day..."
+                                "I spent my summer vacation at my aunt's pension and met a\nfemale college student from the neighboring atelier and my\ncousin. After finishing lunch that day..."
                             ]
                         },
                         {
@@ -4030,7 +4030,7 @@
                             "indent": 3,
                             "parameters": [
                                 2,
-                                "おばちゃん"
+                                "Auntie"
                             ]
                         },
                         {
@@ -4062,7 +4062,7 @@
                             "indent": 3,
                             "parameters": [
                                 2,
-                                "お母さん"
+                                "Mother"
                             ]
                         },
                         {
@@ -4094,7 +4094,7 @@
                             "indent": 3,
                             "parameters": [
                                 2,
-                                "ママ"
+                                "Mama"
                             ]
                         },
                         {
@@ -4162,7 +4162,7 @@
                             "indent": 3,
                             "parameters": [
                                 3,
-                                "おにいちゃん"
+                                "Onii-chan (Big Brother)"
                             ]
                         },
                         {
@@ -4194,7 +4194,7 @@
                             "indent": 3,
                             "parameters": [
                                 3,
-                                "ボクくん"
+                                "Boku-kun"
                             ]
                         },
                         {
@@ -4328,7 +4328,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select the difficulty level for Mushi\nBattle. *It can be changed in the options during\nthe game."
+                                "Please select the difficulty level for Mushi Battle. *It can\nbe changed in the options during the game."
                             ]
                         },
                         {
@@ -4497,7 +4497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select the presentation for the Mushi\nBattle."
+                                "Please select the presentation for the Mushi Battle."
                             ]
                         },
                         {
@@ -4514,7 +4514,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The battles in this game are usually depicted with\npixel art of beetles such as rhinoceros beetles."
+                                "The battles in this game are usually depicted with pixel art\nof beetles such as rhinoceros beetles."
                             ]
                         },
                         {
@@ -4545,7 +4545,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "We have prepared a Hero Eraser Mode that changes\nthe insect pixel art into hero erasers for those\nwho are not good with bugs."
+                                "We have prepared a Hero Eraser Mode that changes the insect\npixel art into hero erasers for those who are not good with\nbugs."
                             ]
                         },
                         {
@@ -4663,7 +4663,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select the difficulty level for the mini-\ngame. *It can be changed in the options during the\ngame."
+                                "Please select the difficulty level for the mini- game. *It\ncan be changed in the options during the game."
                             ]
                         },
                         {
@@ -4804,7 +4804,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select whether to include BL content\n(sexual activities between boys). *It can be\nchanged in the options during the game, but\ndepending on the timing, there may be events that\ndo not occur."
+                                "Please select whether to include BL content (sexual\nactivities between boys). *It can be changed in the options\nduring the game, but depending on the timing, there may be\nevents that do not occur."
                             ]
                         },
                         {
@@ -4955,7 +4955,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select whether to include male characters\nin random character generation, etc. *It can be\nchanged in the options during the game."
+                                "Please select whether to include male characters in random\ncharacter generation, etc. *It can be changed in the options\nduring the game."
                             ]
                         },
                         {
@@ -5049,7 +5049,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select whether to include characters with\nmale genitalia in random character generation,\netc. *It can be changed in the options during the\ngame."
+                                "Please select whether to include characters with male\ngenitalia in random character generation, etc. *It can be\nchanged in the options during the game."
                             ]
                         },
                         {
@@ -5143,7 +5143,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The initial settings are as mentioned above.\nPlease check the options for other detailed\nsettings. *For more detailed information, please\nrefer to the enclosed instruction manual."
+                                "The initial settings are as mentioned above. Please check\nthe options for other detailed settings. *For more detailed\ninformation, please refer to the enclosed instruction\nmanual."
                             ]
                         },
                         {
@@ -5324,7 +5324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#The endless blue sky, \\#the overwhelming scent\nof trees... \\#the incessant sound of cicadas..."
+                                "\\#The endless blue sky, \\#the overwhelming scent of trees...\n\\#the incessant sound of cicadas..."
                             ]
                         },
                         {
@@ -5362,7 +5362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Every time summer comes, I remember \\#distant,\ndistant... memories of my childhood..."
+                                "\\#Every time summer comes, I remember \\#distant, distant...\nmemories of my childhood..."
                             ]
                         },
                         {

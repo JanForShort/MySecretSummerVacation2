@@ -1915,7 +1915,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandma>Oh my, what a lovely child. Here, let\nme give you a snack."
+                                "\\N<Grandma>Oh my, what a lovely child. Here, let me give you\na snack."
                             ]
                         },
                         {
@@ -2332,7 +2332,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Hey, Grandma. There's something I want to\nask you, can I?"
+                                "\\N<Boku>Hey, Grandma. There's something I want to ask you,\ncan I?"
                             ]
                         },
                         {
@@ -2373,7 +2373,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Do you know the story about not swimming\nalone in the waterfall beyond that river over\nthere in the evening?"
+                                "\\N<Boku>Do you know the story about not swimming alone in\nthe waterfall beyond that river over there in the evening?"
                             ]
                         },
                         {
@@ -2404,7 +2404,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandma>Hmm...? Hmm, I'm sorry, but I don't\nknow."
+                                "\\N<Grandma>Hmm...? Hmm, I'm sorry, but I don't know."
                             ]
                         },
                         {

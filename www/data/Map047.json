@@ -3278,7 +3278,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>A-Amazing! It's a mountain of erotic\nbooks...⁉...but wait...? It's all just text\ninside..."
+                                "\\N<Boku>A-Amazing! It's a mountain of erotic books...⁉...but\nwait...? It's all just text inside..."
                             ]
                         },
                         {
@@ -3334,7 +3334,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah, but there are a lot of erotic flyers\ninside!"
+                                "\\N<Boku>Ah, but there are a lot of erotic flyers inside!"
                             ]
                         },
                         {

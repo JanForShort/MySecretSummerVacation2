@@ -2013,7 +2013,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Ah, is it already this late... Let's stop\nfor today."
+                                "\\N<Boku>Ah, is it already this late... Let's stop for today."
                             ]
                         },
                         {
@@ -2180,7 +2180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Ah... I forgot, Onee-chan is not here\nanymore..."
+                                "\\N<Boku>Ah... I forgot, Onee-chan is not here anymore..."
                             ]
                         },
                         {
@@ -2953,7 +2953,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Ah... my airplane, it's in such a place...\nugh... I can't reach it like this..."
+                                "\\N<Boku>Ah... my airplane, it's in such a place... ugh... I\ncan't reach it like this..."
                             ]
                         },
                         {
@@ -2984,7 +2984,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>It seems like nobody is in this house\nright now, so I guess I have no choice but to give\nup... sigh..."
+                                "\\N<Boku>It seems like nobody is in this house right now, so\nI guess I have no choice but to give up... sigh..."
                             ]
                         },
                         {
@@ -3051,7 +3051,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah... my airplane, it's in such a place...\nugh... I can't reach it like this..."
+                                "\\N<Boku>Ah... my airplane, it's in such a place... ugh... I\ncan't reach it like this..."
                             ]
                         },
                         {
@@ -3251,7 +3251,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Yeah... I was flying it over there, but it\nflew all the way here... I'm sorry."
+                                "\\N<Boku>Yeah... I was flying it over there, but it flew all\nthe way here... I'm sorry."
                             ]
                         },
                         {
@@ -3722,7 +3722,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Aunt>Hehe, oh my, you're such a cute little\none. I wonder if you live nearby?"
+                                "\\N<Aunt>Hehe, oh my, you're such a cute little one. I wonder\nif you live nearby?"
                             ]
                         },
                         {
@@ -3753,7 +3753,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Yeah! I'm living in this town just for the\nsummer vacation!"
+                                "\\N<Boku>Yeah! I'm living in this town just for the summer\nvacation!"
                             ]
                         },
                         {
@@ -3777,7 +3777,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Aunt>Oh, is that so... Hey, kiddo. I have some\nsnacks, would you like to have tea at Auntie's\nhouse? I was just feeling bored, so would you be\nmy conversation partner?"
+                                "\\N<Aunt>Oh, is that so... Hey, kiddo. I have some snacks,\nwould you like to have tea at Auntie's house? I was just\nfeeling bored, so would you be my conversation partner?"
                             ]
                         },
                         {
@@ -3832,7 +3832,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Aunt>That's right, you're a good kid... ♥ Come\nover here."
+                                "\\N<Aunt>That's right, you're a good kid... ♥ Come over here."
                             ]
                         },
                         {

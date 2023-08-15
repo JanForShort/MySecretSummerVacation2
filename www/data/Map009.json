@@ -3161,7 +3161,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<\\N[2]> The weather is so nice. The laundry\ndries well♡"
+                                "\\N<\\N[2]> The weather is so nice. The laundry dries well♡"
                             ]
                         },
                         {
@@ -3258,7 +3258,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<\\N[2]> Phew. I have to be careful not to get\nsunburned..."
+                                "\\N<\\N[2]> Phew. I have to be careful not to get sunburned..."
                             ]
                         },
                         {
@@ -3310,7 +3310,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<\\N[2]> Come to think of it, it seems like my\nunderwear is decreasing...? I wonder if I dropped\nit somewhere...?"
+                                "\\N<\\N[2]> Come to think of it, it seems like my underwear is\ndecreasing...? I wonder if I dropped it somewhere...?"
                             ]
                         },
                         {
@@ -3362,7 +3362,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<\\N[2]> Oh, look at those scattered clouds...\nSummer will be ending soon..."
+                                "\\N<\\N[2]> Oh, look at those scattered clouds... Summer will\nbe ending soon..."
                             ]
                         },
                         {
@@ -3403,7 +3403,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<\\N[2]> The weather is so nice. The laundry\ndries well♡"
+                                "\\N<\\N[2]> The weather is so nice. The laundry dries well♡"
                             ]
                         },
                         {

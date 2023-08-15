@@ -2908,7 +2908,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Ah, Boku-kun, welcome. You've come\nto play, right? So, what do you want to do?"
+                                "\\N<Hakase-kun>Ah, Boku-kun, welcome. You've come to play,\nright? So, what do you want to do?"
                             ]
                         },
                         {
@@ -2949,7 +2949,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Ah, Boku-kun, welcome. You've come\nto play, right? Here, this is it. It's the\npromised mechanical rhinoceros beetle."
+                                "\\N<Hakase-kun>Ah, Boku-kun, welcome. You've come to play,\nright? Here, this is it. It's the promised mechanical\nrhinoceros beetle."
                             ]
                         },
                         {
@@ -3231,7 +3231,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Wow! Thank you, Hakase-kun! I'll treasure\nit!"
+                                "\\N<Boku>Wow! Thank you, Hakase-kun! I'll treasure it!"
                             ]
                         },
                         {
@@ -3337,7 +3337,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Hide and seek, huh... It's cramped\ninside, so how about we play a treasure hunt\ninstead?"
+                                "\\N<Hakase-kun>Hide and seek, huh... It's cramped inside, so\nhow about we play a treasure hunt instead?"
                             ]
                         },
                         {
@@ -3385,7 +3385,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>I'll hide this capsule inside the\nhouse and you, Boku-kun, will search for it. If\nyou can find it within 100 seconds, you win."
+                                "\\N<Hakase-kun>I'll hide this capsule inside the house and\nyou, Boku-kun, will search for it. If you can find it within\n100 seconds, you win."
                             ]
                         },
                         {
@@ -3447,7 +3447,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Alright then, let's do it. I'll go\nhide, so wait for me."
+                                "\\N<Hakase-kun>Alright then, let's do it. I'll go hide, so\nwait for me."
                             ]
                         },
                         {
@@ -3515,7 +3515,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Sounds good. Alright then, let's do\nit. I'll go hide, so wait for me."
+                                "\\N<Hakase-kun>Sounds good. Alright then, let's do it. I'll\ngo hide, so wait for me."
                             ]
                         },
                         {
@@ -3604,7 +3604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hakase-kun>I hid it on the first floor.\nAlright, let's start!"
+                                "\\N<Hakase-kun>I hid it on the first floor. Alright, let's\nstart!"
                             ]
                         },
                         {
@@ -3725,7 +3725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hakase-kun>I hid it on the first floor. Please\ngo find it."
+                                "\\N<Hakase-kun>I hid it on the first floor. Please go find\nit."
                             ]
                         },
                         {

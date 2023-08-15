@@ -4707,7 +4707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Girl>Huh? Who are you? I haven't seen you\nbefore."
+                                "\\N<Girl>Huh? Who are you? I haven't seen you before."
                             ]
                         },
                         {
@@ -4738,7 +4738,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>I'm Boku! I usually live in a town far\naway, but during summer vacation, I stay at this\n\\N[2] house."
+                                "\\N<Boku>I'm Boku! I usually live in a town far away, but\nduring summer vacation, I stay at this \\N[2] house."
                             ]
                         },
                         {
@@ -4817,7 +4817,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Girl>You should be able to tell just by\nlooking. It's feeding time, feeding time. Today\nit's my turn. Watering and feeding."
+                                "\\N<Girl>You should be able to tell just by looking. It's\nfeeding time, feeding time. Today it's my turn. Watering and\nfeeding."
                             ]
                         },
                         {
@@ -4879,7 +4879,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Girl>You want to do something like this? Don't\nyou have chickens at your school in the city?\nWell, whatever, do as you please."
+                                "\\N<Girl>You want to do something like this? Don't you have\nchickens at your school in the city? Well, whatever, do as\nyou please."
                             ]
                         },
                         {
@@ -5160,7 +5160,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Girl>Huh? It's Mika, Mika. This should be fine.\nWell then, see you."
+                                "\\N<Girl>Huh? It's Mika, Mika. This should be fine. Well\nthen, see you."
                             ]
                         },
                         {
@@ -5320,7 +5320,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Mika-chan>Oh, Boku? What's with the serious\nface?"
+                                "\\N<Mika-chan>Oh, Boku? What's with the serious face?"
                             ]
                         },
                         {
@@ -5344,7 +5344,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>You know, I'm going back to the city\ntomorrow..."
+                                "\\N<Boku>You know, I'm going back to the city tomorrow..."
                             ]
                         },
                         {
@@ -5368,7 +5368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Mika-chan>Ah, I see. So you're only here during\nsummer vacation, right? Well then, today is our\nfarewell. Bye-bye!"
+                                "\\N<Mika-chan>Ah, I see. So you're only here during summer\nvacation, right? Well then, today is our farewell. Bye-bye!"
                             ]
                         },
                         {
@@ -5449,7 +5449,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Mika-chan>What's with that? You'll come back\nnext summer vacation, right? It's not just summer,\nthere's also winter vacation and spring vacation.\nWe can meet again anytime."
+                                "\\N<Mika-chan>What's with that? You'll come back next summer\nvacation, right? It's not just summer, there's also winter\nvacation and spring vacation. We can meet again anytime."
                             ]
                         },
                         {
@@ -5511,7 +5511,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Mika-chan>Next time we meet, remember that I\nwon't lose on the grass slide!"
+                                "\\N<Mika-chan>Next time we meet, remember that I won't lose\non the grass slide!"
                             ]
                         },
                         {
@@ -5542,7 +5542,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Yeah! I won't lose either! Well then,\nlet's meet again, Mika-chan!"
+                                "\\N<Boku>Yeah! I won't lose either! Well then, let's meet\nagain, Mika-chan!"
                             ]
                         },
                         {
@@ -5618,7 +5618,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Mika-chan>Oh, Boku? What are you here for? If\nit's feeding time, it's already over."
+                                "\\N<Mika-chan>Oh, Boku? What are you here for? If it's\nfeeding time, it's already over."
                             ]
                         },
                         {
@@ -5671,7 +5671,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Mika-chan>Huh? Is that so? Haha...? I see,\nyou're in the mood for something naughty again,\naren't you?"
+                                "\\N<Mika-chan>Huh? Is that so? Haha...? I see, you're in the\nmood for something naughty again, aren't you?"
                             ]
                         },
                         {
@@ -5731,7 +5731,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Mika-chan>See, I knew it... ♥ I can see right\nthrough you ♥ Well, if you're going to say that\nmuch, I guess I can't help it ♥ Then... let's go\nto my room ♥"
+                                "\\N<Mika-chan>See, I knew it... ♥ I can see right through you\n♥ Well, if you're going to say that much, I guess I can't\nhelp it ♥ Then... let's go to my room ♥"
                             ]
                         },
                         {
@@ -5817,7 +5817,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Mika-chan>Oh, really? I thought boys would be\nmore aggressive, but I guess not."
+                                "\\N<Mika-chan>Oh, really? I thought boys would be more\naggressive, but I guess not."
                             ]
                         },
                         {

@@ -2077,7 +2077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hakase-kun>Hmm... Is this bug the same as the\none I caught earlier?"
+                                "\\N<Hakase-kun>Hmm... Is this bug the same as the one I\ncaught earlier?"
                             ]
                         },
                         {
@@ -2305,7 +2305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>It's a huge spider web!... I can't touch\nthis... If only there was something like a wooden\nbranch..."
+                                "\\N<Boku>It's a huge spider web!... I can't touch this... If\nonly there was something like a wooden branch..."
                             ]
                         },
                         {
@@ -2464,7 +2464,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah! There's a discarded saw! It's rusty,\nbut it still seems usable... With this, I can fix\nthe bridge!"
+                                "\\N<Boku>Ah! There's a discarded saw! It's rusty, but it\nstill seems usable... With this, I can fix the bridge!"
                             ]
                         },
                         {

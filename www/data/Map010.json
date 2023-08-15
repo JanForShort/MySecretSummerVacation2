@@ -2566,7 +2566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There's a gachapon! It says that each try of the\nPokemobi series costs 20 yen and there are 10\ndifferent types. If you collect all the types,\nyou'll receive a wonderful present! Should I give\nit a try?"
+                                "There's a gachapon! It says that each try of the Pokemobi\nseries costs 20 yen and there are 10 different types. If you\ncollect all the types, you'll receive a wonderful present!\nShould I give it a try?"
                             ]
                         },
                         {
@@ -2722,7 +2722,7 @@
                             "code": 401,
                             "indent": 13,
                             "parameters": [
-                                "\\N<Boku>Yay! I collected all the types! I have to\nlet the shop girl know and receive something\namazing!"
+                                "\\N<Boku>Yay! I collected all the types! I have to let the\nshop girl know and receive something amazing!"
                             ]
                         },
                         {
@@ -4964,7 +4964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Closed on Saturdays and Sundays\\#Today,\ntemporary closure"
+                                "\\#Closed on Saturdays and Sundays\\#Today, temporary closure"
                             ]
                         },
                         {
@@ -5676,7 +5676,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>Oh, it's not you. We meet often,\ndon't we?"
+                                "\\N<Nana-chan>Oh, it's not you. We meet often, don't we?"
                             ]
                         },
                         {
@@ -5700,7 +5700,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Oh, Nana-chan is eating ice cream! I'm\njealous... Maybe I should buy some too..."
+                                "\\N<Boku>Oh, Nana-chan is eating ice cream! I'm jealous...\nMaybe I should buy some too..."
                             ]
                         },
                         {
@@ -5724,7 +5724,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>Hmm... If you're not going to eat\nthat much, you can have this. I'm already full\nanyway."
+                                "\\N<Nana-chan>Hmm... If you're not going to eat that much,\nyou can have this. I'm already full anyway."
                             ]
                         },
                         {
@@ -5848,7 +5848,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>Ahaha, it's just a joke ♥ You're not\na boy, so you don't have to say things like that\nall the time ♥"
+                                "\\N<Nana-chan>Ahaha, it's just a joke ♥ You're not a boy, so\nyou don't have to say things like that all the time ♥"
                             ]
                         },
                         {
@@ -5926,7 +5926,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>Ahaha, it's just a joke ♥ You're not\na boy, so you don't have to say things like that\nall the time ♥"
+                                "\\N<Nana-chan>Ahaha, it's just a joke ♥ You're not a boy, so\nyou don't have to say things like that all the time ♥"
                             ]
                         },
                         {

@@ -2219,7 +2219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um... it's not good to enter someone's\nhouse without permission, right?"
+                                "\\N<Boku>Um... it's not good to enter someone's house without\npermission, right?"
                             ]
                         },
                         {
@@ -2566,7 +2566,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, Boku-kun. What's wrong? Did you\ncome to play?"
+                                "\\N<Onee-chan>Oh, Boku-kun. What's wrong? Did you come to\nplay?"
                             ]
                         },
                         {
@@ -2597,7 +2597,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Um, Onee-chan, there's something I wanted\nto ask you..."
+                                "\\N<Boku>Um, Onee-chan, there's something I wanted to ask\nyou..."
                             ]
                         },
                         {
@@ -2621,7 +2621,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, really? Well then, shall we talk\ninside? Come on in."
+                                "\\N<Onee-chan>Oh, really? Well then, shall we talk inside?\nCome on in."
                             ]
                         },
                         {
@@ -2725,7 +2725,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>It's probably better not to bother you so\nlate..."
+                                "\\N<Boku>It's probably better not to bother you so late..."
                             ]
                         },
                         {
@@ -2769,7 +2769,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Huh? The door is locked... Maybe she's\nout...?"
+                                "\\N<Boku>Huh? The door is locked... Maybe she's out...?"
                             ]
                         },
                         {

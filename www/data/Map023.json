@@ -4384,7 +4384,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>W-What's up? You seem unusually\nenergetic today...?"
+                                "\\N<Onee-chan>W-What's up? You seem unusually energetic\ntoday...?"
                             ]
                         },
                         {
@@ -4408,7 +4408,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Hey, hey! Guess what! I collected all the\ngacha prizes!"
+                                "\\N<Boku>Hey, hey! Guess what! I collected all the gacha\nprizes!"
                             ]
                         },
                         {
@@ -4432,7 +4432,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Huh? The ones that are placed\noutside...? You managed to collect all the\ndifferent types...? Wait, when did those even\nstart appearing...?"
+                                "\\N<Onee-chan>Huh? The ones that are placed outside...? You\nmanaged to collect all the different types...? Wait, when\ndid those even start appearing...?"
                             ]
                         },
                         {
@@ -4470,7 +4470,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>So, you know, if you collect all the\ndifferent types, you can get prizes at the shop!"
+                                "\\N<Boku>So, you know, if you collect all the different\ntypes, you can get prizes at the shop!"
                             ]
                         },
                         {
@@ -4494,7 +4494,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Huh? Are those even a thing...? I\nhaven't heard anything about it from Dad...\nGeez... Maybe they're stored somewhere... Ah, wait\na moment."
+                                "\\N<Onee-chan>Huh? Are those even a thing...? I haven't heard\nanything about it from Dad... Geez... Maybe they're stored\nsomewhere... Ah, wait a moment."
                             ]
                         },
                         {
@@ -4604,7 +4604,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Phew... I found it, I found it... Is\nthis it? Um... a can of sweets...?... When is this\nfrom, seriously..."
+                                "\\N<Onee-chan>Phew... I found it, I found it... Is this it?\nUm... a can of sweets...?... When is this from, seriously..."
                             ]
                         },
                         {
@@ -4666,7 +4666,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>O-Oh... um, maybe it's better if I...\nnever mind."
+                                "\\N<Onee-chan>O-Oh... um, maybe it's better if I... never\nmind."
                             ]
                         },
                         {
@@ -4717,7 +4717,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Oh... it's all sticky... What's this...? A\nsurprise box...?"
+                                "\\N<Boku>Oh... it's all sticky... What's this...? A surprise\nbox...?"
                             ]
                         },
                         {
@@ -4741,7 +4741,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Um... Maybe the contents of the can\ngot old and gas built up inside... And when you\ntried to open it, it exploded and the contents\nsprayed out...?"
+                                "\\N<Onee-chan>Um... Maybe the contents of the can got old and\ngas built up inside... And when you tried to open it, it\nexploded and the contents sprayed out...?"
                             ]
                         },
                         {
@@ -4749,37 +4749,6 @@
                             "indent": 1,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<Boku>Ugh... The prizes from the gacha were that\nold... I'm disappointed..."
                             ]
                         },
                         {
@@ -4810,7 +4779,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Well, I mean, since I'll give you\nsome sweets from the shop, for now, go take a bath\nat home. You're in a terrible state."
+                                "\\N<Boku>Ugh... The prizes from the gacha were that old...\nI'm disappointed..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Onee-chan>Well, I mean, since I'll give you some sweets\nfrom the shop, for now, go take a bath at home. You're in a\nterrible state."
                             ]
                         },
                         {
@@ -5051,7 +5051,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Hmm...? I wonder if I got rid of the\nstickiness...?"
+                                "\\N<Boku>Hmm...? I wonder if I got rid of the stickiness...?"
                             ]
                         },
                         {
@@ -5543,7 +5543,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It was not a book or a video, but the first time I\nsaw the naked body of a living woman other than my\nmother... That sight of her skin color burned into\nmy childhood memories. [v0]"
+                                "It was not a book or a video, but the first time I saw the\nnaked body of a living woman other than my mother... That\nsight of her skin color burned into my childhood memories.\n[v0]"
                             ]
                         },
                         {
@@ -5611,7 +5611,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Huh? I got dirty too, you know. Here,\nit's cramped, so it's cold, cold."
+                                "\\N<Onee-chan>Huh? I got dirty too, you know. Here, it's\ncramped, so it's cold, cold."
                             ]
                         },
                         {
@@ -5659,7 +5659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>What's wrong? Why are you acting all\nshy, you brat? Stupid. Ten years is a long time,\nyou know."
+                                "\\N<Onee-chan>What's wrong? Why are you acting all shy, you\nbrat? Stupid. Ten years is a long time, you know."
                             ]
                         },
                         {
@@ -5707,7 +5707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Hmm...? Hey hey, you're already\ngetting a boner, huh? Are you already thinking\ndirty thoughts at your age? You perverted brat."
+                                "\\N<Onee-chan>Hmm...? Hey hey, you're already getting a\nboner, huh? Are you already thinking dirty thoughts at your\nage? You perverted brat."
                             ]
                         },
                         {
@@ -5762,7 +5762,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Well, it's not a big deal... Oh, I\nhave an idea. Instead of a prize from the capsule\ntoy, how about I help you relieve some stress?"
+                                "\\N<Onee-chan>Well, it's not a big deal... Oh, I have an\nidea. Instead of a prize from the capsule toy, how about I\nhelp you relieve some stress?"
                             ]
                         },
                         {
@@ -5800,7 +5800,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>C-Cleaned up...? W-What are you going to\ndo...?"
+                                "\\N<Boku>C-Cleaned up...? W-What are you going to do...?"
                             ]
                         },
                         {
@@ -6039,7 +6039,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Onee-chan! Onee-chan! I won the ice cream!\nI won the ice cream!"
+                                "\\N<Boku>Onee-chan! Onee-chan! I won the ice cream! I won the\nice cream!"
                             ]
                         },
                         {
@@ -6063,7 +6063,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Huh...? Did you really win...? I\nthought winning a snack was just an urban\nlegend..."
+                                "\\N<Onee-chan>Huh...? Did you really win...? I thought\nwinning a snack was just an urban legend..."
                             ]
                         },
                         {
@@ -6118,7 +6118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Geez, I get it. You want me to do\nsomething naughty, right? Seriously, you're so\nhopeless..."
+                                "\\N<Onee-chan>Geez, I get it. You want me to do something\nnaughty, right? Seriously, you're so hopeless..."
                             ]
                         },
                         {
@@ -6156,7 +6156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Come on, hurry up. Let's get it over\nwith quickly."
+                                "\\N<Onee-chan>Come on, hurry up. Let's get it over with\nquickly."
                             ]
                         },
                         {
@@ -6264,7 +6264,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>What's up? You're such a serious kid,\naren't you? Well, whatever. So, are you going to\nbuy something?"
+                                "\\N<Onee-chan>What's up? You're such a serious kid, aren't\nyou? Well, whatever. So, are you going to buy something?"
                             ]
                         },
                         {
@@ -6309,7 +6309,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Come on. If you don't have any\nbusiness, go home. I'm not free, you know."
+                                "\\N<Onee-chan>Come on. If you don't have any business, go\nhome. I'm not free, you know."
                             ]
                         },
                         {
@@ -6488,7 +6488,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>What is it, you again? Are you here\nto buy something?"
+                                "\\N<Onee-chan>What is it, you again? Are you here to buy\nsomething?"
                             ]
                         },
                         {
@@ -6536,7 +6536,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Hey, if you don't have any business\nhere, then go home. I'm not free, you know."
+                                "\\N<Onee-chan>Hey, if you don't have any business here, then\ngo home. I'm not free, you know."
                             ]
                         },
                         {
@@ -6584,7 +6584,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>What is it? Do you still have\nsomething to say?"
+                                "\\N<Onee-chan>What is it? Do you still have something to say?"
                             ]
                         },
                         {
@@ -6608,7 +6608,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Um, you see, I'm going back to town on the\n31st..."
+                                "\\N<Boku>Um, you see, I'm going back to town on the 31st..."
                             ]
                         },
                         {
@@ -6632,7 +6632,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Hmm, I see. By the way, summer\nvacation is ending, huh? Well, I guess we won't\nsee each other again. Goodbye."
+                                "\\N<Onee-chan>Hmm, I see. By the way, summer vacation is\nending, huh? Well, I guess we won't see each other again.\nGoodbye."
                             ]
                         },
                         {
@@ -6720,7 +6720,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Don't make such a pathetic face. Just\nkidding, just kidding. Anyway, for the next few\nyears, I'll probably be helping out at the shop on\nmy days off, so if you want to see me, feel free\nto come by."
+                                "\\N<Onee-chan>Don't make such a pathetic face. Just kidding,\njust kidding. Anyway, for the next few years, I'll probably\nbe helping out at the shop on my days off, so if you want to\nsee me, feel free to come by."
                             ]
                         },
                         {
@@ -6782,7 +6782,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Hey hey, next time, save up more\npocket money and contribute to the shop's sales,\nokay?"
+                                "\\N<Onee-chan>Hey hey, next time, save up more pocket money\nand contribute to the shop's sales, okay?"
                             ]
                         },
                         {
@@ -7087,7 +7087,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Onee-chan! Onee-chan! I won the ice cream!\nI won the ice cream!"
+                                "\\N<Boku>Onee-chan! Onee-chan! I won the ice cream! I won the\nice cream!"
                             ]
                         },
                         {
@@ -7111,7 +7111,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Huh...? Did you really win...? I\nthought winning a snack was just an urban\nlegend..."
+                                "\\N<Onee-chan>Huh...? Did you really win...? I thought\nwinning a snack was just an urban legend..."
                             ]
                         },
                         {
@@ -7166,7 +7166,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Geez, I get it. You want me to do\nsomething naughty, right? Seriously, you're so\nhopeless..."
+                                "\\N<Onee-chan>Geez, I get it. You want me to do something\nnaughty, right? Seriously, you're so hopeless..."
                             ]
                         },
                         {
@@ -7204,7 +7204,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Come on, hurry up. Let's get it over\nwith quickly."
+                                "\\N<Onee-chan>Come on, hurry up. Let's get it over with\nquickly."
                             ]
                         },
                         {
@@ -7312,7 +7312,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>What's up? You're such a serious kid,\naren't you? Well, whatever. So, are you going to\nbuy something?"
+                                "\\N<Onee-chan>What's up? You're such a serious kid, aren't\nyou? Well, whatever. So, are you going to buy something?"
                             ]
                         },
                         {
@@ -7357,7 +7357,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>Come on. If you don't have any\nbusiness, go home. I'm not free, you know."
+                                "\\N<Onee-chan>Come on. If you don't have any business, go\nhome. I'm not free, you know."
                             ]
                         },
                         {
@@ -7501,7 +7501,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>W-What's up? You seem unusually\nenergetic today...?"
+                                "\\N<Onee-chan>W-What's up? You seem unusually energetic\ntoday...?"
                             ]
                         },
                         {
@@ -7525,7 +7525,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Hey, hey! Look! I collected all the gacha-\ngacha prizes!"
+                                "\\N<Boku>Hey, hey! Look! I collected all the gacha- gacha\nprizes!"
                             ]
                         },
                         {
@@ -7549,7 +7549,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>Huh? The ones that are placed\noutside...? They had all the different types...\nWait, when did they start putting those out...?"
+                                "\\N<Onee-chan>Huh? The ones that are placed outside...? They\nhad all the different types... Wait, when did they start\nputting those out...?"
                             ]
                         },
                         {
@@ -7587,7 +7587,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>So, you know, if I collect all the\ndifferent types, I can get a prize at the shop!"
+                                "\\N<Boku>So, you know, if I collect all the different types,\nI can get a prize at the shop!"
                             ]
                         },
                         {
@@ -7611,7 +7611,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>Huh? Do we even have that...? I\nhaven't heard anything like that from Dad...\nSeriously... Maybe it's stored somewhere... Ah,\nwait a moment."
+                                "\\N<Onee-chan>Huh? Do we even have that...? I haven't heard\nanything like that from Dad... Seriously... Maybe it's\nstored somewhere... Ah, wait a moment."
                             ]
                         },
                         {
@@ -7721,7 +7721,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>Phew... I found it, I found it... Is\nthis it? Um... a can of sweets...?... When is this\nfrom, seriously..."
+                                "\\N<Onee-chan>Phew... I found it, I found it... Is this it?\nUm... a can of sweets...?... When is this from, seriously..."
                             ]
                         },
                         {
@@ -7783,7 +7783,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, um... well, maybe it's better if\nI don't..."
+                                "\\N<Onee-chan>Oh, um... well, maybe it's better if I don't..."
                             ]
                         },
                         {
@@ -7834,7 +7834,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Oh wow... it's all sticky... What's\nthis...? A surprise box...?"
+                                "\\N<Boku>Oh wow... it's all sticky... What's this...? A\nsurprise box...?"
                             ]
                         },
                         {
@@ -7858,7 +7858,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>Um... Maybe the contents of the can\ngot old and the gas built up... and when you tried\nto open it, it exploded and the contents sprayed\nout...?"
+                                "\\N<Onee-chan>Um... Maybe the contents of the can got old and\nthe gas built up... and when you tried to open it, it\nexploded and the contents sprayed out...?"
                             ]
                         },
                         {
@@ -7866,37 +7866,6 @@
                             "indent": 3,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\N<Boku>Ugh... The gacha-gacha prizes were that\nold... I'm disappointed..."
                             ]
                         },
                         {
@@ -7927,7 +7896,38 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>Well, I mean, since I'll give you\nsome sweets from the shop, for now, go take a bath\nat home. You're in a terrible state."
+                                "\\N<Boku>Ugh... The gacha-gacha prizes were that old... I'm\ndisappointed..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 3,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\N<Onee-chan>Well, I mean, since I'll give you some sweets\nfrom the shop, for now, go take a bath at home. You're in a\nterrible state."
                             ]
                         },
                         {
@@ -8168,7 +8168,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Hmm...? I wonder if I got rid of the\nstickiness...?"
+                                "\\N<Boku>Hmm...? I wonder if I got rid of the stickiness...?"
                             ]
                         },
                         {
@@ -8660,7 +8660,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "It was not a book or a video, but the first time I\nsaw the naked body of a living woman other than my\nmother... That sight of her skin color burned into\nmy childhood memories."
+                                "It was not a book or a video, but the first time I saw the\nnaked body of a living woman other than my mother... That\nsight of her skin color burned into my childhood memories."
                             ]
                         },
                         {
@@ -8728,7 +8728,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>Huh? I got dirty too, you know. Here,\nit's cramped so it's cold, cold."
+                                "\\N<Onee-chan>Huh? I got dirty too, you know. Here, it's\ncramped so it's cold, cold."
                             ]
                         },
                         {
@@ -8776,7 +8776,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>What's wrong? Why are you acting all\nembarrassed, you brat? Stupid. Ten years is a long\ntime, you know."
+                                "\\N<Onee-chan>What's wrong? Why are you acting all\nembarrassed, you brat? Stupid. Ten years is a long time, you\nknow."
                             ]
                         },
                         {
@@ -8824,7 +8824,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>Hmm...? Hey hey, you're already\ngetting a boner, huh? Are you already thinking\ndirty thoughts at your age? You perverted brat."
+                                "\\N<Onee-chan>Hmm...? Hey hey, you're already getting a\nboner, huh? Are you already thinking dirty thoughts at your\nage? You perverted brat."
                             ]
                         },
                         {
@@ -8879,7 +8879,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>Well, it's not a big deal... Oh, I\nhave an idea. Instead of a prize from the gacha,\nhow about I help you relieve some stress?"
+                                "\\N<Onee-chan>Well, it's not a big deal... Oh, I have an\nidea. Instead of a prize from the gacha, how about I help\nyou relieve some stress?"
                             ]
                         },
                         {
@@ -10618,7 +10618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Welcome... Wait, what, a kid? I\nhaven't seen you before."
+                                "\\N<Onee-chan>Welcome... Wait, what, a kid? I haven't seen\nyou before."
                             ]
                         },
                         {
@@ -10789,7 +10789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I'm Boku! I'll be living in this town\nduring summer vacation."
+                                "\\N<Boku>I'm Boku! I'll be living in this town during summer\nvacation."
                             ]
                         },
                         {
@@ -10874,7 +10874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Hmm...? Oh well. So, are you buying\nsomething?"
+                                "\\N<Onee-chan>Hmm...? Oh well. So, are you buying something?"
                             ]
                         },
                         {
@@ -10905,7 +10905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Yeah! I got some spending money from\n\\N[2]."
+                                "\\N<Boku>Yeah! I got some spending money from \\N[2]."
                             ]
                         },
                         {
@@ -10929,7 +10929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Ah, I see. If you're going to buy\nsomething, do it quickly. Right now, the TV is in\na good spot."
+                                "\\N<Onee-chan>Ah, I see. If you're going to buy something, do\nit quickly. Right now, the TV is in a good spot."
                             ]
                         },
                         {
@@ -10991,7 +10991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Hey, once you're done, go home. This\nisn't a playground, you know."
+                                "\\N<Onee-chan>Hey, once you're done, go home. This isn't a\nplayground, you know."
                             ]
                         },
                         {
@@ -11211,7 +11211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Alright. Well, hurry up and take a\nbath. I won't deal with a dirty brat like you, you\nknow."
+                                "\\N<Onee-chan>Alright. Well, hurry up and take a bath. I\nwon't deal with a dirty brat like you, you know."
                             ]
                         },
                         {
@@ -11351,7 +11351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>What's up? Hurry up and take a bath.\nMake sure to wash all the way inside your\nforeskin, okay ♥"
+                                "\\N<Onee-chan>What's up? Hurry up and take a bath. Make sure\nto wash all the way inside your foreskin, okay ♥"
                             ]
                         },
                         {
@@ -11529,7 +11529,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>...If it's just one pair of Onee-chan's\npanties... would it be okay for me to take\nthem...?"
+                                "\\N<Boku>...If it's just one pair of Onee-chan's panties...\nwould it be okay for me to take them...?"
                             ]
                         },
                         {
@@ -11858,7 +11858,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, you're here. Well, I'll be right\nthere, so wait for me in my room on the second\nfloor."
+                                "\\N<Onee-chan>Oh, you're here. Well, I'll be right there, so\nwait for me in my room on the second floor."
                             ]
                         },
                         {
@@ -12162,7 +12162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Hey, I told you to hurry up and get\nin the bath, didn't I?"
+                                "\\N<Onee-chan>Hey, I told you to hurry up and get in the\nbath, didn't I?"
                             ]
                         },
                         {
@@ -12264,7 +12264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, you're here. Alright, wait for me\nin my room on the second floor, just before the\nstairs. I'll come right away."
+                                "\\N<Onee-chan>Oh, you're here. Alright, wait for me in my\nroom on the second floor, just before the stairs. I'll come\nright away."
                             ]
                         },
                         {
@@ -12524,7 +12524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I shouldn't just go home without\npermission, right...?"
+                                "\\N<Boku>I shouldn't just go home without permission,\nright...?"
                             ]
                         },
                         {
@@ -12674,7 +12674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I can't just go home without permission,\nright...?"
+                                "\\N<Boku>I can't just go home without permission, right...?"
                             ]
                         },
                         {
@@ -12782,7 +12782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I shouldn't just go home without\npermission, right...?"
+                                "\\N<Boku>I shouldn't just go home without permission,\nright...?"
                             ]
                         },
                         {
@@ -12932,7 +12932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I can't just go home without permission,\nright...?"
+                                "\\N<Boku>I can't just go home without permission, right...?"
                             ]
                         },
                         {

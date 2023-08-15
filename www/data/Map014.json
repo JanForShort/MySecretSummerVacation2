@@ -3498,7 +3498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um... it's not good to enter someone's\nhouse without permission, right?"
+                                "\\N<Boku>Um... it's not good to enter someone's house without\npermission, right?"
                             ]
                         },
                         {
@@ -3696,7 +3696,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Um... It's not good to enter someone's\nhouse without permission, right...?"
+                                "\\N<Boku>Um... It's not good to enter someone's house without\npermission, right...?"
                             ]
                         },
                         {
@@ -3797,7 +3797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um... it's not good to enter someone's\nhouse without permission, right?"
+                                "\\N<Boku>Um... it's not good to enter someone's house without\npermission, right?"
                             ]
                         },
                         {
@@ -3888,7 +3888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hakase-kun>Hey, did you know? There's a fire\ntruck from the fire brigade in here. I wonder if\nI'll join the fire brigade when I grow up? Then\nmaybe I can ride on the fire truck."
+                                "\\N<Hakase-kun>Hey, did you know? There's a fire truck from\nthe fire brigade in here. I wonder if I'll join the fire\nbrigade when I grow up? Then maybe I can ride on the fire\ntruck."
                             ]
                         },
                         {
