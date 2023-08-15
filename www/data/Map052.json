@@ -19700,8 +19700,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "うん、もう寝よう",
-                                    "もうちょっとだけ起きてる"
+                                    "Yeah, let's go to bed",
+                                    "I'll stay awake a little longer"
                                 ],
                                 1,
                                 0,
@@ -23087,8 +23087,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "入れる",
-                                    "入れない"
+                                    "Add",
+                                    "Can't add it"
                                 ],
                                 1,
                                 0,

@@ -18242,9 +18242,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "おばちゃん",
-                                    "お母さん",
-                                    "ママ"
+                                    "Auntie",
+                                    "Mother",
+                                    "Mama"
                                 ],
                                 -1,
                                 0,
@@ -18628,8 +18628,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "「お兄ちゃんってよんで！」",
-                                    "「ボク君ってよんで！」"
+                                    "Call me Sacchan!",
+                                    "Call me Boku-kun!"
                                 ],
                                 -1,
                                 0,
@@ -20365,8 +20365,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "ペロリンキャンディをあげる",
-                                    "あげない"
+                                    "I'll give you a lollipop",
+                                    "I won't give it to you"
                                 ],
                                 1,
                                 0,
@@ -22477,8 +22477,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "服を脱がせる",
-                                    "やめとこう"
+                                    "Undressing the clothes",
+                                    "Let's not do it"
                                 ],
                                 1,
                                 0,
@@ -22708,8 +22708,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "エッチないたずらをする",
-                                    "やめとこう"
+                                    "To play a naughty prank",
+                                    "Let's stop"
                                 ],
                                 1,
                                 0,
@@ -24199,8 +24199,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "入ろう！",
-                                    "やめとこう"
+                                    "Let's get in!",
+                                    "Let's not"
                                 ],
                                 1,
                                 0,
@@ -26055,8 +26055,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "お話しよう",
-                                    "お風呂に入ろう"
+                                    "Let's talk",
+                                    "Let's take a bath"
                                 ],
                                 -1,
                                 0,
@@ -26630,8 +26630,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "お話しよう",
-                                    "お風呂に入ろう"
+                                    "Let's talk",
+                                    "Let's take a bath"
                                 ],
                                 -1,
                                 0,
@@ -30242,8 +30242,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "服を脱がせる",
-                                    "やめとこう"
+                                    "Undressing you",
+                                    "Let's not do it"
                                 ],
                                 1,
                                 0,
@@ -30439,8 +30439,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "エッチないたずらをする",
-                                    "やめとこう"
+                                    "To play a naughty prank",
+                                    "Let's stop"
                                 ],
                                 1,
                                 0,
@@ -32616,8 +32616,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "もっていく",
-                                    "やめておく"
+                                    "Take it",
+                                    "I'll refrain"
                                 ],
                                 1,
                                 0,
@@ -32758,8 +32758,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "もっていく",
-                                    "やめておく"
+                                    "Take it",
+                                    "I'll refrain"
                                 ],
                                 1,
                                 0,
@@ -33042,8 +33042,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "もっていく",
-                                    "やめておく"
+                                    "Take them",
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -33302,8 +33302,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "もっていく",
-                                    "やめておく"
+                                    "Take them",
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -36340,8 +36340,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "もっていく",
-                                    "やめておく"
+                                    "Take it",
+                                    "I'll refrain"
                                 ],
                                 1,
                                 0,
@@ -38348,8 +38348,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "男の子",
-                                    "女の子"
+                                    "Boy",
+                                    "Girl"
                                 ],
                                 -1,
                                 0,
@@ -48187,8 +48187,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "入れる",
-                                    "入れない"
+                                    "Add",
+                                    "Can't enter"
                                 ],
                                 1,
                                 0,
@@ -48441,8 +48441,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "入れる",
-                                    "入れない"
+                                    "Add",
+                                    "Can't put it in"
                                 ],
                                 1,
                                 0,

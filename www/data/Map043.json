@@ -5640,8 +5640,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ミカちゃんに会いに来たよ",
-                                    "えー、そっかー…"
+                                    "I came to see Mika-chan",
+                                    "Oh, I see"
                                 ],
                                 1,
                                 0,
@@ -5700,8 +5700,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "う、うん！",
-                                    "ち、ちがうよ！"
+                                    "Y-Yeah!",
+                                    "N-No, that's not it!"
                                 ],
                                 1,
                                 0,

@@ -4318,8 +4318,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ガチャガチャを集めたことを報告する",
-                                    "ガチャガチャを集めたことを報告しない"
+                                    "I want to report that I've collected gachapon",
+                                    "I won't report that I collected the gachapon"
                                 ],
                                 1,
                                 0,
@@ -6171,8 +6171,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "う、うん…！",
-                                    "また今度、お願い！"
+                                    "Y-Yes!",
+                                    "Please, another time!"
                                 ],
                                 1,
                                 0,
@@ -7219,8 +7219,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "う、うん…！",
-                                    "また今度、お願い！"
+                                    "Y-Yes!",
+                                    "Please, another time!"
                                 ],
                                 1,
                                 0,
@@ -7435,8 +7435,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "ガチャガチャを集めたことを報告する",
-                                    "ガチャガチャを集めたことを報告しない"
+                                    "I want to report that I've collected some gacha items",
+                                    "Don't report that I collected the gacha-gacha"
                                 ],
                                 1,
                                 0,
@@ -11544,8 +11544,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "もっていく",
-                                    "やめておく"
+                                    "Take them",
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -11761,8 +11761,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "入ろう！",
-                                    "やめとこう"
+                                    "Let's get in!",
+                                    "Let's not"
                                 ],
                                 1,
                                 0,

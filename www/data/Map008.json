@@ -10167,8 +10167,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10694,8 +10694,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "エンドレスモード",
-                                    "強くてニューゲーム"
+                                    "Endless Mode",
+                                    "Strong and New Game"
                                 ],
                                 -1,
                                 0,
