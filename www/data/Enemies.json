@@ -54,7 +54,7 @@
         "exp": 50,
         "traits": [],
         "gold": 0,
-        "name": "ノコギリクワガタ",
+        "name": "Sawtooth Stag Beetle",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:11>\n<ENEMY_MAX_LEVEL:3>\n",
         "params": [
             1,
@@ -128,7 +128,7 @@
         "exp": 40,
         "traits": [],
         "gold": 0,
-        "name": "オニクワガタ",
+        "name": "Oni Stag Beetle",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:12>\n<ENEMY_MAX_LEVEL:2>\n\n",
         "params": [
             1,
@@ -216,7 +216,7 @@
         "exp": 250,
         "traits": [],
         "gold": 0,
-        "name": "コクワガタ",
+        "name": "Stag Beetle",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:13>\n<ENEMY_MAX_LEVEL:10>\n",
         "params": [
             1,
@@ -290,7 +290,7 @@
         "exp": 80,
         "traits": [],
         "gold": 0,
-        "name": "アカアシクワガタ",
+        "name": "Red-legged Stag Beetle",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:14>\n<ENEMY_MAX_LEVEL:3>\n",
         "params": [
             1,
@@ -371,7 +371,7 @@
         "exp": 120,
         "traits": [],
         "gold": 0,
-        "name": "ネブトクワガタ",
+        "name": "Nebuto Kuwagata",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:15>\n<ENEMY_MAX_LEVEL:5>\n",
         "params": [
             1,
@@ -445,7 +445,7 @@
         "exp": 100,
         "traits": [],
         "gold": 0,
-        "name": "ミヤマクワガタ",
+        "name": "Miyama Stag Beetle",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:16>\n<ENEMY_MAX_LEVEL:4>\n",
         "params": [
             1,
@@ -519,7 +519,7 @@
         "exp": 150,
         "traits": [],
         "gold": 0,
-        "name": "ヒラタクワガタ",
+        "name": "Hiratakuwagata",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:17>\n<ENEMY_MAX_LEVEL:5>\n",
         "params": [
             1,
@@ -600,7 +600,7 @@
         "exp": 600,
         "traits": [],
         "gold": 0,
-        "name": "斬鉄（オオクワガタ）",
+        "name": "Zantetsu (Giant Stag Beetle)",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:18>\n<ENEMY_MAX_LEVEL:7>\n",
         "params": [
             1,
@@ -681,7 +681,7 @@
         "exp": 200,
         "traits": [],
         "gold": 0,
-        "name": "カブトムシ♀",
+        "name": "Female Rhinoceros Beetle",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:19>\n<ENEMY_MAX_LEVEL:6>\n",
         "params": [
             1,
@@ -762,7 +762,7 @@
         "exp": 500,
         "traits": [],
         "gold": 0,
-        "name": "キングカブト（カブトムシ）",
+        "name": "King Kabuto (Beetle)",
         "note": "<BattlerScale:3>\n[SV Animated]\n<ENEMY_CLASS:20>\n<ENEMY_MAX_LEVEL:7>\n",
         "params": [
             1,
@@ -856,7 +856,7 @@
             }
         ],
         "gold": 0,
-        "name": "アオカナブン",
+        "name": "Aokanabun",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:21>\n<ENEMY_MAX_LEVEL:1>\n",
         "params": [
             1,
@@ -930,7 +930,7 @@
         "exp": 150,
         "traits": [],
         "gold": 0,
-        "name": "マイマイキラー（マイマイカブリ）",
+        "name": "Maimai Killer (Maimai Kaburi)",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:22>\n<ENEMY_MAX_LEVEL:4>\n",
         "params": [
             1,
@@ -1011,7 +1011,7 @@
         "exp": 100,
         "traits": [],
         "gold": 0,
-        "name": "オオオサムシ",
+        "name": "Giant Stag Beetle",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:23>\n<ENEMY_MAX_LEVEL:4>\n",
         "params": [
             1,
@@ -1099,7 +1099,7 @@
         "exp": 60,
         "traits": [],
         "gold": 0,
-        "name": "ハンミョウ",
+        "name": "Hanmyou",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:24>\n<ENEMY_MAX_LEVEL:2>\n",
         "params": [
             1,
@@ -1180,7 +1180,7 @@
         "exp": 600,
         "traits": [],
         "gold": 0,
-        "name": "ジャックナイフ（ウスバカミキリ）",
+        "name": "Jackknife (Praying Mantis)",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:25>\n<ENEMY_MAX_LEVEL:6>\n",
         "params": [
             1,
@@ -1240,7 +1240,7 @@
         "exp": 80,
         "traits": [],
         "gold": 0,
-        "name": "シロスジカミキリ",
+        "name": "White-backed Wood-boring Beetle",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:26>\n<ENEMY_MAX_LEVEL:12>\n",
         "params": [
             1,
@@ -1328,7 +1328,7 @@
         "exp": 100,
         "traits": [],
         "gold": 0,
-        "name": "るりちゃん（ルリボシカミキリ）",
+        "name": "Ruri-chan (Ruriboshi Kamikiri)",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:27>\n<ENEMY_MAX_LEVEL:3>\n",
         "params": [
             1,
@@ -1409,7 +1409,7 @@
         "exp": 200,
         "traits": [],
         "gold": 0,
-        "name": "デスサイズ（ハラビロカマキリ）",
+        "name": "Death Size (Harabiro Kamakiri)",
         "note": "<BattlerScale:3>\n[SV Animated]\n<ENEMY_CLASS:28>\n<ENEMY_MAX_LEVEL:5>\n",
         "params": [
             1,
@@ -1490,7 +1490,7 @@
         "exp": 600,
         "traits": [],
         "gold": 0,
-        "name": "シザーハンド（オオカマキリ）",
+        "name": "Scissorhand (Praying Mantis)",
         "note": "<BattlerScale:3>\n[SV Animated]\n<ENEMY_CLASS:29>\n<ENEMY_MAX_LEVEL:6>\n",
         "params": [
             1,
@@ -1550,7 +1550,7 @@
         "exp": 100,
         "traits": [],
         "gold": 0,
-        "name": "タガメ",
+        "name": "Tagame",
         "note": "<BattlerScale:3>\n[SV Animated]\n<ENEMY_CLASS:30>\n<ENEMY_MAX_LEVEL:9>\n",
         "params": [
             1,
@@ -1610,7 +1610,7 @@
         "exp": 100,
         "traits": [],
         "gold": 0,
-        "name": "ゲンゴロウ",
+        "name": "Gengorou",
         "note": "<BattlerScale:3>\n[SV Animated]\n<ENEMY_CLASS:31>\n<ENEMY_MAX_LEVEL:9>\n",
         "params": [
             1,
@@ -1670,7 +1670,7 @@
         "exp": 100,
         "traits": [],
         "gold": 0,
-        "name": "サワガニ",
+        "name": "Sawagani",
         "note": "<BattlerScale:3>\n[SV Animated]\n<ENEMY_CLASS:32>\n<ENEMY_MAX_LEVEL:9>\n",
         "params": [
             1,
@@ -1744,7 +1744,7 @@
         "exp": 3000,
         "traits": [],
         "gold": 0,
-        "name": "大怪獣ザリンガー（アメリカザリガニ）",
+        "name": "Giant Monster Zaringa (American Zari-gani)",
         "note": "<BattlerScale:4>\n[SV Animated]\n<ENEMY_CLASS:33>\n<ENEMY_MAX_LEVEL:8>\n",
         "params": [
             1,
@@ -1811,7 +1811,7 @@
         "exp": 300,
         "traits": [],
         "gold": 0,
-        "name": "メカカブトムシ",
+        "name": "Mechabug",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:34>\n<ENEMY_MAX_LEVEL:6>\n",
         "params": [
             1,
@@ -1878,7 +1878,7 @@
         "exp": 800,
         "traits": [],
         "gold": 0,
-        "name": "ヘラクレス",
+        "name": "Hercules",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:35>\n<ENEMY_MAX_LEVEL:3>\n",
         "params": [
             1,
@@ -1945,7 +1945,7 @@
         "exp": 800,
         "traits": [],
         "gold": 0,
-        "name": "コーカサス",
+        "name": "Caucasus",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:36>\n<ENEMY_MAX_LEVEL:3>\n",
         "params": [
             1,
@@ -2012,7 +2012,7 @@
         "exp": 800,
         "traits": [],
         "gold": 0,
-        "name": "ギラファ",
+        "name": "Giraffe",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:37>\n<ENEMY_MAX_LEVEL:3>\n",
         "params": [
             1,
@@ -2107,7 +2107,7 @@
         "exp": 500,
         "traits": [],
         "gold": 0,
-        "name": "オウゴンカブトムシ",
+        "name": "Golden Stag Beetle",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:38>\n<ENEMY_MAX_LEVEL:1>",
         "params": [
             1,
@@ -2181,7 +2181,7 @@
         "exp": 30,
         "traits": [],
         "gold": 0,
-        "name": "弱いオニクワガタ",
+        "name": "Weak Stag Beetle",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:10>\n<ENEMY_MAX_LEVEL:1>\n\n",
         "params": [
             1,
@@ -2266,7 +2266,7 @@
             }
         ],
         "gold": 0,
-        "name": "弱いオニクワガタE",
+        "name": "Weak Onikwagata E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:10>\n<ENEMY_MAX_LEVEL:1>\n\n",
         "params": [
             1,
@@ -2333,7 +2333,7 @@
         "exp": 50,
         "traits": [],
         "gold": 0,
-        "name": "ノコギリクワガタE",
+        "name": "Sawtooth Stag Beetle E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:11>\n<ENEMY_MAX_LEVEL:3>\n",
         "params": [
             1,
@@ -2407,7 +2407,7 @@
         "exp": 40,
         "traits": [],
         "gold": 0,
-        "name": "オニクワガタE",
+        "name": "Oni-Kuwagata E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:12>\n<ENEMY_MAX_LEVEL:2>\n\n",
         "params": [
             1,
@@ -2495,7 +2495,7 @@
         "exp": 250,
         "traits": [],
         "gold": 0,
-        "name": "コクワガタE",
+        "name": "Kokuwagata E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:13>\n<ENEMY_MAX_LEVEL:10>\n",
         "params": [
             1,
@@ -2569,7 +2569,7 @@
         "exp": 80,
         "traits": [],
         "gold": 0,
-        "name": "アカアシクワガタE",
+        "name": "Red-legged Stag Beetle E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:14>\n<ENEMY_MAX_LEVEL:3>\n",
         "params": [
             1,
@@ -2650,7 +2650,7 @@
         "exp": 120,
         "traits": [],
         "gold": 0,
-        "name": "ネブトクワガタE",
+        "name": "Nebuto Kuwagata E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:15>\n<ENEMY_MAX_LEVEL:5>\n",
         "params": [
             1,
@@ -2724,7 +2724,7 @@
         "exp": 100,
         "traits": [],
         "gold": 0,
-        "name": "ミヤマクワガタE",
+        "name": "Miyama Stag Beetle E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:16>\n<ENEMY_MAX_LEVEL:4>\n",
         "params": [
             1,
@@ -2798,7 +2798,7 @@
         "exp": 150,
         "traits": [],
         "gold": 0,
-        "name": "ヒラタクワガタE",
+        "name": "Hiratakuwagata E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:17>\n<ENEMY_MAX_LEVEL:5>\n",
         "params": [
             1,
@@ -2879,7 +2879,7 @@
         "exp": 600,
         "traits": [],
         "gold": 0,
-        "name": "斬鉄（オオクワガタ）E",
+        "name": "Zantetsu (Giant Stag Beetle) E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:18>\n<ENEMY_MAX_LEVEL:7>\n",
         "params": [
             1,
@@ -2960,7 +2960,7 @@
         "exp": 200,
         "traits": [],
         "gold": 0,
-        "name": "カブトムシ♀E",
+        "name": "Female Kabutomushi",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:19>\n<ENEMY_MAX_LEVEL:6>\n",
         "params": [
             1,
@@ -3041,7 +3041,7 @@
         "exp": 500,
         "traits": [],
         "gold": 0,
-        "name": "キングカブト（カブトムシ）E",
+        "name": "King Kabuto (Beetle) E",
         "note": "<BattlerScale:3>\n[SV Animated]\n<ENEMY_CLASS:20>\n<ENEMY_MAX_LEVEL:7>\n",
         "params": [
             1,
@@ -3135,7 +3135,7 @@
             }
         ],
         "gold": 0,
-        "name": "アオカナブンE",
+        "name": "Aokanabun E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:21>\n<ENEMY_MAX_LEVEL:1>\n",
         "params": [
             1,
@@ -3209,7 +3209,7 @@
         "exp": 150,
         "traits": [],
         "gold": 0,
-        "name": "マイマイキラー（マイマイカブリ）E",
+        "name": "My My Killer (My My Kaburi) E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:22>\n<ENEMY_MAX_LEVEL:4>\n",
         "params": [
             1,
@@ -3290,7 +3290,7 @@
         "exp": 100,
         "traits": [],
         "gold": 0,
-        "name": "オオオサムシE",
+        "name": "Ooosamushi E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:23>\n<ENEMY_MAX_LEVEL:4>\n",
         "params": [
             1,
@@ -3378,7 +3378,7 @@
         "exp": 60,
         "traits": [],
         "gold": 0,
-        "name": "ハンミョウE",
+        "name": "Hanmyou E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:24>\n<ENEMY_MAX_LEVEL:2>\n",
         "params": [
             1,
@@ -3459,7 +3459,7 @@
         "exp": 600,
         "traits": [],
         "gold": 0,
-        "name": "ジャックナイフ（ウスバカミキリ）E",
+        "name": "Jackknife (Praying Mantis) E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:25>\n<ENEMY_MAX_LEVEL:6>\n",
         "params": [
             1,
@@ -3519,7 +3519,7 @@
         "exp": 80,
         "traits": [],
         "gold": 0,
-        "name": "シロスジカミキリE",
+        "name": "White-backed Wood-boring Beetle E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:26>\n<ENEMY_MAX_LEVEL:12>\n",
         "params": [
             1,
@@ -3607,7 +3607,7 @@
         "exp": 100,
         "traits": [],
         "gold": 0,
-        "name": "るりちゃん（ルリボシカミキリ）E",
+        "name": "Ruri-chan (Ruriboshi Kamikiri)",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:27>\n<ENEMY_MAX_LEVEL:3>\n",
         "params": [
             1,
@@ -3688,7 +3688,7 @@
         "exp": 200,
         "traits": [],
         "gold": 0,
-        "name": "デスサイズ（ハラビロカマキリ）E",
+        "name": "Death Size (Harabiro Kamakiri) E",
         "note": "<BattlerScale:3>\n[SV Animated]\n<ENEMY_CLASS:28>\n<ENEMY_MAX_LEVEL:5>\n",
         "params": [
             1,
@@ -3769,7 +3769,7 @@
         "exp": 600,
         "traits": [],
         "gold": 0,
-        "name": "シザーハンド（オオカマキリ）E",
+        "name": "Scissorhand (Praying Mantis) E",
         "note": "<BattlerScale:3>\n[SV Animated]\n<ENEMY_CLASS:29>\n<ENEMY_MAX_LEVEL:6>\n",
         "params": [
             1,
@@ -3829,7 +3829,7 @@
         "exp": 100,
         "traits": [],
         "gold": 0,
-        "name": "タガメE",
+        "name": "Tagame E",
         "note": "<BattlerScale:3>\n[SV Animated]\n<ENEMY_CLASS:30>\n<ENEMY_MAX_LEVEL:9>\n",
         "params": [
             1,
@@ -3889,7 +3889,7 @@
         "exp": 100,
         "traits": [],
         "gold": 0,
-        "name": "ゲンゴロウE",
+        "name": "Gengorou E",
         "note": "<BattlerScale:3>\n[SV Animated]\n<ENEMY_CLASS:31>\n<ENEMY_MAX_LEVEL:9>\n",
         "params": [
             1,
@@ -3949,7 +3949,7 @@
         "exp": 100,
         "traits": [],
         "gold": 0,
-        "name": "サワガニE",
+        "name": "Sawagani E",
         "note": "<BattlerScale:3>\n[SV Animated]\n<ENEMY_CLASS:32>\n<ENEMY_MAX_LEVEL:9>\n",
         "params": [
             1,
@@ -4023,7 +4023,7 @@
         "exp": 3000,
         "traits": [],
         "gold": 0,
-        "name": "大怪獣ザリンガー（アメリカザリガニ）E",
+        "name": "Giant Monster Zaringa (American Zari-gani) E",
         "note": "<BattlerScale:4>\n[SV Animated]\n<ENEMY_CLASS:33>\n<ENEMY_MAX_LEVEL:8>\n",
         "params": [
             1,
@@ -4090,7 +4090,7 @@
         "exp": 300,
         "traits": [],
         "gold": 0,
-        "name": "メカカブトムシE",
+        "name": "Mechabutomushi E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:34>\n<ENEMY_MAX_LEVEL:6>\n",
         "params": [
             1,
@@ -4157,7 +4157,7 @@
         "exp": 800,
         "traits": [],
         "gold": 0,
-        "name": "ヘラクレスE",
+        "name": "Hercules E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:35>\n<ENEMY_MAX_LEVEL:3>\n",
         "params": [
             1,
@@ -4224,7 +4224,7 @@
         "exp": 800,
         "traits": [],
         "gold": 0,
-        "name": "コーカサスE",
+        "name": "Caucasus E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:36>\n<ENEMY_MAX_LEVEL:3>\n",
         "params": [
             1,
@@ -4291,7 +4291,7 @@
         "exp": 800,
         "traits": [],
         "gold": 0,
-        "name": "ギラファE",
+        "name": "Giraffe E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:37>\n<ENEMY_MAX_LEVEL:3>\n",
         "params": [
             1,
@@ -4386,7 +4386,7 @@
         "exp": 500,
         "traits": [],
         "gold": 0,
-        "name": "オウゴンカブトムシE",
+        "name": "Golden Stag Beetle E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:38>\n<ENEMY_MAX_LEVEL:1>",
         "params": [
             1,
