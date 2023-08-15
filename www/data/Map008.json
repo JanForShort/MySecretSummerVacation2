@@ -7025,7 +7025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Sacchan! I will definitely come back! So please\nwait for me!"
+                                "\\N<Boku>Sacchan! I will definitely come back! So please wait\nfor me!"
                             ]
                         },
                         {
@@ -8265,7 +8265,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boushi-kun>Ah... I'm exhausted... I've been searching\nfor you all this time..."
+                                "\\N<Boushi-kun>Ah... I'm exhausted... I've been searching for\nyou all this time..."
                             ]
                         },
                         {
@@ -8327,7 +8327,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Huh? What? Were you all searching for the\nTsuchinoko together?"
+                                "\\N<Boku>Huh? What? Were you all searching for the Tsuchinoko\ntogether?"
                             ]
                         },
                         {
@@ -9204,7 +9204,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Eh?! You're giving this to me?! Is it really okay\nto have something this amazing?!"
+                                "\\N<Boku>Eh?! You're giving this to me?! Is it really okay to\nhave something this amazing?!"
                             ]
                         },
                         {
@@ -9455,7 +9455,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hakase-kun>Next year, I will definitely prepare even\nmore amazing bugs, so be prepared."
+                                "\\N<Hakase-kun>Next year, I will definitely prepare even more\namazing bugs, so be prepared."
                             ]
                         },
                         {
@@ -9479,7 +9479,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boushi-kun>Next time you come, let's go fishing\ntogether. I know a secret fishing spot!"
+                                "\\N<Boushi-kun>Next time you come, let's go fishing together.\nI know a secret fishing spot!"
                             ]
                         },
                         {
@@ -9742,7 +9742,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>We said it here on the day we first met,\nright? That it would definitely be a fun summer vacation...\nI wonder how it turned out?"
+                                "\\N<Onee-chan>We said it here on the day we first met, right?\nThat it would definitely be a fun summer vacation... I\nwonder how it turned out?"
                             ]
                         },
                         {
@@ -10167,8 +10167,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10565,7 +10565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Custom Mode Unlocked! ※ You can now access the Secret\nAttic Room from the ladder in the storage room on the\nsecond floor of the pension. It is now possible to customize\nthe appearance of the main characters."
+                                "\\#Custom Mode Unlocked! ※ You can now access the Secret\nAttic Room from the ladder in the storage room on the second\nfloor of the pension. It is now possible to customize the\nappearance of the main characters."
                             ]
                         },
                         {
@@ -10694,8 +10694,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "エンドレスモード",
-                                    "強くてニューゲーム"
+                                    "Endless Mode",
+                                    "Strong New Game"
                                 ],
                                 -1,
                                 0,

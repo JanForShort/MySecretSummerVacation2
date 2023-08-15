@@ -3718,8 +3718,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "強くてニューゲーム",
-                                    "通常ニューゲーム"
+                                    "Strong New Game",
+                                    "New Game (Normal Mode)"
                                 ],
                                 -1,
                                 0,
@@ -3795,8 +3795,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "スキップする",
-                                    "スキップしない"
+                                    "Skip",
+                                    "Don't skip"
                                 ],
                                 -1,
                                 0,
@@ -3891,7 +3891,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I ended up spending my summer vacation at my aunt's\npension, where I met a female art school student from the\nneighboring atelier and my cousin, and we finished having\nlunch that day..."
+                                "I ended up spending my summer vacation at my aunt's pension,\nwhere I met a female art school student from the neighboring\natelier and my cousin, and we finished having lunch that\nday..."
                             ]
                         },
                         {
@@ -4007,9 +4007,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "おばちゃん",
-                                    "お母さん",
-                                    "ママ"
+                                    "Auntie",
+                                    "Mother",
+                                    "Mom"
                                 ],
                                 -1,
                                 0,
@@ -4030,7 +4030,7 @@
                             "indent": 3,
                             "parameters": [
                                 2,
-                                "おばちゃん"
+                                "Auntie"
                             ]
                         },
                         {
@@ -4062,7 +4062,7 @@
                             "indent": 3,
                             "parameters": [
                                 2,
-                                "お母さん"
+                                "Mother"
                             ]
                         },
                         {
@@ -4094,7 +4094,7 @@
                             "indent": 3,
                             "parameters": [
                                 2,
-                                "ママ"
+                                "Mama"
                             ]
                         },
                         {
@@ -4140,8 +4140,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "お兄ちゃん",
-                                    "ボク君"
+                                    "Onee-chan",
+                                    "Boku-kun"
                                 ],
                                 -1,
                                 0,
@@ -4162,7 +4162,7 @@
                             "indent": 3,
                             "parameters": [
                                 3,
-                                "おにいちゃん"
+                                "Onii-chan"
                             ]
                         },
                         {
@@ -4194,7 +4194,7 @@
                             "indent": 3,
                             "parameters": [
                                 3,
-                                "ボクくん"
+                                "Boku-kun"
                             ]
                         },
                         {
@@ -4343,10 +4343,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "とってもかんたん",
-                                    "かんたん",
-                                    "ふつう（デフォルト）",
-                                    "むずかしい"
+                                    "Very Easy",
+                                    "Easy",
+                                    "Normal (Default)",
+                                    "Difficult"
                                 ],
                                 1,
                                 2,
@@ -4584,8 +4584,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ムシバトル（デフォルト）",
-                                    "ヒーロー消しゴムモード"
+                                    "Bug Battle (Default)",
+                                    "Hero Eraser Mode"
                                 ],
                                 -1,
                                 0,
@@ -4678,10 +4678,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "とってもかんたん",
-                                    "かんたん",
-                                    "ふつう（デフォルト）",
-                                    "むずかしい"
+                                    "Very easy",
+                                    "Easy",
+                                    "Normal (Default)",
+                                    "Difficult"
                                 ],
                                 1,
                                 2,
@@ -4833,9 +4833,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "すべて有り（デフォルト）",
-                                    "有りだが、主人公の受けは無し",
-                                    "無し"
+                                    "All included (default)",
+                                    "It's available, but the protagonist doesn't take the receptive role",
+                                    "None"
                                 ],
                                 -1,
                                 0,
@@ -4977,8 +4977,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "有り",
-                                    "無し"
+                                    "Yes",
+                                    "None"
                                 ],
                                 -1,
                                 0,
@@ -5071,8 +5071,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "有り",
-                                    "無し"
+                                    "Yes",
+                                    "None"
                                 ],
                                 -1,
                                 0,

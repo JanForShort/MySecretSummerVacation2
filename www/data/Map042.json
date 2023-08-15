@@ -5874,7 +5874,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Grandma>Oh my, I'm amazed. You really caught all of\nthem. Thank you, thank you."
+                                "\\N<Grandma>Oh my, I'm amazed. You really caught all of them.\nThank you, thank you."
                             ]
                         },
                         {
@@ -5905,7 +5905,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Grandma>It's not much, but should I give you this? It's\na headlamp that your grandfather used for mountain climbing\nin the past. It's a great item that allows you to see\nclearly even in dark places."
+                                "\\N<Grandma>It's not much, but should I give you this? It's a\nheadlamp that your grandfather used for mountain climbing in\nthe past. It's a great item that allows you to see clearly\neven in dark places."
                             ]
                         },
                         {
@@ -6290,7 +6290,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Grandma>Oh, do you know? That's right. This is the\nSuzuki Ranch. Well, now we don't really do much here anymore\nthough."
+                                "\\N<Grandma>Oh, do you know? That's right. This is the Suzuki\nRanch. Well, now we don't really do much here anymore\nthough."
                             ]
                         },
                         {

@@ -4802,7 +4802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um, you see, for the summer homework, I have to\ndraw a picture. But, I can draw anything I want, so I don't\nknow what I should draw."
+                                "\\N<Boku>Um, you see, for the summer homework, I have to draw\na picture. But, I can draw anything I want, so I don't know\nwhat I should draw."
                             ]
                         },
                         {
@@ -4840,7 +4840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Then, Sacchan, I was thinking of consulting with\nArt School Onee-chan..."
+                                "\\N<Boku>Then, Sacchan, I was thinking of consulting with Art\nSchool Onee-chan..."
                             ]
                         },
                         {
@@ -5602,8 +5602,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "もっていく",
-                                    "やめておく"
+                                    "Take them",
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -6328,8 +6328,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "服を脱がせる",
-                                    "やめとこう"
+                                    "Undressing",
+                                    "Let's not do it"
                                 ],
                                 1,
                                 0,
@@ -6684,8 +6684,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "エッチないたずらをする",
-                                    "やめとこう"
+                                    "To play a naughty prank",
+                                    "Let's stop"
                                 ],
                                 1,
                                 0,

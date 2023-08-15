@@ -4033,8 +4033,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4516,9 +4516,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "とくべつなエッチがしたい",
-                                    "ふつうのエッチがしたい",
-                                    "今はいいや"
+                                    "I want to do something special and naughty",
+                                    "I want to have normal sex",
+                                    "Not now"
                                 ],
                                 2,
                                 0,
@@ -4666,8 +4666,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "Is this the end?",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -4775,8 +4775,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "Is this the end?",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -5619,8 +5619,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "する",
-                                    "しない"
+                                    "to do",
+                                    "Not doing it"
                                 ],
                                 1,
                                 0,
@@ -5844,8 +5844,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "To look",
+                                    "Not looking"
                                 ],
                                 1,
                                 0,
@@ -5866,8 +5866,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "自分の部屋",
-                                    "家の外"
+                                    "My room",
+                                    "Outside the house"
                                 ],
                                 -2,
                                 0,
@@ -6045,7 +6045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Watching a video and masturbating\\# Let's find a video\nand try masturbating."
+                                "\\#Watching a video and masturbating\\# Let's find a video and\ntry masturbating."
                             ]
                         },
                         {
@@ -6149,8 +6149,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "Watch",
+                                    "Not watching"
                                 ],
                                 1,
                                 0,
@@ -6270,7 +6270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Late Night Masturbation Sometimes, there seems to be\nerotic programs on late at night..."
+                                "Late Night Masturbation Sometimes, there seems to be erotic\nprograms on late at night..."
                             ]
                         },
                         {
@@ -6374,9 +6374,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "ダンスを見るだけ",
-                                    "見ない"
+                                    "Watch",
+                                    "Just watching a dance",
+                                    "Not watching"
                                 ],
                                 2,
                                 0,
@@ -6620,8 +6620,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "To see",
+                                    "I won't look"
                                 ],
                                 1,
                                 0,
@@ -6862,7 +6862,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Even if you haven't experienced it in the main game, you\ncan still see certain scenes by combining the knowledge of\nthe characters you've conquered and the gameplay."
+                                "Even if you haven't experienced it in the main game, you can\nstill see certain scenes by combining the knowledge of the\ncharacters you've conquered and the gameplay."
                             ]
                         },
                         {
@@ -7142,7 +7142,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The knowledge of sexual techniques, positions, etc. that\nyou obtained in the main game can be checked using this\nlight bulb to see your acquisition status."
+                                "The knowledge of sexual techniques, positions, etc. that you\nobtained in the main game can be checked using this light\nbulb to see your acquisition status."
                             ]
                         },
                         {
@@ -7381,7 +7381,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "In the Recollection Mode, you can change the time using\nthis clock. In some scenes, the brightness may change\ndepending on the time of day."
+                                "In the Recollection Mode, you can change the time using this\nclock. In some scenes, the brightness may change depending\non the time of day."
                             ]
                         },
                         {
@@ -7549,7 +7549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please select the save data to use in the Recollection\nMode. The appearance of your favorite and main characters\nwill be applied to the selected save data. *This does not\naffect the main game."
+                                "Please select the save data to use in the Recollection Mode.\nThe appearance of your favorite and main characters will be\napplied to the selected save data. *This does not affect the\nmain game."
                             ]
                         },
                         {
@@ -7717,12 +7717,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "朝",
-                                    "昼",
-                                    "夕方",
-                                    "夜",
-                                    "深夜",
-                                    "キャンセル"
+                                    "Morning",
+                                    "Daytime",
+                                    "Evening",
+                                    "Night",
+                                    "Late at night",
+                                    "Cancel"
                                 ],
                                 5,
                                 0,
@@ -7969,7 +7969,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Even if you haven't experienced it in the main game, you\ncan still see certain scenes by combining the knowledge of\nthe characters you've conquered and the gameplay."
+                                "Even if you haven't experienced it in the main game, you can\nstill see certain scenes by combining the knowledge of the\ncharacters you've conquered and the gameplay."
                             ]
                         },
                         {
@@ -8056,7 +8056,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "In the Recollection Mode, time does not progress, but it\nis possible to change the time with this clock. In some\nscenes, brightness and other factors may change depending on\nthe time of day."
+                                "In the Recollection Mode, time does not progress, but it is\npossible to change the time with this clock. In some scenes,\nbrightness and other factors may change depending on the\ntime of day."
                             ]
                         },
                         {
@@ -8120,7 +8120,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The explanation can be confirmed in the enclosed\ninstruction manual."
+                                "The explanation can be confirmed in the enclosed instruction\nmanual."
                             ]
                         },
                         {
@@ -10240,9 +10240,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "とくべつなエッチがしたい",
-                                    "ふつうのエッチがしたい",
-                                    "今はいいや"
+                                    "I want to do something special and naughty",
+                                    "I want to have normal sex",
+                                    "Not now"
                                 ],
                                 2,
                                 0,
@@ -10334,8 +10334,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -10434,8 +10434,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -10639,7 +10639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shop Girl What happens when you collect all the Gacha\nGacha types...?"
+                                "Shop Girl What happens when you collect all the Gacha Gacha\ntypes...?"
                             ]
                         },
                         {
@@ -10825,9 +10825,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "とくべつなエッチがしたい",
-                                    "ふつうのエッチがしたい",
-                                    "今はいいや"
+                                    "I want to do something special and naughty",
+                                    "I want to have regular sex",
+                                    "Not now"
                                 ],
                                 2,
                                 0,
@@ -10919,8 +10919,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "Is this the end?",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -11019,8 +11019,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "Is this the end?",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -11224,7 +11224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Foreign Student Onee-chan seems to be fishing in the\nlake..."
+                                "Foreign Student Onee-chan seems to be fishing in the lake..."
                             ]
                         },
                         {
@@ -11381,7 +11381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Jesse>Oh, me? Do you want to do something fun with\nJesse?"
+                                "\\N<Jesse>Oh, me? Do you want to do something fun with Jesse?"
                             ]
                         },
                         {
@@ -11410,9 +11410,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "とくべつなエッチがしたい",
-                                    "ふつうのエッチがしたい",
-                                    "今はいいや"
+                                    "I want to have a special intimate moment",
+                                    "I want to have a normal sexual encounter",
+                                    "Not now"
                                 ],
                                 2,
                                 0,
@@ -11504,8 +11504,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -11604,8 +11604,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -11995,9 +11995,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "とくべつなエッチがしたい",
-                                    "ふつうのエッチがしたい",
-                                    "今はいいや"
+                                    "I want to do something special and lewd",
+                                    "I want to have a normal sexual encounter",
+                                    "I'm fine for now"
                                 ],
                                 2,
                                 0,
@@ -12145,8 +12145,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -12254,8 +12254,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -12621,8 +12621,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "する",
-                                    "しない"
+                                    "to do",
+                                    "Not doing it"
                                 ],
                                 1,
                                 0,
@@ -12853,8 +12853,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "する",
-                                    "しない"
+                                    "to do",
+                                    "Not doing it"
                                 ],
                                 1,
                                 0,
@@ -12974,7 +12974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Foreign Student Onee-chan (Sleeping) When you become\nclose, she will give you the key to her room..."
+                                "Foreign Student Onee-chan (Sleeping) When you become close,\nshe will give you the key to her room..."
                             ]
                         },
                         {
@@ -13085,8 +13085,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "する",
-                                    "しない"
+                                    "to do",
+                                    "Not doing it"
                                 ],
                                 1,
                                 0,
@@ -13206,7 +13206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Friend's Mom If you win against Hakase-kun in Bug\nBattle...?"
+                                "Friend's Mom If you win against Hakase-kun in Bug Battle...?"
                             ]
                         },
                         {
@@ -13399,9 +13399,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "とくべつなエッチがしたい",
-                                    "ふつうのエッチがしたい",
-                                    "今はいいや"
+                                    "I want to do something special and naughty",
+                                    "I want to have a normal sexual encounter",
+                                    "Not right now"
                                 ],
                                 2,
                                 0,
@@ -13493,8 +13493,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -13593,8 +13593,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -13984,9 +13984,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "とくべつなエッチがしたい",
-                                    "ふつうのエッチがしたい",
-                                    "今はいいや"
+                                    "I want to have a special naughty time",
+                                    "I want to have normal sex",
+                                    "Not now"
                                 ],
                                 2,
                                 0,
@@ -14078,8 +14078,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "Watch another scene"
                                 ],
                                 0,
                                 0,
@@ -14178,8 +14178,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "Watch another scene"
                                 ],
                                 0,
                                 0,
@@ -14569,9 +14569,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "とくべつなエッチがしたい",
-                                    "ふつうのエッチがしたい",
-                                    "今はいいや"
+                                    "I want to do something special and naughty",
+                                    "I want to have normal sex",
+                                    "Not now"
                                 ],
                                 2,
                                 0,
@@ -14663,8 +14663,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "Is this the end?",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -14763,8 +14763,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "Is this the end?",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -15154,9 +15154,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "とくべつなエッチがしたい",
-                                    "ふつうのエッチがしたい",
-                                    "今はいいや"
+                                    "I want to do something special and naughty",
+                                    "I want to have normal sex",
+                                    "I'm fine for now"
                                 ],
                                 2,
                                 0,
@@ -15283,8 +15283,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "Watch another scene"
                                 ],
                                 0,
                                 0,
@@ -15392,8 +15392,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "Watch another scene"
                                 ],
                                 0,
                                 0,
@@ -15827,9 +15827,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "とくべつなエッチがしたい",
-                                    "ふつうのエッチがしたい",
-                                    "今はいいや"
+                                    "I want to have a special intimate moment",
+                                    "I want to have a normal sexual encounter",
+                                    "I'm fine for now"
                                 ],
                                 2,
                                 0,
@@ -15949,8 +15949,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "Is this the end?",
+                                    "Viewing a different scene"
                                 ],
                                 0,
                                 0,
@@ -16058,8 +16058,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "Is this the end?",
+                                    "Viewing a different scene"
                                 ],
                                 0,
                                 0,
@@ -16493,9 +16493,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "とくべつなエッチがしたい",
-                                    "ふつうのエッチがしたい",
-                                    "今はいいや"
+                                    "I want to have a special intimate moment",
+                                    "I want to have a normal sexual encounter",
+                                    "Not now"
                                 ],
                                 2,
                                 0,
@@ -16587,8 +16587,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "Viewing a different scene"
                                 ],
                                 0,
                                 0,
@@ -16696,8 +16696,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "Viewing a different scene"
                                 ],
                                 0,
                                 0,
@@ -17683,9 +17683,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "とくべつなエッチがしたい",
-                                    "ふつうのエッチがしたい",
-                                    "今はいいや"
+                                    "I want to do something special and naughty",
+                                    "I want to do something normal and naughty",
+                                    "Not right now"
                                 ],
                                 2,
                                 0,
@@ -17805,8 +17805,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -17905,8 +17905,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -18023,10 +18023,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "とくべつなエッチがしたい",
-                                    "ふつうのエッチがしたい",
-                                    "※主人公受けプレイ",
-                                    "今はいいや"
+                                    "I want to do something special and naughty",
+                                    "I want to do something normal (sexual)",
+                                    "※Protagonist Receives Play",
+                                    "Not right now"
                                 ],
                                 3,
                                 0,
@@ -18146,8 +18146,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -18246,8 +18246,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "Watch a different scene"
                                 ],
                                 0,
                                 0,
@@ -18410,8 +18410,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -18736,8 +18736,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "する",
-                                    "しない"
+                                    "Do",
+                                    "I won't do it"
                                 ],
                                 1,
                                 0,
@@ -18857,7 +18857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My Friend's Mother (Sleeping) When we become close and\nspend the night..."
+                                "My Friend's Mother (Sleeping) When we become close and spend\nthe night..."
                             ]
                         },
                         {
@@ -18968,8 +18968,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "する",
-                                    "しない"
+                                    "to do",
+                                    "I won't do it"
                                 ],
                                 1,
                                 0,
@@ -19200,8 +19200,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "する",
-                                    "しない"
+                                    "to do",
+                                    "I won't do it"
                                 ],
                                 1,
                                 0,
@@ -19432,8 +19432,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "する",
-                                    "しない"
+                                    "to do",
+                                    "Not doing it"
                                 ],
                                 1,
                                 0,
@@ -19664,8 +19664,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "する",
-                                    "しない"
+                                    "to do",
+                                    "I won't do it"
                                 ],
                                 1,
                                 0,
@@ -19896,8 +19896,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "する",
-                                    "しない"
+                                    "to do",
+                                    "Not doing it"
                                 ],
                                 1,
                                 0,
@@ -20128,8 +20128,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "する",
-                                    "しない"
+                                    "to do",
+                                    "Not doing it"
                                 ],
                                 1,
                                 0,
@@ -20360,8 +20360,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "する",
-                                    "しない"
+                                    "to do",
+                                    "Not doing it"
                                 ],
                                 1,
                                 0,
@@ -20879,9 +20879,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "一時的な全解放をする",
-                                    "完全な全解放をする",
-                                    "何もしない"
+                                    "Perform a temporary full unlock",
+                                    "Complete Full Unlock",
+                                    "Do nothing"
                                 ],
                                 2,
                                 0,
@@ -20958,8 +20958,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -21342,7 +21342,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You can also issue pink flyers, but if you put them in your\npocket, you can only use them in the current flashback\nroom."
+                                "You can also issue pink flyers, but if you put them in your\npocket, you can only use them in the current flashback room."
                             ]
                         },
                         {
@@ -21431,9 +21431,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "キャラクターのカスタマイズ",
-                                    "キャラクターをデフォルトに戻す",
-                                    "キャンセル"
+                                    "Character customization",
+                                    "Reset character to default",
+                                    "Cancel"
                                 ],
                                 2,
                                 0,
@@ -21549,12 +21549,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "今の状態からカスタマイズ",
-                                    "お気に入りからカスタマイズ",
-                                    "ピンクチラシを読み込んでカスタマイズ",
-                                    "秘密の合言葉を入力してカスタマイズ",
-                                    "ランダムキャラからカスタマイズ",
-                                    "キャンセル"
+                                    "Customize from the current state",
+                                    "Customize from favorites",
+                                    "Customize by reading the pink flyer",
+                                    "Enter the secret password to customize",
+                                    "Customize from a random character",
+                                    "Cancel"
                                 ],
                                 5,
                                 0,
@@ -22154,8 +22154,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -22791,8 +22791,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "お気に入りのチラシの人",
-                                    "知ってる人"
+                                    "Favorite Flyer Person",
+                                    "Someone I know"
                                 ],
                                 -1,
                                 0,
@@ -23867,8 +23867,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "お気に入りのチラシの人",
-                                    "知ってる人"
+                                    "Favorite Flyer Person",
+                                    "Someone I know"
                                 ],
                                 -1,
                                 0,
@@ -24819,8 +24819,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "お気に入りのチラシの人",
-                                    "知ってる人"
+                                    "Favorite Flyer Person",
+                                    "Someone I know"
                                 ],
                                 -1,
                                 0,

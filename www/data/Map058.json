@@ -1496,7 +1496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah...Yuko-kun is sleeping...I wonder if it's okay\nto play a little prank on them...?"
+                                "\\N<Boku>Ah...Yuko-kun is sleeping...I wonder if it's okay to\nplay a little prank on them...?"
                             ]
                         },
                         {
@@ -1525,8 +1525,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "服を脱がせる",
-                                    "やめとこう"
+                                    "Undressing clothes",
+                                    "Let's not do it"
                                 ],
                                 1,
                                 0,
@@ -1556,7 +1556,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(...Is it okay to do it just a little bit... just\nto take a peek...)"
+                                "\\N<Boku>(...Is it okay to do it just a little bit... just to\ntake a peek...)"
                             ]
                         },
                         {
@@ -1722,8 +1722,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "エッチないたずらをする",
-                                    "やめとこう"
+                                    "To play a naughty prank",
+                                    "Let's stop"
                                 ],
                                 1,
                                 0,
@@ -2193,8 +2193,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "もっていく",
-                                    "やめておく"
+                                    "Take it",
+                                    "I'll refrain"
                                 ],
                                 1,
                                 0,

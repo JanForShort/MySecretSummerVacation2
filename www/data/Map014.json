@@ -3498,7 +3498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um... it's not good to enter someone's house\nwithout permission, right?"
+                                "\\N<Boku>Um... it's not good to enter someone's house without\npermission, right?"
                             ]
                         },
                         {
@@ -3696,7 +3696,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Um... It's not good to enter someone's house\nwithout permission, right...?"
+                                "\\N<Boku>Um... It's not good to enter someone's house without\npermission, right...?"
                             ]
                         },
                         {
@@ -3797,7 +3797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um... it's not good to enter someone's house\nwithout permission, right?"
+                                "\\N<Boku>Um... it's not good to enter someone's house without\npermission, right?"
                             ]
                         },
                         {

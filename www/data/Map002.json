@@ -3693,9 +3693,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "練習",
-                                    "本番",
-                                    "やっぱりやめる"
+                                    "Practice",
+                                    "Main Event",
+                                    "I guess I'll quit after all"
                                 ],
                                 2,
                                 0,
@@ -4767,7 +4767,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Gon-kun: To start fishing, you need to find a place where\nyou can see the shadow of the fish. And when you hear the\nsound of the fish jumping, pull the fishing rod\nimmediately."
+                                "Gon-kun: To start fishing, you need to find a place where\nyou can see the shadow of the fish. And when you hear the\nsound of the fish jumping, pull the fishing rod immediately."
                             ]
                         },
                         {
@@ -4805,7 +4805,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Gon-kun: If things go well, you should be able to catch\nfish with that."
+                                "Gon-kun: If things go well, you should be able to catch fish\nwith that."
                             ]
                         },
                         {
@@ -5463,8 +5463,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6820,7 +6820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>Oh, are you going out to play? Be careful of\nsnakes and bees, okay?"
+                                "\\N<\\N[2]>Oh, are you going out to play? Be careful of snakes\nand bees, okay?"
                             ]
                         },
                         {
@@ -7925,11 +7925,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "デフォルト作成",
-                                    "ユニークキャラのカスタム",
-                                    "合言葉から作成",
-                                    "カードから作成",
-                                    "ランダムから作成"
+                                    "Default Creation",
+                                    "Customization of Unique Characters",
+                                    "Creating from the password",
+                                    "Create from card",
+                                    "Created from random"
                                 ],
                                 -1,
                                 0,
@@ -7970,12 +7970,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "美大生のお姉さん",
-                                    "従姉のお姉ちゃん",
-                                    "お店のお姉さん",
-                                    "外国のお姉さん",
-                                    "おばちゃん",
-                                    "友達のお母さん"
+                                    "Art School Onee-chan",
+                                    "Cousin's older sister",
+                                    "Shop Girl",
+                                    "Foreign Onee-chan",
+                                    "Auntie",
+                                    "Friend's Mother"
                                 ],
                                 -1,
                                 0,
@@ -8137,12 +8137,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "お金持ちのおばさん",
-                                    "年上の女の子",
-                                    "同い年の女の子",
-                                    "従妹",
-                                    "不思議な女の子",
-                                    "同い年の男の子"
+                                    "Rich Aunt",
+                                    "Older girl",
+                                    "Girl of the same age",
+                                    "Cousin",
+                                    "Mysterious girl",
+                                    "Same-aged boy"
                                 ],
                                 -1,
                                 0,
@@ -9761,8 +9761,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -10252,9 +10252,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "お気に入り呼び出し",
-                                    "パスワード入力",
-                                    "カード読み込み"
+                                    "Favorite Summoning",
+                                    "Password Input",
+                                    "Card Reading"
                                 ],
                                 -1,
                                 0,
@@ -10716,9 +10716,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "お気に入り登録＋カード",
-                                    "カード作成",
-                                    "何もしない"
+                                    "Favorite Registration + Card",
+                                    "Card Creation",
+                                    "Doing nothing"
                                 ],
                                 2,
                                 1,
@@ -11207,8 +11207,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -11456,8 +11456,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -11682,8 +11682,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -11934,11 +11934,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "デフォルト作成",
-                                    "ユニークキャラのカスタム",
-                                    "合言葉から作成",
-                                    "カードから作成",
-                                    "ランダムから作成"
+                                    "Default Creation",
+                                    "Customization of Unique Characters",
+                                    "Creating from the password",
+                                    "Create from card",
+                                    "Created from random"
                                 ],
                                 -1,
                                 0,
@@ -12019,12 +12019,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "美大生のお姉さん",
-                                    "従姉のお姉ちゃん",
-                                    "お店のお姉さん",
-                                    "外国のお姉さん",
-                                    "おばちゃん",
-                                    "友達のお母さん"
+                                    "Art School Onee-chan",
+                                    "Cousin's older sister",
+                                    "Shop Girl",
+                                    "Foreign Onee-chan",
+                                    "Auntie",
+                                    "Friend's Mother"
                                 ],
                                 -1,
                                 0,
@@ -12186,12 +12186,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "お金持ちのおばさん",
-                                    "年上の女の子",
-                                    "同い年の女の子",
-                                    "従妹",
-                                    "不思議な女の子",
-                                    "同い年の男の子"
+                                    "Rich Aunt",
+                                    "Older girl",
+                                    "Girl of the same age",
+                                    "Cousin",
+                                    "Mysterious girl",
+                                    "A boy of the same age"
                                 ],
                                 -1,
                                 0,
@@ -12791,8 +12791,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "練習",
-                                    "本番"
+                                    "Practice",
+                                    "Main Event"
                                 ],
                                 1,
                                 0,
@@ -13768,7 +13768,7 @@
                             "parameters": [
                                 [
                                     "OK",
-                                    "いいえ"
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -14373,8 +14373,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "お話しよう",
-                                    "お風呂に入ろう"
+                                    "Let's talk",
+                                    "Let's take a bath"
                                 ],
                                 -1,
                                 0,
@@ -14448,7 +14448,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Eh...? A-Again, the bath...? U-Um....\nW-Well... it's fine... but..."
+                                "\\N<Onee-chan>Eh...? A-Again, the bath...? U-Um.... W-Well...\nit's fine... but..."
                             ]
                         },
                         {
@@ -14862,8 +14862,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "お話しよう",
-                                    "お風呂に入ろう"
+                                    "Let's talk",
+                                    "Let's take a bath"
                                 ],
                                 -1,
                                 0,
@@ -15437,8 +15437,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "お話しよう",
-                                    "お風呂に入ろう"
+                                    "Let's talk",
+                                    "Let's take a bath"
                                 ],
                                 -1,
                                 0,
@@ -15672,8 +15672,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -15921,8 +15921,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -16261,7 +16261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The value changes to 10 with the syasei parameter\nmotion."
+                                "The value changes to 10 with the syasei parameter motion."
                             ]
                         },
                         {
@@ -16560,7 +16560,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah... No good... I don't have enough money...\nUgh..."
+                                "\\N<Boku>Ah... No good... I don't have enough money... Ugh..."
                             ]
                         },
                         {
@@ -16660,7 +16660,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There are parts that cannot be manipulated, such as\nchanging gender, presence or absence of male genitalia,\npresence or absence of a pregnant belly, clothing-related\noptions, and tanning type."
+                                "There are parts that cannot be manipulated, such as changing\ngender, presence or absence of male genitalia, presence or\nabsence of a pregnant belly, clothing-related options, and\ntanning type."
                             ]
                         },
                         {
@@ -16802,11 +16802,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "デフォルトキャラから作成",
-                                    "合言葉から作成",
-                                    "カードから作成",
-                                    "ランダムから作成",
-                                    "やっぱりやめる"
+                                    "Created from default characters",
+                                    "Creating from a password",
+                                    "Create from card",
+                                    "Created from random",
+                                    "I'm going to quit after all"
                                 ],
                                 4,
                                 0,
@@ -17406,8 +17406,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -18307,8 +18307,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -18556,8 +18556,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -19122,8 +19122,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -19371,8 +19371,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -19620,8 +19620,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -19876,8 +19876,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -20555,11 +20555,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "デフォルトキャラから作成",
-                                    "合言葉から作成",
-                                    "カードから作成",
-                                    "ランダムから作成",
-                                    "やっぱりやめる"
+                                    "Created from default characters",
+                                    "Creating from a password",
+                                    "Created from a card",
+                                    "Created from random",
+                                    "I'm going to quit after all"
                                 ],
                                 4,
                                 0,
@@ -21133,9 +21133,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "草すべり",
-                                    "セミ取り名人",
-                                    "紙ヒコーキ"
+                                    "Grass Slip",
+                                    "Semi-catching Master",
+                                    "Paper Airplane"
                                 ],
                                 3,
                                 0,
@@ -21345,12 +21345,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ランダム",
-                                    "巨乳熟女",
-                                    "少女",
-                                    "少年",
-                                    "ふたなり",
-                                    "ボテ腹"
+                                    "Random",
+                                    "Busty Mature Woman",
+                                    "Girl",
+                                    "Boy",
+                                    "Futanari",
+                                    "Bloated Stomach"
                                 ],
                                 0,
                                 0,
@@ -21516,10 +21516,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "背面睡姦",
-                                    "後背位",
-                                    "背面立位",
-                                    "背面騎乗位"
+                                    "Back Sleeping Rape",
+                                    "Rear Entry Position",
+                                    "Backward standing position",
+                                    "Reverse Cowgirl"
                                 ],
                                 1,
                                 0,
@@ -21540,9 +21540,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "背面いたずら",
-                                    "尻コキ",
-                                    "背面睡姦"
+                                    "Back Prank",
+                                    "Assjob",
+                                    "Back Sleeping Rape"
                                 ],
                                 1,
                                 0,
@@ -21893,8 +21893,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "Watch",
+                                    "Not watching"
                                 ],
                                 1,
                                 0,
@@ -21915,12 +21915,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ランダム",
-                                    "巨乳熟女",
-                                    "少女",
-                                    "少年",
-                                    "ふたなり",
-                                    "ボテ腹"
+                                    "Random",
+                                    "Busty Mature Woman",
+                                    "Girl",
+                                    "Boy",
+                                    "Futanari",
+                                    "Bloated Stomach"
                                 ],
                                 0,
                                 0,
@@ -23204,12 +23204,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ランダム",
-                                    "巨乳熟女",
-                                    "少女",
-                                    "少年",
-                                    "ふたなり",
-                                    "ボテ腹"
+                                    "Random",
+                                    "Busty Mature Woman",
+                                    "Girl",
+                                    "Boy",
+                                    "Futanari",
+                                    "Bloated Stomach"
                                 ],
                                 0,
                                 0,
@@ -23382,12 +23382,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "フェラ",
-                                    "パイズリ",
-                                    "足コキ",
-                                    "騎乗位",
-                                    "自慰",
-                                    "睡姦"
+                                    "Fellatio",
+                                    "Paizuri",
+                                    "Footjob",
+                                    "Cowgirl position",
+                                    "Masturbation",
+                                    "Sleep Assault"
                                 ],
                                 -1,
                                 0,
@@ -23408,8 +23408,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "フェラ①",
-                                    "フェラ②"
+                                    "Fellatio ①",
+                                    "Fellatio 2"
                                 ],
                                 -1,
                                 0,
@@ -23520,8 +23520,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "騎乗位①",
-                                    "騎乗位②"
+                                    "Cowgirl ①",
+                                    "Cowgirl ②"
                                 ],
                                 1,
                                 0,
@@ -23592,12 +23592,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "指2本自慰",
-                                    "指1本自慰",
-                                    "陰核自慰",
-                                    "バイブ",
-                                    "男性器自慰",
-                                    "立ち自慰"
+                                    "Two-finger masturbation",
+                                    "Self-pleasure with one finger",
+                                    "Clitoral Masturbation",
+                                    "Vibrator",
+                                    "Male Genital Masturbation",
+                                    "Standing Masturbation"
                                 ],
                                 1,
                                 0,
@@ -23801,7 +23801,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "相互自慰"
+                                    "Mutual Masturbation"
                                 ],
                                 -2,
                                 0,
@@ -23876,12 +23876,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "睡姦正常位",
-                                    "睡姦素股",
-                                    "睡姦パイズリ",
-                                    "睡姦イラマチオ",
-                                    "睡眠いたずら",
-                                    "睡眠いたずら（口）"
+                                    "Sleep Assault Normal Position",
+                                    "Sleep Assault Thigh Job",
+                                    "Sleep Assault Paizuri",
+                                    "Sleep Assault Deep Throat",
+                                    "Sleep Prank",
+                                    "Sleep Prank (Kuchi)"
                                 ],
                                 1,
                                 0,
@@ -24084,11 +24084,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "正常位",
-                                    "女性器系",
-                                    "BL受け",
-                                    "手コキ",
-                                    "素股"
+                                    "Missionary position",
+                                    "Female genitalia",
+                                    "Receiving in Boys' Love (BL)",
+                                    "Handjob",
+                                    "Sumata play"
                                 ],
                                 1,
                                 0,
@@ -24129,8 +24129,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "舐め",
-                                    "指入れ"
+                                    "Lick",
+                                    "Fingering"
                                 ],
                                 1,
                                 0,
@@ -24201,8 +24201,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "正常位",
-                                    "フェラ"
+                                    "Missionary position",
+                                    "Fellatio"
                                 ],
                                 1,
                                 0,
@@ -26667,8 +26667,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "デフォルト",
-                                    "カスタム"
+                                    "Default",
+                                    "Custom"
                                 ],
                                 -1,
                                 0,
@@ -26803,8 +26803,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -27574,11 +27574,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "デフォルト作成",
-                                    "ユニークキャラのカスタム",
-                                    "合言葉から作成",
-                                    "カードから作成",
-                                    "ランダムから作成"
+                                    "Default Creation",
+                                    "Unique Character Customization",
+                                    "Creating from a passphrase",
+                                    "Create from card",
+                                    "Created from random"
                                 ],
                                 -1,
                                 0,
@@ -27628,12 +27628,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "美大生のお姉さん",
-                                    "従姉のお姉ちゃん",
-                                    "お店のお姉さん",
-                                    "外国のお姉さん",
-                                    "おばちゃん",
-                                    "友達のお母さん"
+                                    "Art School Onee-chan",
+                                    "Cousin's older sister",
+                                    "Shop Girl",
+                                    "Foreign Onee-chan",
+                                    "Auntie",
+                                    "Friend's Mother"
                                 ],
                                 -1,
                                 0,
@@ -27795,12 +27795,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "お金持ちのおばさん",
-                                    "年上の女の子",
-                                    "同い年の女の子",
-                                    "従妹",
-                                    "不思議な女の子",
-                                    "同い年の男の子"
+                                    "Rich Aunt",
+                                    "Older girl",
+                                    "Girl of the same age",
+                                    "Cousin",
+                                    "Mysterious girl",
+                                    "Same-aged boy"
                                 ],
                                 -1,
                                 0,
@@ -29037,8 +29037,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "お気に入りのチラシの人",
-                                    "知ってる人"
+                                    "Favorite flyer person",
+                                    "Someone I know"
                                 ],
                                 -1,
                                 0,
@@ -29824,8 +29824,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "服を脱がせる",
-                                    "やめとこう"
+                                    "Undressing clothes",
+                                    "Let's stop"
                                 ],
                                 1,
                                 0,
@@ -30021,8 +30021,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "エッチないたずらをする",
-                                    "やめとこう"
+                                    "To play a naughty prank",
+                                    "Let's stop"
                                 ],
                                 1,
                                 0,

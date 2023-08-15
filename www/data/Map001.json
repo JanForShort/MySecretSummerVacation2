@@ -12932,7 +12932,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\N<Boku>Wow! It's a crayfish!... But I can't keep it\nwithout a water tank... It's a shame, but I'll let it go."
+                                "\\N<Boku>Wow! It's a crayfish!... But I can't keep it without\na water tank... It's a shame, but I'll let it go."
                             ]
                         },
                         {
@@ -14683,8 +14683,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "入ろう！",
-                                    "やめとこう"
+                                    "Let's get in!",
+                                    "Let's not do it"
                                 ],
                                 1,
                                 0,
@@ -17502,8 +17502,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "寝ない"
+                                    "Sleep",
+                                    "Not sleeping"
                                 ],
                                 1,
                                 0,
@@ -17717,8 +17717,8 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "寝ない"
+                                    "Sleep",
+                                    "Not sleeping"
                                 ],
                                 1,
                                 0,
@@ -17897,8 +17897,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "寝ない"
+                                    "Sleep",
+                                    "Not sleeping"
                                 ],
                                 1,
                                 0,
@@ -19020,7 +19020,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>I want it... but I can't carry this around, can I?\nI need to find a hidden place for it..."
+                                "\\N<Boku>I want it... but I can't carry this around, can I? I\nneed to find a hidden place for it..."
                             ]
                         },
                         {
@@ -19369,7 +19369,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>I can hide erotic books and stuff here...! I'll\neven put away the ones I've found so far!"
+                                "\\N<Boku>I can hide erotic books and stuff here...! I'll even\nput away the ones I've found so far!"
                             ]
                         },
                         {
@@ -19877,7 +19877,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>I want it... but I can't carry this around, can I?\nI need to find a hiding spot somewhere..."
+                                "\\N<Boku>I want it... but I can't carry this around, can I? I\nneed to find a hiding spot somewhere..."
                             ]
                         },
                         {
@@ -20244,8 +20244,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "入れる",
-                                    "入れない"
+                                    "Add",
+                                    "Can't put it in"
                                 ],
                                 1,
                                 0,
@@ -20509,7 +20509,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>...Huh? It seems like something lewd is\nhappening... But, I also want to watch a video... Which one\nshould I choose...?"
+                                "\\N<Boku>...Huh? It seems like something lewd is happening...\nBut, I also want to watch a video... Which one should I\nchoose...?"
                             ]
                         },
                         {
@@ -20565,8 +20565,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "テレビ",
-                                    "ビデオ"
+                                    "TV",
+                                    "Video"
                                 ],
                                 1,
                                 0,
@@ -20764,7 +20764,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>...Huh? It seems like something lewd is\nhappening..."
+                                "\\N<Boku>...Huh? It seems like something lewd is happening..."
                             ]
                         },
                         {
@@ -22491,7 +22491,7 @@
                             "code": 401,
                             "indent": 22,
                             "parameters": [
-                                "Travel luck is rising! Even if it's not a trip, staying\nover at a friend's house is fun, right? If you stay at home\nuntil evening or visit in the evening, there might be such\nopportunities."
+                                "Travel luck is rising! Even if it's not a trip, staying over\nat a friend's house is fun, right? If you stay at home until\nevening or visit in the evening, there might be such\nopportunities."
                             ]
                         },
                         {
@@ -22550,7 +22550,7 @@
                             "code": 401,
                             "indent": 23,
                             "parameters": [
-                                "Summer vacation is almost over! Make sure you don't have\nany regrets! Well, if you couldn't do something this time,\nlet's do our best again in the next summer vacation!"
+                                "Summer vacation is almost over! Make sure you don't have any\nregrets! Well, if you couldn't do something this time, let's\ndo our best again in the next summer vacation!"
                             ]
                         },
                         {
@@ -22838,7 +22838,7 @@
                             "code": 401,
                             "indent": 28,
                             "parameters": [
-                                "Do I have any forgotten items? I have a feeling that the\nday after tomorrow will be busy. It's best to finish any\nerrands early if I have any."
+                                "Do I have any forgotten items? I have a feeling that the day\nafter tomorrow will be busy. It's best to finish any errands\nearly if I have any."
                             ]
                         },
                         {
@@ -22949,7 +22949,7 @@
                             "code": 401,
                             "indent": 30,
                             "parameters": [
-                                "Today is the Summer Vacation Special! It's the final\nepisode of the fortune-telling corner! Well then, everyone,\ngood luck‼"
+                                "Today is the Summer Vacation Special! It's the final episode\nof the fortune-telling corner! Well then, everyone, good\nluck‼"
                             ]
                         },
                         {
@@ -35555,7 +35555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Ah, that's frustrating. Let's do it again next\ntime! I won't lose next time!"
+                                "\\N<Boku>Ah, that's frustrating. Let's do it again next time!\nI won't lose next time!"
                             ]
                         },
                         {
@@ -35873,8 +35873,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "エッチないたずらをする",
-                                    "やめとこう"
+                                    "Engaging in naughty pranks",
+                                    "Let's stop"
                                 ],
                                 1,
                                 0,
@@ -36104,8 +36104,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "お姉ちゃんでオナニーする",
-                                    "やめとこう"
+                                    "Masturbating with Onee-chan",
+                                    "Let's stop"
                                 ],
                                 1,
                                 0,
@@ -36896,8 +36896,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "寝ない"
+                                    "Sleep",
+                                    "Not sleeping"
                                 ],
                                 1,
                                 0,
@@ -37015,8 +37015,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "寝ない"
+                                    "Sleep",
+                                    "Not sleeping"
                                 ],
                                 1,
                                 0,
@@ -37238,8 +37238,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "寝ない"
+                                    "Sleep",
+                                    "Not sleeping"
                                 ],
                                 1,
                                 0,
@@ -37357,8 +37357,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "寝ない"
+                                    "Sleep",
+                                    "Not sleeping"
                                 ],
                                 1,
                                 0,
@@ -37598,8 +37598,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "寝ない"
+                                    "Sleep",
+                                    "Not sleeping"
                                 ],
                                 1,
                                 0,
@@ -37717,8 +37717,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "寝ない"
+                                    "Sleep",
+                                    "Not sleeping"
                                 ],
                                 1,
                                 0,
@@ -37940,8 +37940,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "寝ない"
+                                    "Sleep",
+                                    "Not sleeping"
                                 ],
                                 1,
                                 0,
@@ -38059,8 +38059,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "寝る",
-                                    "寝ない"
+                                    "Sleep",
+                                    "Not sleeping"
                                 ],
                                 1,
                                 0,

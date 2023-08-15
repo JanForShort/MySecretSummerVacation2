@@ -3849,7 +3849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>What, you don't know? Alright, I'll tell you,\nso go get a cardboard box."
+                                "\\N<Boss-kun>What, you don't know? Alright, I'll tell you, so\ngo get a cardboard box."
                             ]
                         },
                         {
@@ -4166,8 +4166,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "やろうやろう！",
-                                    "今日はいいや"
+                                    "Let's do it!",
+                                    "I'm not feeling it today"
                                 ],
                                 1,
                                 0,
@@ -4929,7 +4929,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Ugh, it's a secret but I guess I have no\nchoice. It's a hidden waterfall where you can catch big\nfish. It's hard to explain in words... Oh, do you have a\nmap? Let me borrow it, I'll mark the location for you."
+                                "\\N<Boss-kun>Ugh, it's a secret but I guess I have no choice.\nIt's a hidden waterfall where you can catch big fish. It's\nhard to explain in words... Oh, do you have a map? Let me\nborrow it, I'll mark the location for you."
                             ]
                         },
                         {
@@ -5148,7 +5148,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Anyway, let's have a rematch on the grass\nslide. It was just a fluke that I was in a bad condition\ntoday, so I won't lose next time."
+                                "\\N<Boss-kun>Anyway, let's have a rematch on the grass slide.\nIt was just a fluke that I was in a bad condition today, so\nI won't lose next time."
                             ]
                         },
                         {
@@ -5759,7 +5759,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boss-kun>Hey, Mika-neechan, how about a match with me?\nAs the former leader of the Hime-no-yama Defense Squad,\nprotect the squad's reputation for me!"
+                                "\\N<Boss-kun>Hey, Mika-neechan, how about a match with me? As\nthe former leader of the Hime-no-yama Defense Squad, protect\nthe squad's reputation for me!"
                             ]
                         },
                         {
@@ -6208,7 +6208,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boss-kun>Hmm, Mika-neechan, it might be difficult to\nmeet since you haven't been playing outside lately."
+                                "\\N<Boss-kun>Hmm, Mika-neechan, it might be difficult to meet\nsince you haven't been playing outside lately."
                             ]
                         },
                         {
@@ -6239,7 +6239,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boss-kun>Ah, but if it's the day for watering duty,\nMika-neechan might be at school."
+                                "\\N<Boss-kun>Ah, but if it's the day for watering duty, Mika-\nneechan might be at school."
                             ]
                         },
                         {
@@ -6622,7 +6622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Oh? Do you want to have a rematch with Mika-\nne?"
+                                "\\N<Boss-kun>Oh? Do you want to have a rematch with Mika- ne?"
                             ]
                         },
                         {
@@ -6637,8 +6637,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "うん！",
-                                    "また今度ね"
+                                    "Yes!",
+                                    "Until next time"
                                 ],
                                 1,
                                 0,
@@ -7204,7 +7204,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Boku-chan's house is a big pension over there.\nI remember someone saying there's a hot spring with a\nnatural waterfall..."
+                                "\\N<Boss-kun>Boku-chan's house is a big pension over there. I\nremember someone saying there's a hot spring with a natural\nwaterfall..."
                             ]
                         },
                         {
@@ -7886,8 +7886,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "勝負だ！",
-                                    "今日はやめとくね"
+                                    "Let's compete!",
+                                    "Let's skip it for today, okay?"
                                 ],
                                 1,
                                 0,

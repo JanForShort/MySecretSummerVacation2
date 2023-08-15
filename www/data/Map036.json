@@ -1878,7 +1878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nana-chan>What's wrong, getting all shy? Ahh, what\nshould I do? I'm so popular, it's causing me trouble."
+                                "\\N<Nana-chan>What's wrong, getting all shy? Ahh, what should\nI do? I'm so popular, it's causing me trouble."
                             ]
                         },
                         {
@@ -2255,7 +2255,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>Hmmm?♥ Well, if you insist... I guess I'll\nshow you...♥"
+                                "\\N<Nana-chan>Hmmm?♥ Well, if you insist... I guess I'll show\nyou...♥"
                             ]
                         },
                         {
@@ -2420,7 +2420,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>Hmm?♥...Hey, hey, could it be that your\n'little buddy' has gotten bigger?♥"
+                                "\\N<Nana-chan>Hmm?♥...Hey, hey, could it be that your 'little\nbuddy' has gotten bigger?♥"
                             ]
                         },
                         {
@@ -3316,7 +3316,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>Well then, since we've worked up a sweat,\nlet's go home and take a bath. And, Boku, make sure you win\nnext year, okay? ♥"
+                                "\\N<Nana-chan>Well then, since we've worked up a sweat, let's\ngo home and take a bath. And, Boku, make sure you win next\nyear, okay? ♥"
                             ]
                         },
                         {
@@ -3731,8 +3731,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "う、うん！",
-                                    "ち、ちがうよ！"
+                                    "Uh, yeah!",
+                                    "N-No, that's not it!"
                                 ],
                                 1,
                                 0,

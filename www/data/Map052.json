@@ -15876,7 +15876,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Yeah, I'm Boku. I live here during summer\nvacation."
+                                "\\N<Boku>Yeah, I'm Boku. I live here during summer vacation."
                             ]
                         },
                         {
@@ -15938,7 +15938,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Huh?! That's my house! Onee-chan, you're a\ncustomer."
+                                "\\N<Boku>Huh?! That's my house! Onee-chan, you're a customer."
                             ]
                         },
                         {
@@ -16665,7 +16665,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Boku>Come to think of it, didn't Boss-kun tell me about\na secret fishing spot...? Something about catching big fish\nonly in the evening...?"
+                                "\\N<Boku>Come to think of it, didn't Boss-kun tell me about a\nsecret fishing spot...? Something about catching big fish\nonly in the evening...?"
                             ]
                         },
                         {
@@ -18374,7 +18374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>Well then, Sacchan and the ladies will go home,\nbut if anything happens, make sure to tell an adult right\naway. It's dangerous, so don't go into the lake at night."
+                                "\\N<\\N[2]>Well then, Sacchan and the ladies will go home, but\nif anything happens, make sure to tell an adult right away.\nIt's dangerous, so don't go into the lake at night."
                             ]
                         },
                         {
@@ -18631,7 +18631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Running or pretending to go is not allowed.\nWell then, let's determine the pairs right away with a\ndrawing of lots."
+                                "\\N<Boss-kun>Running or pretending to go is not allowed. Well\nthen, let's determine the pairs right away with a drawing of\nlots."
                             ]
                         },
                         {
@@ -19126,7 +19126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Well then, now that the test of courage is\nover, I guess it's time to go to sleep."
+                                "\\N<Boss-kun>Well then, now that the test of courage is over,\nI guess it's time to go to sleep."
                             ]
                         },
                         {
@@ -19188,7 +19188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Sorry, sorry. Well, it can't be helped. How\nabout the three of us, me, Boushi, and Hakase, sleep\ntogether? It won't be scary if there are three of us,\nright?"
+                                "\\N<Boss-kun>Sorry, sorry. Well, it can't be helped. How\nabout the three of us, me, Boushi, and Hakase, sleep\ntogether? It won't be scary if there are three of us, right?"
                             ]
                         },
                         {
@@ -19320,7 +19320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Oh, scary, scary. Well, let's go to sleep,\nguys."
+                                "\\N<Boss-kun>Oh, scary, scary. Well, let's go to sleep, guys."
                             ]
                         },
                         {
@@ -19822,8 +19822,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "うん、もう寝よう",
-                                    "もうちょっとだけ起きてる"
+                                    "Yeah, let's go to bed",
+                                    "I'm staying awake for just a little longer"
                                 ],
                                 1,
                                 0,
@@ -23262,8 +23262,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "入れる",
-                                    "入れない"
+                                    "Add",
+                                    "Can't enter"
                                 ],
                                 1,
                                 0,

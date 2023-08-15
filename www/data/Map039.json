@@ -2092,8 +2092,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "うん！",
-                                    "またね！"
+                                    "Yeah!",
+                                    "See you later!"
                                 ],
                                 1,
                                 0,
@@ -2785,7 +2785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Could it be, Onee-chan, Yuko's older sister? I\nthink I heard that you have an older sister before!"
+                                "\\N<Boku>Could it be, Onee-chan, Yuko's older sister? I think\nI heard that you have an older sister before!"
                             ]
                         },
                         {
@@ -2854,7 +2854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Yeah! Nice to meet you, Yuko-chan! So, where is\nYuko today?"
+                                "\\N<Boku>Yeah! Nice to meet you, Yuko-chan! So, where is Yuko\ntoday?"
                             ]
                         },
                         {
@@ -2901,7 +2901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Yuko-chan>Ah, um, Yuu has something to do today and\nwon't be coming."
+                                "\\N<Yuko-chan>Ah, um, Yuu has something to do today and won't\nbe coming."
                             ]
                         },
                         {
@@ -3027,7 +3027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Yuko-chan>U-um... w-well...? H-how about... going to\nyour house, Boku-kun?"
+                                "\\N<Yuko-chan>U-um... w-well...? H-how about... going to your\nhouse, Boku-kun?"
                             ]
                         },
                         {
@@ -3256,9 +3256,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "紙ヒコーキで遊ぼ",
-                                    "エッチなこと、したいな",
-                                    "また今度、遊ぼ"
+                                    "Let's play with paper airplanes",
+                                    "I want to do something naughty",
+                                    "Let's play another time"
                                 ],
                                 2,
                                 0,

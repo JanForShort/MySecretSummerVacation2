@@ -3730,7 +3730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Jesse>Well well well. Could it be that my dick has\ngotten erect, Boku...?"
+                                "\\N<Jesse>Well well well. Could it be that my dick has gotten\nerect, Boku...?"
                             ]
                         },
                         {
@@ -4026,7 +4026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Jesse>In return... please make sure to thoroughly\nsatisfy Jesse, okay? ♥"
+                                "\\N<Jesse>In return... please make sure to thoroughly satisfy\nJesse, okay? ♥"
                             ]
                         },
                         {
@@ -5091,8 +5091,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "う、うん…！",
-                                    "ち、ちがうよ！"
+                                    "Y-Yes!",
+                                    "N-No, that's not it!"
                                 ],
                                 1,
                                 0,
@@ -5261,7 +5261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Jesse>Oh, sorry. If you ever become interested in a\nhobby again, please let Jesse know, okay? ♥"
+                                "\\N<Jesse>Oh, sorry. If you ever become interested in a hobby\nagain, please let Jesse know, okay? ♥"
                             ]
                         },
                         {

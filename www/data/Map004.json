@@ -2986,7 +2986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>The bus won't come until evening, you know?\nThe buses here only come twice a day."
+                                "\\N<Onee-chan>The bus won't come until evening, you know? The\nbuses here only come twice a day."
                             ]
                         },
                         {
@@ -3555,7 +3555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Actually, I was feeling a little lonely by\nmyself..."
+                                "\\N<Boku>Actually, I was feeling a little lonely by myself..."
                             ]
                         },
                         {
@@ -4189,7 +4189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Auntie>Long time no see ♥ How have you been? Hehe,\nyou've grown so much ♥"
+                                "\\N<Auntie>Long time no see ♥ How have you been? Hehe, you've\ngrown so much ♥"
                             ]
                         },
                         {
@@ -4270,7 +4270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Auntie>And Harumi-chan, did you stay with Boku-kun?\nThank you."
+                                "\\N<Auntie>And Harumi-chan, did you stay with Boku-kun? Thank\nyou."
                             ]
                         },
                         {
@@ -5219,7 +5219,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Yeah! I'm going to investigate every nook and\ncranny of this town!"
+                                "\\N<Boku>Yeah! I'm going to investigate every nook and cranny\nof this town!"
                             ]
                         },
                         {

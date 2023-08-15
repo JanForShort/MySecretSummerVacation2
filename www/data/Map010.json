@@ -2595,8 +2595,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "やってみる！",
-                                    "やーめた"
+                                    "I'll give it a try!",
+                                    "Never mind"
                                 ],
                                 1,
                                 0,
@@ -4983,7 +4983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Closed on Saturdays and Sundays. Today, temporary\nclosure."
+                                "Closed on Saturdays and Sundays. Today, temporary closure."
                             ]
                         },
                         {
@@ -5719,7 +5719,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Oh, Nana-chan is eating ice cream! I'm so\njealous... Maybe I should buy some too..."
+                                "\\N<Boku>Oh, Nana-chan is eating ice cream! I'm so jealous...\nMaybe I should buy some too..."
                             ]
                         },
                         {

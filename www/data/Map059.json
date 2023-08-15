@@ -2698,9 +2698,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "キャラクターのカスタマイズ",
-                                    "キャラクターをデフォルトに戻す",
-                                    "キャンセル"
+                                    "Character Customization",
+                                    "Reset character to default",
+                                    "Cancel"
                                 ],
                                 2,
                                 0,
@@ -2816,12 +2816,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "今の状態からカスタマイズ",
-                                    "お気に入りからカスタマイズ",
-                                    "ピンクチラシを読み込んでカスタマイズ",
-                                    "秘密の合言葉を入力してカスタマイズ",
-                                    "ランダムキャラからカスタマイズ",
-                                    "キャンセル"
+                                    "Customize from the current state",
+                                    "Customize from favorites",
+                                    "Customize by loading the pink flyer",
+                                    "Enter the secret password to customize",
+                                    "Customize from a random character",
+                                    "Cancel"
                                 ],
                                 5,
                                 0,
@@ -3421,8 +3421,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4044,8 +4044,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4131,7 +4131,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Currently, there are no characters that require this\naction."
+                                "Currently, there are no characters that require this action."
                             ]
                         },
                         {
@@ -4306,8 +4306,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -4502,8 +4502,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -4698,8 +4698,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -4894,8 +4894,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -5090,8 +5090,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -5286,8 +5286,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -5482,8 +5482,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -5678,8 +5678,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -5874,8 +5874,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -6070,8 +6070,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -6266,8 +6266,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -6462,8 +6462,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "裸",
-                                    "着衣"
+                                    "Naked",
+                                    "Clothed"
                                 ],
                                 1,
                                 0,
@@ -6649,7 +6649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Welcome to the Secret Attic Room. In the Secret Attic\nRoom, it is possible to customize the appearance of the\ncharacters that appear in the main game."
+                                "Welcome to the Secret Attic Room. In the Secret Attic Room,\nit is possible to customize the appearance of the characters\nthat appear in the main game."
                             ]
                         },
                         {

@@ -4318,8 +4318,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ガチャガチャを集めたことを報告する",
-                                    "ガチャガチャを集めたことを報告しない"
+                                    "Reporting that I've collected gachapon",
+                                    "I won't report that I collected gachapon"
                                 ],
                                 1,
                                 0,
@@ -4470,7 +4470,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>And you know what? If you collect all the types,\nyou can get a prize at the shop!"
+                                "\\N<Boku>And you know what? If you collect all the types, you\ncan get a prize at the shop!"
                             ]
                         },
                         {
@@ -4604,7 +4604,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Phew... I found it, I found it... Is this it?\nUm... a can of sweets...?... When is this from,\nseriously..."
+                                "\\N<Onee-chan>Phew... I found it, I found it... Is this it?\nUm... a can of sweets...?... When is this from, seriously..."
                             ]
                         },
                         {
@@ -6171,8 +6171,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "う、うん…！",
-                                    "また今度、お願い！"
+                                    "Y-Yes!",
+                                    "Please, another time!"
                                 ],
                                 1,
                                 0,
@@ -6584,7 +6584,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>What is it? Do you still have something to\nsay?"
+                                "\\N<Onee-chan>What is it? Do you still have something to say?"
                             ]
                         },
                         {
@@ -7087,7 +7087,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Onee-chan! Onee-chan! I won the ice cream! I hit the\ntarget!"
+                                "Onee-chan! Onee-chan! I won the ice cream! I hit the target!"
                             ]
                         },
                         {
@@ -7219,8 +7219,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "う、うん…！",
-                                    "また今度、お願い！"
+                                    "Y-Yes!",
+                                    "Please, another time!"
                                 ],
                                 1,
                                 0,
@@ -7435,8 +7435,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "ガチャガチャを集めたことを報告する",
-                                    "ガチャガチャを集めたことを報告しない"
+                                    "Reporting that I've collected gacha items",
+                                    "Not reporting about collecting gacha items"
                                 ],
                                 1,
                                 0,
@@ -7721,7 +7721,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>Phew... I found it, I found it... Is this it?\nUm... a can of sweets...?... When is this from,\nseriously..."
+                                "\\N<Onee-chan>Phew... I found it, I found it... Is this it?\nUm... a can of sweets...?... When is this from, seriously..."
                             ]
                         },
                         {
@@ -7858,7 +7858,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>Um... Maybe the contents of the can got old\nand gas built up inside... and when you tried to open it, it\nexploded and the contents sprayed out...?"
+                                "\\N<Onee-chan>Um... Maybe the contents of the can got old and\ngas built up inside... and when you tried to open it, it\nexploded and the contents sprayed out...?"
                             ]
                         },
                         {
@@ -7896,7 +7896,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Ugh... The prizes from the gacha gacha are so\nold... I'm disappointed..."
+                                "\\N<Boku>Ugh... The prizes from the gacha gacha are so old...\nI'm disappointed..."
                             ]
                         },
                         {
@@ -10874,7 +10874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Hmm...? Oh well. So, are you buying\nsomething?"
+                                "\\N<Onee-chan>Hmm...? Oh well. So, are you buying something?"
                             ]
                         },
                         {
@@ -10929,7 +10929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Ah, I see. If you're going to buy something,\ndo it quickly. The TV is at a good part right now."
+                                "\\N<Onee-chan>Ah, I see. If you're going to buy something, do\nit quickly. The TV is at a good part right now."
                             ]
                         },
                         {
@@ -11211,7 +11211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Alright. Hurry up and take a bath. I won't\ndeal with a dirty brat like you."
+                                "\\N<Onee-chan>Alright. Hurry up and take a bath. I won't deal\nwith a dirty brat like you."
                             ]
                         },
                         {
@@ -11544,8 +11544,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "もっていく",
-                                    "やめておく"
+                                    "Take them",
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -11761,8 +11761,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "入ろう！",
-                                    "やめとこう"
+                                    "Let's get in!",
+                                    "Let's not do it"
                                 ],
                                 1,
                                 0,
