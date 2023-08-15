@@ -2144,7 +2144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Excuse me, I'm coming in."
+                                "\\N<Boku>Excuse me!"
                             ]
                         },
                         {
@@ -2219,7 +2219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um... it's not good to enter someone's house without\npermission, right?"
+                                "\\N<Boku>Um... it's not good to enter someone's house\nwithout permission, right?"
                             ]
                         },
                         {
@@ -2341,7 +2341,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boku>(M-Maybe I should stop for today...)"
+                                "\\N<Boku>(M-maybe I should stop for today...)"
                             ]
                         },
                         {
@@ -2725,7 +2725,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>It's probably better not to bother you so late..."
+                                "\\N<Boku>It's probably better not to bother you too late..."
                             ]
                         },
                         {
@@ -3198,7 +3198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nana-chan>Hey, hurry up and go."
+                                "\\N<Nana-chan>Hey, hurry up and go!"
                             ]
                         },
                         {
@@ -3598,7 +3598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nana-chan>Hey! Where do you think you're going!"
+                                "\\N<Nana-chan>Hey! Where do you think you're going?"
                             ]
                         },
                         {

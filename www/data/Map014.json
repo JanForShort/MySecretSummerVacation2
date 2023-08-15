@@ -3498,7 +3498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um... it's not good to enter someone's house without\npermission, right?"
+                                "\\N<Boku>Um... it's not good to enter someone's house\nwithout permission, right?"
                             ]
                         },
                         {
@@ -3611,7 +3611,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>I think I'll stop here for today..."
+                                "\\N<Boku>I think I'll stop for today..."
                             ]
                         },
                         {
@@ -3696,7 +3696,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Um... It's not good to enter someone's house without\npermission, right...?"
+                                "\\N<Boku>Um... It's not good to enter someone's house\nwithout permission, right...?"
                             ]
                         },
                         {
@@ -3797,7 +3797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um... it's not good to enter someone's house without\npermission, right?"
+                                "\\N<Boku>Um... it's not good to enter someone's house\nwithout permission, right?"
                             ]
                         },
                         {
@@ -3888,7 +3888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hakase-kun>Hey, did you know? There's a fire truck from\nthe fire brigade in here. I wonder if I'll join the fire\nbrigade when I grow up? Then maybe I can ride on the fire\ntruck."
+                                "\\N<Hakase-kun>Hey, did you know? There's a fire truck in\nhere. I wonder if I'll join the fire brigade when I grow up?\nThen maybe I can ride on the fire truck too."
                             ]
                         },
                         {
@@ -3926,7 +3926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Oh, I want to ride it too..."
+                                "\\N<Boku>Wow, I want to try riding it too..."
                             ]
                         },
                         {

@@ -3707,7 +3707,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Do you want to execute customization? ※ At the same time, a\npink flyer will be issued. Please note that clothing will\nnot be saved on the pink flyer."
+                                "Do you want to execute customization? *Pink flyers will be\nissued at the same time. Please note that clothing will not\nbe saved on the pink flyers."
                             ]
                         },
                         {
@@ -3745,7 +3745,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "※ If you do not want to issue a flyer, please turn off the\noption Custom Mode: Pink Flyer Issuance."
+                                "Please turn off the option Custom Mode: Pink Flyer\nIssuance if you do not want to issue flyers."
                             ]
                         },
                         {
@@ -4076,7 +4076,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Is it okay to purchase this character?"
+                                "Is it okay to purchase with this character?"
                             ]
                         },
                         {

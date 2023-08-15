@@ -3718,8 +3718,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Strong New Game",
-                                    "New Game (Normal Mode)"
+                                    "Strong and New Game",
+                                    "New Game Normal"
                                 ],
                                 -1,
                                 0,
@@ -3787,7 +3787,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Would you like to skip the opening and tutorial?"
+                                "Skip the opening and tutorial?"
                             ]
                         },
                         {
@@ -3891,7 +3891,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I spent my summer vacation at my aunt's pension and met a\nfemale college student from the neighboring atelier and my\ncousin. After finishing lunch that day..."
+                                "I will spend my summer vacation at my aunt's pension and I\nmet a female art school student from the neighboring atelier\nand my cousin, and we finished having lunch that day..."
                             ]
                         },
                         {
@@ -3999,7 +3999,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "What is the aunt's name?"
+                                "What is the name to call my aunt?"
                             ]
                         },
                         {
@@ -4008,7 +4008,7 @@
                             "parameters": [
                                 [
                                     "Aunt",
-                                    "Mother",
+                                    "Mom",
                                     "Mama"
                                 ],
                                 -1,
@@ -4132,7 +4132,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "What is the nickname for Sacchan?"
+                                "What is Sacchan's name to call her?"
                             ]
                         },
                         {
@@ -4140,7 +4140,7 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "Big brother",
+                                    "Onee-chan",
                                     "Boku-kun"
                                 ],
                                 -1,
@@ -4328,7 +4328,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select the difficulty level for Mushi Battle. *It can\nbe changed in the options during the game."
+                                "Please select the difficulty level of Mushi Battle. *It can\nbe changed in the options during the game."
                             ]
                         },
                         {
@@ -4497,7 +4497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select the presentation for the Mushi Battle."
+                                "Please select the presentation of Mushi Battle."
                             ]
                         },
                         {
@@ -4514,38 +4514,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The battles in this game are usually depicted with pixel art\nof beetles such as rhinoceros beetles."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "We have prepared a Hero Eraser Mode that changes the insect\npixel art into hero erasers for those who are not good with\nbugs."
+                                "The battles in this game are usually represented by pixel\nart of beetles such as rhinoceros beetles."
                             ]
                         },
                         {
@@ -4576,7 +4545,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "*Can be changed in the options during the game."
+                                "For those who are not good with bugs, we have prepared a\nHero Eraser mode that changes the bug's pixel art into\nerasers."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "*It can be changed in the options during the game."
                             ]
                         },
                         {
@@ -4663,7 +4663,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select the difficulty level for the mini- game. *It\ncan be changed in the options during the game."
+                                "Please select the difficulty level of the mini-game. *It can\nbe changed in the options during the game."
                             ]
                         },
                         {
@@ -4678,7 +4678,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Very easy",
+                                    "Very Easy",
                                     "Easy",
                                     "Normal (Default)",
                                     "Difficult"
@@ -4804,7 +4804,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select whether to include BL content (sexual\nactivities between boys). *It can be changed in the options\nduring the game, but depending on the timing, there may be\nevents that do not occur."
+                                "Please select whether to include BL scenes (sexual\nactivities between boys). *It can be changed in the options\nduring the game, but depending on the timing, there may be\nevents that do not occur."
                             ]
                         },
                         {
@@ -4833,8 +4833,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "All included (default)",
-                                    "Yes, it exists, but the protagonist does not participate",
+                                    "All Included (Default)",
+                                    "It's possible, but the protagonist won't be the receiver",
                                     "None"
                                 ],
                                 -1,
@@ -5143,7 +5143,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The initial settings are as mentioned above. Please check\nthe options for other detailed settings. *For more detailed\ninformation, please refer to the enclosed instruction\nmanual."
+                                "The initial settings are complete. Please check the options\nfor other detailed settings. *For more information, please\nrefer to the enclosed instruction manual."
                             ]
                         },
                         {
@@ -5307,7 +5307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Those distant, summer days..."
+                                "\\# Those distant, summer days..."
                             ]
                         },
                         {
@@ -5324,7 +5324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#The endless blue sky, \\#the overwhelming scent of trees...\n\\#the incessant sound of cicadas..."
+                                "\\#The endless blue sky that stretches as far as the eye can\nsee, \\#the overwhelming scent of trees... \\#the never-ending\nchirping of cicadas..."
                             ]
                         },
                         {

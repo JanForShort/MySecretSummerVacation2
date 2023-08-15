@@ -3694,8 +3694,8 @@
                             "parameters": [
                                 [
                                     "Practice",
-                                    "Main Event",
-                                    "I'm going to quit after all"
+                                    "Actual Performance",
+                                    "I guess I'll quit after all"
                                 ],
                                 2,
                                 0,
@@ -3841,7 +3841,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Boku: Ugh... I lost..."
+                                "Aww... I lost..."
                             ]
                         },
                         {
@@ -3911,7 +3911,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Boku: Yay! I won!"
+                                "Yay! I won!"
                             ]
                         },
                         {
@@ -3997,7 +3997,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Gon-kun: Hahaha! Eat some meat and come back for a rematch!"
+                                "Gon-kun: Hahaha! Eat some meat and come back!"
                             ]
                         },
                         {
@@ -4193,7 +4193,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Boku: Yay! I won!"
+                                "Yay! I won!"
                             ]
                         },
                         {
@@ -4234,7 +4234,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Gon-kun: Well, it's fine. As promised, I'll give this to\nyou!"
+                                "Gon-kun: Well, it's fine. As promised, I'll give this to\nBoku!"
                             ]
                         },
                         {
@@ -4297,7 +4297,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Boku: Yay, thank you!"
+                                "Boku: Wow, thank you!"
                             ]
                         },
                         {
@@ -4373,7 +4373,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Gon-kun: When fishing, you should first find a spot where\nyou can see the shadow of the fish. And then, as soon as you\nhear the sound of the fish jumping, pull the fishing rod."
+                                "Gon-kun: When fishing, you should search for a spot where\nyou can see the shadow of the fish. And then, as soon as you\nhear the sound of the fish jumping, pull the fishing rod."
                             ]
                         },
                         {
@@ -4411,7 +4411,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Gon-kun: If it goes well, you should be able to catch fish\nwith that."
+                                "Gon-kun: If it goes well, you'll be able to catch fish with\nthat."
                             ]
                         },
                         {
@@ -4428,7 +4428,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Boku: Yes! I got it!"
+                                "Boku: Yeah! I got it!"
                             ]
                         },
                         {
@@ -4510,7 +4510,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Gon-kun: Hahaha! Eat some meat and come back stronger!"
+                                "Gon-kun: Hahaha! Eat some meat and come back!"
                             ]
                         },
                         {
@@ -4587,7 +4587,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Yay! I won!"
+                                "Boku: Yay! I won!"
                             ]
                         },
                         {
@@ -4604,7 +4604,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Gon-kun: What the heck... Did I run out of meat...?"
+                                "Gon-kun: What the heck... Did I not have enough meat...?"
                             ]
                         },
                         {
@@ -4729,7 +4729,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Gon-kun: Well, I'm catching fish left and right with a\nbetter fishing rod and eating them. You should catch more\nfish and eat them too."
+                                "Gon-kun: Well, I'm catching fish left and right with a\nbetter fishing rod, you know. You should catch more fish and\neat them too."
                             ]
                         },
                         {
@@ -4767,7 +4767,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Gon-kun: To start fishing, you need to find a spot where you\ncan see the shadow of the fish. And when you hear the sound\nof the fish jumping, pull the fishing rod immediately."
+                                "Gon-kun: To start fishing, you need to find a place where\nyou can see the shadow of the fish. And when you hear the\nsound of the fish jumping, pull the fishing rod\nimmediately."
                             ]
                         },
                         {
@@ -4805,7 +4805,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Gon-kun: If things go well, you should be able to catch fish\nwith that."
+                                "Gon-kun: If it goes well, you'll be able to catch fish with\nthat."
                             ]
                         },
                         {
@@ -4893,7 +4893,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Gon-kun: Hahaha! Eat some meat and come back stronger!"
+                                "Gon-kun: Hahaha! Eat some meat and come back!"
                             ]
                         },
                         {
@@ -5130,7 +5130,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Gon-kun: Hahaha! Eat some meat and come back stronger!"
+                                "Gon-kun: Hahaha! Eat some meat and come back!"
                             ]
                         },
                         {
@@ -5207,7 +5207,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Yay! I won!"
+                                "Boku: Yay! I won!"
                             ]
                         },
                         {
@@ -5304,7 +5304,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Gon-kun: Hahaha! Eat some meat and come back stronger!"
+                                "Gon-kun: Hahaha! Eat some meat and come back!"
                             ]
                         },
                         {
@@ -5441,7 +5441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Updating default character. Cannot be reverted to the\noriginal. Proceed?"
+                                "Updating default character. Cannot be reverted. Proceed?"
                             ]
                         },
                         {
@@ -6125,7 +6125,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "I got caught!"
+                                "Boku: I got caught!"
                             ]
                         },
                         {
@@ -6266,7 +6266,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Boku: Darn it! They got away!"
+                                "Boku: Close! They got away!"
                             ]
                         },
                         {
@@ -6335,7 +6335,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Boku: They got away..."
+                                "Boku: They managed to escape..."
                             ]
                         },
                         {
@@ -6427,7 +6427,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Boku: I guess... I'll give up after all."
+                                "Boku: I changed my mind after all."
                             ]
                         },
                         {
@@ -6820,7 +6820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]> Oh, are you going out to play? Be careful of\nsnakes and bees, okay?"
+                                "Oh, are you going out to play? Be careful of snakes and\nbees, okay?"
                             ]
                         },
                         {
@@ -7183,7 +7183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>It's a huge spider web!... I-I can't get through\nthis.... If only there was something like a tree branch..."
+                                "\\N<Boku>It's a huge spider web!...I-I can't get through\nthis....If only there was something like a wooden branch..."
                             ]
                         },
                         {
@@ -7971,7 +7971,7 @@
                             "parameters": [
                                 [
                                     "Art School Onee-chan",
-                                    "Cousin's older sister",
+                                    "Cousin's Onee-chan",
                                     "Shop Girl",
                                     "Foreign Onee-chan",
                                     "Auntie",
@@ -8139,10 +8139,10 @@
                                 [
                                     "Rich Aunt",
                                     "Older girl",
-                                    "Girl of the same age",
+                                    "A girl of the same age",
                                     "Cousin",
-                                    "Mysterious Girl",
-                                    "Same-aged boy"
+                                    "Mysterious girl",
+                                    "Same-age boy"
                                 ],
                                 -1,
                                 0,
@@ -8651,7 +8651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please note that you can only choose either 'Change Skin\nColor' or 'Tanning', not both."
+                                "Please note that you can only choose either change skin\ncolor or tan and not both."
                             ]
                         },
                         {
@@ -8853,7 +8853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\G I got it!"
+                                "0\\G I got it!"
                             ]
                         },
                         {
@@ -9762,7 +9762,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -10138,7 +10138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Sawtooth Stag Beetle"
+                                "\\# Sawtooth Stag Beetle"
                             ]
                         },
                         {
@@ -10252,7 +10252,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Favorite Summoning",
+                                    "Favorite Call",
                                     "Password input",
                                     "Card reading"
                                 ],
@@ -11208,7 +11208,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -11457,7 +11457,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -11683,7 +11683,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -12191,7 +12191,7 @@
                                     "Girl of the same age",
                                     "Cousin",
                                     "Mysterious girl",
-                                    "Same-aged boy"
+                                    "A boy of the same age"
                                 ],
                                 -1,
                                 0,
@@ -12474,7 +12474,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Failed to load."
+                                "Loading failed."
                             ]
                         },
                         {
@@ -12792,7 +12792,7 @@
                             "parameters": [
                                 [
                                     "Practice",
-                                    "Real Thing"
+                                    "Actual Performance"
                                 ],
                                 1,
                                 0,
@@ -14194,7 +14194,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Y-You, Boku-kun...!? Oh, wait...? W-Why...? The\ndoor... was locked, right...? That's strange... Did I forget\nto lock it...?"
+                                "\\N<Onee-chan>Y-You, Boku-kun...!? Ah, ah, what's this...?\nW-Why...? The door... was locked, right...? That's\nstrange... Did I forget to lock it...?"
                             ]
                         },
                         {
@@ -14261,7 +14261,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Ugh... You just come in here like it's\nnothing... Th-this is supposed to be a young girl's room,\nyou know..."
+                                "\\N<Onee-chan>Ugh... You just come in here like it's\nnothing... Th-This is supposed to be a young girl's room,\nyou know..."
                             ]
                         },
                         {
@@ -14330,7 +14330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>W-What brings you here at this time...?"
+                                "\\N<Onee-chan>W-What do you want at this late hour...?"
                             ]
                         },
                         {
@@ -14448,7 +14448,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Eh...? A-Again, the bath...? U-Um... well...\nit's... fine... I guess..."
+                                "\\N<Onee-chan>Eh...? A-Again, the bath...? U-Um... well...\nit's fine... but..."
                             ]
                         },
                         {
@@ -14683,7 +14683,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Y-You, Boku-kun...!? Oh, wait...? W-Why...? The\ndoor... was locked, right...? That's strange... Did I forget\nto lock it...?"
+                                "\\N<Onee-chan>Y-You, Boku-kun...!? Ah, ah, what's this...?\nW-Why...? The door... was locked, right...? That's\nstrange... Did I forget to lock it...?"
                             ]
                         },
                         {
@@ -14750,7 +14750,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Ugh... You just come in here like it's\nnothing... Th-this is supposed to be a young girl's room,\nyou know..."
+                                "\\N<Onee-chan>Ugh... You just come in here like it's\nnothing... Th-This is supposed to be a young girl's room,\nyou know..."
                             ]
                         },
                         {
@@ -14819,7 +14819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>W-What brings you here at this time...?"
+                                "\\N<Onee-chan>W-What do you want at this late hour...?"
                             ]
                         },
                         {
@@ -14978,7 +14978,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>M-More importantly, it's already this late, so\nwe should go to bed soon... right...?"
+                                "\\N<Onee-chan>M-More importantly, it's already this late, so\nwe should go to bed soon, or we won't be able to wake up in\nthe morning...?"
                             ]
                         },
                         {
@@ -15047,7 +15047,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Y-Yeah... Goodnight... Let's not stay up too\nlate..."
+                                "\\N<Onee-chan>Y-Yeah... Goodnight... Let's not stay up too\nlate, okay..."
                             ]
                         },
                         {
@@ -15265,7 +15265,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Y-You, Boku-kun...!? Oh, wait...? W-Why...? The\ndoor... was locked, right...? That's strange... Did I forget\nto lock it...?"
+                                "\\N<Onee-chan>Y-You, Boku-kun...!? Ah, ah, what's this...?\nW-Why...? The door... was locked, right...? That's\nstrange... Did I forget to lock it...?"
                             ]
                         },
                         {
@@ -15401,7 +15401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>W-What do you need...?"
+                                "\\N<Onee-chan>W-What do you want...?"
                             ]
                         },
                         {
@@ -15512,7 +15512,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Eh...!? N-No, no...! It's, it's not good...!\nT-This late at night... If a customer were to come in...\nT-Taking a bath with a stranger... I-I can't...!"
+                                "\\N<Onee-chan>Eh...!? N-No, no...! It's not good...! T-This\ntime of the day... If a customer were to come in... T-Taking\na bath with a stranger... I-I can't...!"
                             ]
                         },
                         {
@@ -15673,7 +15673,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -15922,7 +15922,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -16261,7 +16261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The value changes to 10 with the syasei parameter motion."
+                                "The value changes to 10 with the syasei parameter\nmotion."
                             ]
                         },
                         {
@@ -16299,7 +16299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "When re-displaying the syasei parameter model, it would be\ninconvenient if the parameter remained at 10, so I changed\nit to 0 with a fixed parameter setting."
+                                "When re-displaying the syasei parameter model, it would be\ninconvenient if the parameter remained at 10, so I will\nchange it to 0 with a fixed parameter setting."
                             ]
                         },
                         {
@@ -16344,7 +16344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I released the syasei parameter because it cannot be moved\nwith the motion while keeping the parameter fixed."
+                                "Since the syasei parameter cannot be moved with a fixed\nparameter setting, it will be released."
                             ]
                         },
                         {
@@ -16513,7 +16513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>A-amazing...!! Th-this is... an erotic vending\nmachine...?! I can choose any one I like...‼ W-which one\nshould I pick...?"
+                                "\\N<Boku>A-amazing...!! Th-this is... an erotic vending\nmachine...⁉ I can choose any one I like...‼ W-which one\nshould I pick...?"
                             ]
                         },
                         {
@@ -16560,7 +16560,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah... No good... I don't have enough money... Ugh..."
+                                "\\N<Boku>Ah... No good... I don't have enough money...\nUgh..."
                             ]
                         },
                         {
@@ -16622,7 +16622,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This edit mode is a prototype for the pre-release version.\nThe actual locations and timing of appearances in the final\nproduct may differ significantly."
+                                "This edit mode is a prototype for the pre-release version.\nThe actual product version will have significant differences\nin the appearance locations and timing within the game."
                             ]
                         },
                         {
@@ -16660,7 +16660,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There are certain aspects that cannot be modified, such as\ngender, presence of male genitalia, presence of a pregnant\nbelly, clothing- related details, and tanning type."
+                                "There are parts that cannot be manipulated, such as\nchanging gender, presence of male genitalia, presence of a\npregnant belly, clothing-related matters, and tanning type."
                             ]
                         },
                         {
@@ -16691,7 +16691,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The specifications for the final version of the product have\nnot been determined yet, but at this stage, it is not\npossible to purchase the main content. Only the issuance of\npink flyers will be available."
+                                "The specifications for the product version have not been\ndetermined yet, but at this stage, you can't purchase the\nmain content and only the issuance of pink flyers will be\navailable."
                             ]
                         },
                         {
@@ -16722,7 +16722,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Furthermore, please note that it is currently unclear\nwhether the pink flyers created in the pre-release version\ncan be used in the final product."
+                                "Also, please note that it is currently unclear whether the\npink flyers created in the pre-release version can be used\nin the product version."
                             ]
                         },
                         {
@@ -16804,9 +16804,9 @@
                                 [
                                     "Created from default characters",
                                     "Created from the password",
-                                    "Create from card",
-                                    "Created randomly",
-                                    "I'm going to quit after all"
+                                    "Created from a card",
+                                    "Created from random",
+                                    "I guess I'll quit after all"
                                 ],
                                 4,
                                 0,
@@ -17224,7 +17224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please note that you can only choose either Skin Color\nModification or Tanning, not both."
+                                "Please note that you can only choose either Skin Color\nChange or Tanning and not both."
                             ]
                         },
                         {
@@ -17407,7 +17407,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -17986,7 +17986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#End"
+                                "\\# End"
                             ]
                         },
                         {
@@ -18308,7 +18308,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -18557,7 +18557,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -19123,7 +19123,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -19372,7 +19372,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -19621,7 +19621,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -19877,7 +19877,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -20202,7 +20202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>A-Amazing...!! Th-This is... an erotic vending\nmachine...⁉ And I can choose any of them for just 100\nyen...‼ W-Which one should I pick...?"
+                                "\\N<Boku>A-amazing...!! Th-this is... an erotic vending\nmachine...⁉ And I can choose any of them for just 100\nyen...‼ W-which one should I pick...?"
                             ]
                         },
                         {
@@ -20251,7 +20251,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah... But \\N[2] might be coming to pick me up\nsoon... Let's do it another time..."
+                                "\\N<Boku>Ah... But \\N[2] might come to pick me up soon...\nI'll do it next time..."
                             ]
                         },
                         {
@@ -20306,7 +20306,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Ah... It's no good... I don't have enough money...\nUgh..."
+                                "\\N<Boku>Ah... No... I don't have enough money... Ugh..."
                             ]
                         },
                         {
@@ -20368,7 +20368,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "This edit mode is a prototype for the pre-release version.\nThe actual locations and timing of appearances in the final\nproduct may differ significantly."
+                                "This edit mode is a prototype for the pre-release version.\nThe actual product version will have significant differences\nin the appearance locations and timing within the game."
                             ]
                         },
                         {
@@ -20406,7 +20406,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "There are certain aspects that cannot be changed, such as\ngender, presence of male genitalia, presence of a pregnant\nbelly, clothing-related details, and tanning type."
+                                "There are parts that cannot be manipulated, such as\nchanging gender, presence of male genitalia, presence of a\npregnant belly, clothing-related options, and tanning type."
                             ]
                         },
                         {
@@ -20437,7 +20437,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The specifications for the final version of the product have\nnot been determined yet, but at this stage, it is not\npossible to purchase the main content. Only the issuance of\npink flyers will be available."
+                                "The specifications for the product version have not been\ndetermined yet, but at this stage, you can't purchase the\nmain content and only the issuance of pink flyers will be\navailable."
                             ]
                         },
                         {
@@ -20468,7 +20468,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Please note that it is currently unclear whether the pink\nflyers created in the pre-release version can be used in the\nfinal product."
+                                "Also, please note that it is currently unknown whether the\npink flyers created in the pre-release version can be used\nin the product version."
                             ]
                         },
                         {
@@ -20557,9 +20557,9 @@
                                 [
                                     "Created from default characters",
                                     "Created from the password",
-                                    "Create from card",
+                                    "Created from a card",
                                     "Created randomly",
-                                    "I'm going to quit after all"
+                                    "I guess I'll quit after all"
                                 ],
                                 4,
                                 0,
@@ -20717,7 +20717,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Failed to load."
+                                "Loading failed."
                             ]
                         },
                         {
@@ -20984,7 +20984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please note that you can only choose either Skin Color\nChange or Tanning, not both."
+                                "Please note that you can only choose either Skin Color\nChange or Tanning and not both."
                             ]
                         },
                         {
@@ -21022,7 +21022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Changing hair color or skin color may cause slight delays in\nprocessing due to heavy load."
+                                "Changing hair color or skin color may cause the processing\nto be heavy, resulting in slightly slower operation."
                             ]
                         },
                         {
@@ -21134,7 +21134,7 @@
                             "parameters": [
                                 [
                                     "Grass Sliding",
-                                    "Master of Catching Cicadas",
+                                    "Cicada Catching Master",
                                     "Paper Airplane"
                                 ],
                                 3,
@@ -21350,7 +21350,7 @@
                                     "Girl",
                                     "Boy",
                                     "Futanari",
-                                    "Bloated Belly"
+                                    "Bloated Stomach"
                                 ],
                                 0,
                                 0,
@@ -21516,9 +21516,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Back Sleeping Violation",
-                                    "Rear Entry Position",
-                                    "Backward-facing position",
+                                    "Back Sleeping Rape",
+                                    "Doggy Style",
+                                    "Backward standing position",
                                     "Reverse Cowgirl"
                                 ],
                                 1,
@@ -21540,9 +21540,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Back Prank",
+                                    "Backside Mischief",
                                     "Assjob",
-                                    "Back Sleeping Violation"
+                                    "Back Sleeping Rape"
                                 ],
                                 1,
                                 0,
@@ -21894,7 +21894,7 @@
                             "parameters": [
                                 [
                                     "Watch",
-                                    "Don't watch it"
+                                    "I won't watch"
                                 ],
                                 1,
                                 0,
@@ -21920,7 +21920,7 @@
                                     "Girl",
                                     "Boy",
                                     "Futanari",
-                                    "Bloated Belly"
+                                    "Bloated Stomach"
                                 ],
                                 0,
                                 0,
@@ -22767,7 +22767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#End"
+                                "\\# End"
                             ]
                         },
                         {
@@ -23209,7 +23209,7 @@
                                     "Girl",
                                     "Boy",
                                     "Futanari",
-                                    "Bloated Belly"
+                                    "Bloated Stomach"
                                 ],
                                 0,
                                 0,
@@ -23383,7 +23383,7 @@
                             "parameters": [
                                 [
                                     "Fellatio",
-                                    "Paizuri",
+                                    "Paizuri (Breast Sex)",
                                     "Footjob",
                                     "Cowgirl position",
                                     "Masturbation",
@@ -23408,8 +23408,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Fellatio 1",
-                                    "Fellatio 2"
+                                    "Blowjob ①",
+                                    "Blowjob 2"
                                 ],
                                 -1,
                                 0,
@@ -23592,8 +23592,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Self-pleasure with two fingers",
-                                    "Solo Pleasure with One Finger",
+                                    "Two-finger masturbation",
+                                    "Self-pleasure with one finger",
                                     "Clitoral Masturbation",
                                     "Vibrator",
                                     "Male Genital Masturbation",
@@ -23876,12 +23876,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Sleeping Sex in Normal Position",
+                                    "Sleep Assault Normal Position",
                                     "Sleep Assault Thigh Job",
-                                    "Sleep Assault Titjob",
+                                    "Sleep Assault Paizuri",
                                     "Sleep Assault Deep Throat",
                                     "Sleep Prank",
-                                    "Sleep Prank (Kuchi)"
+                                    "Sleep Prank (Mouth)"
                                 ],
                                 1,
                                 0,
@@ -23959,7 +23959,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "If you have male genitalia, you cannot engage in frottage\nplay."
+                                "If you have male genitalia, you cannot engage in rubbing\nplay."
                             ]
                         },
                         {
@@ -24086,9 +24086,9 @@
                                 [
                                     "Missionary position",
                                     "Female genitalia",
-                                    "Receiving in Boys' Love (BL)",
+                                    "BL Uke (Bottom)",
                                     "Handjob",
-                                    "Frottage play"
+                                    "Rubbing play"
                                 ],
                                 1,
                                 0,
@@ -24129,8 +24129,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Lick",
-                                    "Finger insertion"
+                                    "Licking",
+                                    "Fingering"
                                 ],
                                 1,
                                 0,
@@ -24330,7 +24330,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "If you have male genitalia, you cannot engage in frottage\nplay."
+                                "If you have male genitalia, you cannot engage in rubbing\nplay."
                             ]
                         },
                         {
@@ -24665,7 +24665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[1]> Hello"
+                                "\\N<\\N[1]>Hello"
                             ]
                         },
                         {
@@ -25532,7 +25532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Ah, it's cold! It must feel nice to swim.... but I\ndon't have a swimsuit..."
+                                "\\N<Boku>W-Wow, it's cold! It must feel great to swim....\nbut I don't have a swimsuit..."
                             ]
                         },
                         {
@@ -25942,7 +25942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Ah, it's cold! It must feel nice to swim.... but I\ndon't have a swimsuit..."
+                                "\\N<Boku>W-Wow, it's cold! It must feel great to swim....\nbut I don't have a swimsuit..."
                             ]
                         },
                         {
@@ -26356,7 +26356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Ah, it's cold! It must feel nice to swim.... but I\ndon't have a swimsuit..."
+                                "\\N<Boku>W-Wow, it's cold! It must feel great to swim... but\nI don't have a swimsuit..."
                             ]
                         },
                         {
@@ -27527,7 +27527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "For default character customization! Caution required!"
+                                "For default character customization! Pay attention!"
                             ]
                         },
                         {
@@ -27576,8 +27576,8 @@
                                 [
                                     "Default Creation",
                                     "Customization of Unique Characters",
-                                    "Creating from a passphrase",
-                                    "Create from card",
+                                    "Creating from a password",
+                                    "Created from a card",
                                     "Created from random"
                                 ],
                                 -1,
@@ -27797,10 +27797,10 @@
                                 [
                                     "Rich Aunt",
                                     "Older girl",
-                                    "Same-aged girl",
+                                    "Girl of the same age",
                                     "Cousin",
                                     "Mysterious girl",
-                                    "A boy of the same age"
+                                    "Same-aged boy"
                                 ],
                                 -1,
                                 0,
@@ -28300,7 +28300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please note that you can only choose either Skin Color\nChange or Tanning, not both."
+                                "Please note that you can only choose either change skin\ncolor or tan and not both."
                             ]
                         },
                         {
@@ -28562,7 +28562,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(As I thought, this is Hakase-kun's mother,\nright...? Ugh... I'm curious...)"
+                                "\\N<Boku>(I-I guess this is Hakase-kun's mother...? Ugh...\nI'm curious...)"
                             ]
                         },
                         {
@@ -28744,7 +28744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Ah! N-no, not yet! I'll go now...!"
+                                "\\N<Boku>Ah! W-Wait, not yet! I'm going now...!"
                             ]
                         },
                         {
@@ -29015,7 +29015,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>I wonder who's on TV...?"
+                                "\\N<Boku>I wonder who's on TV..."
                             ]
                         },
                         {
@@ -29037,7 +29037,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "The person from my favorite flyer",
+                                    "Favorite flyer person",
                                     "Someone I know"
                                 ],
                                 -1,
@@ -29824,7 +29824,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Undressing",
+                                    "Undress the clothes",
                                     "Let's stop"
                                 ],
                                 1,
@@ -29855,7 +29855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(It's... it's okay to look a little, right? Just a\ntiny bit... I'll just take a quick peek...)"
+                                "\\N<Boku>(It's... okay to look a little bit, right? Just a\ntiny bit... I'll just take a quick peek...)"
                             ]
                         },
                         {
@@ -29992,7 +29992,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(I... I hope you're not awake...? If it's just this\nmuch and you're not awake... maybe I can play a little\nprank...?)"
+                                "\\N<Boku>(I... I hope she's not awake...? If she doesn't wake\nup from just this... maybe I can play a little prank...?)"
                             ]
                         },
                         {
@@ -30072,7 +30072,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(N-No, no good! I have to put the clothes back\nbefore you wake up...!)"
+                                "\\N<Boku>(N-No, no good! I have to put the clothes back\nbefore she wakes up...!)"
                             ]
                         },
                         {

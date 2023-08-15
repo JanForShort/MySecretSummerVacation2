@@ -4330,7 +4330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Cousin's Onee-chan\\# Onee-chan seems to be in the large\nbathhouse late at night..."
+                                "\\#My cousin's onee-chan\\# It seems like onee-chan is in the\nlarge bathhouse late at night..."
                             ]
                         },
                         {
@@ -4666,8 +4666,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View a different scene"
                                 ],
                                 0,
                                 0,
@@ -4775,8 +4775,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View a different scene"
                                 ],
                                 0,
                                 0,
@@ -4846,14 +4846,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
+                                "\\# I haven't been able to conquer it yet."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\#まだ、攻略出来ていません。"
+                                ""
                             ]
                         },
                         {
@@ -5031,7 +5031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Missionary Position Play Knowledge"
+                                "\\# Knowledge of Missionary Position Play"
                             ]
                         },
                         {
@@ -5106,7 +5106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Missionary Position Play Knowledge"
+                                "\\# Knowledge of Missionary Position Play"
                             ]
                         },
                         {
@@ -5190,7 +5190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Knowledge about doggy style play"
+                                "\\# Knowledge of doggy style play"
                             ]
                         },
                         {
@@ -5265,7 +5265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Knowledge about doggy-style play."
+                                "\\# Knowledge of doggy style play"
                             ]
                         },
                         {
@@ -5349,7 +5349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Cowgirl Play Knowledge"
+                                "Knowledge of Cowgirl Play"
                             ]
                         },
                         {
@@ -5424,7 +5424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Cowgirl Play Knowledge"
+                                "Knowledge of Cowgirl Play"
                             ]
                         },
                         {
@@ -5508,7 +5508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Cousin's Onee-chan (Sleeping)\\# Someone might give me the\nkey to Onee-chan's room through a bug battle..."
+                                "\\#My cousin's onee-chan (sleeping)\\# Someone might give me\nthe key to onee-chan's room through a bug battle..."
                             ]
                         },
                         {
@@ -5619,7 +5619,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Do",
+                                    "to do",
                                     "I won't do it"
                                 ],
                                 1,
@@ -5740,7 +5740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Masturbating with a Book\\# Let's find a book and try\nmasturbating."
+                                "Masturbating with a book Let's find a book and try\nmasturbating."
                             ]
                         },
                         {
@@ -5845,7 +5845,7 @@
                             "parameters": [
                                 [
                                     "To look",
-                                    "Don't look"
+                                    "I won't look"
                                 ],
                                 1,
                                 0,
@@ -6045,7 +6045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Masturbating with a Video\\# Let's find a video and try\nmasturbating."
+                                "\\#Masturbating with a video\\# Let's find a video and try\nmasturbating."
                             ]
                         },
                         {
@@ -6150,7 +6150,7 @@
                             "parameters": [
                                 [
                                     "Watch",
-                                    "Don't watch it"
+                                    "I won't watch it"
                                 ],
                                 1,
                                 0,
@@ -6270,7 +6270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Masturbating on Late Night TV\\# Sometimes, it seems there\nare erotic programs on late at night..."
+                                "\\# Masturbating on a late-night program \\# Sometimes,\nthere seems to be erotic programs on late at night..."
                             ]
                         },
                         {
@@ -6376,7 +6376,7 @@
                                 [
                                     "Watch",
                                     "Just watching a dance",
-                                    "Don't watch it"
+                                    "I won't watch"
                                 ],
                                 2,
                                 0,
@@ -6516,7 +6516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Naughty Dreams\\# If you're just a little good, someone\nmight give you something on a sleepless night...?"
+                                "\\# Naughty Dreams \\# If you're just a little good,\nsomeone might give you something on a sleepless night...?"
                             ]
                         },
                         {
@@ -6621,7 +6621,7 @@
                             "parameters": [
                                 [
                                     "To see",
-                                    "Don't look"
+                                    "I won't look"
                                 ],
                                 1,
                                 0,
@@ -6824,7 +6824,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This is the Recollection Mode. You can revisit scenes and\nerotic books, videos, and more that you experienced in the\nmain game."
+                                "This is the Recollection Mode. You can revisit scenes and\nerotic books, erotic videos, etc. that you experienced in\nthe main game."
                             ]
                         },
                         {
@@ -6862,7 +6862,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Even if you haven't experienced it in the main game, you can\nstill see certain scenes by combining the knowledge of the\ncharacters you've conquered and the gameplay."
+                                "Even if you haven't experienced it in the main game, you\ncan still see some scenes by combining the knowledge of the\ncharacters you've conquered and the gameplay."
                             ]
                         },
                         {
@@ -7142,7 +7142,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The knowledge of sexual techniques, positions, and other\ngameplay-related information that you obtained in the main\ngame can be checked using this light bulb."
+                                "The knowledge of sexual techniques and positions that you\nobtained in the main game can be confirmed here with this\nlight bulb."
                             ]
                         },
                         {
@@ -7381,7 +7381,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "In the Recollection Mode, you can change the time using this\nclock. In some scenes, the brightness may change depending\non the time of day."
+                                "In the Recollection Mode, you can change the time using\nthis clock. In some scenes, the brightness may change\ndepending on the time of day."
                             ]
                         },
                         {
@@ -7428,7 +7428,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You can end the Recollection Mode at this door."
+                                "You can end the Recollection Mode with this door."
                             ]
                         },
                         {
@@ -7445,7 +7445,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This explanation can be confirmed in the enclosed\ninstruction manual."
+                                "You can confirm this explanation in the enclosed\ninstruction manual."
                             ]
                         },
                         {
@@ -7549,7 +7549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please select the save data to use in the Recollection Mode.\nThe appearance of your favorite and main characters will be\napplied to the selected save data. *This does not affect the\nmain game."
+                                "Please select the save data to use in the Recollection Mode.\nThe appearance of your favorite character and the main\ncharacter will be applied to the selected save data. *This\ndoes not affect the main game."
                             ]
                         },
                         {
@@ -7718,7 +7718,7 @@
                             "parameters": [
                                 [
                                     "Morning",
-                                    "Daytime",
+                                    "Noon",
                                     "Evening",
                                     "Night",
                                     "Late at night",
@@ -7931,7 +7931,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This is the Recollection Mode. You can revisit scenes and\nerotic books, videos, and more that you experienced in the\nmain game."
+                                "This is the Recollection Mode. You can revisit scenes and\nerotic books, erotic videos, etc. that you experienced in\nthe main game."
                             ]
                         },
                         {
@@ -7969,7 +7969,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Even if you haven't experienced it in the main game, you can\nstill see certain scenes by combining the knowledge of the\ncharacters you've conquered and the gameplay."
+                                "Even if you haven't experienced it in the main game, you\ncan still see some scenes by combining the knowledge of the\ncharacters you've conquered and the gameplay."
                             ]
                         },
                         {
@@ -8016,7 +8016,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The knowledge of positions and plays that you obtained in\nthe main game can be confirmed with this light bulb here."
+                                "The knowledge of positions and plays that you obtained in\nthe main game can be confirmed with this light bulb."
                             ]
                         },
                         {
@@ -8056,7 +8056,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "In the Recollection Mode, time does not progress, but you\ncan change the time using this clock here. In some scenes,\nthe brightness may change depending on the time of day."
+                                "In the Recollection Mode, time does not progress, but it\nis possible to change the time with this clock. In some\nscenes, the brightness may change depending on the time of\nday."
                             ]
                         },
                         {
@@ -8103,7 +8103,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You can end the Recollection Mode at this door."
+                                "You can end the Recollection Mode with this door."
                             ]
                         },
                         {
@@ -9100,7 +9100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Knowledge about Fellatio"
+                                "Knowledge about fellatio"
                             ]
                         },
                         {
@@ -9175,7 +9175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Knowledge about Oral Play"
+                                "Knowledge of Fellatio Play"
                             ]
                         },
                         {
@@ -9259,7 +9259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Knowledge of Sleep Assault"
+                                "Sleep Assault Knowledge"
                             ]
                         },
                         {
@@ -9334,7 +9334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Knowledge of Sleep Assault"
+                                "Sleep Assault Knowledge"
                             ]
                         },
                         {
@@ -9418,7 +9418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Loli Knowledge"
+                                "Loli Knowledge"
                             ]
                         },
                         {
@@ -9493,7 +9493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Loli Knowledge"
+                                "Loli Knowledge"
                             ]
                         },
                         {
@@ -9577,7 +9577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Shota Knowledge"
+                                "Knowledge about shota"
                             ]
                         },
                         {
@@ -9652,7 +9652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Shota Knowledge"
+                                "Knowledge about shota"
                             ]
                         },
                         {
@@ -9736,7 +9736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Paizuri Knowledge"
+                                "Knowledge about Paizuri"
                             ]
                         },
                         {
@@ -9811,7 +9811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Knowledge of Paizuri Play"
+                                "\\# Paizuri Play Knowledge"
                             ]
                         },
                         {
@@ -9895,7 +9895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Anal Knowledge"
+                                "Anal Knowledge"
                             ]
                         },
                         {
@@ -9970,7 +9970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Anal Play Knowledge"
+                                "Anal Play Knowledge"
                             ]
                         },
                         {
@@ -10242,7 +10242,7 @@
                                 [
                                     "I want to do something special and naughty",
                                     "I want to have normal sex",
-                                    "Not now, it's fine"
+                                    "Not now"
                                 ],
                                 2,
                                 0,
@@ -10334,8 +10334,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View a different scene"
                                 ],
                                 0,
                                 0,
@@ -10434,8 +10434,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View a different scene"
                                 ],
                                 0,
                                 0,
@@ -10639,7 +10639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Shop Girl\\# What happens when you collect all the types of\ngacha?"
+                                "Shop Girl What happens when you collect all the gacha\nitems?"
                             ]
                         },
                         {
@@ -10826,7 +10826,7 @@
                             "parameters": [
                                 [
                                     "I want to do something special and naughty",
-                                    "I want to have a normal sexual encounter",
+                                    "I want to have normal sex",
                                     "Not now"
                                 ],
                                 2,
@@ -10919,8 +10919,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -11019,8 +11019,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -11224,7 +11224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#The foreign exchange student onee-chan\\# seems to be\nfishing at the lake..."
+                                "\\#The foreign exchange student onee-chan\\# seems to be\nfishing in the lake..."
                             ]
                         },
                         {
@@ -11381,7 +11381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Jesse>Oh, me? Do you want to do something fun with Jesse?"
+                                "\\N<Jesse>Oh, me? Do you want to do something fun with\nJesse?"
                             ]
                         },
                         {
@@ -11412,7 +11412,7 @@
                                 [
                                     "I want to have a special intimate moment",
                                     "I want to have a normal sexual encounter",
-                                    "Not right now"
+                                    "I'm good for now"
                                 ],
                                 2,
                                 0,
@@ -11504,8 +11504,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -11604,8 +11604,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -11809,7 +11809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#If you behave well, one night...\\N[2]\\#"
+                                "\\#If you behave well, one night...\\#"
                             ]
                         },
                         {
@@ -11966,7 +11966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>Oh, Boku-kun. Did you start wanting to do naughty\nthings with me...?"
+                                "Oh, Boku-kun, do you want to do something naughty with\nme...?"
                             ]
                         },
                         {
@@ -11996,8 +11996,8 @@
                             "parameters": [
                                 [
                                     "I want to do something special and naughty",
-                                    "I want to have normal sex",
-                                    "Not now"
+                                    "I want to have a normal sexual encounter",
+                                    "I'm fine for now"
                                 ],
                                 2,
                                 0,
@@ -12145,8 +12145,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -12254,8 +12254,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -12325,14 +12325,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
+                                "\\# I haven't been able to capture them yet."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\#まだ、攻略出来ていません。"
+                                ""
                             ]
                         },
                         {
@@ -12510,7 +12510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#When you get close to Art School Onee-chan (sleeping) and\nspend the night together..."
+                                "Art School Onee-chan (Sleeping) When you become close and\nspend the night..."
                             ]
                         },
                         {
@@ -12621,7 +12621,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Do",
+                                    "to do",
                                     "I won't do it"
                                 ],
                                 1,
@@ -12742,7 +12742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Shop Girl (Sleeping)\\# When you become close and stay\novernight..."
+                                "Shop Girl (Sleeping) If you become close and stay\novernight..."
                             ]
                         },
                         {
@@ -12853,7 +12853,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Do",
+                                    "to do",
                                     "I won't do it"
                                 ],
                                 1,
@@ -12974,7 +12974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Foreign Student Onee-chan (Sleeping)\\# When you become\nclose, she will give you the key to her room..."
+                                "\\#Art School Onee-chan (Sleeping)\\# When you become close,\nshe will give you the key to her room..."
                             ]
                         },
                         {
@@ -13070,7 +13070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(Should I do something naughty with Jesse while\nthey're sleeping?)"
+                                "\\N<Boku>(Should I do something naughty with sleeping Jesse?)"
                             ]
                         },
                         {
@@ -13085,8 +13085,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Do",
-                                    "Not doing it"
+                                    "to do",
+                                    "I won't do it"
                                 ],
                                 1,
                                 0,
@@ -13206,7 +13206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#What happens if you defeat Hakase-kun in the Bug\nBattle...?"
+                                "Friend's Mom If you win against Hakase-kun in the Bug\nBattle...?"
                             ]
                         },
                         {
@@ -13400,7 +13400,7 @@
                             "parameters": [
                                 [
                                     "I want to do something special and naughty",
-                                    "I want to have a normal sexual encounter",
+                                    "I want to have normal sex",
                                     "Not right now"
                                 ],
                                 2,
@@ -13493,8 +13493,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -13593,8 +13593,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -13798,7 +13798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Rich Aunt\\# The paper airplane flew away..."
+                                "\\#Rich Auntie\\# The paper airplane flew away..."
                             ]
                         },
                         {
@@ -14078,8 +14078,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -14178,8 +14178,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -14383,7 +14383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#There seems to be a girl who is a little older and good at\ngrass sliding...\\#"
+                                "\\#There seems to be a girl who is good at sliding on grass\nand is a little older..."
                             ]
                         },
                         {
@@ -14540,7 +14540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Mika-chan>What is it, Boku? I bet you want to do\nsomething naughty with me again, don't you?"
+                                "\\N<Mika-chan>What is it, Boku? You want to do something\nnaughty with me again, don't you?"
                             ]
                         },
                         {
@@ -14663,8 +14663,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -14763,8 +14763,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View a different scene"
                                 ],
                                 0,
                                 0,
@@ -14968,7 +14968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#I feel like I see girls of the same age everywhere in\ntown...\\#"
+                                "\\#A girl of the same age\\# I feel like I see her\neverywhere in town..."
                             ]
                         },
                         {
@@ -15156,7 +15156,7 @@
                                 [
                                     "I want to have a special naughty time",
                                     "I want to have normal sex",
-                                    "I'm not in the mood right now"
+                                    "I'm fine for now"
                                 ],
                                 2,
                                 0,
@@ -15283,8 +15283,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "Is this the end?",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -15392,8 +15392,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "Is this the end?",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -15463,14 +15463,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
+                                "\\# I haven't been able to capture them yet."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\#まだ、攻略できていません。"
+                                ""
                             ]
                         },
                         {
@@ -15648,7 +15648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#It seems Sacchan\\# likes Perorin Candy..."
+                                "[Sacchan], it seems like you like Perorin Candy..."
                             ]
                         },
                         {
@@ -15805,7 +15805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sacchan>Hm...? What is it... \\N[3]...?"
+                                "\\N<Sacchan>Huh...? What is it... \\N[3]...?"
                             ]
                         },
                         {
@@ -15829,7 +15829,7 @@
                                 [
                                     "I want to have a special intimate moment",
                                     "I want to have a normal sexual encounter",
-                                    "Not now"
+                                    "I'm fine for now"
                                 ],
                                 2,
                                 0,
@@ -15949,8 +15949,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -16058,8 +16058,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -16129,14 +16129,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
+                                "\\# I haven't been able to capture them yet."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\#まだ、攻略出来ていません。"
+                                ""
                             ]
                         },
                         {
@@ -16314,7 +16314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Mysterious Girl\\#???"
+                                "Mysterious girl???"
                             ]
                         },
                         {
@@ -16471,7 +16471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sui-chan>Oh, it's you ♥ You're energetic again, should I\ntake some for myself...♥"
+                                "\\N<Sui-chan>Oh, it's you ♥ Are you feeling energetic again?\nMaybe I should take some of that energy for myself... ♥"
                             ]
                         },
                         {
@@ -16587,8 +16587,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -16696,8 +16696,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -16767,14 +16767,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
+                                "\\# I haven't been able to capture them yet."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "\\#まだ、攻略出来ていません。"
+                                ""
                             ]
                         },
                         {
@@ -17432,7 +17432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#When you play together and become friends with a boy of\nthe same age...\\#"
+                                "If \\#a boy the same age\\# plays together and becomes\nfriends..."
                             ]
                         },
                         {
@@ -17645,7 +17645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Yu-kun>Hey, Boku-kun. Do you maybe want to do something\nnaughty with me?"
+                                "\\N<Yū-kun>Hey, Boku-kun. Do you maybe want to do something\nnaughty with me?"
                             ]
                         },
                         {
@@ -17805,8 +17805,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -17905,8 +17905,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -18146,8 +18146,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -18246,8 +18246,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -18410,8 +18410,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これでおわる",
-                                    "別のシーンを見る"
+                                    "This is the end",
+                                    "View another scene"
                                 ],
                                 0,
                                 0,
@@ -18625,7 +18625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#\\N[2](Sleeping)\\# It seems there is a sleeping flower that\nmakes you fall into a deep sleep somewhere..."
+                                "\\#\\N[2](Sleeping)\\# It seems there is a flower somewhere\nthat can make you sleep soundly..."
                             ]
                         },
                         {
@@ -18721,7 +18721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(Should I do something naughty while they're\nsleeping \\N[2]?)"
+                                "\\N<Boku>(Should I do something naughty while Sacchan is\nsleeping?)"
                             ]
                         },
                         {
@@ -18857,7 +18857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#My Friend's Mother (Sleeping)\\# When we become close and\nspend the night..."
+                                "\\#My Friend's Mom (Sleeping)\\# When we become close and\nspend the night together..."
                             ]
                         },
                         {
@@ -18968,7 +18968,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Do",
+                                    "to do",
                                     "I won't do it"
                                 ],
                                 1,
@@ -19089,7 +19089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Rich Auntie (Sleeping)\\# When you become close and stay\novernight..."
+                                "\\#When you become close with the rich auntie (while she's\nsleeping)...\\# and spend the night together..."
                             ]
                         },
                         {
@@ -19200,7 +19200,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Do",
+                                    "to do",
                                     "I won't do it"
                                 ],
                                 1,
@@ -19321,7 +19321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#A slightly older girl (sleeping)\\# Not implemented in the\nmain game."
+                                "\\# A slightly older girl (sleeping) \\# Not implemented in\nthe main game."
                             ]
                         },
                         {
@@ -19417,7 +19417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(Should I do something naughty with Mika-chan while\nshe's sleeping?)"
+                                "\\N<Boku>(Should I do something naughty with sleeping Mika-\nchan?)"
                             ]
                         },
                         {
@@ -19432,7 +19432,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Do",
+                                    "to do",
                                     "I won't do it"
                                 ],
                                 1,
@@ -19553,7 +19553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#A girl of the same age (sleeping)\\# On a night at the\ncamp..."
+                                "\\# A girl of the same age (sleeping) \\# On a camping\nnight..."
                             ]
                         },
                         {
@@ -19785,7 +19785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#A boy of the same age (sleeping)\\# On a night at the\ncamp..."
+                                "\\#A boy of the same age (sleeping)\\# On a camping night..."
                             ]
                         },
                         {
@@ -20017,7 +20017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Mysterious Girl (Sleeping)\\# Not implemented in the main\ngame."
+                                "\\# Mysterious Girl (Sleeping) \\# Not implemented in the\nmain game."
                             ]
                         },
                         {
@@ -20128,7 +20128,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Do",
+                                    "to do",
                                     "I won't do it"
                                 ],
                                 1,
@@ -20249,7 +20249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Sacchan (sleeping)\\# It seems there's a sleeping flower\nsomewhere that can make you feel refreshed..."
+                                "\\#Sacchan (sleeping)\\# It seems there is a sleeping flower\nsomewhere that can make you sleep deeply..."
                             ]
                         },
                         {
@@ -20481,7 +20481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Sex Knowledge"
+                                "Knowledge of sex"
                             ]
                         },
                         {
@@ -20556,7 +20556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Sex Knowledge"
+                                "Knowledge of sex"
                             ]
                         },
                         {
@@ -20640,7 +20640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Masturbation Knowledge"
+                                "Knowledge about masturbation"
                             ]
                         },
                         {
@@ -20715,7 +20715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Masturbation Knowledge"
+                                "Knowledge about masturbation"
                             ]
                         },
                         {
@@ -20808,7 +20808,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This crystal is the All Scene Unlock System. It allows you\nto unlock all H-scenes in the reminiscence room. There are\ntwo types of unlocks available: Temporary Full Unlock which\nis only valid in the current reminiscence room, and Complete\nFull Unlock."
+                                "This crystal is the All Scene Unlock System. It allows you\nto have all H-scenes unlocked in the reminiscence room.\nThere are two types of unlocks available: Temporary Full\nUnlock and Complete Full Unlock, which are only valid in\nthe current reminiscence room."
                             ]
                         },
                         {
@@ -20880,7 +20880,7 @@
                             "parameters": [
                                 [
                                     "Perform a temporary complete unlock",
-                                    "Execute Complete Full Unlock",
+                                    "Complete Full Unlock",
                                     "Do nothing"
                                 ],
                                 2,
@@ -20943,7 +20943,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#*Please note that you cannot revert back to the original\nstate once you execute this operation. \\#Are you sure you\nwant to proceed with the execution?"
+                                "\\#※Once you execute this operation, you cannot revert back\nto the original state.\\# Are you sure you want to proceed\nwith the execution?"
                             ]
                         },
                         {
@@ -21342,7 +21342,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You can also issue pink flyers, but if you put them in your\npocket, you can only use them in the current flashback room."
+                                "You can also issue pink flyers, but if you put them in your\npocket, you can only use them in the current flashback\nroom."
                             ]
                         },
                         {
@@ -21534,7 +21534,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select the method to customize."
+                                "Please select the method of customization."
                             ]
                         },
                         {
@@ -21551,8 +21551,8 @@
                                 [
                                     "Customize from the current state",
                                     "Customize from favorites",
-                                    "Load the pink flyer and customize",
-                                    "Please enter the secret passphrase to customize",
+                                    "Customize by reading the pink flyer",
+                                    "Enter the secret password to customize",
                                     "Customize from a random character",
                                     "Cancel"
                                 ],
@@ -22038,7 +22038,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "※Please note that you can only choose either Change Skin\nColor & Brightness or Tanning, not both.※Please note that\nPotbelly only applies to the naked state."
+                                "Please note that you can only choose either Change Skin\nColor & Brightness or Tanning, not both. Please note that\nPotbelly only applies to the naked state."
                             ]
                         },
                         {
@@ -22139,7 +22139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This action cannot be undone. Are you sure?"
+                                "This process cannot be undone. Are you sure?"
                             ]
                         },
                         {
@@ -22850,7 +22850,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\#Preparing"
+                                "\\# Preparing"
                             ]
                         },
                         {
@@ -23593,7 +23593,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(⁉ They're coming out...⁉ They might catch me\nwatching...⁉ I better hide somewhere!)"
+                                "\\N<Boku>(⁉ They're coming out...⁉ They might notice that I\nwas watching...⁉ I should hide somewhere!)"
                             ]
                         },
                         {
@@ -24607,7 +24607,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(⁉Someone's coming out...⁉I better hide somewhere!)"
+                                "\\N<Boku>(⁉They're coming out...⁉I better hide somewhere!)"
                             ]
                         },
                         {
@@ -25559,7 +25559,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(⁉ They might come out...⁉ They might notice that I\nwas watching...⁉ I should hide somewhere!)"
+                                "\\N<Boku>(⁉ They're coming out...⁉ They might notice that I\nwas watching...⁉ I should hide somewhere!)"
                             ]
                         },
                         {

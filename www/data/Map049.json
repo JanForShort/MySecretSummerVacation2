@@ -2239,7 +2239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Huh...?... This scent, it's the same scent as Dream\nPopuri... Could it be that this flower is a Dreamflower...?\nYeah, I'm sure that's it!"
+                                "\\N<Boku>Huh...?... This scent, it's the same scent as Dream\nPopuri... Maybe this flower is a Dream Grass flower...!\nYeah, that must be it!"
                             ]
                         },
                         {
@@ -2277,7 +2277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I remember that drinking the nectar of this flower\nbefore going to bed helps me sleep soundly... It sounds\ninteresting, so let's give it a try!"
+                                "\\N<Boku>I remember that if you drink the nectar of this\nflower before going to bed, you can sleep soundly... It\nsounds interesting, so let's give it a try!"
                             ]
                         },
                         {

@@ -1405,7 +1405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(Yuu-kun is sleeping... I have to make sure not to\nwake them up.)"
+                                "\\N<Boku>(Yuko-kun is sleeping... I have to make sure not to\nwake them up.)"
                             ]
                         },
                         {
@@ -1496,7 +1496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah... Yuko-kun, you're sleeping... I wonder if it's\nokay to play a little prank on you...?"
+                                "\\N<Boku>Ah...Yuko-kun, you're sleeping...I wonder if it's\nokay to play a little prank on you...?"
                             ]
                         },
                         {
@@ -1525,7 +1525,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Undressing you",
+                                    "Undress your clothes",
                                     "Let's not do it"
                                 ],
                                 1,
@@ -1556,7 +1556,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(...It's okay to do it just a little bit, right?\nJust a tiny peek...)"
+                                "\\N<Boku>(Is it okay... just a little bit... to take a\npeek... just for a moment...)"
                             ]
                         },
                         {
@@ -1693,7 +1693,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(...Y-Yuko-kun, you're not awake... right...? If you\nwon't wake up even with just this... m-maybe it's okay to\nplay a little prank...?)"
+                                "\\N<Boku>(...Oh, you're not awake... right...? If you won't\nwake up even with just this... I wonder if it's okay to play\na little more... prank on you...?)"
                             ]
                         },
                         {
@@ -1773,7 +1773,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>(N-No, no! I can't do it after all! I have to put\nyour clothes back before you wake up...!)"
+                                "\\N<Boku>(N-No, no good! I have to put your clothes back\nbefore you wake up...!)"
                             ]
                         },
                         {
@@ -1983,7 +1983,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah... Yuko-kun, you're sleeping... It's probably\nbetter not to wake you up..."
+                                "\\N<Boku>Ah...Yuko-kun, you're sleeping...It's probably\nbetter not to wake you up..."
                             ]
                         },
                         {
@@ -2194,7 +2194,7 @@
                             "parameters": [
                                 [
                                     "Take it",
-                                    "I'll refrain"
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,

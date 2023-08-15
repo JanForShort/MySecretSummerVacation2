@@ -2013,7 +2013,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Ah, is it already this late... Let's stop for today."
+                                "\\N<Boku>Ah, is it already this late... Let's stop for\ntoday."
                             ]
                         },
                         {
@@ -2180,7 +2180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Ah... I forgot, Onee-chan is not here anymore..."
+                                "\\N<Boku>Ah... I forgot that Onee-chan is no longer here..."
                             ]
                         },
                         {
@@ -3681,7 +3681,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Aunt>Here, please take it."
+                                "\\N<Aunt>Here, please."
                             ]
                         },
                         {
@@ -3722,7 +3722,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Aunt>Hehe, oh my, you're such a cute little one. I wonder\nif you live nearby?"
+                                "\\N<Aunt>Hehe, oh my, you're such a cute little boy. I\nwonder if you live nearby?"
                             ]
                         },
                         {
@@ -3777,7 +3777,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Aunt>Oh, is that so... Hey, kiddo. I have some snacks,\nwould you like to have tea at Auntie's house? I was just\nfeeling bored, so would you be my conversation partner?"
+                                "\\N<Aunt>Oh, is that so... Hey, kiddo. Since I have some\nsnacks, how about having tea at Auntie's house? I was just\nfeeling bored, so would you be my conversation partner?"
                             ]
                         },
                         {
@@ -3832,7 +3832,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Aunt>That's right, you're a good kid... ♥ Come over here."
+                                "\\N<Aunt>That's right, you're a good kid... ♥ Come over\nhere."
                             ]
                         },
                         {

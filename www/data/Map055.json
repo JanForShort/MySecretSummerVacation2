@@ -2908,7 +2908,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Ah, Boku-kun, welcome. You've come to play,\nright? So, what do you want to do?"
+                                "\\N<Hakase-kun>Ah, Boku-kun, welcome. You came to play,\nright? So, what do you want to do?"
                             ]
                         },
                         {
@@ -2949,7 +2949,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Ah, Boku-kun, welcome. You've come to play,\nright? Here, this is it. It's the promised mechanical\nrhinoceros beetle."
+                                "\\N<Hakase-kun>Ah, Boku-kun, welcome. You came to play,\nright? Here, this is the promised mechanical rhinoceros\nbeetle."
                             ]
                         },
                         {
@@ -3262,7 +3262,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Alright. So, what do you want to do?"
+                                "\\N<Hakase-kun>Hmm, then what should we play?"
                             ]
                         },
                         {
@@ -3337,7 +3337,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Hide and seek, huh... It's cramped inside, so\nhow about we play a treasure hunt instead?"
+                                "\\N<Hakase-kun>Hide and seek... It's cramped inside, so how\nabout playing treasure hunt instead?"
                             ]
                         },
                         {
@@ -3368,7 +3368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>A treasure hunt, you say?"
+                                "\\N<Boku>Treasure hunt game?"
                             ]
                         },
                         {
@@ -3385,7 +3385,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>I'll hide this capsule inside the house and\nyou, Boku-kun, will search for it. If you can find it within\n100 seconds, you win."
+                                "\\N<Hakase-kun>I will hide this capsule inside the house and\nyou, Boku-kun, will search for it. If you can find it within\n100 seconds, you win."
                             ]
                         },
                         {
@@ -3447,7 +3447,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Alright then, let's do it. I'll go hide, so\nwait for me."
+                                "\\N<Hakase-kun>Well then, let's do it. I'll go hide, so wait\nfor me."
                             ]
                         },
                         {
@@ -3515,7 +3515,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Sounds good. Alright then, let's do it. I'll\ngo hide, so wait for me."
+                                "\\N<Hakase-kun>Sounds good. Well then, let's do it. I'll go\nhide, so wait for me."
                             ]
                         },
                         {

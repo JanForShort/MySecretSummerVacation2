@@ -2239,7 +2239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Wow... a big cow... could you please move a little?"
+                                "\\N<Boku>Wow... a big cow... could you please move a\nlittle?"
                             ]
                         },
                         {
@@ -3488,7 +3488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nana-chan>Oh, it's not you. What's up? Did you come to\nswim?"
+                                "\\N<Nana-chan>Oh, it's not you. What? Did you come to swim?"
                             ]
                         },
                         {
@@ -3544,7 +3544,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>What? You're not in a swimsuit? Then how about\nswimming naked? If you're embarrassed to do it alone, I can\nswim with you, you know?"
+                                "\\N<Nana-chan>Huh? You're not in a swimsuit? Then how about\nswimming naked? If you're embarrassed to do it alone, should\nI swim with you?"
                             ]
                         },
                         {
@@ -3616,7 +3616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>Then, how about swimming naked? If you're\nembarrassed to do it alone, I can swim with you, you know?"
+                                "\\N<Nana-chan>Then, how about swimming naked? If you're\nembarrassed to do it alone, should I swim with you?"
                             ]
                         },
                         {
@@ -3657,7 +3657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Huh?! Is that okay?!"
+                                "\\N<Boku>Eh? Is that okay?"
                             ]
                         },
                         {
@@ -3681,7 +3681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nana-chan>Silly, it's Jordan ♥"
+                                "\\N<Nana-chan>You idiot, Jordan♥"
                             ]
                         },
                         {
@@ -3984,7 +3984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Alright! Let's do this!"
+                                "\\N<Boku>Alright! Let's do it!"
                             ]
                         },
                         {
@@ -4077,7 +4077,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah, the bridge is broken... But maybe I can fix it\nmyself, at least something like this...?"
+                                "\\N<Boku>Ah, the bridge is broken... But maybe I can fix it\nmyself?"
                             ]
                         },
                         {
@@ -4115,7 +4115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>If I can cut down this tree growing here, I can make\na bridge, right...? I wonder if there's any tools around\nhere...?"
+                                "\\N<Boku>If I cut down the tree growing here, I can make a\nbridge, right...? I wonder if there's any tools around\nhere...?"
                             ]
                         },
                         {

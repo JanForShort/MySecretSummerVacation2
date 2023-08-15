@@ -3026,7 +3026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I'm waiting for the old lady here."
+                                "\\N<Boku>I'm waiting for an older lady here."
                             ]
                         },
                         {
@@ -3052,7 +3052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Old lady? Um... what's your name?"
+                                "\\N<Onee-chan>Auntie? Um... what's your name?"
                             ]
                         },
                         {
@@ -3076,7 +3076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I'm 'Boku'! Everyone calls me 'Boku'."
+                                "\\N<Boku>I'm called 'Boku' by everyone!"
                             ]
                         },
                         {
@@ -3100,45 +3100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>I see. I'm Harumi. Nice to meet you, Boku-kun.\nSo, is this 'old lady' you're waiting for a relative of\nyours, Boku-kun?"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Boku>Yeah, that's right. She's my dad's younger sister.\nMy mom is busy because she's going to have a baby, so during\nsummer vacation, I'm going to live at this old lady's house.\nThat's why my dad and I came here by bus."
+                                "\\N<Onee-chan>I see. I'm Harumi. Nice to meet you, Boku-kun.\nSo, am I your relative, Boku-kun?"
                             ]
                         },
                         {
@@ -3176,7 +3138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>But, my dad is so absent-minded, he told me to get\noff and it turns out it's one bus stop earlier."
+                                "\\N<Boku>Yeah, that's right. I'm my dad's younger sister.\nSince my mom is busy with the baby being born, I'll be\nstaying at this auntie's house during summer vacation.\nThat's why I came here with my dad on the bus."
                             ]
                         },
                         {
@@ -3184,30 +3146,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Boku>I tried to just get back on the bus and go home, but\nI realized I had gone all the way to the next bus stop.\nGeez, I messed up."
                             ]
                         },
                         {
@@ -3238,7 +3176,69 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>When we arrived at the foot of the mountain, he told\nme to call the old lady and have her come pick me up, so I'm\nwaiting here."
+                                "\\N<Boku>But, my dad is so absent-minded, he told me to get\noff, so I got off at the previous bus stop."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Boku>I tried to just get back on the bus and go home,\nbut I realized I had gone all the way to the next bus stop.\nGeez, I messed up."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Boku>When I arrived at the foot of the mountain, my dad\ntold me to call Auntie and have her come pick me up, so he\nsaid to wait here."
                             ]
                         },
                         {
@@ -3404,7 +3404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Onee-chan, why are you here? The buses don't come\nfor a while, right? Did you accidentally come here?"
+                                "\\N<Boku>Why are you here, Onee-chan? The bus won't come for\na while, right? Did you accidentally come here?"
                             ]
                         },
                         {
@@ -3435,7 +3435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Hehe. No, no. I was just taking a walk. This\nplace is my favorite spot."
+                                "\\N<Onee-chan>Hehe, no, no. I was just taking a walk. This\nplace is my favorite spot."
                             ]
                         },
                         {
@@ -3466,7 +3466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Oh, I see."
+                                "\\N<Boku>Oh, really?"
                             ]
                         },
                         {
@@ -3483,7 +3483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>And let's take a little break. Since there's\nquite a distance to the town from here, let's rest here\nbefore heading back."
+                                "\\N<Onee-chan>And taking a little break. Since there's quite\na distance from here to the town, I'll rest here before\nheading back."
                             ]
                         },
                         {
@@ -3555,7 +3555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Actually, I was feeling a little lonely by myself..."
+                                "\\N<Boku>Actually, I was feeling a little lonely by\nmyself..."
                             ]
                         },
                         {
@@ -3579,45 +3579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Hehe, it's true. It must be boring just sitting\nthere at your age. But don't worry, it's okay."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Onee-chan>If we go further to the town, there will be\nrivers, lakes, and even a ski resort. We can swim, fish, and\neven go grass sledding if skiing is too difficult during\nthis season."
+                                "\\N<Onee-chan>Hehe, that's true. It must be boring just\nsitting here at your age. But don't worry, it's okay."
                             ]
                         },
                         {
@@ -3655,7 +3617,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Besides, there are many kids around your age,\nso it would be nice if you made friends and played together."
+                                "\\N<Onee-chan>If you go to the town ahead, there's a river,\na lake, and even a ski resort. You can swim, fish, and even\ngo grass sledding if skiing is too difficult at this time of\nyear."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Onee-chan>Besides, there are many kids around your age,\nso it would be nice to make friends and play together."
                             ]
                         },
                         {
@@ -3703,7 +3703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# I'm sure it will be a fun summer vacation."
+                                "\\# It will definitely be a fun summer vacation."
                             ]
                         },
                         {
@@ -4109,7 +4109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Auntie>I'm sorry, Boku-kun! Did I make you wait? I'm\nsorry for keeping you waiting in this heat. My older brother\nhas always been absent- minded..."
+                                "\\N<Auntie>I'm sorry, Boku-kun! Did you wait? I'm sorry for\nmaking you wait in this heat. My older brother has always\nbeen absent-minded..."
                             ]
                         },
                         {
@@ -4189,7 +4189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Auntie>Long time no see ♥ How have you been? Hehe, you've\ngrown so much ♥"
+                                "\\N<Auntie>Long time no see ♥ How have you been? Hehe,\nyou've grown so much ♥"
                             ]
                         },
                         {
@@ -4301,7 +4301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>No, I just happened to pass by and was chatting\nwith Boku-kun, so I also had fun."
+                                "\\N<Onee-chan>No, I just happened to pass by and was\nchatting with Boku-kun, so I had fun too."
                             ]
                         },
                         {
@@ -4370,41 +4370,17 @@
                             ]
                         },
                         {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Auntie>Well then, Boku-kun. Shall we go to Auntie's\nhouse? Would you like Harumi-chan to come along too?"
+                            ]
+                        },
+                        {
                             "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Will Harumi-chan be going home together too?"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Onee-chan>No, I'll go home after doing a little\nsketching."
                             ]
                         },
                         {
@@ -4428,7 +4404,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Auntie>Oh, is that so? Well then, see you next time. Come\non, let's go, Boku-kun."
+                                "\\N<Onee-chan>No, I'll sketch for a bit before going home."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Auntie>Oh, is that so? Well then, see you next time.\nCome on, let's go, Boku-kun."
                             ]
                         },
                         {
@@ -5118,7 +5118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>I see. So you're exploring. Boys are full of\nenergy, huh?"
+                                "\\N<Onee-chan>I see. So it's an exploration. Boys are\nenergetic, huh?"
                             ]
                         },
                         {
@@ -5219,7 +5219,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Yeah! I'm going to investigate every nook and cranny\nof this town!"
+                                "\\N<Boku>Yeah! I'm going to investigate every nook and\ncranny of this town!"
                             ]
                         },
                         {
@@ -5243,7 +5243,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Wow, you're amazing. You're such an impressive\nexplorer."
+                                "\\N<Onee-chan>Wow, you're amazing. You're a splendid\nexplorer."
                             ]
                         },
                         {
@@ -5337,7 +5337,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Hmm, maybe because I wanted to see Onee-chan today."
+                                "\\N<Boku>Hmm, maybe it's because I wanted to see Onee-chan\ntoday."
                             ]
                         },
                         {
@@ -5361,7 +5361,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, really? Hehe, thank you. If you'd like, you\ncan come and play at my art studio too."
+                                "\\N<Onee-chan>Oh, really? Hehe, thank you. If you'd like,\nyou can come play at my art studio too."
                             ]
                         },
                         {
@@ -5486,7 +5486,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boku>Yeah! It was so much fun! I'm going to keep playing\nduring the rest of my summer vacation!"
+                                "\\N<Boku>Yeah! It was so much fun! I'm going to keep playing\nfor the rest of summer vacation!"
                             ]
                         },
                         {
@@ -5524,7 +5524,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Onee-chan>Hehe, that's right. We have to enjoy it until\nthe very end ♥"
+                                "\\N<Onee-chan>Hehe, that's right. We have to enjoy it until\nthe end ♥"
                             ]
                         },
                         {
@@ -5648,7 +5648,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Boku>Hmm, maybe because I wanted to see Onee-chan today."
+                                "\\N<Boku>Hmm, maybe it's because I wanted to see Onee-chan\ntoday."
                             ]
                         },
                         {
@@ -5672,7 +5672,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, really? Hehe, thank you. If you'd like, you\ncan come and play at my art studio too."
+                                "\\N<Onee-chan>Oh, really? Hehe, thank you. If you'd like,\nyou can come play at my art studio too."
                             ]
                         },
                         {

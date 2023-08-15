@@ -2640,7 +2640,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Also, please note that if you change the character's gender\nor the presence of male genitalia, it will not be compatible\nwith the character's specific H events (special intimate\nscenes)."
+                                "Also, please note that if you change the character's gender\nor the presence of male genitalia, it will not be compatible\nwith the character's specific H events (special adult\nscenes)."
                             ]
                         },
                         {
@@ -2818,8 +2818,8 @@
                                 [
                                     "Customize from the current state",
                                     "Customize from favorites",
-                                    "Customize by loading the pink flyer",
-                                    "Enter the secret passphrase to customize",
+                                    "Customize by reading the pink flyer",
+                                    "Enter the secret password to customize",
                                     "Customize from a random character",
                                     "Cancel"
                                 ],
@@ -3305,7 +3305,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "※Please note that you can only choose either Change Skin\nColor & Brightness or Tanning, not both.※Please note that\nPregnant Belly only applies to the character in a naked\nstate."
+                                "Please note that you can only choose either Change Skin\nColor & Brightness or Tanning, not both. Also, please\nnote that Pregnant Belly only applies to the naked state."
                             ]
                         },
                         {
@@ -3987,7 +3987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "With this crystal, during Endless Mode, it is possible to\nmake it seem like you have successfully captured a character\nthat can only be captured for a limited time during the main\ngame."
+                                "With this crystal, during endless mode, it is possible to\nmake it seem like you have successfully captured a character\nthat can only be captured for a limited time during the main\ngame."
                             ]
                         },
                         {
@@ -4131,7 +4131,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Currently, there are no characters that require this action."
+                                "Currently, there are no characters that require this\naction."
                             ]
                         },
                         {
@@ -4307,7 +4307,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -4503,7 +4503,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -4699,7 +4699,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -4895,7 +4895,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -5091,7 +5091,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -5287,7 +5287,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -5483,7 +5483,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -5679,7 +5679,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -5875,7 +5875,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -6071,7 +6071,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -6267,7 +6267,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -6463,7 +6463,7 @@
                             "parameters": [
                                 [
                                     "Naked",
-                                    "Clothed"
+                                    "Clothing"
                                 ],
                                 1,
                                 0,
@@ -6649,7 +6649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Welcome to the Secret Attic Room. In the Secret Attic Room,\nyou can customize the appearance of the characters that\nappear in the main game."
+                                "Welcome to the Secret Attic Room. In the Secret Attic\nRoom, you can customize the appearance of the characters\nthat appear in the main game."
                             ]
                         },
                         {
@@ -6687,7 +6687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There are also mannequins installed to check the customized\nappearances."
+                                "There are also mannequins installed to check the customized\nappearance."
                             ]
                         },
                         {
