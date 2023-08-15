@@ -2013,7 +2013,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Ah, is it already this late... Let's stop for\ntoday."
+                                "\\N<Boku>Ah, is it already this late... I think I'll stop\nfor today."
                             ]
                         },
                         {
@@ -2180,7 +2180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Ah... I forgot that Onee-chan is no longer here..."
+                                "\\N<Boku>Ah... I forgot, obasan is not here anymore..."
                             ]
                         },
                         {
@@ -3777,7 +3777,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Aunt>Oh, is that so... Hey, kiddo. Since I have some\nsnacks, how about having tea at Auntie's house? I was just\nfeeling bored, so would you be my conversation partner?"
+                                "\\N<Aunt>Oh, is that so... Hey, kiddo. Since I have some\nsnacks, how about having tea at Auntie's house? I was just\nbored, so would you be my conversation partner?"
                             ]
                         },
                         {

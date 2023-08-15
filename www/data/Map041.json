@@ -3353,7 +3353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Nfufu. As expected of a boy ♥ I can't finish eating\nthis all by myself."
+                                "\\N<Aunt>Nfufu. As expected of a boy♥ I can't finish this\nmuch food by myself."
                             ]
                         },
                         {
@@ -3384,7 +3384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Huh? Is it just you, Aunt, in this big house?"
+                                "\\N<Boku>Huh? Is it just Aunt here in such a big house?"
                             ]
                         },
                         {
@@ -3415,7 +3415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Nfufu, that's not it. This isn't a house, it's a\nvacation home. Just like you, I spend my summers here."
+                                "\\N<Aunt>Nfufu, you're mistaken. This isn't a house, it's a\nvacation home. Just like you, I spend my summers here."
                             ]
                         },
                         {
@@ -3463,7 +3463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>The vacation home is like a house that is built in\na different place from the one I usually live in."
+                                "\\N<Aunt>The vacation home is like a separate house that is\nbuilt in another location, apart from the house where I\nusually live."
                             ]
                         },
                         {
@@ -3525,7 +3525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Nfufu. That might be true. I'll also prepare plenty\nof snacks, so feel free to come and visit anytime."
+                                "\\N<Aunt>Nfufu. That might be true. I'll also prepare plenty\nof snacks, so feel free to come and play anytime."
                             ]
                         },
                         {
@@ -3563,7 +3563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Yeah! Thanks, Aunt! As a thank you for the sweets,\nshould I do something for you?"
+                                "\\N<Boku>Yeah! Thanks, Aunt! I wonder if there's something I\ncan do to thank you for the sweets?"
                             ]
                         },
                         {
@@ -3601,7 +3601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>A thank you...? Nfufu, that's fine. How about I\nreceive something from you next time, little one... ♥"
+                                "\\N<Aunt>A thank you...? Nfufu, that's fine. How about I\nreceive it from you next time, little one...♥"
                             ]
                         },
                         {
@@ -3632,7 +3632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Yeah! Then, I'll come again! Bye bye, Aunt!"
+                                "\\N<Boku>Yeah! Then, I'll come again! Goodbye, Aunt!"
                             ]
                         },
                         {
@@ -3663,7 +3663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Sure. See you again, kiddo... ♥"
+                                "\\N<Aunt>Sure. See you later, kiddo...♥"
                             ]
                         },
                         {
@@ -4246,8 +4246,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Add",
-                                    "Can't enter"
+                                    "入れる",
+                                    "入れない"
                                 ],
                                 1,
                                 0,
@@ -5589,7 +5589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Oh, young one. You've come to play again, haven't\nyou? Auntie was waiting for you... ♥"
+                                "\\N<Aunt>Oh, young one. You've come to play again, haven't\nyou? Auntie has been waiting for you... ♥"
                             ]
                         },
                         {
@@ -5827,7 +5827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>You know, those flowers were brought back to this\ntown by someone from some island a long time ago. They\nplanted them here, and by some stroke of luck, the soil was\njust right for them to reproduce."
+                                "\\N<Aunt>You know, those flowers, someone brought them back\nfrom an island and planted them in this town a long time\nago. By some stroke of luck, the soil was just right, and\nthey ended up multiplying."
                             ]
                         },
                         {
@@ -5865,7 +5865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>The flowers only bloom during the summer and their\npollen, nectar, and petals have a mild aphrodisiac effect.\nOf course, you can not only inhale the pollen but also use\nthem to make sweets or tea for their effects..."
+                                "\\N<Aunt>Flowers only bloom during the summer and their\npollen, nectar, and petals have a mild aphrodisiac effect.\nNot only can you inhale the pollen, but you can also use\nthem to make sweets or tea for their effects..."
                             ]
                         },
                         {
@@ -5965,7 +5965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Hehe, it's okay ♥ You don't have to understand,\nlittle one... ♥ The sweets, are they delicious...?"
+                                "\\N<Aunt>Hehe, it's okay ♥ You don't understand, little\none... ♥ Sweets, delicious...?"
                             ]
                         },
                         {
@@ -6066,7 +6066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Nfufu... Here, have some juice too... Oh my."
+                                "\\N<Aunt>Hehe... Here, have some juice too... Oh my."
                             ]
                         },
                         {
@@ -6303,7 +6303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Nfufu. Well then, I'll wash them for you, so go\nahead and wash your body in the bath over there."
+                                "\\N<Aunt>Hehe. Well then, I'll wash them for you, so go\nahead and wash your body in the bath over there."
                             ]
                         },
                         {
@@ -6464,7 +6464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(Huh? This bath is transparent... Can people see me\nfrom outside...?)"
+                                "\\N<Boku>(Huh? This bath is transparent... Can people see\nfrom the outside...?)"
                             ]
                         },
                         {
@@ -6716,7 +6716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>How is it, little one...? Do you look pretty?"
+                                "\\N<Aunt>How is it, little one...? I wonder if you've become\nbeautiful?"
                             ]
                         },
                         {
@@ -6929,7 +6929,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It wasn't from books or videos, but the first time I saw a\nnaked woman in real life, other than my mother... that sight\nof her skin color burned into my childhood memories."
+                                "It was not a book or a video, but the first time I saw the\nnaked body of a real woman other than my mother... That\nsight of her skin color burned into my childhood memories."
                             ]
                         },
                         {
@@ -7033,7 +7033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Nfufu. I just came to see if you were washing\nproperly, little one...♥"
+                                "\\N<Aunt>Hehe. I just came to see if you were washing\nproperly, little one...♥"
                             ]
                         },
                         {
@@ -7081,7 +7081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Oh...♥ Little one's peepee... seems to have grown\nquite big...♥"
+                                "\\N<Aunt>Oh...♥ Little one's peepee... it seems to have\ngrown quite big...♥"
                             ]
                         },
                         {
@@ -7112,7 +7112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Eh?! A-Ah, this, this is..."
+                                "\\N<Boku>Eh?! Ah, um, this is..."
                             ]
                         },
                         {
@@ -7136,7 +7136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Nfufu, it's okay ♥ Come on, show Auntie... ♥"
+                                "\\N<Aunt>Hehe, it's okay ♥ Come on, show Auntie... ♥"
                             ]
                         },
                         {
@@ -7374,7 +7374,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Hey, lady! I'm here again!"
+                                "\\N<Boku>Hey, Auntie! I'm here again!"
                             ]
                         },
                         {
@@ -7398,7 +7398,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Aunt>Oh, young one. Welcome. But, I'm sorry. Today is\nour farewell."
+                                "\\N<Aunt>Oh, kiddo. Welcome. But, I'm sorry. Today is our\nfarewell."
                             ]
                         },
                         {
@@ -7491,7 +7491,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>I-I see... So, summer vacation is already coming to\nan end..."
+                                "\\N<Boku>I-I see... Summer vacation is already coming to an\nend..."
                             ]
                         },
                         {
@@ -7515,7 +7515,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Aunt>Hehe ♥ Don't make such a face, little boy ♥ If you\ncan keep our secret, I'm sure we can meet again next\nsummer... ♥"
+                                "\\N<Aunt>Hehe ♥ Don't make that face, little boy ♥ If you\ncan keep our secret, I'm sure we can meet again next\nsummer... ♥"
                             ]
                         },
                         {
@@ -7656,7 +7656,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Aunt>Hehe, of course. I'll prepare even more sweets for\nyou next summer, so please come again."
+                                "\\N<Aunt>Hehe, of course. I'll make sure to prepare even\nmore sweets for you next summer, so please come again."
                             ]
                         },
                         {
@@ -7711,7 +7711,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Aunt>Well then, bye bye, little one. I'm looking forward\nto the next time we meet."
+                                "\\N<Aunt>Well then, bye bye, kiddo. I'm looking forward to\nthe next time we meet."
                             ]
                         },
                         {
@@ -7932,7 +7932,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Aunt>Oh, little one. Welcome. But, is it okay to come at\nthis time?"
+                                "\\N<Aunt>Oh, little one. Welcome. But is it okay for you to\ncome at this time?"
                             ]
                         },
                         {
@@ -8063,7 +8063,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Aunt>Nfufu. Well then, I have to prepare a feast for\ndinner... But I wonder what boys like...? It's not something\nlike foie gras, right?"
+                                "\\N<Aunt>Nfufu. Well then, I'll have to prepare a feast for\ndinner... But I wonder what boys like...? It's not something\nlike foie gras, right?"
                             ]
                         },
                         {
@@ -8251,7 +8251,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Aunt>Oh, really? Nfufu, I'm glad... Now, how about\ntaking a bath...? ♥"
+                                "\\N<Aunt>Oh, really? Nfufu, I'm glad...♥ Well then, how\nabout taking a bath...?♥"
                             ]
                         },
                         {
@@ -8395,7 +8395,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Aunt>Oh, little one. Welcome. Today, would you like some\nsweets? Or maybe sex? Or perhaps both...?"
+                                "\\N<Aunt>Oh, little one. Welcome. Today, would you like some\nsweets? Or perhaps sex? Or maybe both...?"
                             ]
                         },
                         {
@@ -8424,9 +8424,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "Sweets",
-                                    "Sex",
-                                    "Both"
+                                    "おかし",
+                                    "エッチ",
+                                    "どっちも"
                                 ],
                                 -1,
                                 0,
@@ -8654,7 +8654,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Yeah! Thank you for the meal!... Huh...? W-What's\nthis...? My... my penis... it's getting bigger..."
+                                "\\N<Boku>Yeah! Thank you for the meal!... Huh...? W-What's\nthis...? My... my peepee... it's getting bigger..."
                             ]
                         },
                         {
@@ -8692,7 +8692,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Aunt>Oh my, how troublesome... ♥ What should we do?\nShall we do something naughty with Auntie...? ♥"
+                                "\\N<Aunt>Oh my, how troublesome...♥ What should we do?\nShould we do something naughty with Auntie...?♥"
                             ]
                         },
                         {
@@ -8777,7 +8777,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Aunt>Oh my, honestly...♥ If you ask me so earnestly,\nAuntie can't help but want it too...♥ Well then, come on\nin...♥"
+                                "\\N<Aunt>Oh my, how honest...♥ If you ask me so sincerely,\nAuntie can't help but want it too...♥ Come on in...♥"
                             ]
                         },
                         {
@@ -8852,7 +8852,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Aunt>Oh my, you're quite greedy♥ But since you're a boy,\nit can't be helped♥ Well then, come on in...♥"
+                                "\\N<Aunt>Oh my, you're quite greedy♥ But since you're a boy,\nit can't be helped♥ Come on in...♥"
                             ]
                         },
                         {
@@ -9471,7 +9471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Hehe ♥ Now, my dear...♥ Once you clean yourself up,\nlet's go to bed...♥"
+                                "\\N<Aunt>Nfufu♥ Now, my dear...♥ Once you clean yourself up,\nlet's go to bed...♥"
                             ]
                         },
                         {
@@ -9616,7 +9616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N< Auntie: Boy... ♥ Don't tease Auntie too much... ♥ Now,\nlet's take a bath and go to bed... ♥"
+                                "\\N<Auntie: Boy... ♥ Don't tease Auntie too much... ♥ Now,\nlet's take a bath and go to bed... ♥"
                             ]
                         },
                         {
@@ -9828,7 +9828,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah... Onee-san, you're sleeping... I wonder if it's\nokay to play a little prank on you...?"
+                                "\\N<Boku>Ah... Auntie, you're sleeping... I wonder if it's\nokay to play a little prank?"
                             ]
                         },
                         {
@@ -9857,8 +9857,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Undress your clothes",
-                                    "Let's not do it"
+                                    "服を脱がせる",
+                                    "やめとこう"
                                 ],
                                 1,
                                 0,
@@ -9888,7 +9888,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(Wait, huh? Onee-san, you're not wearing any\nclothes... you're sleeping naked...)"
+                                "\\N<Boku>(Wait, huh? Auntie, you're not wearing any\nclothes... you're sleeping naked...)"
                             ]
                         },
                         {
@@ -9934,8 +9934,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "To play a naughty prank",
-                                    "Let's not do it"
+                                    "エッチないたずらをする",
+                                    "やめとこう"
                                 ],
                                 1,
                                 0,
@@ -9985,7 +9985,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>(N-No, never mind!)"
+                                "\\N<Boku>(N-No, it's no good after all!)"
                             ]
                         },
                         {
@@ -10578,8 +10578,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Take it",
-                                    "I'll stop"
+                                    "もっていく",
+                                    "やめておく"
                                 ],
                                 1,
                                 0,
@@ -10849,7 +10849,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Hmm... Maybe I should go to sleep now..."
+                                "\\N<Boku>Hmm... Maybe I should just go to sleep..."
                             ]
                         },
                         {
@@ -10864,8 +10864,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Sleep",
-                                    "Not going to sleep"
+                                    "寝る",
+                                    "寝ない"
                                 ],
                                 1,
                                 0,
@@ -10975,7 +10975,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Maybe I should go to sleep now..."
+                                "\\N<Boku>Maybe I should go to sleep..."
                             ]
                         },
                         {
@@ -10983,8 +10983,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Sleep",
-                                    "Not going to sleep"
+                                    "寝る",
+                                    "寝ない"
                                 ],
                                 1,
                                 0,
@@ -11191,7 +11191,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Hmm... Maybe I should go to sleep now..."
+                                "\\N<Boku>Hmm... Maybe I should just go to sleep..."
                             ]
                         },
                         {
@@ -11206,8 +11206,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Sleep",
-                                    "Not going to sleep"
+                                    "寝る",
+                                    "寝ない"
                                 ],
                                 1,
                                 0,
@@ -11317,7 +11317,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Maybe I should go to sleep now..."
+                                "\\N<Boku>Maybe I should go to sleep..."
                             ]
                         },
                         {
@@ -11325,8 +11325,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Sleep",
-                                    "Not going to sleep"
+                                    "寝る",
+                                    "寝ない"
                                 ],
                                 1,
                                 0,

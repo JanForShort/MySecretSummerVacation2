@@ -2332,7 +2332,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Hey, Grandma. There's something I want to ask you."
+                                "\\N<Boku>Hey, Grandma. There's something I want to ask you,\ncan I?"
                             ]
                         },
                         {
@@ -2404,7 +2404,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandma>Hmm...? Hmm, I'm sorry, I don't really know."
+                                "\\N<Grandma>Hmm...? Well, I'm sorry, but I don't know."
                             ]
                         },
                         {

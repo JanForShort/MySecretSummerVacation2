@@ -3693,9 +3693,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Practice",
-                                    "Actual Performance",
-                                    "I guess I'll quit after all"
+                                    "練習",
+                                    "本番",
+                                    "やっぱりやめる"
                                 ],
                                 2,
                                 0,
@@ -3841,7 +3841,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Aww... I lost..."
+                                "Boku: Ugh... I lost..."
                             ]
                         },
                         {
@@ -4100,7 +4100,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Gon-kun: Finally, it seems like the time has come for me to\nunleash my ultimate move!"
+                                "Gon-kun: Finally, it seems the time has come for me to\nunleash my ultimate move!"
                             ]
                         },
                         {
@@ -4335,7 +4335,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Gon-kun: Well, I'm catching fish left and right with a\nbetter fishing rod, so you should catch more fish and eat\nthem too."
+                                "Gon-kun: Well, I'm catching fish left and right with a\nbetter fishing rod and eating them. You should catch more\nfish and eat them too."
                             ]
                         },
                         {
@@ -4510,7 +4510,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Gon-kun: Hahaha! Eat some meat and come back!"
+                                "Gon-kun: Hahaha! Go eat some meat and come back!"
                             ]
                         },
                         {
@@ -4674,7 +4674,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "I obtained a fishing rod!"
+                                "I got a fishing rod!"
                             ]
                         },
                         {
@@ -4729,7 +4729,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Gon-kun: Well, I'm catching fish left and right with a\nbetter fishing rod, you know. You should catch more fish and\neat them too."
+                                "Gon-kun: Well, I'm catching fish left and right with a\nbetter fishing rod, so you should catch more fish and eat\nthem too."
                             ]
                         },
                         {
@@ -4805,7 +4805,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Gon-kun: If it goes well, you'll be able to catch fish with\nthat."
+                                "Gon-kun: If things go well, you should be able to catch\nfish with that."
                             ]
                         },
                         {
@@ -4893,7 +4893,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Gon-kun: Hahaha! Eat some meat and come back!"
+                                "Gon-kun: Hahaha! Go eat some meat and come back!"
                             ]
                         },
                         {
@@ -5050,7 +5050,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Gon-kun: What the heck... Did I not have enough meat...?"
+                                "Gon-kun: What the... Did I not have enough meat...?"
                             ]
                         },
                         {
@@ -5130,7 +5130,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Gon-kun: Hahaha! Eat some meat and come back!"
+                                "Gon-kun: Hahaha! Go eat some meat and come back!"
                             ]
                         },
                         {
@@ -5224,7 +5224,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Gon-kun: What the heck... Did I not have enough meat...?"
+                                "Gon-kun: What the... Did I not have enough meat...?"
                             ]
                         },
                         {
@@ -5304,7 +5304,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Gon-kun: Hahaha! Eat some meat and come back!"
+                                "Gon-kun: Hahaha! Go eat some meat and come back!"
                             ]
                         },
                         {
@@ -5441,7 +5441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Updating default character. Cannot be reverted. Proceed?"
+                                "Updating default character. Cannot be reverted. Do you want\nto proceed?"
                             ]
                         },
                         {
@@ -5463,8 +5463,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "はい",
+                                    "いいえ"
                                 ],
                                 1,
                                 0,
@@ -6125,7 +6125,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Boku: I got caught!"
+                                "I did it!"
                             ]
                         },
                         {
@@ -6266,7 +6266,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Boku: Close! They got away!"
+                                "Darn it! It got away!"
                             ]
                         },
                         {
@@ -6335,7 +6335,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Boku: They managed to escape..."
+                                "Boku: It got away..."
                             ]
                         },
                         {
@@ -6820,7 +6820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, are you going out to play? Be careful of snakes and\nbees, okay?"
+                                "\\N<\\N[2]>Oh, are you going out to play? Be careful of\nsnakes and bees, okay?"
                             ]
                         },
                         {
@@ -7183,7 +7183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>It's a huge spider web!...I-I can't get through\nthis....If only there was something like a wooden branch..."
+                                "\\N<Boku>It's a huge spider web!...I-I can't get through\nthis....If only there was something like a tree branch..."
                             ]
                         },
                         {
@@ -7925,11 +7925,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Default Creation",
-                                    "Customization of Unique Characters",
-                                    "Created from the password",
-                                    "Create from card",
-                                    "Created from random"
+                                    "デフォルト作成",
+                                    "ユニークキャラのカスタム",
+                                    "合言葉から作成",
+                                    "カードから作成",
+                                    "ランダムから作成"
                                 ],
                                 -1,
                                 0,
@@ -7970,12 +7970,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Art School Onee-chan",
-                                    "Cousin's Onee-chan",
-                                    "Shop Girl",
-                                    "Foreign Onee-chan",
-                                    "Auntie",
-                                    "Friend's Mother"
+                                    "美大生のお姉さん",
+                                    "従姉のお姉ちゃん",
+                                    "お店のお姉さん",
+                                    "外国のお姉さん",
+                                    "おばちゃん",
+                                    "友達のお母さん"
                                 ],
                                 -1,
                                 0,
@@ -8137,12 +8137,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Rich Aunt",
-                                    "Older girl",
-                                    "A girl of the same age",
-                                    "Cousin",
-                                    "Mysterious girl",
-                                    "Same-age boy"
+                                    "お金持ちのおばさん",
+                                    "年上の女の子",
+                                    "同い年の女の子",
+                                    "従妹",
+                                    "不思議な女の子",
+                                    "同い年の男の子"
                                 ],
                                 -1,
                                 0,
@@ -8651,7 +8651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please note that you can only choose either change skin\ncolor or tan and not both."
+                                "Please note that you can only choose either Change Skin\nColor or Tanning, not both."
                             ]
                         },
                         {
@@ -9761,8 +9761,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Naked",
-                                    "Clothing"
+                                    "裸",
+                                    "着衣"
                                 ],
                                 1,
                                 0,
@@ -10252,9 +10252,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Favorite Call",
-                                    "Password input",
-                                    "Card reading"
+                                    "お気に入り呼び出し",
+                                    "パスワード入力",
+                                    "カード読み込み"
                                 ],
                                 -1,
                                 0,
@@ -10716,9 +10716,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Favorite Registration + Card",
-                                    "Card Creation",
-                                    "Doing nothing"
+                                    "お気に入り登録＋カード",
+                                    "カード作成",
+                                    "何もしない"
                                 ],
                                 2,
                                 1,
@@ -11207,8 +11207,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Naked",
-                                    "Clothing"
+                                    "裸",
+                                    "着衣"
                                 ],
                                 1,
                                 0,
@@ -11456,8 +11456,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Naked",
-                                    "Clothing"
+                                    "裸",
+                                    "着衣"
                                 ],
                                 1,
                                 0,
@@ -11682,8 +11682,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Naked",
-                                    "Clothing"
+                                    "裸",
+                                    "着衣"
                                 ],
                                 1,
                                 0,
@@ -11934,11 +11934,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Default Creation",
-                                    "Customization of Unique Characters",
-                                    "Created from the password",
-                                    "Create from card",
-                                    "Created from random"
+                                    "デフォルト作成",
+                                    "ユニークキャラのカスタム",
+                                    "合言葉から作成",
+                                    "カードから作成",
+                                    "ランダムから作成"
                                 ],
                                 -1,
                                 0,
@@ -12019,12 +12019,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Art School Onee-chan",
-                                    "Cousin's older sister",
-                                    "Shop Girl",
-                                    "Foreign Onee-chan",
-                                    "Auntie",
-                                    "Friend's Mother"
+                                    "美大生のお姉さん",
+                                    "従姉のお姉ちゃん",
+                                    "お店のお姉さん",
+                                    "外国のお姉さん",
+                                    "おばちゃん",
+                                    "友達のお母さん"
                                 ],
                                 -1,
                                 0,
@@ -12186,12 +12186,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Rich Aunt",
-                                    "Older girl",
-                                    "Girl of the same age",
-                                    "Cousin",
-                                    "Mysterious girl",
-                                    "A boy of the same age"
+                                    "お金持ちのおばさん",
+                                    "年上の女の子",
+                                    "同い年の女の子",
+                                    "従妹",
+                                    "不思議な女の子",
+                                    "同い年の男の子"
                                 ],
                                 -1,
                                 0,
@@ -12474,7 +12474,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Loading failed."
+                                "Failed to load."
                             ]
                         },
                         {
@@ -12791,8 +12791,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Practice",
-                                    "Actual Performance"
+                                    "練習",
+                                    "本番"
                                 ],
                                 1,
                                 0,
@@ -13768,7 +13768,7 @@
                             "parameters": [
                                 [
                                     "OK",
-                                    "No"
+                                    "いいえ"
                                 ],
                                 -1,
                                 0,
@@ -14373,8 +14373,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Let's talk",
-                                    "Let's take a bath"
+                                    "お話しよう",
+                                    "お風呂に入ろう"
                                 ],
                                 -1,
                                 0,
@@ -14448,7 +14448,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Eh...? A-Again, the bath...? U-Um... well...\nit's fine... but..."
+                                "\\N<Onee-chan>Eh...? A-Again, the bath...? U-Um....\nW-Well... it's fine... but..."
                             ]
                         },
                         {
@@ -14862,8 +14862,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Let's talk",
-                                    "Let's take a bath"
+                                    "お話しよう",
+                                    "お風呂に入ろう"
                                 ],
                                 -1,
                                 0,
@@ -15047,7 +15047,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Y-Yeah... Goodnight... Let's not stay up too\nlate, okay..."
+                                "\\N<Onee-chan>U-Yeah... Goodnight... Let's not stay up too\nlate, okay..."
                             ]
                         },
                         {
@@ -15437,8 +15437,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Let's talk",
-                                    "Let's take a bath"
+                                    "お話しよう",
+                                    "お風呂に入ろう"
                                 ],
                                 -1,
                                 0,
@@ -15672,8 +15672,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Naked",
-                                    "Clothing"
+                                    "裸",
+                                    "着衣"
                                 ],
                                 1,
                                 0,
@@ -15921,8 +15921,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Naked",
-                                    "Clothing"
+                                    "裸",
+                                    "着衣"
                                 ],
                                 1,
                                 0,
@@ -16299,7 +16299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "When re-displaying the syasei parameter model, it would be\ninconvenient if the parameter remained at 10, so I will\nchange it to 0 with a fixed parameter setting."
+                                "When re-displaying the syasei parameter model, it would be\ninconvenient if the parameter remained at 10, so I will\nchange it to 0 using fixed parameter settings."
                             ]
                         },
                         {
@@ -16344,7 +16344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Since the syasei parameter cannot be moved with a fixed\nparameter setting, it will be released."
+                                "I will release the syasei parameter because it cannot be\nmoved with the motion while keeping the parameter fixed."
                             ]
                         },
                         {
@@ -16382,7 +16382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "When the syasei parameter is released, for some reason it\nreturns to a value of 10, making it practically impossible\nto manipulate the parameter."
+                                "When releasing the syasei parameter, for some reason it\nreturns to a value of 10, effectively rendering the\nparameter unchangeable."
                             ]
                         },
                         {
@@ -16513,7 +16513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>A-amazing...!! Th-this is... an erotic vending\nmachine...⁉ I can choose any one I like...‼ W-which one\nshould I pick...?"
+                                "\\N<Boku>A-amazing...!! Th-this is... an erotic vending\nmachine...?! I can choose any one I like...‼ W-which one\nshould I pick...?"
                             ]
                         },
                         {
@@ -16660,7 +16660,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There are parts that cannot be manipulated, such as\nchanging gender, presence of male genitalia, presence of a\npregnant belly, clothing-related matters, and tanning type."
+                                "There are parts that cannot be manipulated, such as\nchanging gender, presence or absence of male genitalia,\npresence or absence of a pregnant belly, clothing-related\noptions, and tanning type."
                             ]
                         },
                         {
@@ -16691,7 +16691,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The specifications for the product version have not been\ndetermined yet, but at this stage, you can't purchase the\nmain content and only the issuance of pink flyers will be\navailable."
+                                "The specifications for the product version have not been\ndetermined yet, but at this stage, it is not possible to\npurchase the main content. Only the issuance of pink flyers\nwill be available."
                             ]
                         },
                         {
@@ -16722,7 +16722,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Also, please note that it is currently unclear whether the\npink flyers created in the pre-release version can be used\nin the product version."
+                                "Also, please note that it is currently unknown whether the\npink flyers created in the pre-release version can be used\nin the product version."
                             ]
                         },
                         {
@@ -16802,11 +16802,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Created from default characters",
-                                    "Created from the password",
-                                    "Created from a card",
-                                    "Created from random",
-                                    "I guess I'll quit after all"
+                                    "デフォルトキャラから作成",
+                                    "合言葉から作成",
+                                    "カードから作成",
+                                    "ランダムから作成",
+                                    "やっぱりやめる"
                                 ],
                                 4,
                                 0,
@@ -17224,7 +17224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please note that you can only choose either Skin Color\nChange or Tanning and not both."
+                                "Please note that you can only choose either 'Skin Color\nChange' or 'Tanning', not both."
                             ]
                         },
                         {
@@ -17406,8 +17406,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Naked",
-                                    "Clothing"
+                                    "裸",
+                                    "着衣"
                                 ],
                                 1,
                                 0,
@@ -17758,7 +17758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Perverted Video Series First Installment \\# Let's Have\nSex ♥"
+                                "\\#Perverted Video Series First Installment\\# Let's Have Sex\n♥"
                             ]
                         },
                         {
@@ -17986,7 +17986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# End"
+                                "\\#End"
                             ]
                         },
                         {
@@ -18307,8 +18307,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Naked",
-                                    "Clothing"
+                                    "裸",
+                                    "着衣"
                                 ],
                                 1,
                                 0,
@@ -18556,8 +18556,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Naked",
-                                    "Clothing"
+                                    "裸",
+                                    "着衣"
                                 ],
                                 1,
                                 0,
@@ -19122,8 +19122,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Naked",
-                                    "Clothing"
+                                    "裸",
+                                    "着衣"
                                 ],
                                 1,
                                 0,
@@ -19371,8 +19371,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Naked",
-                                    "Clothing"
+                                    "裸",
+                                    "着衣"
                                 ],
                                 1,
                                 0,
@@ -19620,8 +19620,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Naked",
-                                    "Clothing"
+                                    "裸",
+                                    "着衣"
                                 ],
                                 1,
                                 0,
@@ -19876,8 +19876,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Naked",
-                                    "Clothing"
+                                    "裸",
+                                    "着衣"
                                 ],
                                 1,
                                 0,
@@ -20251,7 +20251,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah... But \\N[2] might come to pick me up soon...\nI'll do it next time..."
+                                "\\N<Boku>Ah... But \\N[2] might be coming to pick me up\nsoon... I'll do it next time..."
                             ]
                         },
                         {
@@ -20306,7 +20306,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Ah... No... I don't have enough money... Ugh..."
+                                "\\N<Boku>Ah... It's no good... I don't have enough money...\nUgh..."
                             ]
                         },
                         {
@@ -20368,7 +20368,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "This edit mode is a prototype for the pre-release version.\nThe actual product version will have significant differences\nin the appearance locations and timing within the game."
+                                "This edit mode is a prototype for the pre-release version.\nThe actual locations and timing of appearances in the final\nproduct may differ significantly."
                             ]
                         },
                         {
@@ -20406,7 +20406,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "There are parts that cannot be manipulated, such as\nchanging gender, presence of male genitalia, presence of a\npregnant belly, clothing-related options, and tanning type."
+                                "There are parts that cannot be changed, such as gender,\npresence of male genitalia, presence of a pregnant belly,\nclothing-related options, and tanning type."
                             ]
                         },
                         {
@@ -20437,7 +20437,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The specifications for the product version have not been\ndetermined yet, but at this stage, you can't purchase the\nmain content and only the issuance of pink flyers will be\navailable."
+                                "The specifications for the final version of the product have\nnot been determined yet, but at this stage, you cannot\npurchase the main content and can only obtain a pink flyer."
                             ]
                         },
                         {
@@ -20468,7 +20468,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Also, please note that it is currently unknown whether the\npink flyers created in the pre-release version can be used\nin the product version."
+                                "Furthermore, please note that it is currently unclear\nwhether the pink flyer created in the pre-release version\ncan be used in the final product."
                             ]
                         },
                         {
@@ -20555,11 +20555,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Created from default characters",
-                                    "Created from the password",
-                                    "Created from a card",
-                                    "Created randomly",
-                                    "I guess I'll quit after all"
+                                    "デフォルトキャラから作成",
+                                    "合言葉から作成",
+                                    "カードから作成",
+                                    "ランダムから作成",
+                                    "やっぱりやめる"
                                 ],
                                 4,
                                 0,
@@ -20717,7 +20717,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Loading failed."
+                                "Failed to load."
                             ]
                         },
                         {
@@ -20984,7 +20984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please note that you can only choose either Skin Color\nChange or Tanning and not both."
+                                "Please note that you can only choose either 'Skin Color\nChange' or 'Tanning' and not both."
                             ]
                         },
                         {
@@ -21022,7 +21022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Changing hair color or skin color may cause the processing\nto be heavy, resulting in slightly slower operation."
+                                "Changing hair color and skin color may cause slight delays\nin processing due to heavy load."
                             ]
                         },
                         {
@@ -21133,9 +21133,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Grass Sliding",
-                                    "Cicada Catching Master",
-                                    "Paper Airplane"
+                                    "草すべり",
+                                    "セミ取り名人",
+                                    "紙ヒコーキ"
                                 ],
                                 3,
                                 0,
@@ -21345,12 +21345,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Random",
-                                    "Busty Mature Woman",
-                                    "Girl",
-                                    "Boy",
-                                    "Futanari",
-                                    "Bloated Stomach"
+                                    "ランダム",
+                                    "巨乳熟女",
+                                    "少女",
+                                    "少年",
+                                    "ふたなり",
+                                    "ボテ腹"
                                 ],
                                 0,
                                 0,
@@ -21516,10 +21516,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Back Sleeping Rape",
-                                    "Doggy Style",
-                                    "Backward standing position",
-                                    "Reverse Cowgirl"
+                                    "背面睡姦",
+                                    "後背位",
+                                    "背面立位",
+                                    "背面騎乗位"
                                 ],
                                 1,
                                 0,
@@ -21540,9 +21540,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Backside Mischief",
-                                    "Assjob",
-                                    "Back Sleeping Rape"
+                                    "背面いたずら",
+                                    "尻コキ",
+                                    "背面睡姦"
                                 ],
                                 1,
                                 0,
@@ -21893,8 +21893,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Watch",
-                                    "I won't watch"
+                                    "見る",
+                                    "見ない"
                                 ],
                                 1,
                                 0,
@@ -21915,12 +21915,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Random",
-                                    "Busty Mature Woman",
-                                    "Girl",
-                                    "Boy",
-                                    "Futanari",
-                                    "Bloated Stomach"
+                                    "ランダム",
+                                    "巨乳熟女",
+                                    "少女",
+                                    "少年",
+                                    "ふたなり",
+                                    "ボテ腹"
                                 ],
                                 0,
                                 0,
@@ -22323,7 +22323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I obtained the super debugging item!"
+                                "I obtained the Super Debug Item!"
                             ]
                         },
                         {
@@ -22561,7 +22561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Perverted Video Series First Installment \\# Let's Have\nSex ♥"
+                                "\\#Perverted Video Series First Installment\\# Let's Have Sex\n♥"
                             ]
                         },
                         {
@@ -22767,7 +22767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# End"
+                                "\\#End"
                             ]
                         },
                         {
@@ -23204,12 +23204,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Random",
-                                    "Busty Mature Woman",
-                                    "Girl",
-                                    "Boy",
-                                    "Futanari",
-                                    "Bloated Stomach"
+                                    "ランダム",
+                                    "巨乳熟女",
+                                    "少女",
+                                    "少年",
+                                    "ふたなり",
+                                    "ボテ腹"
                                 ],
                                 0,
                                 0,
@@ -23382,12 +23382,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Fellatio",
-                                    "Paizuri (Breast Sex)",
-                                    "Footjob",
-                                    "Cowgirl position",
-                                    "Masturbation",
-                                    "Sleep Assault"
+                                    "フェラ",
+                                    "パイズリ",
+                                    "足コキ",
+                                    "騎乗位",
+                                    "自慰",
+                                    "睡姦"
                                 ],
                                 -1,
                                 0,
@@ -23408,8 +23408,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Blowjob ①",
-                                    "Blowjob 2"
+                                    "フェラ①",
+                                    "フェラ②"
                                 ],
                                 -1,
                                 0,
@@ -23520,8 +23520,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Cowgirl ①",
-                                    "Cowgirl 2"
+                                    "騎乗位①",
+                                    "騎乗位②"
                                 ],
                                 1,
                                 0,
@@ -23592,12 +23592,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Two-finger masturbation",
-                                    "Self-pleasure with one finger",
-                                    "Clitoral Masturbation",
-                                    "Vibrator",
-                                    "Male Genital Masturbation",
-                                    "Standing Masturbation"
+                                    "指2本自慰",
+                                    "指1本自慰",
+                                    "陰核自慰",
+                                    "バイブ",
+                                    "男性器自慰",
+                                    "立ち自慰"
                                 ],
                                 1,
                                 0,
@@ -23801,7 +23801,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Mutual Masturbation"
+                                    "相互自慰"
                                 ],
                                 -2,
                                 0,
@@ -23876,12 +23876,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Sleep Assault Normal Position",
-                                    "Sleep Assault Thigh Job",
-                                    "Sleep Assault Paizuri",
-                                    "Sleep Assault Deep Throat",
-                                    "Sleep Prank",
-                                    "Sleep Prank (Mouth)"
+                                    "睡姦正常位",
+                                    "睡姦素股",
+                                    "睡姦パイズリ",
+                                    "睡姦イラマチオ",
+                                    "睡眠いたずら",
+                                    "睡眠いたずら（口）"
                                 ],
                                 1,
                                 0,
@@ -23959,7 +23959,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "If you have male genitalia, you cannot engage in rubbing\nplay."
+                                "If you have male genitalia, you cannot engage in sumata\nplay."
                             ]
                         },
                         {
@@ -24084,11 +24084,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Missionary position",
-                                    "Female genitalia",
-                                    "BL Uke (Bottom)",
-                                    "Handjob",
-                                    "Rubbing play"
+                                    "正常位",
+                                    "女性器系",
+                                    "BL受け",
+                                    "手コキ",
+                                    "素股"
                                 ],
                                 1,
                                 0,
@@ -24129,8 +24129,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Licking",
-                                    "Fingering"
+                                    "舐め",
+                                    "指入れ"
                                 ],
                                 1,
                                 0,
@@ -24201,8 +24201,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Missionary position",
-                                    "Fellatio"
+                                    "正常位",
+                                    "フェラ"
                                 ],
                                 1,
                                 0,
@@ -24330,7 +24330,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "If you have male genitalia, you cannot engage in rubbing\nplay."
+                                "If you have male genitalia, you cannot engage in sumata\nplay."
                             ]
                         },
                         {
@@ -25532,7 +25532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>W-Wow, it's cold! It must feel great to swim....\nbut I don't have a swimsuit..."
+                                "\\N<Boku>I-It's cold! It must feel nice to swim.... but I\ndon't have a swimsuit..."
                             ]
                         },
                         {
@@ -25942,7 +25942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>W-Wow, it's cold! It must feel great to swim....\nbut I don't have a swimsuit..."
+                                "\\N<Boku>I-It's cold! It must feel nice to swim.... but I\ndon't have a swimsuit..."
                             ]
                         },
                         {
@@ -26356,7 +26356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>W-Wow, it's cold! It must feel great to swim... but\nI don't have a swimsuit..."
+                                "\\N<Boku>I-It's cold! It must feel nice to swim.... but I\ndon't have a swimsuit..."
                             ]
                         },
                         {
@@ -26667,8 +26667,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Default",
-                                    "Custom"
+                                    "デフォルト",
+                                    "カスタム"
                                 ],
                                 -1,
                                 0,
@@ -26795,7 +26795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Default update?"
+                                "Default Update?"
                             ]
                         },
                         {
@@ -26803,8 +26803,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "はい",
+                                    "いいえ"
                                 ],
                                 1,
                                 0,
@@ -27527,7 +27527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "For default character customization! Pay attention!"
+                                "Default Character Customization! Caution required!"
                             ]
                         },
                         {
@@ -27574,11 +27574,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Default Creation",
-                                    "Customization of Unique Characters",
-                                    "Creating from a password",
-                                    "Created from a card",
-                                    "Created from random"
+                                    "デフォルト作成",
+                                    "ユニークキャラのカスタム",
+                                    "合言葉から作成",
+                                    "カードから作成",
+                                    "ランダムから作成"
                                 ],
                                 -1,
                                 0,
@@ -27628,12 +27628,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Art School Onee-chan",
-                                    "Cousin's older sister",
-                                    "Shop Girl",
-                                    "Foreign Onee-chan",
-                                    "Auntie",
-                                    "Friend's Mother"
+                                    "美大生のお姉さん",
+                                    "従姉のお姉ちゃん",
+                                    "お店のお姉さん",
+                                    "外国のお姉さん",
+                                    "おばちゃん",
+                                    "友達のお母さん"
                                 ],
                                 -1,
                                 0,
@@ -27795,12 +27795,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Rich Aunt",
-                                    "Older girl",
-                                    "Girl of the same age",
-                                    "Cousin",
-                                    "Mysterious girl",
-                                    "Same-aged boy"
+                                    "お金持ちのおばさん",
+                                    "年上の女の子",
+                                    "同い年の女の子",
+                                    "従妹",
+                                    "不思議な女の子",
+                                    "同い年の男の子"
                                 ],
                                 -1,
                                 0,
@@ -28300,7 +28300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please note that you can only choose either change skin\ncolor or tan and not both."
+                                "Please note that you can only choose either 'Change Skin\nColor' or 'Tanning', not both."
                             ]
                         },
                         {
@@ -28514,7 +28514,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(Huh...? Th-this is... an older woman...? And she's\nin a... lewd book...? W-what is this...? W-what should I\ndo...)"
+                                "\\N<Boku>(Huh...? Th-this is... an older woman...? In an\nadult book... an older woman is in it...? W-what is this...?\nW-what should I do...)"
                             ]
                         },
                         {
@@ -28562,7 +28562,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(I-I guess this is Hakase-kun's mother...? Ugh...\nI'm curious...)"
+                                "\\N<Boku>(Is this really Hakase-kun's mother...? Ugh... I'm\ncurious...)"
                             ]
                         },
                         {
@@ -28744,7 +28744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Ah! W-Wait, not yet! I'm going now...!"
+                                "\\N<Boku>Ah! W-wait, not yet! I'll go now...!"
                             ]
                         },
                         {
@@ -29037,8 +29037,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Favorite flyer person",
-                                    "Someone I know"
+                                    "お気に入りのチラシの人",
+                                    "知ってる人"
                                 ],
                                 -1,
                                 0,
@@ -29824,8 +29824,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Undress the clothes",
-                                    "Let's stop"
+                                    "服を脱がせる",
+                                    "やめとこう"
                                 ],
                                 1,
                                 0,
@@ -29855,7 +29855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(It's... okay to look a little bit, right? Just a\ntiny bit... I'll just take a quick peek...)"
+                                "\\N<Boku>(...It's okay to look a little bit, right? Just a\ntiny bit...just to take a peek...)"
                             ]
                         },
                         {
@@ -29992,7 +29992,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(I... I hope she's not awake...? If she doesn't wake\nup from just this... maybe I can play a little prank...?)"
+                                "\\N<Boku>(...I-I hope she's not awake...? If she doesn't wake\nup even with just this much...m-maybe I can play a little\nprank...?)"
                             ]
                         },
                         {
@@ -30021,8 +30021,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "To play a naughty prank",
-                                    "Let's stop"
+                                    "エッチないたずらをする",
+                                    "やめとこう"
                                 ],
                                 1,
                                 0,
@@ -30072,7 +30072,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(N-No, no good! I have to put the clothes back\nbefore she wakes up...!)"
+                                "\\N<Boku>(N-No, no! I have to put the clothes back before she\nwakes up...!)"
                             ]
                         },
                         {

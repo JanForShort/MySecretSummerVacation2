@@ -2949,7 +2949,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Ah, Boku-kun, welcome. You came to play,\nright? Here, this is the promised mechanical rhinoceros\nbeetle."
+                                "\\N<Hakase-kun>Ah, Boku-kun, welcome. You came to play,\nright? Here, this is it. It's the promised mechanical\nrhinoceros beetle."
                             ]
                         },
                         {
@@ -3447,7 +3447,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Well then, let's do it. I'll go hide, so wait\nfor me."
+                                "\\N<Hakase-kun>Alright then, let's do it. I'll go hide, so\nwait for me."
                             ]
                         },
                         {
@@ -3515,7 +3515,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Sounds good. Well then, let's do it. I'll go\nhide, so wait for me."
+                                "\\N<Hakase-kun>Sounds good. Then, let's do it. I'll go hide,\nso wait for me."
                             ]
                         },
                         {

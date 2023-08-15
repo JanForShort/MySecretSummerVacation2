@@ -2656,7 +2656,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boushi-kun>Hmm... I guess there's no other choice. In\nthat case, let's have a competition of 'catching cicadas'\nwith me. You see, I'm actually a 'cicada catching expert'. I\ncaught \\V[431] cicadas in just 10 seconds!"
+                                "\\N<Boushi-kun>Hmm... I guess there's no other choice. In\nthat case, let's have a competition of 'catching cicadas'\nbetween you and me. You see, I'm actually a 'cicada catching\nexpert'. I caught \\V[431] cicadas in just 10 seconds!"
                             ]
                         },
                         {
@@ -2711,7 +2711,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boushi-kun>Right? If Boku-kun can catch more than\n\\V[431] bugs in 10 seconds, then you can catch bugs here."
+                                "\\N<Boushi-kun>Right? If Boku-kun can catch more than \\x0\nbugs in 10 seconds, then you can catch bugs here."
                             ]
                         },
                         {
@@ -2784,7 +2784,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boushi-kun>You're going to challenge catching cicadas\nagain, huh? If you can catch more than \\V[431] bugs in 10\nseconds, then you can catch bugs here."
+                                "\\N<Boushi-kun>You're challenging me to catch cicadas again,\nhuh? If you can catch more than \\V[431] bugs in 10 seconds,\nthen you can catch bugs here."
                             ]
                         },
                         {
@@ -2825,7 +2825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boushi-kun>Well then, I'll count to 10 seconds starting\nnow, so catch as many cicadas as you can."
+                                "\\N<Boushi-kun>Well then, I'll count to 10 starting now, so\ncatch as many cicadas as you can."
                             ]
                         },
                         {
@@ -2902,7 +2902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Start!"
+                                "\\#Start!"
                             ]
                         },
                         {
@@ -3144,7 +3144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Result\\#\\V[437] matches!"
+                                "\\#Result\\#\\V[437] pieces!"
                             ]
                         },
                         {
@@ -4698,7 +4698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>The length, weight, hardness... and the way the\nleaves are attached... this branch is the best in every\naspect! With this, I won't be afraid of spider webs\nanymore!"
+                                "\\N<Boku>The length, weight, hardness... and the way the\nleaves are attached... It's the perfect branch in every\naspect! With this, I won't be afraid of spider webs\nanymore!"
                             ]
                         },
                         {

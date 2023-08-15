@@ -2566,7 +2566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There's a gachapon! It says that each try of the Pokemobi\nseries costs 20 yen and if you collect all 10 types, you'll\nget a wonderful present! Should I give it a try?"
+                                "There's a gacha! It says that each try of the Pokemobi\nseries costs 20 yen and there are 10 different types. If you\ncollect all the types, you'll receive a wonderful present!\nShould I give it a try?"
                             ]
                         },
                         {
@@ -2595,8 +2595,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "I'll give it a try!",
-                                    "Never mind"
+                                    "やってみる！",
+                                    "やーめた"
                                 ],
                                 1,
                                 0,
@@ -2722,7 +2722,7 @@
                             "code": 401,
                             "indent": 13,
                             "parameters": [
-                                "\\N<Boku>Yay! I collected all the types! I have to let the\nshop girl know and get something amazing!"
+                                "\\N<Boku>Yay! I collected all the types! I have to let the\nshop girl know and receive something amazing!"
                             ]
                         },
                         {
@@ -4562,7 +4562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Closed on Saturdays and Sundays"
+                                "Closed on Saturdays and Sundays"
                             ]
                         },
                         {
@@ -4755,7 +4755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Closed on Saturdays and Sundays"
+                                "Closed on Saturdays and Sundays"
                             ]
                         },
                         {
@@ -4983,7 +4983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Closed on Saturdays and Sundays \\# Today, temporary\nclosure"
+                                "Closed on Saturdays and Sundays. Today, temporary\nclosure."
                             ]
                         },
                         {
@@ -5007,7 +5007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Huh? Is it closed today..."
+                                "\\N<Boku>Huh? Is it a day off today..."
                             ]
                         },
                         {
@@ -5151,7 +5151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Summer Vacation"
+                                "Summer Break"
                             ]
                         },
                         {
@@ -5168,7 +5168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Hmm... It looks like the shop is closed..."
+                                "\\N<Boku>Hmm... it looks like the shop girl isn't here..."
                             ]
                         },
                         {
@@ -5252,7 +5252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Summer Vacation"
+                                "Summer Break"
                             ]
                         },
                         {
@@ -5269,7 +5269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Hmm... It looks like the shop is closed..."
+                                "\\N<Boku>Hmm... it looks like the shop girl isn't here..."
                             ]
                         },
                         {
@@ -5695,7 +5695,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>Oh, it's not Boku. We meet often, don't we?"
+                                "\\N<Nana-chan>Oh, it's not you. We meet often, don't we?"
                             ]
                         },
                         {
@@ -5719,7 +5719,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Oh, Nana-chan is eating ice cream! That looks\nnice.... Maybe I should buy some too..."
+                                "\\N<Boku>Oh, Nana-chan is eating ice cream! I'm so\njealous... Maybe I should buy some too..."
                             ]
                         },
                         {
@@ -5781,7 +5781,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Is it okay?! Yay! Thank you, Nana-chan!"
+                                "\\N<Boku>Is it okay? Yay! Thank you, Nana-chan!"
                             ]
                         },
                         {
@@ -5826,7 +5826,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>...Here you go, an indirect kiss~♥ My naughty\nside~♥"
+                                "\\N<Nana-chan>...Hai, indirect kissu♥ My naughty♥"
                             ]
                         },
                         {
@@ -5850,7 +5850,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Eh, eh...?!"
+                                "\\N<Boku>Eh, eh...⁉"
                             ]
                         },
                         {
@@ -5867,7 +5867,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>Ahaha, it's just a joke ♥ You're not a boy, so\nyou don't have to say things like that all the time ♥"
+                                "\\N<Nana-chan>Ahaha, it's just a joke♥ You're not a boy, so\nyou don't have to say things like that all the time♥"
                             ]
                         },
                         {
@@ -5945,7 +5945,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>Ahaha, it's just a joke ♥ You're not a boy, so\nyou don't have to say things like that all the time ♥"
+                                "\\N<Nana-chan>Ahaha, it's just a joke♥ You're not a boy, so\nyou don't have to say things like that all the time♥"
                             ]
                         },
                         {

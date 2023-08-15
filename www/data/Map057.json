@@ -1514,7 +1514,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Ah... Nana-chan, you're sleeping... I wonder if\nit's okay to play a little prank on you...?"
+                                "\\N<Boku>Ah... Nana-chan, you're sleeping... I wonder if\nit's okay to play a little prank on you?"
                             ]
                         },
                         {
@@ -1543,8 +1543,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "Undress your clothes",
-                                    "Let's not do it"
+                                    "服を脱がせる",
+                                    "やめとこう"
                                 ],
                                 1,
                                 0,
@@ -1574,7 +1574,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>(Is it okay to do it just a little bit... just to\ntake a quick look...)"
+                                "\\N<Boku>(...It's okay to do it just a little bit, right...\nJust a quick look...)"
                             ]
                         },
                         {
@@ -1711,7 +1711,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>(...Oh, she's not awake... right...? If she doesn't\nwake up even with just this... um, maybe I can play a little\nprank...?)"
+                                "\\N<Boku>(...Oh, she's not awake... right...? If she doesn't\nwake up even with just this... I wonder if it's okay to...\njust a little bit more... play a prank...?)"
                             ]
                         },
                         {
@@ -1740,8 +1740,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "To play a naughty prank",
-                                    "Let's stop"
+                                    "エッチないたずらをする",
+                                    "やめとこう"
                                 ],
                                 1,
                                 0,
@@ -1791,7 +1791,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boku>(N-No, no good! I have to put her clothes back\nbefore she wakes up...!)"
+                                "\\N<Boku>(N-No, no! I can't do it after all! I have to put\nher clothes back before she wakes up...!)"
                             ]
                         },
                         {
@@ -2001,7 +2001,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Ah... Nana-chan, you're sleeping... It's better not\nto wake you up, right...?"
+                                "\\N<Boku>Ah... Nana-chan, you're sleeping... It's better not\nto wake you up, right..."
                             ]
                         },
                         {
@@ -2195,8 +2195,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Take it",
-                                    "I'll stop"
+                                    "もっていく",
+                                    "やめておく"
                                 ],
                                 1,
                                 0,

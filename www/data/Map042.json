@@ -5737,7 +5737,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandma>Oh, you've come to play. There's nothing much\nhere, but well, make yourself at home and relax."
+                                "\\N<Grandma>Oh, did you come to play? There's nothing much\nhere, but well, make yourself at home and relax."
                             ]
                         },
                         {
@@ -5798,7 +5798,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Grandma>There should be a total of 10 birds. If you\nmanage to catch all of them, maybe I'll give you something\nas a reward."
+                                "\\N<Grandma>There should be a total of 10 of them. If you\nmanage to catch all of them, maybe I'll give you something\nas a reward."
                             ]
                         },
                         {
@@ -5850,7 +5850,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boku>Grandma! I've caught all the chickens!"
+                                "\\N<Boku>Grandma! I caught all of the chickens!"
                             ]
                         },
                         {
@@ -5905,7 +5905,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Grandma>It's not much, but should I give you this? It's\na headlamp that your grandfather used for mountain climbing\nin the past. It's a remarkable item that allows you to see\nclearly even in dark places."
+                                "\\N<Grandma>It's not much, but should I give you this? It's\na headlamp that your grandfather used for mountain climbing\nin the past. It's a great item that allows you to see\nclearly even in dark places."
                             ]
                         },
                         {
@@ -5969,7 +5969,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boku>Wow! This is amazing! I feel like a real explorer!\nThank you, Grandma!"
+                                "\\N<Boku>Wow! Amazing! I feel like a real explorer! Thank\nyou, Grandma!"
                             ]
                         },
                         {
@@ -6112,7 +6112,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Grandma>Oh my, you really caught them, huh? Thank you.\nThere are \\V[19] birds left."
+                                "\\N<Grandma>Oh my, did you really catch them all? Thank you.\nThere are \\V[19] chickens left."
                             ]
                         },
                         {
@@ -6328,7 +6328,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>The chicken escaped, right? Should I go catch it\nfor you?"
+                                "\\N<Boku>The chickens escaped, right? Should I go catch them\nfor you?"
                             ]
                         },
                         {
@@ -6352,7 +6352,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Grandma>Oh my, you're such a kind child. Well then, I'll\ntake you up on your offer. It should be somewhere in this\ntown, so please help me find it."
+                                "\\N<Grandma>Oh my, you're such a kind child. Well then, I'll\ntake you up on your offer. They should be somewhere in this\ntown, so please help me out."
                             ]
                         },
                         {
@@ -6390,7 +6390,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Grandma>There should be a total of 10 birds. If you\ncatch all of them, would you like me to give you something\nas a reward?"
+                                "\\N<Grandma>There should be a total of 10 chickens. If you\ncan catch all of them, would you like me to give you\nsomething as a reward?"
                             ]
                         },
                         {
@@ -6477,7 +6477,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Hey, Grandma. There's something I want to ask you."
+                                "\\N<Boku>Hey, Grandma. There's something I want to ask you,\ncan I?"
                             ]
                         },
                         {

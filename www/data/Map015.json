@@ -2144,7 +2144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Excuse me!"
+                                "\\N<Boku>Excuse me, I'm coming in."
                             ]
                         },
                         {
@@ -2341,7 +2341,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boku>(M-maybe I should stop for today...)"
+                                "\\N<Boku>(M-Maybe I should stop for today...)"
                             ]
                         },
                         {
@@ -3222,7 +3222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I-I know... A-Alright! Let's go!"
+                                "\\N<Boku>I-I understand... A-Alright! Let's go!"
                             ]
                         },
                         {
@@ -3598,7 +3598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nana-chan>Hey! Where do you think you're going?"
+                                "\\N<Nana-chan>Hey! Where do you think you're going!"
                             ]
                         },
                         {

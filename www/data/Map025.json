@@ -4244,7 +4244,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah... Onee-chan, you're sleeping... Is it okay if I\nplay a little prank on you...?"
+                                "\\N<Boku>Ah... Onee-chan, you're sleeping... Is it okay if I\nplay a little prank on you?"
                             ]
                         },
                         {
@@ -4273,8 +4273,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Undress your clothes",
-                                    "Let's not do it"
+                                    "服を脱がせる",
+                                    "やめとこう"
                                 ],
                                 1,
                                 0,
@@ -4304,7 +4304,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(Is it okay... just a little bit... to take a\npeek... just for a moment...)"
+                                "\\N<Boku>(...Is it okay if I do it just a little bit... just\nto take a quick look...)"
                             ]
                         },
                         {
@@ -4433,7 +4433,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(...Oh, she's not awake... right...? If she doesn't\nwake up even with this... um, maybe just a little bit\nmore... is it okay to play a prank...?)"
+                                "\\N<Boku>(...Oh, she's not awake... right?... If she doesn't\nwake up even with this... um, maybe just a little bit\nmore... is it okay to play a prank...?)"
                             ]
                         },
                         {
@@ -4462,8 +4462,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "To play a naughty prank",
-                                    "Let's stop"
+                                    "エッチないたずらをする",
+                                    "やめとこう"
                                 ],
                                 1,
                                 0,
@@ -4734,7 +4734,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah... Onee-chan, you're sleeping... It's better not\nto wake you up, right...?"
+                                "\\N<Boku>Ah... Onee-chan, you're sleeping... It's better not\nto wake you up, right?"
                             ]
                         },
                         {

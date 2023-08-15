@@ -3800,7 +3800,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Hey, old man. There's something I want to ask you,\nyou know?"
+                                "\\N<Boku>Hey, Grandpa. There's something I want to ask you,\ncan I?"
                             ]
                         },
                         {
@@ -3879,7 +3879,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandfather>Oh, that brings back memories. Yes, I know.\nI heard it from my grandfather when I was young too."
+                                "\\N<Grandfather>Oh, that brings back memories. Yes, I know.\nI heard it from my grandfather when I was young."
                             ]
                         },
                         {
@@ -3926,7 +3926,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Eh? Really?"
+                                "\\N<Boku>What? Really?"
                             ]
                         },
                         {
@@ -3988,7 +3988,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandfather>They say the river princess sucks the souls\nof children who approach the riverbank at dusk... Well, it's\njust a superstition that means children shouldn't go near\nthe water's edge during twilight."
+                                "\\N<Grandfather>They say the river princess sucks the souls\nof children who approach the riverbank in the evening...\nWell, it's just a superstition that means children shouldn't\ngo near the water's edge at dusk."
                             ]
                         },
                         {
@@ -4026,7 +4026,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandfather>Well, actually, I had a strange experience\nonce on the riverbank during twilight when I was a child..."
+                                "\\N<Grandfather>Well... Actually, I had a strange experience\nonce on the riverbank at dusk when I was a child..."
                             ]
                         },
                         {
@@ -4057,45 +4057,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandfather>I saw a girl with long white hair and pale\nskin on the other side of the river, but as soon as I saw\nher, I lost consciousness... After that, I was bedridden for\nthree days, it was quite a ordeal..."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<Grandfather>I told everyone that I caught a summer cold\nfrom sleeping on the riverbank and being feverish, but no\none believed me. But maybe, just maybe, that was the river\nprincess..."
+                                "\\N<Grandfather>I saw a girl with long white hair and pale\nskin across the river, but as soon as I saw her, I lost\nconsciousness... After that, I was bedridden for three days,\nit was quite a ordeal..."
                             ]
                         },
                         {
@@ -4133,7 +4095,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandfather>Well, that's an old story from many decades\nago. Since then, I haven't approached the riverbank during\ntwilight out of fear. Thanks to that, I've been able to live\na long life without any accidents."
+                                "\\N<Grandfather>I told everyone that I caught a summer cold\nfrom sleeping on the riverbank and being feverish, but no\none believed me. But maybe, that was the river princess\nafter all..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Grandfather>Well, that's a story from many decades ago.\nSince then, I haven't approached the riverbank at dusk out\nof fear. Thanks to that, I've been able to live a long life\nwithout any accidents."
                             ]
                         },
                         {
@@ -4250,7 +4250,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(I don't really understand what he's talking about,\nbut could it be something lewd...? If that's the case, then\nI'm not scared at all. Maybe I should go to that place again\nin the evening?)"
+                                "\\N<Boku>(I don't really understand what essence means, but\ncould it be something naughty...? If that's the case, then\nI'm not scared at all. Maybe I should go to that place again\nin the evening?)"
                             ]
                         },
                         {

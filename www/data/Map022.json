@@ -7822,7 +7822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>The Illustrated Diary, Past and Present"
+                                "\\N<Boku>Pastel Diary"
                             ]
                         },
                         {
@@ -7911,7 +7911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Note: The enjoyable time of childhood passes by in the blink\nof an eye. This game progresses in real time, and time also\nadvances with each action and map transition."
+                                "Caution: The enjoyable time of childhood passes by in the\nblink of an eye. This game progresses in real time, and time\nalso advances with each action and map transition."
                             ]
                         },
                         {
@@ -8056,7 +8056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please be careful as changing the speed or advancing time\nindiscriminately may disrupt the game balance. It is\nrecommended to use these features in subsequent playthroughs\nafter understanding the game system."
+                                "Please be careful not to change the speed arbitrarily or\nadvance too quickly, as it may disrupt the game balance. It\nis recommended to use this feature in subsequent\nplaythroughs after understanding the game system."
                             ]
                         },
                         {
@@ -8094,7 +8094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You can change the name you use to address the auntie\ncharacter with the Freedom Notebook item. For other\nsettings, please check and modify them in the options."
+                                "You can change the way you address the auntie character\nusing the Freedom Notebook item. For other settings,\nplease check and modify them in the options."
                             ]
                         },
                         {
@@ -8497,7 +8497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh, are you going out to play? Be careful of snakes and\nbees, okay?"
+                                "\\N<\\N[2]>Oh, are you going out to play? Be careful of\nsnakes and bees, okay?"
                             ]
                         },
                         {
@@ -8549,7 +8549,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<\\N[2]>It's been a while since we had a customer, so I\nneed to clean thoroughly."
+                                "\\N<\\N[2]>Since it's been a while since we had a customer, I\nhave to clean thoroughly."
                             ]
                         },
                         {
@@ -8601,7 +8601,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "[Boku-kun], you're always full of energy every day, aren't\nyou? Maybe I should get a little bit of that energy too,\n\\N[2]♥"
+                                "\\N<\\N[2]>You're always full of energy, Boku-kun♥ Shall I\nshare a little with \\N[2] too♥"
                             ]
                         },
                         {
@@ -8787,7 +8787,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "[Boku-kun], you're always full of energy every day, aren't\nyou? Maybe I should get a little bit of that energy too,\n\\N[2]♥"
+                                "\\N<\\N[2]>You're always full of energy, Boku-kun♥ Shall I\nshare a little with you too♥"
                             ]
                         },
                         {
@@ -9082,7 +9082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dear Boku, If you are reading this letter, I won't be there\nanymore."
+                                "Dear Boku, if you are reading this letter, I won't be there\nanymore."
                             ]
                         },
                         {
@@ -9168,7 +9168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please make sure you can read it by the next time we meet.\nFrom Jesse."
+                                "Please make sure you can read this by the next time we\nmeet. From Jesse."
                             ]
                         },
                         {
@@ -9402,7 +9402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dear Boku, If you are reading this letter, I won't be there\nanymore."
+                                "Dear Boku, if you are reading this letter, I won't be there\nanymore."
                             ]
                         },
                         {
@@ -9488,7 +9488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please make sure you can read it by the next time we meet.\nFrom Jesse."
+                                "Please make sure you can read this by the next time we\nmeet. From Jesse."
                             ]
                         },
                         {
@@ -9891,7 +9891,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Yeah, I'm Boku. I'm living here during summer\nvacation."
+                                "\\N<Boku>Yeah, it's me. I'm living here during summer\nvacation."
                             ]
                         },
                         {
@@ -10060,7 +10060,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Jesse>Oh, the summer in Japan is very hot. But this town\nis just the right amount of cool, so I... I came here."
+                                "\\N<Jesse>Oh, the summer in Japan is very hot. But this town\nis just the right amount of cool, so I... I came here\nsecretly."
                             ]
                         },
                         {
@@ -10239,7 +10239,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Jesse>Oh, in that case, if I ever come to America, I'll\ngive you a ride."
+                                "\\N<Jesse>Oh, in that case, if I go to America, I'll give\nyou a ride!"
                             ]
                         },
                         {
@@ -10512,7 +10512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>Well, well then, Boku-kun... I'll do it with my\nmouth again, okay?"
+                                "\\N<\\N[2]>W-Well then, Boku-kun... I-I'll do it with my\nmouth again, okay..."
                             ]
                         },
                         {
@@ -10536,7 +10536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um...? I want to have sex... Is sex really about\ndoing it...? I want to have sex with \\N[2]..."
+                                "\\N<Boku>Um...? I want to have sex... Actually, sex is when\nyou have sex, right...? I want to have sex with \\N[2]..."
                             ]
                         },
                         {
@@ -10544,37 +10544,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<\\N[2]>N-No, that's not...! Something like that... sex,\nright? Shall we endure it with our mouths?"
                             ]
                         },
                         {
@@ -10605,7 +10574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Ugh... \\N[2], don't you want to have sex with me\nthat much...?"
+                                "\\N<\\N[2]>N-No, that's not...! Talking about... sex,\nright...? Shall we endure it with our mouths?"
                             ]
                         },
                         {
@@ -10636,7 +10605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>Ugh... Th-That's not true... but, you know..."
+                                "\\N<Boku>Ugh... Does \\N[2] not want to have sex with me that\nmuch...?"
                             ]
                         },
                         {
@@ -10667,7 +10636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Then, is it okay if we have sex...? Right...?"
+                                "\\N<\\N[2]>Ugh... Th-That's not true... But, you know..."
                             ]
                         },
                         {
@@ -10698,7 +10667,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>Hmm... Sex is really inappropriate, isn't it...\nBut, Boku-kun doesn't seem satisfied either... I know! Maybe\nit's okay if it's just anal...?"
+                                "\\N<Boku>Well then, is it okay to have sex...? Right...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<\\N[2]>Hmm... Having sex is definitely not good... But,\nBoku-kun doesn't seem satisfied either... I know! Maybe it's\nokay if it's just anal...?"
                             ]
                         },
                         {
@@ -11162,7 +11162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>Well then, Boku-kun... ♥ What do you want to do\nwith me today...? ♥"
+                                "\\N<\\N[2]>'Well then, Boku-kun... ♥ What do you want to do\nwith \\N[2] today...? ♥'"
                             ]
                         },
                         {
@@ -11302,7 +11302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Y-yeah."
+                                "\\N<Boku>Y-yeah"
                             ]
                         },
                         {
@@ -11743,7 +11743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Mika-chan>Eh? I-is that so...? Wow... Boys, they know\nabout those things, huh..."
+                                "\\N<Mika-chan>Eh? I-Is that so...? Wow... Boys, they know\nabout those things, huh..."
                             ]
                         },
                         {
@@ -11836,7 +11836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Mika-chan>Then, from now on, I'll show you me\nmasturbating, so you can masturbate too ♥"
+                                "\\N<Mika-chan>Then, I'll show you me masturbating right now,\nso you can masturbate too ♥"
                             ]
                         },
                         {
@@ -11912,7 +11912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Mika-chan>W-What?! I-I'm also embarrassed, but I'll show\nyou because we're in this together! You wanted to do\nsomething naughty, right?! Then, show me your masturbation\ntoo!"
+                                "\\N<Mika-chan>W-What?! I-I'm willing to endure the\nembarrassment and show you, so it's only fair, right?! You\nwanted to do something naughty, right?! Then, show me your\nmasturbation too!"
                             ]
                         },
                         {
@@ -11981,7 +11981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Mika-chan>Hmm... well, I guess it's okay. To make a\nbaby, there are certain things like ovulation days and safe\ndays, right? It seems like there are various rules."
+                                "\\N<Mika-chan>Hmm... well, I guess it's okay. To make a\nbaby, there are certain things like ovulation days and safe\ndays, right? It seems like there are various rules for\nthat."
                             ]
                         },
                         {
@@ -12074,7 +12074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Y-yeah... It felt really good..."
+                                "\\N<Boku>Y-Yeah... It felt really good..."
                             ]
                         },
                         {
@@ -12136,7 +12136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Huh!? Really!?"
+                                "\\N<Boku>Eh!? Really⁉"
                             ]
                         },
                         {
@@ -12160,7 +12160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Mika-chan>Ah, but not every day, okay? I heard a rumor\nthat having too much sex makes you dumb..."
+                                "\\N<Mika-chan>Ah, but, doing it every day is not good, you\nknow? I've heard rumors that having too much sex makes you\ndumb..."
                             ]
                         },
                         {
@@ -12215,7 +12215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Mika-chan>I don't really understand ♥ After all, it's\njust a rumor ♥ Well, no matter what, it's always better to\nbe cautious. Especially during summer, when you tend to get\nstrangely aroused..."
+                                "\\N<Mika-chan>I don't really understand ♥ After all, it's\njust a rumor ♥ Well, no matter what, it's always better to\nbe careful. Especially during summer, when you tend to get\nstrangely aroused..."
                             ]
                         },
                         {
@@ -12270,7 +12270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Mika-chan>Ah, that's right! I have to run an errand! I'm\ngoing home now! See you!"
+                                "\\N<Mika-chan>Oh, that's right! I have to run an errand! I'm\ngoing home now! See you!"
                             ]
                         },
                         {
@@ -12920,7 +12920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Yū-kun>So, what should we do today?"
+                                "\\N<Yu-kun>So, what should we do today?"
                             ]
                         },
                         {
@@ -12968,8 +12968,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Our usual naughty time",
-                                    "※I will be involved in naughty things"
+                                    "いつものエッチ",
+                                    "※ぼくがエッチなことをされる"
                                 ],
                                 -1,
                                 0,
@@ -13380,8 +13380,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Undress your clothes",
-                                    "Let's not do it"
+                                    "服を脱がせる",
+                                    "やめとこう"
                                 ],
                                 1,
                                 0,
@@ -13411,7 +13411,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(Is it okay to do it just a little bit... just to\ntake a quick look...)"
+                                "\\N<Boku>(...Is it okay to do it just a little bit... just\nto take a quick look...?)"
                             ]
                         },
                         {
@@ -13569,8 +13569,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "To play a naughty prank",
-                                    "Let's stop"
+                                    "エッチないたずらをする",
+                                    "やめとこう"
                                 ],
                                 1,
                                 0,
@@ -13679,7 +13679,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>(N-No, no good! I have to put your clothes back\nbefore you wake up...!)"
+                                "\\N<Boku>(N-No, no! I have to put your clothes back before\nyou wake up...!)"
                             ]
                         },
                         {
@@ -13881,7 +13881,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah... Jesse, you're sleeping... It's better not to\nwake you up, right...?"
+                                "\\N<Boku>Ah... Jesse, you're sleeping... It's probably\nbetter not to wake you up..."
                             ]
                         },
                         {
@@ -14082,8 +14082,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Take it",
-                                    "I'll stop"
+                                    "もっていく",
+                                    "やめておく"
                                 ],
                                 1,
                                 0,
@@ -14799,7 +14799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You can enter the 'Secret Attic Room' from this ladder. The\n'Secret Attic Room' can also be accessed in New Game mode\nand Endless mode."
+                                "You can enter the 'Secret Attic Room' from this ladder. The\n'Secret Attic Room' is also available in New Game mode and\nEndless mode."
                             ]
                         },
                         {

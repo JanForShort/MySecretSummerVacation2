@@ -3904,7 +3904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>If you go to the Aoki Store in the shopping\ndistrict, they'll give it to you. Usually there's an old man\nat the store, but during summer vacation, a somewhat\nintimidating onee-chan is taking care of the shop."
+                                "\\N<Boss-kun>If you go to the Aoki Store in the shopping\ndistrict, you can get one. Usually, there's an old man at\nthe store, but during summer vacation, a somewhat\nintimidating onee-chan is taking care of the shop."
                             ]
                         },
                         {
@@ -3942,7 +3942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I see... Should I go check it out?"
+                                "\\N<Boku>I see... Should I go and check it out?"
                             ]
                         },
                         {
@@ -4086,7 +4086,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Oh, Boku-chan. Did you bring the cardboard box?\nIn that case, let's have a race on the grass slope. If you\ncan beat me, I'll show you a secret fishing spot."
+                                "\\N<Boss-kun>Oh, Boku-chan. Did you bring the cardboard box?\nIn that case, let's have a competition on the grass slope.\nIf you can beat me, I'll tell you a secret fishing spot."
                             ]
                         },
                         {
@@ -4134,7 +4134,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Oh? Another race on the grass slope? Alright,\nlet's do it!"
+                                "\\N<Boss-kun>Oh? Another competition on the grass slope?\nAlright, let's do it!"
                             ]
                         },
                         {
@@ -4166,8 +4166,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Let's do it! Let's do it!",
-                                    "I'm not feeling it today"
+                                    "やろうやろう！",
+                                    "今日はいいや"
                                 ],
                                 1,
                                 0,
@@ -4197,7 +4197,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Impressive courage! In that case, let's go to\nthe top of the ski resort."
+                                "\\N<Boss-kun>You've got guts! In that case, let's go all the\nway to the top of the ski resort."
                             ]
                         },
                         {
@@ -4365,7 +4365,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Listen up. The rules are simple. We'll slide\ndown from here to the bottom and the one who passes through\nthe most checkpoints wins. The checkpoints will be shining\nbrightly to make them noticeable."
+                                "\\N<Boss-kun>Listen up. The rules are simple. We'll slide\ndown from here to the bottom and the one who passes through\nthe most checkpoints wins. The checkpoints will be shining\nto make them stand out."
                             ]
                         },
                         {
@@ -4929,7 +4929,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Tch, it's a secret, but I guess I have no\nchoice. It's a hidden waterfall where you can catch big\nfish. It's hard to explain in words... Oh, do you have a\nmap? Let me borrow it, I'll mark the spot for you."
+                                "\\N<Boss-kun>Ugh, it's a secret but I guess I have no\nchoice. It's a hidden waterfall where you can catch big\nfish. It's hard to explain in words... Oh, do you have a\nmap? Let me borrow it, I'll mark the location for you."
                             ]
                         },
                         {
@@ -4993,7 +4993,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Alright then. I've hidden a rope at this marked\nlocation. If you use this rope, you can descend to the\nsecret fishing spot waterfall. However, there's no path up\nuntil here, so you'll have to swim across the river."
+                                "\\N<Boss-kun>Alright then. I've hidden a rope at this marked\nlocation. If you use this rope, you can descend to the\nsecret fishing spot waterfall. However, there's no path up\nuntil here, so you'll have to swim across the river to get\nthere."
                             ]
                         },
                         {
@@ -5048,7 +5048,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Oh, and also, I'm not entirely sure, but there\nseems to be a legend about that waterfall. It says, 'Never\nswim alone there in the evening.'"
+                                "\\N<Boss-kun>Oh, and also, I'm not entirely sure, but there\nseems to be a legend that says 'Never swim alone at the\nwaterfall over there in the evening.'"
                             ]
                         },
                         {
@@ -5110,7 +5110,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Well, I don't think anyone would go swimming\nall the way there in the evening. But, don't forget that you\ncan only catch big fish in the evening."
+                                "\\N<Boss-kun>Well, I don't think anyone would bother going\nswimming all the way there in the evening. But, don't forget\nthat you can only catch big fish in the evening."
                             ]
                         },
                         {
@@ -5148,7 +5148,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Anyway, let's have a rematch on the grass\nslope. I just happened to be in a bad condition today, so I\nwon't lose next time."
+                                "\\N<Boss-kun>Anyway, let's have a rematch on the grass\nslide. It was just a fluke that I was in a bad condition\ntoday, so I won't lose next time."
                             ]
                         },
                         {
@@ -5250,7 +5250,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Damn it! I lost again! But don't get too cocky!\nMika-chan is stronger than me, you know."
+                                "\\N<Boss-kun>Damn it! I lost again! But, it's too early to\nget cocky! Mika-chan is stronger than me, after all."
                             ]
                         },
                         {
@@ -5388,7 +5388,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Hey, Tetsu!"
+                                "???: 'Hey, Tetsu!'"
                             ]
                         },
                         {
@@ -5611,7 +5611,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Mika-chan>Tetsu, Grandma said to come back home right\naway because she skipped cleaning the bath."
+                                "\\N<Mika-chan>Tetsu, Onee-chan said to come back home soon\nbecause she skipped cleaning the bath."
                             ]
                         },
                         {
@@ -5673,7 +5673,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Mika-chan>Oh my, it's you, Boku-kun, right? I was\nplaying with Tetsu."
+                                "\\N<Mika-chan>Oh, come on. Oh, you're Boku-kun, right? I was\nplaying with Tetsu."
                             ]
                         },
                         {
@@ -5759,7 +5759,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boss-kun>Hey, Mika-neechan, how about a match with me?\nProtect the honor of the former Hime-no-yama Defense Squad\nleader!"
+                                "\\N<Boss-kun>Hey, Mika-neechan, how about a match with me?\nAs the former leader of the Hime-no-yama Defense Squad,\nprotect the squad's reputation for me!"
                             ]
                         },
                         {
@@ -5797,7 +5797,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Mika-chan>No way. Why do I have to do something like\nthat? Anyway, hurry up and go home."
+                                "\\N<Mika-chan>No way. Why do I have to do something like\nthat? Instead, hurry up and go home."
                             ]
                         },
                         {
@@ -5828,7 +5828,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boss-kun>Haha, Mika-neechan, are you scared? Well, I am\nsuch a formidable opponent after all. Even for you, Mika-\nneechan, it might be impossible. Oh well, can't be helped,\nright?"
+                                "\\N<Boss-kun>Haha, Mika-neechan, are you scared? Well, I am\nquite the opponent, after all. Even for you, Mika-neechan,\nit might be impossible. Oh well, can't be helped, right?"
                             ]
                         },
                         {
@@ -5866,7 +5866,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Mika-chan>W-What? I never said I couldn't win, you\nknow?"
+                                "\\N<Mika-chan>W-What? I never said I can't win, you know?"
                             ]
                         },
                         {
@@ -5914,7 +5914,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Mika-chan>I told you, I haven't lost! Geez, whatever!\nI'll just compete with Boku-kun then! Come on, let's go up\nalready! Tetsu, go play with the cardboard boxes!"
+                                "\\N<Mika-chan>I told you, I haven't lost! Geez, whatever!\nI'll just compete with Boku-kun then! Come on, let's go\nupstairs already! Tetsu, go play with the cardboard boxes!"
                             ]
                         },
                         {
@@ -5952,7 +5952,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Y-Yeah..."
+                                "\\N<Boku>Uh, yeah..."
                             ]
                         },
                         {
@@ -6184,7 +6184,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Is that so? I'd like to meet her."
+                                "\\N<Boku>Oh, really? I'd like to meet her."
                             ]
                         },
                         {
@@ -6208,7 +6208,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boss-kun>Hmm... Mika-neechan, it might be difficult to\nmeet since you haven't been playing outside lately."
+                                "\\N<Boss-kun>Hmm, Mika-neechan, it might be difficult to\nmeet since you haven't been playing outside lately."
                             ]
                         },
                         {
@@ -6270,7 +6270,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>I see... Maybe I should go meet her next time..."
+                                "\\N<Boku>I see... Maybe I should go next time..."
                             ]
                         },
                         {
@@ -6637,8 +6637,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes!",
-                                    "Until next time"
+                                    "うん！",
+                                    "また今度ね"
                                 ],
                                 1,
                                 0,
@@ -7156,7 +7156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Um... There's a big bath right near my house, do\nyou want to go in?"
+                                "\\N<Boku>Um... There's a big bath right near my house, would\nyou like to take a bath?"
                             ]
                         },
                         {
@@ -7204,7 +7204,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Boku-chan's house is a big pension over there.\nI remember someone saying there's a hot spring with a\nnatural flowing source...?"
+                                "\\N<Boss-kun>Boku-chan's house is a big pension over there.\nI remember someone saying there's a hot spring with a\nnatural waterfall..."
                             ]
                         },
                         {
@@ -7573,7 +7573,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Mika-chan>Your skills aren't bad, but you still have a\nlong way to go. If you have free time, I'll give you a\nrematch."
+                                "\\N<Mika-chan>Your skills aren't bad, but you still have a\nlong way to go. If you have free time, I'll challenge you\nagain."
                             ]
                         },
                         {
@@ -7886,8 +7886,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Let's compete!",
-                                    "Let's skip it for today, okay?"
+                                    "勝負だ！",
+                                    "今日はやめとくね"
                                 ],
                                 1,
                                 0,
@@ -8070,7 +8070,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Mika-chan>Oh, is that so...? W-Well, I guess I can't\nhelp it."
+                                "\\N<Mika-chan>Oh, is that so...? W-Well, I guess there's no\nhelping it."
                             ]
                         },
                         {
@@ -8370,7 +8370,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Mika-chan>Well, I lost...? Me...? Ugh, how\nfrustrating...!"
+                                "\\N<Mika-chan>Well, I lost...? Me...? Ugh, it's\nfrustrating...!"
                             ]
                         },
                         {
@@ -8401,7 +8401,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Um, hey...? Uh, I won, right...?"
+                                "\\N<Boku>Hey, um...? Um, I won, right...?"
                             ]
                         },
                         {
@@ -8456,7 +8456,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Huh, w-wait...? Mika-chan was the one who brought\nit up..."
+                                "\\N<Boku>Huh, huh...? Even though it was Mika-chan who\nbrought it up..."
                             ]
                         },
                         {
@@ -8518,7 +8518,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Mika-chan>Um, well... in that case, my house is not an\noption... I think I'm staying overnight in one of the guest\nrooms at the inn, right?"
+                                "\\N<Mika-chan>Um, in that case... staying at my house is not\nan option... I remember, I'm staying overnight in one of the\nguest rooms at the pension, right?"
                             ]
                         },
                         {
@@ -8573,7 +8573,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Mika-chan>...Then, let's go to my room. We can also use\nthe bath."
+                                "\\N<Mika-chan>...Then, let's go to my room. You can also use\nthe bath."
                             ]
                         },
                         {
@@ -8604,7 +8604,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Y-yeah."
+                                "\\N<Boku>Uh, yeah."
                             ]
                         },
                         {
@@ -8698,7 +8698,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Mika-chan>Who are you to tie with me when I'm\nserious...?...Let's put the match on hold for today..."
+                                "\\N<Mika-chan>What are you, to be able to tie with me when\nI'm serious...?...For today, let's put the match on hold..."
                             ]
                         },
                         {
@@ -8777,7 +8777,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Mika-chan>Look! This is what happens when I give it my\nall! If you're frustrated, we can have a rematch, you know?\nWell, even if we do it multiple times, I think the result\nwill be the same."
+                                "\\N<Mika-chan>Look! This is what happens when I give it my\nall! If you're frustrated, we can have another match, you\nknow? Well, I think the result will be the same no matter\nhow many times we do it though."
                             ]
                         },
                         {

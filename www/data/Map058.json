@@ -1496,7 +1496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah...Yuko-kun, you're sleeping...I wonder if it's\nokay to play a little prank on you...?"
+                                "\\N<Boku>Ah...Yuko-kun is sleeping...I wonder if it's okay\nto play a little prank on them...?"
                             ]
                         },
                         {
@@ -1525,8 +1525,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Undress your clothes",
-                                    "Let's not do it"
+                                    "服を脱がせる",
+                                    "やめとこう"
                                 ],
                                 1,
                                 0,
@@ -1556,7 +1556,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(Is it okay... just a little bit... to take a\npeek... just for a moment...)"
+                                "\\N<Boku>(...Is it okay to do it just a little bit... just\nto take a peek...)"
                             ]
                         },
                         {
@@ -1693,7 +1693,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(...Oh, you're not awake... right...? If you won't\nwake up even with just this... I wonder if it's okay to play\na little more... prank on you...?)"
+                                "\\N<Boku>(...They're not... awake, right...? If they don't\nwake up even with just this... I wonder if it's okay to play\na little more...?)"
                             ]
                         },
                         {
@@ -1722,8 +1722,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "To play a naughty prank",
-                                    "Let's stop"
+                                    "エッチないたずらをする",
+                                    "やめとこう"
                                 ],
                                 1,
                                 0,
@@ -1773,7 +1773,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>(N-No, no good! I have to put your clothes back\nbefore you wake up...!)"
+                                "\\N<Boku>(N-No, no! I have to put the clothes back before\nthey wake up...!)"
                             ]
                         },
                         {
@@ -1983,7 +1983,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah...Yuko-kun, you're sleeping...It's probably\nbetter not to wake you up..."
+                                "\\N<Boku>Ah...Yuko-kun is sleeping...It's better not to wake\nthem up, right...?"
                             ]
                         },
                         {
@@ -2171,7 +2171,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>...Yuu-kun's underwear is here... I wonder if it's\nokay to take just one piece...?"
+                                "\\N<Boku>...Yuko-kun's underwear is here... I wonder if it's\nokay to take just one piece...?"
                             ]
                         },
                         {
@@ -2193,8 +2193,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Take it",
-                                    "I'll stop"
+                                    "もっていく",
+                                    "やめておく"
                                 ],
                                 1,
                                 0,
@@ -2247,7 +2247,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Never mind, I changed my mind."
+                                "\\N<Boku>Actually, never mind."
                             ]
                         },
                         {

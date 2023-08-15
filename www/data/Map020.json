@@ -3488,7 +3488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nana-chan>Oh, it's not you. What? Did you come to swim?"
+                                "\\N<Nana-chan>Oh, it's not you. What's up? Did you come to\nswim?"
                             ]
                         },
                         {
@@ -3657,7 +3657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Eh? Is that okay?"
+                                "\\N<Boku>Huh? Is that okay?"
                             ]
                         },
                         {
@@ -3681,7 +3681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nana-chan>You idiot, Jordan♥"
+                                "\\N<Nana-chan>You dummy, it's Jordan ♥"
                             ]
                         },
                         {
@@ -3984,7 +3984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Alright! Let's do it!"
+                                "\\N<Boku>Alright! Let's do this!"
                             ]
                         },
                         {
@@ -4115,7 +4115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>If I cut down the tree growing here, I can make a\nbridge, right...? I wonder if there's any tools around\nhere...?"
+                                "\\N<Boku>If I can cut down the tree growing here, I can make\na bridge, right...? I wonder if there's any tools around\nhere...?"
                             ]
                         },
                         {
@@ -4269,7 +4269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Yay!"
+                                "Yay!"
                             ]
                         },
                         {
@@ -4360,7 +4360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Yay!"
+                                "Yay!"
                             ]
                         },
                         {

@@ -4589,7 +4589,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Mika-chan>Oh well, do as you please."
+                                "\\N<Mika-chan>Oh well, do as you please"
                             ]
                         },
                         {
@@ -4738,7 +4738,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>I'm Boku! I usually live in a town far away, but\nduring summer vacation, I stay at this \\N[2]'s house."
+                                "\\N<Boku>I'm Boku! I usually live in a town far away, but\nduring summer vacation, I stay at this \\N[2] house."
                             ]
                         },
                         {
@@ -4879,7 +4879,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Girl>You want to do something like this? Don't you have\nchickens at your school in the city? Well, whatever, do as\nyou please."
+                                "\\N<Girl>Do you want to do something like this? Don't you\nhave chickens at your school in the city? Well, whatever, do\nas you please."
                             ]
                         },
                         {
@@ -5368,7 +5368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Mika-chan>Ah, I see. So you're only here during summer\nvacation, right? Well then, today is goodbye. Bye-bye."
+                                "\\N<Mika-chan>Ah, I see. So you're only here during summer\nvacation, right? Well then, today is our farewell. Bye-bye."
                             ]
                         },
                         {
@@ -5640,8 +5640,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "I came to see Mika-chan",
-                                    "Oh, I see"
+                                    "ミカちゃんに会いに来たよ",
+                                    "えー、そっかー…"
                                 ],
                                 1,
                                 0,
@@ -5671,7 +5671,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Mika-chan>Eh? Is that so? Haha...? I see, you want to do\nsomething naughty again, don't you?"
+                                "\\N<Mika-chan>Eh? Is that so? Haha...? I see, you're feeling\nnaughty again, aren't you?"
                             ]
                         },
                         {
@@ -5700,8 +5700,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "Y-Yes!",
-                                    "N-No, that's not it!"
+                                    "う、うん！",
+                                    "ち、ちがうよ！"
                                 ],
                                 1,
                                 0,
@@ -5731,7 +5731,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Mika-chan>See, I knew it... ♥ I can see right through\neverything ♥ Well, if you're going to say that much, I guess\nI can't help it ♥ Then... let's go to my room, shall we ♥"
+                                "\\N<Mika-chan>See, I knew it... ♥ I can see right through\neverything ♥ Well, if you're going to say that much, I guess\nI can't help it ♥ Then... let's go to my room ♥"
                             ]
                         },
                         {
@@ -5817,7 +5817,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Mika-chan>Oh, is that so? I thought boys would be more\naggressive, but I guess not."
+                                "\\N<Mika-chan>Oh, really? I thought boys would be more\nassertive, but I guess not."
                             ]
                         },
                         {
@@ -5878,7 +5878,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Mika-chan>That's too bad."
+                                "\\N<Mika-chan>Too bad."
                             ]
                         },
                         {

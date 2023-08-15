@@ -2299,7 +2299,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Sui-chan>Oh, you came again? Shall we play again?"
+                                "\\N<Sui-chan>Oh, you came again? Well then, shall we play\nagain?"
                             ]
                         },
                         {
@@ -2669,7 +2669,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It was not a book or a video, but the first time I saw a\nnaked woman in person, other than my mother... That sight of\nher skin color burned into my childhood memories."
+                                "It was not a book or a video, but the first time I saw the\nnaked body of a real woman other than my mother... That\nsight of her skin color burned into my childhood memories."
                             ]
                         },
                         {
@@ -2768,7 +2768,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah... um, yeah..."
+                                "\\N<Boku>Ah... um... yeah..."
                             ]
                         },
                         {
@@ -3056,7 +3056,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Sui-chan>Ah, it's you. You really came? In this evening\ndusk, all the way to a place like this..."
+                                "\\N<Sui-chan>Ah, it's you. You really came? In this kind of\nevening, in this kind of place..."
                             ]
                         },
                         {
@@ -3087,7 +3087,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Huh? But, don't I have to meet Sui-chan at this\ntime?"
+                                "\\N<Boku>Huh? But, I can only meet Sui-chan at this time,\nright?"
                             ]
                         },
                         {
@@ -3118,7 +3118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Sui-chan>...Well, yeah. So, what should we do? How about\nplaying in the water...?"
+                                "\\N<Sui-chan>...Well, yeah, that's true. So, what should we\ndo? How about playing in the water...?"
                             ]
                         },
                         {
@@ -3149,7 +3149,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Yeah! It's not good to be alone, but it's fine if\nthere are two people!"
+                                "\\N<Boku>Yeah! It's not good to be alone, but it's okay if\nthere are two people!"
                             ]
                         },
                         {
@@ -3180,7 +3180,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Sui-chan>Hehe ♥ Yeah, that's right...♥"
+                                "\\N<Sui-chan>Hehe ♥ That's right...♥"
                             ]
                         },
                         {
@@ -3302,7 +3302,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah, that was fun! But, we should probably head back\nsoon... By the way, Sui-chan, where do you live? Shall we go\nhome together?"
+                                "\\N<Boku>Ah, that was fun! But, we should probably head home\nsoon... By the way, Sui-chan, where do you live? Shall we go\nhome together?"
                             ]
                         },
                         {
@@ -3340,7 +3340,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Sui-chan>Huh? Well... um, I actually live over there,\nbeyond the waterfall. So, our directions home are\ndifferent."
+                                "\\N<Sui-chan>Huh? Well... um, I actually live on the other\nside below that waterfall over there. So, our directions\nhome are different."
                             ]
                         },
                         {
@@ -3699,7 +3699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>He said it's on the other side of the waterfall,\nbut I don't really understand... If Boss-kun, who told me\nabout this place, knows, maybe he can tell me...?"
+                                "\\N<Boku>He said it's on the other side of the waterfall,\nbut I don't really understand... I wonder if Boss-kun, who\ntold me about this place, knows?"
                             ]
                         },
                         {
@@ -4160,7 +4160,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Sui-chan>And you have such amazing stamina... Even\nthough you're just a little tired, normally you wouldn't be\nable to think about anything naughty for a while... You seem\nlike quite a challenge... ♥"
+                                "\\N<Sui-chan>And you have such amazing stamina... Even\nthough you're just a little tired, normally you wouldn't\neven think about doing naughty things for a while... You\nseem like quite a challenge... ♥"
                             ]
                         },
                         {
@@ -4215,7 +4215,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Sui-chan>Hehe ♥ So, you want to do even more naughty\nthings, huh? Sure ♥ Shall we do something naughty again\ntoday?"
+                                "\\N<Sui-chan>Hehe ♥ So, you want to do even more naughty\nthings, huh? Sure ♥ Then, shall we do something naughty\nagain today? ♥"
                             ]
                         },
                         {
@@ -4539,7 +4539,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Sui-chan>Yeah... I hope we can meet again..."
+                                "\\N<Sui-chan>Yeah... umm... it would be nice if we could\nmeet again..."
                             ]
                         },
                         {
@@ -4929,7 +4929,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>...She's gone... She was a mysterious girl... But,\nI'm sure we'll meet again, right..."
+                                "\\N<Boku>...They're gone... They were a mysterious child...\nBut, I'm sure we'll meet again, right..."
                             ]
                         },
                         {
@@ -7418,7 +7418,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Ah! I remember now, I'm not supposed to fish in the\nliving room...? I better stop..."
+                                "\\N<Boku>Ah! Wasn't I not supposed to fish in the living\nroom...? I better stop..."
                             ]
                         },
                         {
@@ -7926,7 +7926,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boku>I got one!"
+                                "\\N<Boku>Got one!"
                             ]
                         },
                         {
@@ -8252,7 +8252,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>I give up."
+                                "\\N<Boku>I'll stop now."
                             ]
                         },
                         {
@@ -8766,7 +8766,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\# Ugui"
+                                "\\#Ugui"
                             ]
                         },
                         {
@@ -8897,7 +8897,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\# Blue Gill"
+                                "Blue Gill"
                             ]
                         },
                         {
@@ -9081,7 +9081,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\# American Crayfish"
+                                "American Crayfish"
                             ]
                         },
                         {
@@ -9410,7 +9410,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\# Goldfish"
+                                "\\#Goldfish"
                             ]
                         },
                         {
@@ -9659,7 +9659,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\# Funafish"
+                                "\\#Funah"
                             ]
                         },
                         {
@@ -9806,7 +9806,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\# Black Bass"
+                                "Black Bass"
                             ]
                         },
                         {
@@ -9912,7 +9912,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\# Koi"
+                                "\\#Koi"
                             ]
                         },
                         {
@@ -10288,7 +10288,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\# Medaka"
+                                "\\#Medaka"
                             ]
                         },
                         {
@@ -10403,7 +10403,7 @@
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "\\# Ayu"
+                                "\\#Ayu"
                             ]
                         },
                         {
@@ -10511,7 +10511,7 @@
                             "code": 401,
                             "indent": 11,
                             "parameters": [
-                                "\\# Donko"
+                                "\\#Donko"
                             ]
                         },
                         {
@@ -11345,7 +11345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Wait, huh?! Why am I naked?! My clothes got swept\naway...?!"
+                                "\\N<Boku>Wait, huh?! Why am I naked?! My clothes, they got\nswept away...?!"
                             ]
                         },
                         {
@@ -12569,7 +12569,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Ah! I remember now, I'm not supposed to fish in the\nliving room...? I better stop..."
+                                "\\N<Boku>Ah! Wasn't I not supposed to fish in the living\nroom...? I better stop..."
                             ]
                         },
                         {
@@ -13093,7 +13093,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boku>I got a bite! But... it's, heavy...!"
+                                "\\N<Boku>I caught something! But... it's, heavy...!"
                             ]
                         },
                         {
@@ -13711,7 +13711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>U-Uwa...?! It's... so deep here...?! Th-This is\nbad..."
+                                "\\N<Boku>U-Uwa...?! It's... so, so deep...?! Th-This is...\nno, it's impossible..."
                             ]
                         },
                         {
@@ -14455,7 +14455,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Ah! I remember now, I'm not supposed to fish in the\nliving room...? I better stop..."
+                                "\\N<Boku>Ah! Wasn't I not supposed to fish in the living\nroom...? I better stop..."
                             ]
                         },
                         {
@@ -14963,7 +14963,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boku>I got one!"
+                                "\\N<Boku>Got one!"
                             ]
                         },
                         {
@@ -15095,7 +15095,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Boku>Oh no... It got away..."
+                                "\\N<Boku>Ah... It got away..."
                             ]
                         },
                         {
@@ -15579,7 +15579,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Huh... This is garbage..."
+                                "\\N<Boku>Huh... This, it's garbage..."
                             ]
                         },
                         {
@@ -15640,7 +15640,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Huh? Is this a juice bottle?"
+                                "\\N<Boku>Huh? Is that a bottle of juice?"
                             ]
                         },
                         {
@@ -15803,7 +15803,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\# Ugui"
+                                "\\#Ugui"
                             ]
                         },
                         {
@@ -15934,7 +15934,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\# Blue Gill"
+                                "Blue Gill"
                             ]
                         },
                         {
@@ -16118,7 +16118,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\# American Crayfish"
+                                "American Crayfish"
                             ]
                         },
                         {
@@ -16158,7 +16158,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\N<Boku>I already have that one. Let's let it go."
+                                "\\N<Boku>I already have that one. Let's release it."
                             ]
                         },
                         {
@@ -16302,7 +16302,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\N<Boku>Amazing! It's a crayfish!... But I can't keep it\nwithout a water tank... It's a shame, but I'll let it go."
+                                "\\N<Boku>Wow! It's a crayfish!... But I can't keep it\nwithout a water tank... It's a shame, but I'll let it go."
                             ]
                         },
                         {
@@ -16447,7 +16447,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\# Goldfish"
+                                "Goldfish"
                             ]
                         },
                         {
@@ -16572,7 +16572,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\# Oikawa"
+                                "\\#Oikawa"
                             ]
                         },
                         {
@@ -16696,7 +16696,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\# Funafuna"
+                                "\\#Funah"
                             ]
                         },
                         {
@@ -16843,7 +16843,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\# Black Bass"
+                                "Black Bass"
                             ]
                         },
                         {
@@ -16949,7 +16949,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\# Koi"
+                                "\\#Koi"
                             ]
                         },
                         {
@@ -17094,7 +17094,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\# Catfish"
+                                "Catfish"
                             ]
                         },
                         {
@@ -17325,7 +17325,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\# Medaka"
+                                "\\#Medaka"
                             ]
                         },
                         {
@@ -17440,7 +17440,7 @@
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "\\# Ayu"
+                                "Ayu"
                             ]
                         },
                         {
@@ -17548,7 +17548,7 @@
                             "code": 401,
                             "indent": 11,
                             "parameters": [
-                                "\\# Donko"
+                                "\\#Donko"
                             ]
                         },
                         {
@@ -17709,7 +17709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Yes! I caught one!"
+                                "\\N<Boku>'I did it! I caught one!'"
                             ]
                         },
                         {

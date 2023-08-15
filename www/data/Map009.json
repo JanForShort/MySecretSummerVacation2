@@ -3213,7 +3213,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<\\N[2]>Today is a clear and sunny day♥"
+                                "\\N<\\N[2]>Today is a clear and cloudless sunny day♥"
                             ]
                         },
                         {
@@ -3362,7 +3362,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<\\N[2]>Oh, cumulus clouds... Summer will be over soon..."
+                                "\\N<\\N[2]>Oh, cumulus clouds... Summer is almost over, isn't\nit..."
                             ]
                         },
                         {
