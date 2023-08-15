@@ -4171,8 +4171,8 @@
                     "conditions": {
                         "actorId": 1,
                         "actorValid": false,
-                        "itemId": 1,
-                        "itemValid": false,
+                        "itemId": 29,
+                        "itemValid": true,
                         "selfSwitchCh": "A",
                         "selfSwitchValid": false,
                         "switch1Id": 1,
