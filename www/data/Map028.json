@@ -3718,8 +3718,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Strong New Game",
-                                    "New Game (Normal Mode)"
+                                    "\\c[2]New Game PLUS\\c[0]",
+                                    "New Game (Normal)"
                                 ],
                                 -1,
                                 0,
