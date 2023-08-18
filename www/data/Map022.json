@@ -14799,7 +14799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You can enter the 'Secret Attic Room' from this ladder. The\n'Secret Attic Room' is also available in New Game mode and\nEndless mode."
+                                "You can enter the 'Secret Attic Room' from this ladder. The\n'Secret Attic Room' is also available in \\c[2]New Game PLUS\\c[0] and\nEndless mode."
                             ]
                         },
                         {

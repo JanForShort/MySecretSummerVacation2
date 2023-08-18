@@ -10615,7 +10615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Strong and New Game Unlocked! ※ You can now start a new\ngame while carrying over current bug data, some items, and\nsome sexual knowledge."
+                                "\\#\\c[2]New Game PLUS\\c[0] Unlocked! ※ You can now start a new\ngame while carrying over current bug data, some items, and\nsome sexual knowledge."
                             ]
                         },
                         {
@@ -10695,7 +10695,7 @@
                             "parameters": [
                                 [
                                     "Endless Mode",
-                                    "Strong New Game"
+                                    "\\c[2]New Game PLUS\\c[0]"
                                 ],
                                 -1,
                                 0,
