@@ -219,7 +219,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Weak Stag Beetle",
+        "name": "Weak",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -236,7 +236,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Sawtooth Stag Beetle",
+        "name": "Sawtooth",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -253,7 +253,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Onikuwagata",
+        "name": "Giant",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -287,7 +287,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Red-legged Stag Beetle",
+        "name": "Red-legged",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -304,7 +304,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Nebuto Kuwagata",
+        "name": "Nebula",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -321,7 +321,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Miyama Stag Beetle",
+        "name": "Miyama",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -338,7 +338,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Hiratakuwagata",
+        "name": "Flat",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -355,7 +355,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Giant Stag Beetle",
+        "name": "Great",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -372,7 +372,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Female Rhinoceros Beetle",
+        "name": "Rhinoceros ♀",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -389,7 +389,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Kabutomushi",
+        "name": "Rhinoceros ♂️",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -406,7 +406,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Aokanabun",
+        "name": "Blue Beetle",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -440,7 +440,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Oosamushi",
+        "name": "Giantic",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -457,7 +457,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Hanmyou",
+        "name": "Hammer",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -491,7 +491,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "White-backed wood-boring beetle",
+        "name": "White Longhorn",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -508,7 +508,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Ruriboshi Kamikiri",
+        "name": "Blue Jewel",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -525,7 +525,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Harabirokamikiri",
+        "name": "Mantis",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:3>",
         "profile": ""
@@ -576,7 +576,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Gengorou",
+        "name": "Firefly",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:3>",
         "profile": ""
@@ -593,7 +593,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Sawagani",
+        "name": "Crab",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:3>",
         "profile": ""
@@ -610,7 +610,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "American crayfish",
+        "name": "Crayfish",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:4>",
         "profile": ""
@@ -627,7 +627,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Mechabutomushi MkII",
+        "name": "Mechabug",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -650,7 +650,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Hercules Beetle",
+        "name": "Hercules",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -673,7 +673,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Caucasus Stag Beetle",
+        "name": "Caucasus",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -696,7 +696,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Girafunokogirikuwagata",
+        "name": "Giraffa",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -719,7 +719,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Golden Stag Beetle",
+        "name": "Golden",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""

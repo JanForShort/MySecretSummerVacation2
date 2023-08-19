@@ -7870,7 +7870,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Barrier Type☆",
+        "name": "DEF TYPE ☆",
         "note": "②弱いオニ",
         "params": [
             [
@@ -8753,7 +8753,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Attack Type☆",
+        "name": "ATK TYPE ☆",
         "note": "①ノコギリ",
         "params": [
             [
@@ -9636,7 +9636,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Barrier Type☆",
+        "name": "DEF TYPE ☆",
         "note": "②オニ",
         "params": [
             [
@@ -10524,7 +10524,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Move Type☆",
+        "name": "AGI TYPE ☆",
         "note": "③コクワ",
         "params": [
             [
@@ -11407,7 +11407,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Barrier Type☆☆",
+        "name": "DEF TYPE ☆☆",
         "note": "④アカアシ",
         "params": [
             [
@@ -12295,7 +12295,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Move Type☆☆",
+        "name": "AGI TYPE ☆☆",
         "note": "⑤ネブト",
         "params": [
             [
@@ -13178,7 +13178,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Attack Type☆☆",
+        "name": "ATK TYPE ☆☆",
         "note": "⑥ミヤマ",
         "params": [
             [
@@ -14061,7 +14061,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Barrier Type☆☆☆",
+        "name": "DEF TYPE ☆☆☆",
         "note": "⑦ヒラタ",
         "params": [
             [
@@ -14954,7 +14954,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Attack Type ☆☆☆☆",
+        "name": "ATK TYPE ☆☆☆☆",
         "note": "⑧オオクワ",
         "params": [
             [
@@ -15852,7 +15852,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Move Type☆☆☆",
+        "name": "AGI TYPE ☆☆☆",
         "note": "⑨カブト♀",
         "params": [
             [
@@ -16745,7 +16745,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Barrier Type☆☆☆☆",
+        "name": "DEF TYPE ☆☆☆☆",
         "note": "⑩カブト♂",
         "params": [
             [
@@ -17638,7 +17638,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Move Type☆☆",
+        "name": "AGI TYPE ☆☆",
         "note": "⑪カナブン",
         "params": [
             [
@@ -18526,7 +18526,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Barrier Type☆☆☆",
+        "name": "DEF TYPE ☆☆☆",
         "note": "⑫マイマイ",
         "params": [
             [
@@ -19414,7 +19414,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Attack Type☆☆",
+        "name": "ATK TYPE ☆☆",
         "note": "⑬オサムシ",
         "params": [
             [
@@ -20307,7 +20307,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Move Type☆☆",
+        "name": "AGI TYPE ☆☆",
         "note": "⑭ハンミョウ",
         "params": [
             [
@@ -21195,7 +21195,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Attack Type☆☆☆",
+        "name": "ATK TYPE ☆☆☆",
         "note": "⑮ウスバカミキリ（未調整）オオカマキリコピー\n",
         "params": [
             [
@@ -22088,7 +22088,7 @@
                 "skillId": 18
             }
         ],
-        "name": "Move Type ☆☆☆",
+        "name": "AGI TYPE ☆☆☆",
         "note": "⑯シロスジカミキリ（未調整）カブト♀コピー",
         "params": [
             [
@@ -22986,7 +22986,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Move Type ☆☆☆☆",
+        "name": "AGI TYPE ☆☆☆☆",
         "note": "⑰ルリボシ",
         "params": [
             [
@@ -23874,7 +23874,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Attack Type☆☆☆",
+        "name": "ATK TYPE ☆☆☆",
         "note": "⑱ハラビロカマキリ（未調整）オオカマキリコピー",
         "params": [
             [
@@ -24762,7 +24762,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Attack Type ☆☆☆☆",
+        "name": "ATK TYPE ☆☆☆☆",
         "note": "⑲オオカマキリ",
         "params": [
             [
@@ -25650,7 +25650,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Attack Type☆☆☆",
+        "name": "ATK TYPE ☆☆☆",
         "note": "⑳タガメ（未調整）オオカマキリコピー",
         "params": [
             [
@@ -26538,7 +26538,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Barrier Type☆☆☆",
+        "name": "DEF TYPE ☆☆☆",
         "note": "㉑ゲンゴロウ（未調整）マイマイコピー",
         "params": [
             [
@@ -27441,7 +27441,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Amphibious Type ☆☆☆☆",
+        "name": "AMPHIBIOUS TYPE ☆☆☆☆",
         "note": "㉒サワガニ",
         "params": [
             [
@@ -28324,7 +28324,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Secret Weapon ☆☆☆☆☆",
+        "name": "SECRET TYPE ☆☆☆☆☆",
         "note": "㉓ザリガニ",
         "params": [
             [
@@ -29202,7 +29202,7 @@
                 "skillId": 46
             }
         ],
-        "name": "Child of Science☆☆☆☆☆",
+        "name": "SCIENCE TYPE ☆☆☆☆☆",
         "note": "㉔メカカブト",
         "params": [
             [
@@ -30090,7 +30090,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Attack Type ☆☆☆☆☆",
+        "name": "ATK TYPE ☆☆☆☆☆",
         "note": "㉕ヘラクレス（未調整）オオクワコピー",
         "params": [
             [
@@ -30978,7 +30978,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Barrier Type ☆☆☆☆☆",
+        "name": "DEF TYPE ☆☆☆☆☆",
         "note": "㉖コーカサス（未調整）カブト♂コピー",
         "params": [
             [
@@ -31876,7 +31876,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Move Type ☆☆☆☆☆",
+        "name": "AGI TYPE ☆☆☆☆☆",
         "note": "㉗ギラファ（未調整）ルリボシコピー",
         "params": [
             [
@@ -32774,7 +32774,7 @@
                 "skillId": 16
             }
         ],
-        "name": "Legendary☆☆☆☆☆☆",
+        "name": "LEGENDARY ☆☆☆☆☆☆",
         "note": "㉘オオゴンカブト",
         "params": [
             [
