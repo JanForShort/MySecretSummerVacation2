@@ -1514,7 +1514,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Ah... Nana-chan, you're sleeping... I wonder if it's\nokay to play a little prank on you?"
+                                "\\N<Boku>Ah... Nana-chan, you're sleeping... I wonder\nif it's okay to play a little prank on\nyou?"
                             ]
                         },
                         {
@@ -1574,7 +1574,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>(...It's okay to do it just a little bit, right...\nJust a quick look...)"
+                                "\\N<Boku>(...It's okay to do it just a little bit,\nright... Just a quick look...)"
                             ]
                         },
                         {
@@ -1711,7 +1711,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>(...Oh, she's not awake... right...? If she doesn't\nwake up even with just this... I wonder if it's okay to...\njust a little bit more... play a prank...?)"
+                                "\\N<Boku>(...Oh, she's not awake... right...? If she\ndoesn't wake up even with just this... I\nwonder if it's okay to... just a little\nbit more... play a prank...?)"
                             ]
                         },
                         {
@@ -1791,7 +1791,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boku>(N-No, no! I can't do it after all! I have to put\nher clothes back before she wakes up...!)"
+                                "\\N<Boku>(N-No, no! I can't do it after all! I have to\nput her clothes back before she wakes\nup...!)"
                             ]
                         },
                         {
@@ -2001,7 +2001,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Ah... Nana-chan, you're sleeping... It's better not\nto wake you up, right..."
+                                "\\N<Boku>Ah... Nana-chan, you're sleeping... It's\nbetter not to wake you up, right..."
                             ]
                         },
                         {

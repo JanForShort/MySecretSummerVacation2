@@ -3707,7 +3707,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Would you like to execute customization? *Pink flyers will\nbe issued at the same time. Please note that clothing will\nnot be saved on the pink flyers."
+                                "Would you like to execute customization?\n*Pink flyers will be issued at the same\ntime. Please note that clothing will not\nbe saved on the pink flyers."
                             ]
                         },
                         {
@@ -3745,7 +3745,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "※If you do not want to issue flyers, please turn off the\noption Custom Mode: Pink Flyer Issuance."
+                                "※If you do not want to issue flyers, please\nturn off the option Custom Mode: Pink\nFlyer Issuance."
                             ]
                         },
                         {

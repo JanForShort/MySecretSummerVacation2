@@ -2013,7 +2013,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Ah, is it already this late... I think I'll stop for\ntoday."
+                                "\\N<Boku>Ah, is it already this late... I think I'll\nstop for today."
                             ]
                         },
                         {
@@ -2953,7 +2953,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Ah... my airplane, it's in such a place... ugh... I\ncan't reach it like this..."
+                                "\\N<Boku>Ah... my airplane, it's in such a place...\nugh... I can't reach it like this..."
                             ]
                         },
                         {
@@ -2984,7 +2984,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>It seems like nobody is in this house right now, so\nI guess I have no choice but to give up... sigh..."
+                                "\\N<Boku>It seems like nobody is in this house\nright now, so I guess I have no choice\nbut to give up... sigh..."
                             ]
                         },
                         {
@@ -3051,7 +3051,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah... my airplane, it's in such a place... ugh... I\ncan't reach it like this..."
+                                "\\N<Boku>Ah... my airplane, it's in such a place...\nugh... I can't reach it like this..."
                             ]
                         },
                         {
@@ -3251,7 +3251,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Yeah... I was flying it over there, but it flew all\nthe way here... I'm sorry."
+                                "\\N<Boku>Yeah... I was flying it over there, but it flew\nall the way here... I'm sorry."
                             ]
                         },
                         {
@@ -3722,7 +3722,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Aunt>Hehe, oh my, you're such a cute little boy. I wonder\nif you live nearby?"
+                                "\\N<Aunt>Hehe, oh my, you're such a cute little boy. I\nwonder if you live nearby?"
                             ]
                         },
                         {
@@ -3753,7 +3753,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Yeah! I'm living in this town just for the summer\nvacation!"
+                                "\\N<Boku>Yeah! I'm living in this town just for the\nsummer vacation!"
                             ]
                         },
                         {
@@ -3777,7 +3777,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Aunt>Oh, is that so... Hey, kiddo. Since I have some\nsnacks, how about having tea at Auntie's house? I was just\nbored, so would you be my conversation partner?"
+                                "\\N<Aunt>Oh, is that so... Hey, kiddo. Since I have\nsome snacks, how about having tea at\nAuntie's house? I was just bored, so\nwould you be my conversation partner?"
                             ]
                         },
                         {
@@ -3832,7 +3832,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Aunt>That's right, you're a good kid... ♥ Come over here."
+                                "\\N<Aunt>That's right, you're a good kid... ♥ Come over\nhere."
                             ]
                         },
                         {

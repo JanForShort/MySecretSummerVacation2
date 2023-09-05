@@ -1446,25 +1446,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#夏の夜空に"
+                                "Colorful dazzling lights bloom in the summer\nnight sky."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#色とりどりのまばゆい光が花開く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -1484,28 +1484,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#今にして思えば、それは決して大きくも立派でもない"
+                                "Looking back now, it was just an ordinary small\nfirework, not particularly big or\nimpressive. However, the fireworks we\nall looked up to on that day were more\ndazzling and radiant than any fireworks\nI had ever seen before..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#ごく普通の小さな花火だったのだが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#皆で見上げたあの日の花火は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\#今まで見たどんな花火よりも、目映く輝いていた…。"
+                                ""
                             ]
                         },
                         {

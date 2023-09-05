@@ -11284,7 +11284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>It's a huge spider web!...I-I can't get through\nthis....If only there was something like a tree branch..."
+                                "\\N<Boku>It's a huge spider web!...I-I can't get\nthrough this....If only there was\nsomething like a tree branch..."
                             ]
                         },
                         {
@@ -11392,7 +11392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>It's a huge spider web! Let's take it down with a\ntree branch."
+                                "\\N<Boku>It's a huge spider web! Let's take it down\nwith a tree branch."
                             ]
                         },
                         {
@@ -12007,7 +12007,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Ah! Wasn't I not supposed to fish in the living\nroom...? I better stop..."
+                                "\\N<Boku>Ah! Wasn't I not supposed to fish in the\nliving room...? I better stop..."
                             ]
                         },
                         {
@@ -13355,7 +13355,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\#Ugui"
+                                "Ugui"
                             ]
                         },
                         {
@@ -13710,7 +13710,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\N<Boku>I already have that one. Let's release it."
+                                "\\N<Boku>I already have that one. Let's release\nit."
                             ]
                         },
                         {
@@ -13854,7 +13854,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\N<Boku>Wow! It's a crayfish!... But I can't keep it without\na water tank... It's a shame, but I'll let it go."
+                                "\\N<Boku>Wow! It's a crayfish!... But I can't keep it\nwithout a water tank... It's a shame,\nbut I'll let it go."
                             ]
                         },
                         {
@@ -13999,7 +13999,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\#Goldfish"
+                                "Goldfish"
                             ]
                         },
                         {
@@ -14124,7 +14124,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\#Oikawa"
+                                "Oikawa"
                             ]
                         },
                         {
@@ -14248,7 +14248,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\#Funah"
+                                "Funah"
                             ]
                         },
                         {
@@ -14501,7 +14501,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\#Koi"
+                                "Koi"
                             ]
                         },
                         {
@@ -14646,7 +14646,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\# Catfish"
+                                " Catfish"
                             ]
                         },
                         {
@@ -14752,7 +14752,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\# Musk Turtle"
+                                " Musk Turtle"
                             ]
                         },
                         {
@@ -14877,7 +14877,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\#Medaka"
+                                "Medaka"
                             ]
                         },
                         {
@@ -14992,7 +14992,7 @@
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "\\#Ayu"
+                                "Ayu"
                             ]
                         },
                         {
@@ -15100,7 +15100,7 @@
                             "code": 401,
                             "indent": 11,
                             "parameters": [
-                                "\\#Donko"
+                                "Donko"
                             ]
                         },
                         {
@@ -19912,7 +19912,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>I want it... but I can't carry this around, can I? I\nneed to find a hidden place for it..."
+                                "\\N<Boku>I want it... but I can't carry this\naround, can I? I need to find a hidden\nplace for it..."
                             ]
                         },
                         {
@@ -19936,7 +19936,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>If I could bring it home, there was a VCR near the\nTV, right...? If no one is around, maybe I can watch it\nthen...?"
+                                "\\N<Boku>If I could bring it home, there was a VCR\nnear the TV, right...? If no one is\naround, maybe I can watch it then...?"
                             ]
                         },
                         {
@@ -19994,7 +19994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>There was a VCR near the TV, right...? If no one is\naround, maybe I can watch it then...?"
+                                "\\N<Boku>There was a VCR near the TV, right...? If no\none is around, maybe I can watch it\nthen...?"
                             ]
                         },
                         {
@@ -20037,7 +20037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Ah! There's even an erotic flyer in here...!"
+                                "\\N<Boku>Ah! There's even an erotic flyer in\nhere...!"
                             ]
                         },
                         {
@@ -20261,7 +20261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>I can hide erotic books and stuff here...! I'll even\nput away the ones I've found so far!"
+                                "\\N<Boku>I can hide erotic books and stuff\nhere...! I'll even put away the ones\nI've found so far!"
                             ]
                         },
                         {
@@ -20348,7 +20348,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>I can hide erotic books and stuff here too..."
+                                "\\N<Boku>I can hide erotic books and stuff here\ntoo..."
                             ]
                         },
                         {
@@ -20769,7 +20769,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>I want it... but I can't carry this around, can I? I\nneed to find a hiding spot somewhere..."
+                                "\\N<Boku>I want it... but I can't carry this\naround, can I? I need to find a hiding\nspot somewhere..."
                             ]
                         },
                         {
@@ -21114,7 +21114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(There's a drink... It looks interesting, maybe I\nshould try adding some nectar from the dream grass\nflower...?)"
+                                "\\N<Boku>(There's a drink... It looks interesting, maybe\nI should try adding some nectar from the\ndream grass flower...?)"
                             ]
                         },
                         {
@@ -21401,7 +21401,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>...Huh? It seems like something lewd is happening...\nBut, I also want to watch a video... Which one should I\nchoose...?"
+                                "\\N<Boku>...Huh? It seems like something lewd is\nhappening... But, I also want to watch a\nvideo... Which one should I choose...?"
                             ]
                         },
                         {
@@ -21656,7 +21656,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>...Huh? It seems like something lewd is happening..."
+                                "\\N<Boku>...Huh? It seems like something lewd is\nhappening..."
                             ]
                         },
                         {
@@ -21725,7 +21725,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Hmm... They're showing an old movie, but... I don't\nreally understand it..."
+                                "\\N<Boku>Hmm... They're showing an old movie, but... I\ndon't really understand it..."
                             ]
                         },
                         {
@@ -21851,7 +21851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Summer Vacation Special! Today's Fortune-telling Corner!"
+                                "Summer Vacation Special! Today's Fortune-\ntelling Corner!"
                             ]
                         },
                         {
@@ -21886,7 +21886,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Your fortune for today, sitting in front of the TV, is...\n'Great luck'! Hooray, baby! Something good might happen!"
+                                "Your fortune for today, sitting in front of\nthe TV, is... 'Great luck'! Hooray,\nbaby! Something good might happen!"
                             ]
                         },
                         {
@@ -21945,7 +21945,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Your fortune for today, sitting there in front of the TV,\nis... 'Chuukichi'! Something slightly good might happen."
+                                "Your fortune for today, sitting there in\nfront of the TV, is... 'Chuukichi'!\nSomething slightly good might happen."
                             ]
                         },
                         {
@@ -21997,7 +21997,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Your fortune for today, sitting there in front of the TV,\nis... 'Kichi'! It might just be an ordinary day..."
+                                "Your fortune for today, sitting there in\nfront of the TV, is... 'Kichi'! It might\njust be an ordinary day..."
                             ]
                         },
                         {
@@ -22049,7 +22049,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Your fortune for today, sitting there in front of the TV,\nis... 'Suekichi'! It might be an average day..."
+                                "Your fortune for today, sitting there in\nfront of the TV, is... 'Suekichi'! It\nmight be an average day..."
                             ]
                         },
                         {
@@ -22101,7 +22101,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Your fortune for today, sitting there in front of the TV,\nis... 'Kyō'! Don't worry! There are days like that too!\nWell, don't let it bother you!"
+                                "Your fortune for today, sitting there in\nfront of the TV, is... 'Kyō'! Don't\nworry! There are days like that too!\nWell, don't let it bother you!"
                             ]
                         },
                         {
@@ -22200,7 +22200,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Summer has just begun! Let's go explore various places!\nThere might be unexpected encounters!"
+                                "Summer has just begun! Let's go explore\nvarious places! There might be\nunexpected encounters!"
                             ]
                         },
                         {
@@ -22252,7 +22252,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Friendship luck might be increasing! Have you made any\nfriends yet? If not, let's try to find some! But don't\nforget about your homework!"
+                                "Friendship luck might be increasing! Have you made\nany friends yet? If not, let's try to\nfind some! But don't forget about your\nhomework!"
                             ]
                         },
                         {
@@ -22311,7 +22311,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Pay attention to your financial luck! Allowance is\nimportant! It's not good to waste money, right? Think\ncarefully about what you really need. But shopping is also\nfun, isn't it?"
+                                "Pay attention to your financial luck!\nAllowance is important! It's not good to\nwaste money, right? Think carefully\nabout what you really need. But shopping\nis also fun, isn't it?"
                             ]
                         },
                         {
@@ -22370,7 +22370,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Do you know the saying 'Kindness doesn't benefit others'?\nWhen you do good things, good things can happen to you too.\nFor example, if you give presents to someone close to you\nmultiple times, something good might happen, you know?"
+                                "Do you know the saying 'Kindness doesn't\nbenefit others'? When you do good\nthings, good things can happen to you\ntoo. For example, if you give presents\nto someone close to you multiple times,\nsomething good might happen, you know?"
                             ]
                         },
                         {
@@ -22429,7 +22429,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "Just because it's bedtime, are you staying up late? If you\ndrink coffee before going to bed, you won't be able to\nsleep! Your health luck will decrease! But at night, you\nmight feel a little excited, you know?"
+                                "Just because it's bedtime, are you staying\nup late? If you drink coffee before\ngoing to bed, you won't be able to\nsleep! Your health luck will decrease!\nBut at night, you might feel a little\nexcited, you know?"
                             ]
                         },
                         {
@@ -22488,7 +22488,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "Are you waking up early, brushing your teeth, and taking a\nproper bath every day? If you're being a good child, good\nluck might come your way, and something good might happen,\nyou know?"
+                                "Are you waking up early, brushing your\nteeth, and taking a proper bath every\nday? If you're being a good child, good\nluck might come your way, and something\ngood might happen, you know?"
                             ]
                         },
                         {
@@ -22547,7 +22547,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "Do you know about 'One good deed a day'? It means doing\nsomething good at least once a day. Like picking up trash,\nthat's a good thing, right? Let's take the bottles we pick\nup to the shop and have them take them."
+                                "Do you know about 'One good deed a day'?\nIt means doing something good at least\nonce a day. Like picking up trash,\nthat's a good thing, right? Let's take\nthe bottles we pick up to the shop and\nhave them take them."
                             ]
                         },
                         {
@@ -22606,7 +22606,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "There is the resonance of impermanence. Things are always\nchanging. Even on that familiar road, there might be some\nchanges, you know?"
+                                "There is the resonance of impermanence.\nThings are always changing. Even on that\nfamiliar road, there might be some\nchanges, you know?"
                             ]
                         },
                         {
@@ -22665,7 +22665,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "A premonition of a new encounter! The lucky spot is the\nlake!"
+                                "A premonition of a new encounter! The\nlucky spot is the lake!"
                             ]
                         },
                         {
@@ -22710,7 +22710,7 @@
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "Today's lucky point is weeding! Let's help out occasionally\ntoo!"
+                                "Today's lucky point is weeding! Let's help out\noccasionally too!"
                             ]
                         },
                         {
@@ -22755,7 +22755,7 @@
                             "code": 401,
                             "indent": 11,
                             "parameters": [
-                                "Speaking of art, it's usually associated with autumn, but\neven in summer, art can explode! Finish your art homework\ntoo! Maybe someone from the neighborhood will help you?"
+                                "Speaking of art, it's usually associated with\nautumn, but even in summer, art can\nexplode! Finish your art homework too!\nMaybe someone from the neighborhood will\nhelp you?"
                             ]
                         },
                         {
@@ -22814,7 +22814,7 @@
                             "code": 401,
                             "indent": 12,
                             "parameters": [
-                                "It's almost Obon! Our ancestors will be coming back! From\nthe 13th to the 16th, be careful not to go fishing, okay?"
+                                "It's almost Obon! Our ancestors will be\ncoming back! From the 13th to the 16th,\nbe careful not to go fishing, okay?"
                             ]
                         },
                         {
@@ -22873,7 +22873,7 @@
                             "code": 401,
                             "indent": 13,
                             "parameters": [
-                                "Outdoor luck is rising! I want to try camping and stuff! If\nthere's a good place, let's suggest it to everyone! Don't\nforget to get permission from your parents."
+                                "Outdoor luck is rising! I want to try camping\nand stuff! If there's a good place,\nlet's suggest it to everyone! Don't\nforget to get permission from your\nparents."
                             ]
                         },
                         {
@@ -22932,7 +22932,7 @@
                             "code": 401,
                             "indent": 14,
                             "parameters": [
-                                "Unexpected things can happen, like finding a hidden gem!\nWhen you're playing with friends, you might encounter\nsomething unexpected, right?"
+                                "Unexpected things can happen, like finding a\nhidden gem! When you're playing with\nfriends, you might encounter something\nunexpected, right?"
                             ]
                         },
                         {
@@ -22984,7 +22984,7 @@
                             "code": 401,
                             "indent": 15,
                             "parameters": [
-                                "Half of summer vacation is still remaining! It's hot, but\nlet's do our best with energy! The lucky spot might be the\nschool in the morning!"
+                                "Half of summer vacation is still remaining!\nIt's hot, but let's do our best with\nenergy! The lucky spot might be the\nschool in the morning!"
                             ]
                         },
                         {
@@ -23031,14 +23031,14 @@
                             "code": 401,
                             "indent": 16,
                             "parameters": [
-                                "『それに今日は大きなイベントがあるかも⁉"
+                                "And today, there might be a big event⁉ The\nschool at night is also a lucky spot!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 16,
                             "parameters": [
-                                "　夜の学校もラッキースポットだ！』"
+                                ""
                             ]
                         },
                         {
@@ -23086,7 +23086,7 @@
                             "code": 401,
                             "indent": 16,
                             "parameters": [
-                                "I'm curious about my luck with lottery! I tend to spend\nmoney on gacha... but I want to collect them all! I still\nwant to complete it after all!"
+                                "I'm curious about my luck with lottery! I\ntend to spend money on gacha... but I\nwant to collect them all! I still want\nto complete it after all!"
                             ]
                         },
                         {
@@ -23145,7 +23145,7 @@
                             "code": 401,
                             "indent": 17,
                             "parameters": [
-                                "I wonder if you're being a good kid? If you behave well,\nsomeone close to you might give you a reward! The second\nfloor in the afternoon is the lucky zone!"
+                                "I wonder if you're being a good kid? If\nyou behave well, someone close to you\nmight give you a reward! The second\nfloor in the afternoon is the lucky\nzone!"
                             ]
                         },
                         {
@@ -23204,7 +23204,7 @@
                             "code": 401,
                             "indent": 18,
                             "parameters": [
-                                "Tonight might be a special night with something happening!\nThe lucky spot is the lake!"
+                                "Tonight might be a special night with something\nhappening! The lucky spot is the lake!"
                             ]
                         },
                         {
@@ -23256,7 +23256,7 @@
                             "code": 401,
                             "indent": 19,
                             "parameters": [
-                                "The trendy precious item right now is a paper airplane! It\nwould be nice if we could make it fly far! But sometimes it\nmight end up flying to unexpected places...?"
+                                "The trendy precious item right now is a\npaper airplane! It would be nice if we\ncould make it fly far! But sometimes it\nmight end up flying to unexpected\nplaces...?"
                             ]
                         },
                         {
@@ -23315,7 +23315,7 @@
                             "code": 401,
                             "indent": 20,
                             "parameters": [
-                                "Evening is an intriguing time, don't you think? Do you ever\nwonder if something mysterious or out of the ordinary might\nhappen?"
+                                "Evening is an intriguing time, don't you think?\nDo you ever wonder if something\nmysterious or out of the ordinary might\nhappen?"
                             ]
                         },
                         {
@@ -23374,7 +23374,7 @@
                             "code": 401,
                             "indent": 21,
                             "parameters": [
-                                "Winning luck is increasing! Is there any important match\ncoming up? Don't forget to prepare!"
+                                "Winning luck is increasing! Is there any\nimportant match coming up? Don't forget\nto prepare!"
                             ]
                         },
                         {
@@ -23426,7 +23426,7 @@
                             "code": 401,
                             "indent": 22,
                             "parameters": [
-                                "Travel luck is rising! Even if it's not a trip, staying over\nat a friend's house is fun, right? If you stay at home until\nevening or visit in the evening, there might be such\nopportunities."
+                                "Travel luck is rising! Even if it's not a\ntrip, staying over at a friend's house\nis fun, right? If you stay at home until\nevening or visit in the evening, there\nmight be such opportunities."
                             ]
                         },
                         {
@@ -23485,7 +23485,7 @@
                             "code": 401,
                             "indent": 23,
                             "parameters": [
-                                "Summer vacation is almost over! Make sure you don't have any\nregrets! Well, if you couldn't do something this time, let's\ndo our best again in the next summer vacation!"
+                                "Summer vacation is almost over! Make sure you\ndon't have any regrets! Well, if you\ncouldn't do something this time, let's\ndo our best again in the next summer\nvacation!"
                             ]
                         },
                         {
@@ -23544,7 +23544,7 @@
                             "code": 401,
                             "indent": 24,
                             "parameters": [
-                                "Last sprint of summer vacation! Whether we cry or laugh,\nthere's only one week left! Might as well finish with a\nsmile, right?"
+                                "Last sprint of summer vacation! Whether we\ncry or laugh, there's only one week\nleft! Might as well finish with a smile,\nright?"
                             ]
                         },
                         {
@@ -23596,7 +23596,7 @@
                             "code": 401,
                             "indent": 25,
                             "parameters": [
-                                "Winning luck is at its peak! Today is the decisive battle!\nBut friendship is also important! After the match, let's all\npraise each other's efforts!"
+                                "Winning luck is at its peak! Today is the\ndecisive battle! But friendship is also\nimportant! After the match, let's all\npraise each other's efforts!"
                             ]
                         },
                         {
@@ -23655,7 +23655,7 @@
                             "code": 401,
                             "indent": 26,
                             "parameters": [
-                                "'I'm getting tired of doing daily fortune-telling... Today,\nlet's try to do it without relying on fortune-telling!\nBelieve in yourself!'"
+                                "'I'm getting tired of doing daily fortune-\ntelling... Today, let's try to do it\nwithout relying on fortune-telling!\nBelieve in yourself!'"
                             ]
                         },
                         {
@@ -23714,7 +23714,7 @@
                             "code": 401,
                             "indent": 27,
                             "parameters": [
-                                "It's still hot, isn't it...? Huh? Fortune-telling...?\nWell... let me think about it until tomorrow."
+                                "It's still hot, isn't it...? Huh? Fortune-\ntelling...? Well... let me think about\nit until tomorrow."
                             ]
                         },
                         {
@@ -23773,7 +23773,7 @@
                             "code": 401,
                             "indent": 28,
                             "parameters": [
-                                "Do I have any forgotten items? I have a feeling that the day\nafter tomorrow will be busy. It's best to finish any errands\nearly if I have any."
+                                "Do I have any forgotten items? I have a\nfeeling that the day after tomorrow will\nbe busy. It's best to finish any errands\nearly if I have any."
                             ]
                         },
                         {
@@ -23832,7 +23832,7 @@
                             "code": 401,
                             "indent": 29,
                             "parameters": [
-                                "Be careful with your financial luck! Today is your last\nchance for shopping! Pay attention to not forget anything!"
+                                "Be careful with your financial luck! Today\nis your last chance for shopping! Pay\nattention to not forget anything!"
                             ]
                         },
                         {
@@ -23884,7 +23884,7 @@
                             "code": 401,
                             "indent": 30,
                             "parameters": [
-                                "Today is the Summer Vacation Special! It's the final episode\nof the fortune-telling corner! Well then, everyone, good\nluck‼"
+                                "Today is the Summer Vacation Special! It's\nthe final episode of the fortune-telling\ncorner! Well then, everyone, good luck‼"
                             ]
                         },
                         {
@@ -23939,7 +23939,7 @@
                             "code": 401,
                             "indent": 30,
                             "parameters": [
-                                "Huh? Is it still summer vacation...? Well, whatever!"
+                                "Huh? Is it still summer vacation...? Well,\nwhatever!"
                             ]
                         },
                         {
@@ -24335,7 +24335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Hmm... I haven't played anything interesting..."
+                                "\\N<Boku>Hmm... I haven't played anything\ninteresting..."
                             ]
                         },
                         {
@@ -24987,7 +24987,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\# Sawtooth Stag Beetle"
+                                " Sawtooth Stag Beetle"
                             ]
                         },
                         {
@@ -25246,7 +25246,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\#Giant Stag Beetle"
+                                "Giant Stag Beetle"
                             ]
                         },
                         {
@@ -25505,7 +25505,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\#Stag Beetle"
+                                "Stag Beetle"
                             ]
                         },
                         {
@@ -25895,7 +25895,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\#Red-legged Stag Beetle"
+                                "Red-legged Stag Beetle"
                             ]
                         },
                         {
@@ -26154,7 +26154,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\#Nebuto Kuwagata"
+                                "Nebuto Kuwagata"
                             ]
                         },
                         {
@@ -26413,7 +26413,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\#Myama Stag Beetle"
+                                "Myama Stag Beetle"
                             ]
                         },
                         {
@@ -26445,7 +26445,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\N<Boku>I already have that one. Let's release it."
+                                "\\N<Boku>I already have that one. Let's release\nit."
                             ]
                         },
                         {
@@ -26747,7 +26747,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\#Hiratakuwagata"
+                                "Hiratakuwagata"
                             ]
                         },
                         {
@@ -26779,7 +26779,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\N<Boku>I already have that one. Let's release it."
+                                "\\N<Boku>I already have that one. Let's release\nit."
                             ]
                         },
                         {
@@ -27006,7 +27006,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\#Female Stag Beetle"
+                                "Female Stag Beetle"
                             ]
                         },
                         {
@@ -27038,7 +27038,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\N<Boku>I already have that one. Let's release it."
+                                "\\N<Boku>I already have that one. Let's release\nit."
                             ]
                         },
                         {
@@ -27297,7 +27297,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\N<Boku>I already have that one. Let's release it."
+                                "\\N<Boku>I already have that one. Let's release\nit."
                             ]
                         },
                         {
@@ -27599,7 +27599,7 @@
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "\\#Blue Stag Beetle"
+                                "Blue Stag Beetle"
                             ]
                         },
                         {
@@ -27631,7 +27631,7 @@
                             "code": 401,
                             "indent": 11,
                             "parameters": [
-                                "\\N<Boku>I already have that one. Let's release it."
+                                "\\N<Boku>I already have that one. Let's release\nit."
                             ]
                         },
                         {
@@ -27858,7 +27858,7 @@
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "\\#Giant Stag Beetle"
+                                "Giant Stag Beetle"
                             ]
                         },
                         {
@@ -27890,7 +27890,7 @@
                             "code": 401,
                             "indent": 11,
                             "parameters": [
-                                "\\N<Boku>I already have that one. Let's release it."
+                                "\\N<Boku>I already have that one. Let's release\nit."
                             ]
                         },
                         {
@@ -28117,7 +28117,7 @@
                             "code": 401,
                             "indent": 10,
                             "parameters": [
-                                "\\#Firefly"
+                                "Firefly"
                             ]
                         },
                         {
@@ -28149,7 +28149,7 @@
                             "code": 401,
                             "indent": 11,
                             "parameters": [
-                                "\\N<Boku>I already have that one. Let's release it."
+                                "\\N<Boku>I already have that one. Let's release\nit."
                             ]
                         },
                         {
@@ -28451,7 +28451,7 @@
                             "code": 401,
                             "indent": 12,
                             "parameters": [
-                                "\\#Longhorn Beetle"
+                                "Longhorn Beetle"
                             ]
                         },
                         {
@@ -28483,7 +28483,7 @@
                             "code": 401,
                             "indent": 13,
                             "parameters": [
-                                "\\N<Boku>I already have that one. Let's release it."
+                                "\\N<Boku>I already have that one. Let's release\nit."
                             ]
                         },
                         {
@@ -28742,7 +28742,7 @@
                             "code": 401,
                             "indent": 13,
                             "parameters": [
-                                "\\N<Boku>I already have that one. Let's release it."
+                                "\\N<Boku>I already have that one. Let's release\nit."
                             ]
                         },
                         {
@@ -28969,7 +28969,7 @@
                             "code": 401,
                             "indent": 12,
                             "parameters": [
-                                "\\#Hara-biro Kamakiri"
+                                "Hara-biro Kamakiri"
                             ]
                         },
                         {
@@ -29001,7 +29001,7 @@
                             "code": 401,
                             "indent": 13,
                             "parameters": [
-                                "\\N<Boku>I already have that one. Let's release it."
+                                "\\N<Boku>I already have that one. Let's release\nit."
                             ]
                         },
                         {
@@ -29303,7 +29303,7 @@
                             "code": 401,
                             "indent": 14,
                             "parameters": [
-                                "\\#Giant Stag Beetle"
+                                "Giant Stag Beetle"
                             ]
                         },
                         {
@@ -29335,7 +29335,7 @@
                             "code": 401,
                             "indent": 15,
                             "parameters": [
-                                "\\N<Boku>I already have that one. Let's release it."
+                                "\\N<Boku>I already have that one. Let's release\nit."
                             ]
                         },
                         {
@@ -29562,7 +29562,7 @@
                             "code": 401,
                             "indent": 14,
                             "parameters": [
-                                "\\#Kabutomushi♂"
+                                "Kabutomushi♂"
                             ]
                         },
                         {
@@ -29594,7 +29594,7 @@
                             "code": 401,
                             "indent": 15,
                             "parameters": [
-                                "\\N<Boku>I already have that one. Let's release it."
+                                "\\N<Boku>I already have that one. Let's release\nit."
                             ]
                         },
                         {
@@ -29821,7 +29821,7 @@
                             "code": 401,
                             "indent": 14,
                             "parameters": [
-                                "\\#Giant Mantis"
+                                "Giant Mantis"
                             ]
                         },
                         {
@@ -29853,7 +29853,7 @@
                             "code": 401,
                             "indent": 15,
                             "parameters": [
-                                "\\N<Boku>I already have that one. Let's release it."
+                                "\\N<Boku>I already have that one. Let's release\nit."
                             ]
                         },
                         {
@@ -30080,7 +30080,7 @@
                             "code": 401,
                             "indent": 14,
                             "parameters": [
-                                "\\#Blue Jewel Beetle"
+                                "Blue Jewel Beetle"
                             ]
                         },
                         {
@@ -30112,7 +30112,7 @@
                             "code": 401,
                             "indent": 15,
                             "parameters": [
-                                "\\N<Boku>I already have that one. Let's release it."
+                                "\\N<Boku>I already have that one. Let's release\nit."
                             ]
                         },
                         {
@@ -30394,7 +30394,7 @@
                             "code": 401,
                             "indent": 16,
                             "parameters": [
-                                "\\#Tagame"
+                                "Tagame"
                             ]
                         },
                         {
@@ -30426,7 +30426,7 @@
                             "code": 401,
                             "indent": 17,
                             "parameters": [
-                                "\\N<Boku>I already have that one. Let's release it."
+                                "\\N<Boku>I already have that one. Let's release\nit."
                             ]
                         },
                         {
@@ -30653,7 +30653,7 @@
                             "code": 401,
                             "indent": 16,
                             "parameters": [
-                                "\\#Gengorou"
+                                "Gengorou"
                             ]
                         },
                         {
@@ -30685,7 +30685,7 @@
                             "code": 401,
                             "indent": 17,
                             "parameters": [
-                                "\\N<Boku>I already have that one. Let's release it."
+                                "\\N<Boku>I already have that one. Let's release\nit."
                             ]
                         },
                         {
@@ -30912,7 +30912,7 @@
                             "code": 401,
                             "indent": 16,
                             "parameters": [
-                                "\\# Sawagani"
+                                " Sawagani"
                             ]
                         },
                         {
@@ -30944,7 +30944,7 @@
                             "code": 401,
                             "indent": 17,
                             "parameters": [
-                                "\\N<Boku>I already have that one. Let's release it."
+                                "\\N<Boku>I already have that one. Let's release\nit."
                             ]
                         },
                         {
@@ -31098,7 +31098,7 @@
                             "code": 401,
                             "indent": 15,
                             "parameters": [
-                                "\\N<Boku>I can't keep it without water... Let's release it."
+                                "\\N<Boku>I can't keep it without water... Let's\nrelease it."
                             ]
                         },
                         {
@@ -31741,7 +31741,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>I guess I'll pass on taking a bath for now..."
+                                "\\N<Boku>I guess I'll pass on taking a bath for\nnow..."
                             ]
                         },
                         {
@@ -33713,7 +33713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Ah, it's a chicken! Let's take it to the farm."
+                                "\\N<Boku>Ah, it's a chicken! Let's take it to the\nfarm."
                             ]
                         },
                         {
@@ -34156,7 +34156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I-It's cold! It must feel nice to swim.... but I\ndon't have a swimsuit..."
+                                "\\N<Boku>I-It's cold! It must feel nice to swim.... but\nI don't have a swimsuit..."
                             ]
                         },
                         {
@@ -35128,7 +35128,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Wow, that was fast. Well then, it looks like\nyou won, Boku-kun. I'll give you that capsule."
+                                "\\N<Hakase-kun>Wow, that was fast. Well then, it looks like\nyou won, Boku-kun. I'll give you that\ncapsule."
                             ]
                         },
                         {
@@ -35730,7 +35730,7 @@
                             "code": 401,
                             "indent": 11,
                             "parameters": [
-                                "\\N<Boku>Yay! I collected all the types! I have to let the\nshop girl know and get something amazing!"
+                                "\\N<Boku>Yay! I collected all the types! I have to\nlet the shop girl know and get something\namazing!"
                             ]
                         },
                         {
@@ -36490,7 +36490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Ah, that's frustrating. Let's do it again next time!\nI won't lose next time!"
+                                "\\N<Boku>Ah, that's frustrating. Let's do it again\nnext time! I won't lose next time!"
                             ]
                         },
                         {
@@ -36839,7 +36839,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(...It's okay to look a little bit, right? Just a\ntiny bit...just to take a peek...)"
+                                "\\N<Boku>(...It's okay to look a little bit, right? Just\na tiny bit...just to take a peek...)"
                             ]
                         },
                         {
@@ -37010,7 +37010,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(...I-I hope she's not awake...? If she doesn't wake\nup even with just this much...m-maybe I can play a little\nprank...?)"
+                                "\\N<Boku>(...I-I hope she's not awake...? If she doesn't\nwake up even with just this\nmuch...m-maybe I can play a little\nprank...?)"
                             ]
                         },
                         {
@@ -37201,7 +37201,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(N-No, no! I have to put the clothes back before she\nwakes up...!)"
+                                "\\N<Boku>(N-No, no! I have to put the clothes back\nbefore she wakes up...!)"
                             ]
                         },
                         {
@@ -39209,7 +39209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I-It's cold! It must feel nice to swim.... but I\ndon't have a swimsuit..."
+                                "\\N<Boku>I-It's cold! It must feel nice to swim.... but\nI don't have a swimsuit..."
                             ]
                         },
                         {
@@ -40167,7 +40167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I-It's cold! It must feel nice to swim.... but I\ndon't have a swimsuit..."
+                                "\\N<Boku>I-It's cold! It must feel nice to swim.... but\nI don't have a swimsuit..."
                             ]
                         },
                         {
@@ -41456,21 +41456,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>（？"
+                                "\\N<Boku>(I wonder if someone is inside...? Let's\ntake a peek through the keyhole...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　だれか入ってるのかな…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　カギ穴から、のぞいちゃおう…）"
+                                ""
                             ]
                         },
                         {

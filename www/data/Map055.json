@@ -2949,7 +2949,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Ah, Boku-kun, welcome. You came to play,\nright? Here, this is it. It's the promised mechanical\nrhinoceros beetle."
+                                "\\N<Hakase-kun>Ah, Boku-kun, welcome. You came to play,\nright? Here, this is it. It's the\npromised mechanical rhinoceros beetle."
                             ]
                         },
                         {
@@ -3080,7 +3080,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\# Mechanical Rhinoceros Beetle MkII"
+                                " Mechanical Rhinoceros Beetle MkII"
                             ]
                         },
                         {
@@ -3231,7 +3231,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Wow! Thank you, Hakase-kun! I'll treasure it!"
+                                "\\N<Boku>Wow! Thank you, Hakase-kun! I'll treasure\nit!"
                             ]
                         },
                         {
@@ -3385,7 +3385,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>I will hide this capsule inside the house and\nyou, Boku-kun, will search for it. If you can find it within\n100 seconds, you win."
+                                "\\N<Hakase-kun>I will hide this capsule inside the house\nand you, Boku-kun, will search for it.\nIf you can find it within 100 seconds,\nyou win."
                             ]
                         },
                         {
@@ -3604,7 +3604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hakase-kun>I hid it on the first floor. Alright, let's\nstart!"
+                                "\\N<Hakase-kun>I hid it on the first floor. Alright,\nlet's start!"
                             ]
                         },
                         {
@@ -3725,7 +3725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hakase-kun>I hid it on the first floor. Please go find\nit."
+                                "\\N<Hakase-kun>I hid it on the first floor. Please go\nfind it."
                             ]
                         },
                         {

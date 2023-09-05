@@ -2239,7 +2239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Wow... a big cow... could you please move a little?"
+                                "\\N<Boku>Wow... a big cow... could you please move a\nlittle?"
                             ]
                         },
                         {
@@ -3488,7 +3488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nana-chan>Oh, it's not you. What's up? Did you come to\nswim?"
+                                "\\N<Nana-chan>Oh, it's not you. What's up? Did you come\nto swim?"
                             ]
                         },
                         {
@@ -3544,7 +3544,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>Huh? You're not in a swimsuit? Then how about\nswimming naked? If you're embarrassed to do it alone, should\nI swim with you?"
+                                "\\N<Nana-chan>Huh? You're not in a swimsuit? Then how\nabout swimming naked? If you're\nembarrassed to do it alone, should I\nswim with you?"
                             ]
                         },
                         {
@@ -3616,7 +3616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>Then, how about swimming naked? If you're\nembarrassed to do it alone, should I swim with you?"
+                                "\\N<Nana-chan>Then, how about swimming naked? If you're\nembarrassed to do it alone, should I\nswim with you?"
                             ]
                         },
                         {
@@ -4077,7 +4077,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah, the bridge is broken... But maybe I can fix it\nmyself?"
+                                "\\N<Boku>Ah, the bridge is broken... But maybe I can\nfix it myself?"
                             ]
                         },
                         {
@@ -4115,7 +4115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>If I can cut down the tree growing here, I can make\na bridge, right...? I wonder if there's any tools around\nhere...?"
+                                "\\N<Boku>If I can cut down the tree growing here, I\ncan make a bridge, right...? I wonder if\nthere's any tools around here...?"
                             ]
                         },
                         {

@@ -15845,7 +15845,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, cute boy. Hello. Are you from this town?"
+                                "\\N<Onee-chan>Oh, cute boy. Hello. Are you from this\ntown?"
                             ]
                         },
                         {
@@ -15876,7 +15876,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Yeah, I'm Boku. I live here during summer vacation."
+                                "\\N<Boku>Yeah, I'm Boku. I live here during summer\nvacation."
                             ]
                         },
                         {
@@ -15907,7 +15907,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, Jesse, we're matching. Jesse also comes to\nstay at a nearby pension during the summer."
+                                "\\N<Onee-chan>Oh, Jesse, we're matching. Jesse also comes\nto stay at a nearby pension during the\nsummer."
                             ]
                         },
                         {
@@ -15938,7 +15938,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Huh?! That's my house! Onee-chan, you're a customer."
+                                "\\N<Boku>Huh?! That's my house! Onee-chan, you're a\ncustomer."
                             ]
                         },
                         {
@@ -15969,7 +15969,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Really? That's a coincidence. Then let's get\nalong well. Please call me Jesse in a friendly manner."
+                                "\\N<Onee-chan>Really? That's a coincidence. Then let's get\nalong well. Please call me Jesse in a\nfriendly manner."
                             ]
                         },
                         {
@@ -16133,7 +16133,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>I caught a catfish! Look, it's big, right?!"
+                                "\\N<Boku>I caught a catfish! Look, it's big,\nright?!"
                             ]
                         },
                         {
@@ -16157,7 +16157,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Jesse>Wow, a catfish! It's definitely so big. Looks like\nI win, huh?"
+                                "\\N<Jesse>Wow, a catfish! It's definitely so big.\nLooks like I win, huh?"
                             ]
                         },
                         {
@@ -16245,7 +16245,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Jesse>Well then, the promised hobby... Ah, sorry. I\nhaven't thought about it yet."
+                                "\\N<Jesse>Well then, the promised hobby... Ah, sorry.\nI haven't thought about it yet."
                             ]
                         },
                         {
@@ -16300,7 +16300,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Jesse>I'll think about it next time. Please look forward\nto it."
+                                "\\N<Jesse>I'll think about it next time. Please look\nforward to it."
                             ]
                         },
                         {
@@ -16341,7 +16341,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Jesse>However, do you have any big fish like this? Maybe\nJesse should try fishing in a deeper area too..."
+                                "\\N<Jesse>However, do you have any big fish like this?\nMaybe Jesse should try fishing in a\ndeeper area too..."
                             ]
                         },
                         {
@@ -16401,7 +16401,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boku>I caught a black bass! See, it's big, right?!"
+                                "\\N<Boku>I caught a black bass! See, it's big,\nright?!"
                             ]
                         },
                         {
@@ -16425,7 +16425,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Jesse>Oh, it's definitely big. But it's just a little\nsmaller than the Carp that Jesse caught."
+                                "\\N<Jesse>Oh, it's definitely big. But it's just a\nlittle smaller than the Carp that Jesse\ncaught."
                             ]
                         },
                         {
@@ -16489,7 +16489,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boku>Ugh... I need to catch a bigger fish, don't I..."
+                                "\\N<Boku>Ugh... I need to catch a bigger fish, don't\nI..."
                             ]
                         },
                         {
@@ -16555,7 +16555,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Jesse>Oh, it's definitely big. But it's about the same\nsize as the Carp that Jesse caught."
+                                "\\N<Jesse>Oh, it's definitely big. But it's about the\nsame size as the Carp that Jesse caught."
                             ]
                         },
                         {
@@ -16619,7 +16619,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Boku>Ugh... I need to catch a bigger fish, don't I...\nBut, I don't see any around here... Maybe I need to find a\nsecret fishing spot..."
+                                "\\N<Boku>Ugh... I need to catch a bigger fish, don't\nI... But, I don't see any around here...\nMaybe I need to find a secret fishing\nspot..."
                             ]
                         },
                         {
@@ -16665,7 +16665,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Boku>Come to think of it, didn't Boss-kun tell me about a\nsecret fishing spot...? Something about catching big fish\nonly in the evening...?"
+                                "\\N<Boku>Come to think of it, didn't Boss-kun tell me\nabout a secret fishing spot...?\nSomething about catching big fish only\nin the evening...?"
                             ]
                         },
                         {
@@ -16706,7 +16706,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Boku>I wonder if anyone knows a secret fishing spot...\nBoss-kun is older than me, so maybe they know? They might\nnot tell me in front of everyone, so maybe I should ask when\nit's just the two of us...?"
+                                "\\N<Boku>I wonder if anyone knows a secret fishing\nspot... Boss-kun is older than me, so\nmaybe they know? They might not tell me\nin front of everyone, so maybe I should\nask when it's just the two of us...?"
                             ]
                         },
                         {
@@ -16874,7 +16874,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Jesse>What a coincidence. Well then, shall we have a\nfishing battle, Jesse? Let's see who can catch the biggest\nfish in this town!"
+                                "\\N<Jesse>What a coincidence. Well then, shall we have\na fishing battle, Jesse? Let's see who\ncan catch the biggest fish in this town!"
                             ]
                         },
                         {
@@ -16912,7 +16912,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Yeah! I won't lose either! I'll catch a huge fish!"
+                                "\\N<Boku>Yeah! I won't lose either! I'll catch a huge\nfish!"
                             ]
                         },
                         {
@@ -16943,7 +16943,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Jesse>Well then, if you catch a big fish, please let me\nknow. If you can beat the fish that Jesse caught, I'll give\nyou some kind of reward."
+                                "\\N<Jesse>Well then, if you catch a big fish, please\nlet me know. If you can beat the fish\nthat Jesse caught, I'll give you some\nkind of reward."
                             ]
                         },
                         {
@@ -17033,7 +17033,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>I see... Maybe I should try fishing too..."
+                                "\\N<Boku>I see... Maybe I should try fishing\ntoo..."
                             ]
                         },
                         {
@@ -17180,7 +17180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Jesse>I'll think about the fishing battle event and let\nyou know next time. Please look forward to it!"
+                                "\\N<Jesse>I'll think about the fishing battle event\nand let you know next time. Please look\nforward to it!"
                             ]
                         },
                         {
@@ -17235,7 +17235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Jesse>However, are there really such big fish? Maybe\nJesse should try fishing in the deeper parts too..."
+                                "\\N<Jesse>However, are there really such big fish? Maybe\nJesse should try fishing in the deeper\nparts too..."
                             ]
                         },
                         {
@@ -17589,38 +17589,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「あら、ボクも来たんだ。"
+                                "\\N<Nana-chan>Oh, Boku came too. Hehe...? You came\nbecause you wanted to see my swimsuit,\nright? ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ふふーん…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あたしの水着が見たくて来たんでしょ？♥」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「ち、ちがうよー！」"
+                                ""
                             ]
                         },
                         {
@@ -17637,7 +17620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「じゃあ見たくないの？」"
+                                "\\N<Boku>N-No, that's not it!"
                             ]
                         },
                         {
@@ -17654,7 +17637,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「そ、そうじゃないけど…」"
+                                "\\N<Nana-chan>So, you don't want to see it?"
                             ]
                         },
                         {
@@ -17671,14 +17654,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ナナちゃん>「じゃあやっぱり見たかったんだ♥"
+                                "\\N<Boku>W-Well, that's not it..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ボクのスケベー♥」"
+                                "\\N<Nana-chan>So, you did want to see it after all ♥ My\nnaughty swimsuit ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17749,45 +17749,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ナナちゃん>「何よボク？"
+                                "\\N<Nana-chan>What's the matter, Boku? Do you really want to\nsee my swimsuit that badly? Hmmm...?\nWell then, should I show you more...?\n♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　そんなに水着が見たいの？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　ふーん…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　だったらもっと、見せてあげようか…？♥」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 3,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\N<ボク>「え…？」"
+                                ""
                             ]
                         },
                         {
@@ -17804,7 +17787,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ナナちゃん>「ほら、ちょっとこっち来て」"
+                                "\\N<Boku>Huh...?"
                             ]
                         },
                         {
@@ -17821,7 +17804,24 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ボク>「う、うん…」"
+                                "\\N<Nana-chan>Hey, come over here for a moment."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 3,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "\\N<Boku>Y-Yeah..."
                             ]
                         },
                         {
@@ -17976,14 +17976,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ナナちゃん>「ほら…♥"
+                                "\\N<Nana-chan>Look... ♥ You wanted to see this, right...? ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　ここ、見たかったんでしょ…？♥」"
+                                ""
                             ]
                         },
                         {
@@ -18031,7 +18031,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ボク>「⁉」"
+                                "\\N<Boku>「⁉」"
                             ]
                         },
                         {
@@ -18055,7 +18055,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ナナちゃん>「はい、おしまーい！」"
+                                "\\N<Nana-chan>Okay, it's over!"
                             ]
                         },
                         {
@@ -18072,7 +18072,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ボク>「え、えぇ…⁉」"
+                                "\\N<Boku>Eh, um...⁉"
                             ]
                         },
                         {
@@ -18089,21 +18089,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ナナちゃん>「ほら！　戻るわよ！"
+                                "\\N<Nana-chan>Look! Come back! If you keep hiding like\nthat, everyone will think something\nweird!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　いつまでも隠れてたら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　みんなに変に思われちゃうでしょ！」"
+                                ""
                             ]
                         },
                         {
@@ -18120,7 +18120,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ボク>「え？　あ、う、うん…」"
+                                "\\N<Boku>Huh? Ah, um, yeah..."
                             ]
                         },
                         {
@@ -18191,21 +18191,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ナナちゃん>「ちょっとー。"
+                                "\\N<Nana-chan>Hey, stop staring so much! You're being too\npervy, Boku ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　ジロジロ見すぎだってー。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　ボクのスケベー♥」"
+                                ""
                             ]
                         },
                         {
@@ -18251,28 +18251,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ナナちゃん>「何よー？"
+                                "\\N<Nana-chan>What is it? Do you still want to see me?\nNaughty ♥ If you want to see me that\nmuch, how about meeting at the shrine\nagain...? ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　まだあたしのことが見たいのー？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　ダーメ♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　そんなに見たいなら、また神社でね…？♥」"
+                                ""
                             ]
                         },
                         {
@@ -19065,7 +19065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>Everyone, there's still plenty left, so don't hold\nback and eat up!"
+                                "\\N<\\N[2]>Everyone, there's still plenty left, so don't\nhold back and eat up!"
                             ]
                         },
                         {
@@ -19137,7 +19137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>Oh my, it's fine. I've borrowed the water supply\nfrom Harumi-chan, so it's more fun to have plenty of these\nkinds of things."
+                                "\\N<\\N[2]>Oh my, it's fine. I've borrowed the water\nsupply from Harumi-chan, so it's more\nfun to have plenty of these kinds of\nthings."
                             ]
                         },
                         {
@@ -19314,7 +19314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>Well then, Sacchan and the ladies will go home, but\nif anything happens, make sure to tell an adult right away.\nIt's dangerous, so don't go into the lake at night."
+                                "\\N<\\N[2]>Well then, Sacchan and the ladies will go\nhome, but if anything happens, make sure\nto tell an adult right away. It's\ndangerous, so don't go into the lake at\nnight."
                             ]
                         },
                         {
@@ -19437,7 +19437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Well then... I'm not sleepy yet, so let's do a\ntest of courage."
+                                "\\N<Boss-kun>Well then... I'm not sleepy yet, so let's do\na test of courage."
                             ]
                         },
                         {
@@ -19485,7 +19485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>This is a special training to gather courage as\nmembers of the Hime-no-yama Defense Squad! Everyone is\nrequired to participate!"
+                                "\\N<Boss-kun>This is a special training to gather courage\nas members of the Hime-no-yama Defense\nSquad! Everyone is required to\nparticipate!"
                             ]
                         },
                         {
@@ -19533,7 +19533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>The rules are simple! We'll draw lots to\ndetermine pairs, and each pair will go to the three Jizo\nstatues located to the east of the secret base and come\nback!"
+                                "\\N<Boss-kun>The rules are simple! We'll draw lots to\ndetermine pairs, and each pair will go\nto the three Jizo statues located to the\neast of the secret base and come back!"
                             ]
                         },
                         {
@@ -19571,7 +19571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Running or pretending to go is not allowed. Well\nthen, let's determine the pairs right away with a drawing of\nlots."
+                                "\\N<Boss-kun>Running or pretending to go is not allowed.\nWell then, let's determine the pairs\nright away with a drawing of lots."
                             ]
                         },
                         {
@@ -19667,7 +19667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>N-No, I don't have any complaints at all! Yay, I'm\nso happy! I can't wait to go!"
+                                "\\N<Boku>N-No, I don't have any complaints at all!\nYay, I'm so happy! I can't wait to go!"
                             ]
                         },
                         {
@@ -19722,7 +19722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Oh, you're enthusiastic, Boku-chan. Well then,\nlet's start with you and your partner, Boku-chan. Here, we\nonly have one lantern."
+                                "\\N<Boss-kun>Oh, you're enthusiastic, Boku-chan. Well\nthen, let's start with you and your\npartner, Boku-chan. Here, we only have\none lantern."
                             ]
                         },
                         {
@@ -20059,7 +20059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Well then, now that the test of courage is over,\nI guess it's time to go to sleep."
+                                "\\N<Boss-kun>Well then, now that the test of courage is\nover, I guess it's time to go to sleep."
                             ]
                         },
                         {
@@ -20090,7 +20090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boushi-kun>Ugh... Boss-kun, that's terrible... telling\nscary stories during the test of courage... I'm too scared\nto sleep now..."
+                                "\\N<Boushi-kun>Ugh... Boss-kun, that's terrible... telling\nscary stories during the test of\ncourage... I'm too scared to sleep\nnow..."
                             ]
                         },
                         {
@@ -20121,7 +20121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Sorry, sorry. Well, it can't be helped. How\nabout the three of us, me, Boushi, and Hakase, sleep\ntogether? It won't be scary if there are three of us, right?"
+                                "\\N<Boss-kun>Sorry, sorry. Well, it can't be helped. How\nabout the three of us, me, Boushi, and\nHakase, sleep together? It won't be\nscary if there are three of us, right?"
                             ]
                         },
                         {
@@ -20169,7 +20169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Then, Boku-chan and Yuu will be in the middle\ntent. Nana will be in the tent on the left."
+                                "\\N<Boss-kun>Then, Boku-chan and Yuu will be in the middle\ntent. Nana will be in the tent on the\nleft."
                             ]
                         },
                         {
@@ -20253,7 +20253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Oh, scary, scary. Well, let's go to sleep, guys."
+                                "\\N<Boss-kun>Oh, scary, scary. Well, let's go to sleep,\nguys."
                             ]
                         },
                         {
@@ -20903,7 +20903,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>Hey, where are you going? Are you planning to\ntake me into the tent and do something~?"
+                                "\\N<Nana-chan>Hey, where are you going? Are you planning\nto take me into the tent and do\nsomething~?"
                             ]
                         },
                         {
@@ -21185,7 +21185,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>What's up? Boku-chan, do you also want to sleep\nin this tent? Even if it's just the two of us, it's\nimpossible to fit four people."
+                                "\\N<Boss-kun>What's up? Boku-chan, do you also want to\nsleep in this tent? Even if it's just\nthe two of us, it's impossible to fit\nfour people."
                             ]
                         },
                         {
@@ -24173,7 +24173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(Everyone has their drinks... It looks interesting,\nshould I try adding some nectar from the dream grass\nflower...?)"
+                                "\\N<Boku>(Everyone has their drinks... It looks\ninteresting, should I try adding some\nnectar from the dream grass flower...?)"
                             ]
                         },
                         {
@@ -24577,7 +24577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Ah! It's a raft! I wonder whose it is... I want to\nride it... but I shouldn't just ride it without permission,\nright?"
+                                "\\N<Boku>Ah! It's a raft! I wonder whose it is... I\nwant to ride it... but I shouldn't just\nride it without permission, right?"
                             ]
                         },
                         {
@@ -24710,7 +24710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I shouldn't go out to the lake after it gets dark,\nright?"
+                                "\\N<Boku>I shouldn't go out to the lake after it\ngets dark, right?"
                             ]
                         },
                         {
@@ -25996,38 +25996,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「あれ？"
+                                "\\N<Boku>Huh? Is that Sat-chan's swimsuit?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　それ、さっちゃんの水着？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<さっちゃん>「ううん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　これ、おねえちゃんの…おさがり…」"
+                                ""
                             ]
                         },
                         {
@@ -26044,7 +26020,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「なるほど」"
+                                "\\N<Sacchan>No... this is my older sister's hand-me-\ndown..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Boku>I see."
                             ]
                         },
                         {
@@ -26078,7 +26078,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<さっちゃん>「さっちゃんは…すなのおしろ…つくる…」"
+                                "\\N<Sacchan>Sat-chan... making a sand castle..."
                             ]
                         },
                         {
@@ -26310,28 +26310,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ユウくん>「やあ、ボク君も来たんだ。"
+                                "\\N<Yu-kun>Hey, Boku-kun, you came too. Want to swim\ntogether? Oh, but be careful because\nthere are many parts of the lake where\nyour feet won't touch the ground, so it\nmight be dangerous if you're not used to\nit..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　一緒に泳ぐ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あ、でも、湖は足がつかないところが多いから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　なれてないと危ないかも…」"
+                                ""
                             ]
                         },
                         {
@@ -26357,21 +26357,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「そうなんだー。"
+                                "\\N<Boku>Oh, really? But don't worry! I have a\nraft!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　でも大丈夫！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　ぼく、イカダがあるから！」"
+                                ""
                             ]
                         },
                         {
@@ -26388,21 +26388,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ユウくん>「そうだね。"
+                                "\\N<Yu-kun>Yeah, that's right. With a raft, we might be\nable to go to places where we can't\nswim."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　イカダがあれば、泳いでいけないよう場所でも"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　いけるかもね」"
+                                ""
                             ]
                         },
                         {
@@ -26436,59 +26436,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「そうなんだー。"
+                                "\\N<Boku>Oh, I see. It would be nice if we had a\nboat though..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　ボートでもあれば"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　いいんだけどなー…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\N<ユウくん>「それなら、あそこにあるイカダ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　確かボスくんが作ってたから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　ムシバトルで勝ったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　乗せてくれるかもよ？」"
+                                ""
                             ]
                         },
                         {
@@ -26505,7 +26467,45 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「なるほど」"
+                                "\\N<Yu-kun>In that case, there's a raft over there. I\nthink Boku-kun made it, so if we win the\nbug battle, they might let us ride on\nit, you know?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\N<Boku>I see."
                             ]
                         },
                         {
@@ -26550,7 +26550,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ユウくん>「僕のあげた水着、役にたってる？」"
+                                "\\N<Yu-kun>Is the swimsuit I gave you coming in\nhandy?"
                             ]
                         },
                         {
@@ -26567,7 +26567,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「うん！　とっても！」"
+                                "\\N<Boku>Yes! Very much!"
                             ]
                         },
                         {
@@ -26584,14 +26584,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ユウくん>「そうなんだ。"
+                                "\\N<Yu-kun>Oh, I see. That's good."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　良かった」"
+                                ""
                             ]
                         },
                         {
@@ -26618,7 +26618,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ユウくん>「ボク君、水着はもってる？」"
+                                "\\N<Yu-kun>Boku-kun, do you have a swimsuit?"
                             ]
                         },
                         {
@@ -26635,7 +26635,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「ううん。もってない」"
+                                "\\N<Boku>No, I don't have one."
                             ]
                         },
                         {
@@ -26652,21 +26652,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ユウくん>「そうなんだ。"
+                                "\\N<Yu-kun>Oh, I see. In that case, if we can win the\nbug battle, maybe I'll give you a\nswimsuit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　だったら、ムシバトルのとっておきに勝てたら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　水着をあげようかな」"
+                                ""
                             ]
                         },
                         {
@@ -26683,14 +26683,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「ホントに⁉"
+                                "\\N<Boku>Really?! Alright! I'll do my best!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　よーし！　がんばるぞー！」"
+                                ""
                             ]
                         },
                         {
@@ -26855,28 +26855,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボスくん>「お？"
+                                "\\N<Boss-kun>Oh? Boku-chan, you're here too. Looks like\nyou've completely mastered the Yamato\nMaru. But I can make it this far even\nwithout a raft."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ボクちゃんも来たのか。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　すっかりヤマト丸を乗りこなしてるみたいじゃん。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　だけど俺は、イカダがなくてもここまで来れるからな」"
+                                ""
                             ]
                         },
                         {
@@ -26903,14 +26903,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボスくん>「俺は息継ぎなしでここまで泳げるぜ？"
+                                "\\N<Boss-kun>I can swim this far without taking a\nbreath, you know? Pretty amazing,\nright?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　すげーだろ？」"
+                                ""
                             ]
                         },
                         {
@@ -26927,7 +26927,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「す、すごい…！」"
+                                "\\N<Boku>A-Amazing...!"
                             ]
                         },
                         {
@@ -27082,38 +27082,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<男の子>「あ、ボクくんだよね…？"
+                                "\\N<Boy>Ah, it's Boku-kun, right...? I can't see\nvery well..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ちょっとよく見えなくて…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　誰？」"
+                                ""
                             ]
                         },
                         {
@@ -27130,21 +27106,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<男の子>「もー、ぼくだよぼく。"
+                                "\\N<Boku>...? Who is it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ハカセだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　メガネかけたままじゃ泳げないからね」"
+                                ""
                             ]
                         },
                         {
@@ -27161,7 +27130,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「なんだ、ハカセくんか」"
+                                "\\N<Boy>Hey, it's me, Boku. I'm the professor. I\ncan't swim with my glasses on, you\nknow."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Boku>Oh, it's Hakase-kun."
                             ]
                         },
                         {
@@ -27188,21 +27188,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ハカセくん>「海だとこの時期は"
+                                "\\N<Hakase-kun>It seems like jellyfish are appearing in\nthe sea at this time of year. But since\nthis is a lake, there's no such thing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　クラゲが出て大変みたいだね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ここは湖だから、そんなことないけど」"
+                                ""
                             ]
                         },
                         {
@@ -27357,45 +27357,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<男の子>「ボクくんも来たんだー。"
+                                "\\N<Boy>Boku-kun came too. I came because everyone else\nwas coming, but I'm not really good at\nswimming..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　みんな来るから来たけど"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ぼく、あんまり泳ぐのとくいじゃないんだ…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「…？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　誰？」"
+                                ""
                             ]
                         },
                         {
@@ -27412,21 +27388,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<男の子>「もー！"
+                                "\\N<Boku>...? Who is it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ぼくだよ！　ボウシ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ボウシかぶったままじゃ泳げないでしょ！」"
+                                ""
                             ]
                         },
                         {
@@ -27443,14 +27412,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「ボウシくんか！"
+                                "\\N<Boy>Hey! It's me! Boku! You can't swim with a\nhat on, you know!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ボウシ脱いだところ、初めて見た！」"
+                                "\\N<Boku>Bowshi-kun! It's the first time I've seen you\nwithout a hat!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -27477,21 +27477,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボウシくん>「ぼくは釣りしようかなー…。"
+                                "\\N<Boushi-kun>I wonder if I should go fishing... But if\neveryone is swimming, the fish will\nescape, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　でも、みんなが泳いでたら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　魚逃げちゃうよね…」"
+                                ""
                             ]
                         },
                         {
@@ -27656,21 +27656,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「…ナナちゃんの"
+                                "\\N<Boku>...Nana-chan's panties... If it's just one pair, would\nit be okay to take them...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　パンツがある…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　一枚ぐらいなら、もらってもいいかな…？」"
+                                ""
                             ]
                         },
                         {
@@ -27678,8 +27678,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "もっていく",
-                                    "やめておく"
+                                    "Take them",
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -27732,7 +27732,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「やっぱり、やーめた」"
+                                "\\N<Boku>Actually, never mind."
                             ]
                         },
                         {
@@ -27965,21 +27965,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「…ユウくんの"
+                                "\\N<Boku>...Yuu-kun's underwear is here... I wonder if it's\nokay to take just one piece...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　パンツがある…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　一枚ぐらいなら、もらってもいいかな…？」"
+                                ""
                             ]
                         },
                         {
@@ -27987,8 +27987,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "もっていく",
-                                    "やめておく"
+                                    "Take it",
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -28041,7 +28041,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>「やっぱり、やーめた」"
+                                "\\N<Boku>Actually, never mind."
                             ]
                         },
                         {

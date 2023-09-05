@@ -3287,7 +3287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>A-Amazing! It's a mountain of erotic\nbooks...⁉...wait, what's this...? It's all just text\ninside..."
+                                "\\N<Boku>A-Amazing! It's a mountain of erotic\nbooks...⁉...wait, what's this...? It's\nall just text inside..."
                             ]
                         },
                         {
@@ -3343,7 +3343,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah, but there are a lot of erotic flyers inside!"
+                                "\\N<Boku>Ah, but there are a lot of erotic flyers\ninside!"
                             ]
                         },
                         {
@@ -3700,14 +3700,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>（何だか、変な音がするような…？"
+                                "\\N<Boku>(Hmm, I hear a strange sound...? Let me take\na peek...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ちょっとのぞいてみよう…）"
+                                ""
                             ]
                         },
                         {

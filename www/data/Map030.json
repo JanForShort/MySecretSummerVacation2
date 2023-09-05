@@ -2584,21 +2584,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>（？"
+                                "\\N<Boku>(I wonder if someone is inside...? Let's\ntake a peek through the keyhole...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　だれか入ってるのかな…？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　カギ穴から、のぞいちゃおう…）"
+                                ""
                             ]
                         },
                         {
@@ -2887,14 +2887,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ボク>（何だか、変な音がするような…？"
+                                "\\N<Boku>(Hmm, I hear a strange sound...? Let me take\na peek...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　ちょっとのぞいてみよう…）"
+                                ""
                             ]
                         },
                         {

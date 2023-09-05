@@ -2797,7 +2797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おばさん>「商店街の方に行きましょ…♥」"
+                                "\\N<Aunt>Let's go to the shopping district...♥"
                             ]
                         },
                         {
@@ -3590,7 +3590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um... it's not good to enter someone's house without\npermission, right?"
+                                "\\N<Boku>Um... it's not good to enter someone's house\nwithout permission, right?"
                             ]
                         },
                         {
@@ -3681,7 +3681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um... it's not good to enter someone's house without\npermission, right?"
+                                "\\N<Boku>Um... it's not good to enter someone's house\nwithout permission, right?"
                             ]
                         },
                         {
@@ -3772,7 +3772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um... it's not good to enter someone's house without\npermission, right?"
+                                "\\N<Boku>Um... it's not good to enter someone's house\nwithout permission, right?"
                             ]
                         },
                         {
@@ -3934,7 +3934,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Hey, Grandpa. There's something I want to ask you,\ncan I?"
+                                "\\N<Boku>Hey, Grandpa. There's something I want to\nask you, can I?"
                             ]
                         },
                         {
@@ -3982,7 +3982,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Do you know the story about not swimming alone in\nthe waterfall beyond that river over there in the evening?"
+                                "\\N<Boku>Do you know the story about not swimming\nalone in the waterfall beyond that river\nover there in the evening?"
                             ]
                         },
                         {
@@ -4013,7 +4013,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandfather>Oh, that brings back memories. Yes, I know. I\nheard it from my grandfather when I was young."
+                                "\\N<Grandfather>Oh, that brings back memories. Yes, I know.\nI heard it from my grandfather when I\nwas young."
                             ]
                         },
                         {
@@ -4084,7 +4084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandfather>Ah, that's true. There's a legend that says\nthere's a river princess living in these mountains who\nsurvives by devouring men's essence."
+                                "\\N<Grandfather>Ah, that's true. There's a legend that says\nthere's a river princess living in these\nmountains who survives by devouring\nmen's essence."
                             ]
                         },
                         {
@@ -4122,7 +4122,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandfather>They say the river princess sucks the souls\nof children who approach the riverbank in the evening...\nWell, it's just a superstition that means children shouldn't\ngo near the water's edge at dusk."
+                                "\\N<Grandfather>They say the river princess sucks the souls\nof children who approach the riverbank\nin the evening... Well, it's just a\nsuperstition that means children\nshouldn't go near the water's edge at\ndusk."
                             ]
                         },
                         {
@@ -4160,7 +4160,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandfather>Well... Actually, I had a strange experience\nonce on the riverbank at dusk when I was a child..."
+                                "\\N<Grandfather>Well... Actually, I had a strange experience\nonce on the riverbank at dusk when I was\na child..."
                             ]
                         },
                         {
@@ -4191,45 +4191,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandfather>I saw a girl with long white hair and pale\nskin across the river, but as soon as I saw her, I lost\nconsciousness... After that, I was bedridden for three days,\nit was quite a ordeal..."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<Grandfather>I told everyone that I caught a summer cold\nfrom sleeping on the riverbank and being feverish, but no\none believed me. But maybe, that was the river princess\nafter all..."
+                                "\\N<Grandfather>I saw a girl with long white hair and\npale skin across the river, but as soon\nas I saw her, I lost consciousness...\nAfter that, I was bedridden for three\ndays, it was quite a ordeal..."
                             ]
                         },
                         {
@@ -4267,7 +4229,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandfather>Well, that's a story from many decades ago.\nSince then, I haven't approached the riverbank at dusk out\nof fear. Thanks to that, I've been able to live a long life\nwithout any accidents."
+                                "\\N<Grandfather>I told everyone that I caught a summer\ncold from sleeping on the riverbank and\nbeing feverish, but no one believed me.\nBut maybe, that was the river princess\nafter all..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Grandfather>Well, that's a story from many decades ago.\nSince then, I haven't approached the\nriverbank at dusk out of fear. Thanks to\nthat, I've been able to live a long life\nwithout any accidents."
                             ]
                         },
                         {
@@ -4346,7 +4346,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(Hmm... The story was long and I didn't quite\nunderstand, but there's a girl by the riverbank in the\nevening who devours men's essence...?)"
+                                "\\N<Boku>(Hmm... The story was long and I didn't quite\nunderstand, but there's a girl by the\nriverbank in the evening who devours\nmen's essence...?)"
                             ]
                         },
                         {
@@ -4384,7 +4384,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(I don't really understand what essence means, but\ncould it be something naughty...? If that's the case, then\nI'm not scared at all. Maybe I should go to that place again\nin the evening?)"
+                                "\\N<Boku>(I don't really understand what essence\nmeans, but could it be something\nnaughty...? If that's the case, then I'm\nnot scared at all. Maybe I should go to\nthat place again in the evening?)"
                             ]
                         },
                         {
@@ -4581,14 +4581,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おばさん>「そ、それじゃあそろそろ"
+                                "\\N<Aunt>T-Then, it's about time we start playing SM\npretend...♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　SMごっこ、始めるわね…♥」"
+                                ""
                             ]
                         },
                         {
@@ -4729,45 +4729,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「!?"
+                                "\\N<Boku>!? W-Why are you naked...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　な、なんで裸なの…!?」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<おばさん>「あ、あのね…？♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　SMごっこは、こうやって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女の人を裸で散歩させたりもするのよ…？♥」"
+                                ""
                             ]
                         },
                         {
@@ -4784,59 +4753,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「そ、そうなんだ…。"
+                                "\\N<Aunt>U-Um...? In SM pretend, you sometimes make women\nwalk around naked like this...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　よくわかんないけど"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　大人って、こんなこともするんだね…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<おばさん>「そ、そうなの…♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも、誰かに見られたら大変だから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こうやって、深夜に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こっそりするのよ…♥」"
+                                ""
                             ]
                         },
                         {
@@ -4853,7 +4784,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「そっかー…」"
+                                "\\N<Boku>I-I see... I don't really understand, but\nadults do these kinds of things, huh..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4870,28 +4815,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おばさん>「じゃ、じゃあ、はい…♥"
+                                "\\N<Aunt>I-Is that so...♥ But, it would be\ntroublesome if someone saw us, so we\nhave to do it secretly like this, late\nat night...♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　このリードを持って"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おばさんをメス犬だと思って"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　商店街まで散歩させて…♥」"
+                                ""
                             ]
                         },
                         {
@@ -4908,7 +4853,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「う、うん…」"
+                                "\\N<Boku>I see..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Aunt>T-Then, here...♥ Take this leash and think of\nme as a female dog and take me for a\nwalk to the shopping district...♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Boku>Y-Yeah..."
                             ]
                         },
                         {

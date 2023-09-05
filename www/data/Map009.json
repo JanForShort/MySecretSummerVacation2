@@ -3258,7 +3258,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<\\N[2]>Phew. I have to be careful not to get sunburned..."
+                                "\\N<\\N[2]>Phew. I have to be careful not to get\nsunburned..."
                             ]
                         },
                         {
@@ -3310,7 +3310,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<\\N[2]>Come to think of it, it seems like my underwear is\ndecreasing...? I wonder if I dropped it somewhere...?"
+                                "\\N<\\N[2]>Come to think of it, it seems like my\nunderwear is decreasing...? I wonder if\nI dropped it somewhere...?"
                             ]
                         },
                         {
@@ -3362,7 +3362,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<\\N[2]>Oh, cumulus clouds... Summer is almost over, isn't\nit..."
+                                "\\N<\\N[2]>Oh, cumulus clouds... Summer is almost\nover, isn't it..."
                             ]
                         },
                         {

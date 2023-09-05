@@ -3794,7 +3794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Oh? What is it, Boku-chan? Do you want to go\nahead...? I bet you want to do some 'grass sliding,' don't\nyou?"
+                                "\\N<Boss-kun>Oh? What is it, Boku-chan? Do you want to\ngo ahead...? I bet you want to do some\n'grass sliding,' don't you?"
                             ]
                         },
                         {
@@ -3849,7 +3849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>What, you don't know? Alright, I'll tell you, so\ngo get a cardboard box."
+                                "\\N<Boss-kun>What, you don't know? Alright, I'll tell you,\nso go get a cardboard box."
                             ]
                         },
                         {
@@ -3904,7 +3904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>If you go to the Aoki Store in the shopping\ndistrict, you can get one. Usually, there's an old man at\nthe store, but during summer vacation, a somewhat\nintimidating onee-chan is taking care of the shop."
+                                "\\N<Boss-kun>If you go to the Aoki Store in the\nshopping district, you can get one.\nUsually, there's an old man at the\nstore, but during summer vacation, a\nsomewhat intimidating onee-chan is\ntaking care of the shop."
                             ]
                         },
                         {
@@ -4086,7 +4086,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Oh, Boku-chan. Did you bring the cardboard box?\nIn that case, let's have a competition on the grass slope.\nIf you can beat me, I'll tell you a secret fishing spot."
+                                "\\N<Boss-kun>Oh, Boku-chan. Did you bring the cardboard\nbox? In that case, let's have a\ncompetition on the grass slope. If you\ncan beat me, I'll tell you a secret\nfishing spot."
                             ]
                         },
                         {
@@ -4197,7 +4197,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>You've got guts! In that case, let's go all the\nway to the top of the ski resort."
+                                "\\N<Boss-kun>You've got guts! In that case, let's go all\nthe way to the top of the ski resort."
                             ]
                         },
                         {
@@ -4365,7 +4365,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Listen up. The rules are simple. We'll slide\ndown from here to the bottom and the one who passes through\nthe most checkpoints wins. The checkpoints will be shining\nto make them stand out."
+                                "\\N<Boss-kun>Listen up. The rules are simple. We'll slide\ndown from here to the bottom and the one\nwho passes through the most checkpoints\nwins. The checkpoints will be shining to\nmake them stand out."
                             ]
                         },
                         {
@@ -4427,7 +4427,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>There was a rule change a few years ago because\nit was deemed dangerous to compete solely based on speed."
+                                "\\N<Boss-kun>There was a rule change a few years ago\nbecause it was deemed dangerous to\ncompete solely based on speed."
                             ]
                         },
                         {
@@ -4468,7 +4468,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Here's some advice for the end. Be careful\nbecause you'll bounce if you step on a step. Alright then,\nare you ready? Enough with the chit-chat, let's begin!"
+                                "\\N<Boss-kun>Here's some advice for the end. Be careful\nbecause you'll bounce if you step on a\nstep. Alright then, are you ready?\nEnough with the chit-chat, let's begin!"
                             ]
                         },
                         {
@@ -4898,7 +4898,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Yay! I won! So, where's the best fishing spot?"
+                                "\\N<Boku>Yay! I won! So, where's the best fishing\nspot?"
                             ]
                         },
                         {
@@ -4929,7 +4929,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Ugh, it's a secret but I guess I have no choice.\nIt's a hidden waterfall where you can catch big fish. It's\nhard to explain in words... Oh, do you have a map? Let me\nborrow it, I'll mark the location for you."
+                                "\\N<Boss-kun>Ugh, it's a secret but I guess I have no\nchoice. It's a hidden waterfall where\nyou can catch big fish. It's hard to\nexplain in words... Oh, do you have a\nmap? Let me borrow it, I'll mark the\nlocation for you."
                             ]
                         },
                         {
@@ -4993,7 +4993,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Alright then. I've hidden a rope at this marked\nlocation. If you use this rope, you can descend to the\nsecret fishing spot waterfall. However, there's no path up\nuntil here, so you'll have to swim across the river to get\nthere."
+                                "\\N<Boss-kun>Alright then. I've hidden a rope at this marked\nlocation. If you use this rope, you can\ndescend to the secret fishing spot\nwaterfall. However, there's no path up\nuntil here, so you'll have to swim\nacross the river to get there."
                             ]
                         },
                         {
@@ -5048,7 +5048,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Oh, and also, I'm not entirely sure, but there\nseems to be a legend that says 'Never swim alone at the\nwaterfall over there in the evening.'"
+                                "\\N<Boss-kun>Oh, and also, I'm not entirely sure, but\nthere seems to be a legend that says\n'Never swim alone at the waterfall over\nthere in the evening.'"
                             ]
                         },
                         {
@@ -5110,7 +5110,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Well, I don't think anyone would bother going\nswimming all the way there in the evening. But, don't forget\nthat you can only catch big fish in the evening."
+                                "\\N<Boss-kun>Well, I don't think anyone would bother going\nswimming all the way there in the\nevening. But, don't forget that you can\nonly catch big fish in the evening."
                             ]
                         },
                         {
@@ -5148,7 +5148,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Anyway, let's have a rematch on the grass slide.\nIt was just a fluke that I was in a bad condition today, so\nI won't lose next time."
+                                "\\N<Boss-kun>Anyway, let's have a rematch on the grass\nslide. It was just a fluke that I was in\na bad condition today, so I won't lose\nnext time."
                             ]
                         },
                         {
@@ -5250,7 +5250,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Damn it! I lost again! But, it's too early to\nget cocky! Mika-chan is stronger than me, after all."
+                                "\\N<Boss-kun>Damn it! I lost again! But, it's too early\nto get cocky! Mika-chan is stronger than\nme, after all."
                             ]
                         },
                         {
@@ -5673,7 +5673,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Mika-chan>Oh, come on. Oh, you're Boku-kun, right? I was\nplaying with Tetsu."
+                                "\\N<Mika-chan>Oh, come on. Oh, you're Boku-kun, right? I\nwas playing with Tetsu."
                             ]
                         },
                         {
@@ -5704,7 +5704,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boss-kun>Y-Yeah, that's right! I lost in the grass\nsliding, and if I keep losing like this to the new recruits,\nit won't be good for my reputation as the leader of the\nHime-no-yama Defense Squad!"
+                                "\\N<Boss-kun>Y-Yeah, that's right! I lost in the grass\nsliding, and if I keep losing like this\nto the new recruits, it won't be good\nfor my reputation as the leader of the\nHime-no-yama Defense Squad!"
                             ]
                         },
                         {
@@ -5759,7 +5759,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boss-kun>Hey, Mika-neechan, how about a match with me? As\nthe former leader of the Hime-no-yama Defense Squad, protect\nthe squad's reputation for me!"
+                                "\\N<Boss-kun>Hey, Mika-neechan, how about a match with\nme? As the former leader of the Hime-no-\nyama Defense Squad, protect the squad's\nreputation for me!"
                             ]
                         },
                         {
@@ -5828,7 +5828,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boss-kun>Haha, Mika-neechan, are you scared? Well, I am\nquite the opponent, after all. Even for you, Mika-neechan,\nit might be impossible. Oh well, can't be helped, right?"
+                                "\\N<Boss-kun>Haha, Mika-neechan, are you scared? Well, I\nam quite the opponent, after all. Even\nfor you, Mika-neechan, it might be\nimpossible. Oh well, can't be helped,\nright?"
                             ]
                         },
                         {
@@ -5890,7 +5890,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boss-kun>You don't have to push yourself, Mika-neechan.\nJust gracefully admit defeat and let's go home."
+                                "\\N<Boss-kun>You don't have to push yourself, Mika-\nneechan. Just gracefully admit defeat\nand let's go home."
                             ]
                         },
                         {
@@ -5914,7 +5914,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Mika-chan>I told you, I haven't lost! Geez, whatever!\nI'll just compete with Boku-kun then! Come on, let's go\nupstairs already! Tetsu, go play with the cardboard boxes!"
+                                "\\N<Mika-chan>I told you, I haven't lost! Geez,\nwhatever! I'll just compete with Boku-\nkun then! Come on, let's go upstairs\nalready! Tetsu, go play with the\ncardboard boxes!"
                             ]
                         },
                         {
@@ -5969,7 +5969,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boss-kun>Mika-neechan, you're amazing. You hate losing,\ndon't you?"
+                                "\\N<Boss-kun>Mika-neechan, you're amazing. You hate losing, don't\nyou?"
                             ]
                         },
                         {
@@ -6153,7 +6153,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boss-kun>Mika-neechan is my slightly older cousin. She\nused to be the former leader of the Hime-no-yama Defense\nSquad."
+                                "\\N<Boss-kun>Mika-neechan is my slightly older cousin. She used\nto be the former leader of the Hime-no-\nyama Defense Squad."
                             ]
                         },
                         {
@@ -6208,7 +6208,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boss-kun>Hmm, Mika-neechan, it might be difficult to meet\nsince you haven't been playing outside lately."
+                                "\\N<Boss-kun>Hmm, Mika-neechan, it might be difficult to\nmeet since you haven't been playing\noutside lately."
                             ]
                         },
                         {
@@ -6239,7 +6239,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boss-kun>Ah, but if it's the day for watering duty, Mika-\nneechan might be at school."
+                                "\\N<Boss-kun>Ah, but if it's the day for watering duty,\nMika- neechan might be at school."
                             ]
                         },
                         {
@@ -6373,7 +6373,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Oh, it's a tie. We'll settle it another time."
+                                "\\N<Boss-kun>Oh, it's a tie. We'll settle it another\ntime."
                             ]
                         },
                         {
@@ -6445,7 +6445,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boss-kun>Heheh! I win! You're ten years too early, Boku-\nchan!"
+                                "\\N<Boss-kun>Heheh! I win! You're ten years too early,\nBoku- chan!"
                             ]
                         },
                         {
@@ -6622,7 +6622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Oh? Do you want to have a rematch with Mika- ne?"
+                                "\\N<Boss-kun>Oh? Do you want to have a rematch with\nMika- ne?"
                             ]
                         },
                         {
@@ -6668,7 +6668,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>That's what it means to be a man! Alright, I'll\ngo call Mika-ne!"
+                                "\\N<Boss-kun>That's what it means to be a man! Alright,\nI'll go call Mika-ne!"
                             ]
                         },
                         {
@@ -7118,7 +7118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Mika-chan>Ouch... I guess it's no wonder I'm a bit\nrusty... Ah... I'm covered in mud... I need to clean myself\nup..."
+                                "\\N<Mika-chan>Ouch... I guess it's no wonder I'm a bit\nrusty... Ah... I'm covered in mud... I\nneed to clean myself up..."
                             ]
                         },
                         {
@@ -7156,7 +7156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Um... There's a big bath right near my house, would\nyou like to take a bath?"
+                                "\\N<Boku>Um... There's a big bath right near my house,\nwould you like to take a bath?"
                             ]
                         },
                         {
@@ -7204,7 +7204,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Boku-chan's house is a big pension over there. I\nremember someone saying there's a hot spring with a natural\nwaterfall..."
+                                "\\N<Boss-kun>Boku-chan's house is a big pension over there. I\nremember someone saying there's a hot\nspring with a natural waterfall..."
                             ]
                         },
                         {
@@ -7242,7 +7242,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Mika-chan>Hmm, is that so? Well, it's your fault that it\nturned out like this, so I'll borrow your bath."
+                                "\\N<Mika-chan>Hmm, is that so? Well, it's your fault that\nit turned out like this, so I'll borrow\nyour bath."
                             ]
                         },
                         {
@@ -7314,7 +7314,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Oh, right... Well then, I'll go home! See ya!"
+                                "\\N<Boss-kun>Oh, right... Well then, I'll go home! See\nya!"
                             ]
                         },
                         {
@@ -7494,7 +7494,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Mika-chan>You, who managed to tie with me, have quite an\ninteresting side. Let's have a rematch next time."
+                                "\\N<Mika-chan>You, who managed to tie with me, have quite\nan interesting side. Let's have a\nrematch next time."
                             ]
                         },
                         {
@@ -7573,7 +7573,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Mika-chan>Your skills aren't bad, but you still have a\nlong way to go. If you have free time, I'll challenge you\nagain."
+                                "\\N<Mika-chan>Your skills aren't bad, but you still have a\nlong way to go. If you have free time,\nI'll challenge you again."
                             ]
                         },
                         {
@@ -7864,7 +7864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Mika-chan>You came here often, Boku! Now, let's compete\non the grass slide! Today, I'll show you my true strength!"
+                                "\\N<Mika-chan>You came here often, Boku! Now, let's\ncompete on the grass slide! Today, I'll\nshow you my true strength!"
                             ]
                         },
                         {
@@ -8070,7 +8070,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Mika-chan>Oh, is that so...? W-Well, I guess there's no\nhelping it."
+                                "\\N<Mika-chan>Oh, is that so...? W-Well, I guess there's\nno helping it."
                             ]
                         },
                         {
@@ -8456,7 +8456,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Huh, huh...? Even though it was Mika-chan who\nbrought it up..."
+                                "\\N<Boku>Huh, huh...? Even though it was Mika-chan\nwho brought it up..."
                             ]
                         },
                         {
@@ -8480,7 +8480,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Mika-chan>Ugh... W-was that so...? W-well, I guess\nthere's no helping it. A promise is a promise, after all."
+                                "\\N<Mika-chan>Ugh... W-was that so...? W-well, I guess\nthere's no helping it. A promise is a\npromise, after all."
                             ]
                         },
                         {
@@ -8518,7 +8518,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Mika-chan>Um, in that case... staying at my house is not\nan option... I remember, I'm staying overnight in one of the\nguest rooms at the pension, right?"
+                                "\\N<Mika-chan>Um, in that case... staying at my house is\nnot an option... I remember, I'm staying\novernight in one of the guest rooms at\nthe pension, right?"
                             ]
                         },
                         {
@@ -8698,7 +8698,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Mika-chan>What are you, to be able to tie with me when\nI'm serious...?...For today, let's put the match on hold..."
+                                "\\N<Mika-chan>What are you, to be able to tie with me when\nI'm serious...?...For today, let's put\nthe match on hold..."
                             ]
                         },
                         {
@@ -8777,7 +8777,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Mika-chan>Look! This is what happens when I give it my\nall! If you're frustrated, we can have another match, you\nknow? Well, I think the result will be the same no matter\nhow many times we do it though."
+                                "\\N<Mika-chan>Look! This is what happens when I give it my\nall! If you're frustrated, we can have\nanother match, you know? Well, I think\nthe result will be the same no matter\nhow many times we do it though."
                             ]
                         },
                         {
@@ -9089,38 +9089,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ミカちゃん>「あら、ボクじゃない？"
+                                "\\N<Mika-chan>Oh, it's not me? Perfect timing! Today,\nI'll show you my true determination!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ちょうどいいわ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日こそあたしの、本当の本気を見せてあげるわ！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ボク>「ほ、本当の本気!?」"
+                                ""
                             ]
                         },
                         {
@@ -9137,28 +9120,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ミカちゃん>「そうよ！"
+                                "\\N<Boku>I- Is this your true determination!?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　今までは、スカートが気になって集中できなかったけど"
+                                "\\N<Mika-chan>That's right! Until now, I couldn't\nconcentrate because I was worried about\nmy skirt, but today I'm wearing my gym\nuniform! I can show my true\ndetermination!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日は体操服！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　本当の本気を出せるわ！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9166,8 +9166,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "勝負だ！",
-                                    "今日はやめとくね"
+                                    "It's a showdown!",
+                                    "I'll pass for today"
                                 ],
                                 1,
                                 0,
@@ -9197,14 +9197,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「よーし！"
+                                "\\N<Boku>Alright! I won't lose!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　負けないぞー！」"
+                                ""
                             ]
                         },
                         {
@@ -9357,14 +9357,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ミカちゃん>「あ、そうなの…？"
+                                "\\N<Mika-chan>Oh, is that so...? W-Well, I guess there's\nno helping it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ま、まあ、仕方がないわね」"
+                                ""
                             ]
                         },
                         {
@@ -9668,28 +9668,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ミカちゃん>「あーもー！"
+                                "\\N<Mika-chan>Ugh, I lost again! And on top of that, I\nfell... I guess I took too reckless of a\ncourse..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　また負けたー！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　おまけに転ぶし…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　無茶なコース取りをしすぎたわね…」"
+                                ""
                             ]
                         },
                         {
@@ -9783,14 +9783,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「あ、あの…"
+                                "\\N<Boku>Um, um... about the crotch area..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　お股のところ…」"
+                                ""
                             ]
                         },
                         {
@@ -9807,14 +9807,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ミカちゃん>「え？"
+                                "\\N<Mika-chan>Huh? The crotch?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　お股？」"
+                                ""
                             ]
                         },
                         {
@@ -9845,14 +9845,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ミカちゃん>「だー⁉"
+                                "\\N<Mika-chan>D-?! It's exposed-!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　めくれてるー‼」"
+                                ""
                             ]
                         },
                         {
@@ -9883,45 +9883,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ミカちゃん>「うぅ…。"
+                                "\\N<Mika-chan>Ugh... You saw it, right...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　見たでしょ…？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「う、うん…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　あの…、ミカちゃんのおまた見ちゃったから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ぼく、おちんちん、がまんできない…」"
+                                ""
                             ]
                         },
                         {
@@ -9938,28 +9907,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ミカちゃん>「え、えぇ…⁉"
+                                "\\N<Boku>Um, um... about the crotch area... I, I saw\nMika-chan's crotch, so I can't hold back\nmy penis..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　今⁉　ここで…⁉"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　も、もう、負けたから仕方ないわね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　じゃ、じゃあ、あっちの物陰に行きましょ…♥」"
+                                ""
                             ]
                         },
                         {
@@ -9976,7 +9938,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>「う、うん…」"
+                                "\\N<Mika-chan>Eh, eh...?! Now?! Here...?! W-Well, I guess\nthere's no helping it since I lost...\nUmm, then, let's go over there behind\nthat object... ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Boku>Y-yeah..."
                             ]
                         },
                         {
@@ -10123,31 +10123,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ミカちゃん>「こ、ここなら見つからないでしょ…。"
+                                "\\N<Mika-chan>H-Here, we won't be found... Then, I'll take\noff my clothes..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　じゃあ、脱ぐわよ…」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「あ、その…そのままがいいかも…」"
+                                ""
                             ]
                         },
                         {
@@ -10164,28 +10147,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ミカちゃん>「え？"
+                                "\\N<Boku>Um, um... maybe it's better to leave it as\nit is..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　体操服着たまま…？"
+                                "\\N<Mika-chan>Huh? With the gym uniform still on...?\nW-well, fine... ♥ Go ahead and do as you\nplease... ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　も、もう、わかったわよ…♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ほら、好きにして…♥」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10232,52 +10232,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ミカちゃん>「じゃあ、あたしは帰るからね…♥"
+                                "\\N<Mika-chan>Well then, I'm going home... ♥ My gym\nuniform is dirty too... Ah! N-no, it's\nnot in a weird way...⁉ Well, see you\nlater!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　体操服もよごれたし…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あっ！　へ、変な意味じゃないわよ…⁉"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　じゃ、じゃあね！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<ボク>「うん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　また遊ぼうね、ミカちゃん」"
+                                ""
                             ]
                         },
                         {
@@ -10294,14 +10270,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ミカちゃん>「もー！"
+                                "\\N<Boku>Yeah! Let's play again, Mika-chan."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　遊びじゃなくて、真剣勝負なの！」"
+                                "\\N<Mika-chan>Geez! It's not just a game, it's a serious\nmatch!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10351,21 +10351,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ミカちゃん>「ぐぐぐ…！"
+                                "\\N<Mika-chan>Grr...! Even with this, it's still a tie...!\nLet's have another match!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　これでもまだ、引き分けだなんて…！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　また、勝負よ！」"
+                                ""
                             ]
                         },
                         {
@@ -10430,21 +10430,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ミカちゃん>「勝った勝った！"
+                                "\\N<Mika-chan>I won, I won! This is my true strength ♥\nIf you're frustrated, come challenge me\nagain ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　これがあたしの本当の実力よ♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "　くやしかったら、またかかってきなさい♥」"
+                                ""
                             ]
                         },
                         {

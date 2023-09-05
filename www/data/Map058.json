@@ -1405,7 +1405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(Yuko-kun is sleeping... I have to make sure not to\nwake them up.)"
+                                "\\N<Boku>(Yuko-kun is sleeping... I have to make sure not\nto wake them up.)"
                             ]
                         },
                         {
@@ -1556,7 +1556,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(...Is it okay to do it just a little bit... just to\ntake a peek...)"
+                                "\\N<Boku>(...Is it okay to do it just a little bit...\njust to take a peek...)"
                             ]
                         },
                         {
@@ -1693,7 +1693,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(...They're not... awake, right...? If they don't\nwake up even with just this... I wonder if it's okay to play\na little more...?)"
+                                "\\N<Boku>(...They're not... awake, right...? If they don't\nwake up even with just this... I wonder\nif it's okay to play a little more...?)"
                             ]
                         },
                         {
@@ -1773,7 +1773,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>(N-No, no! I have to put the clothes back before\nthey wake up...!)"
+                                "\\N<Boku>(N-No, no! I have to put the clothes back\nbefore they wake up...!)"
                             ]
                         },
                         {

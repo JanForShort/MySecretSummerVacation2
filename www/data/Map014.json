@@ -2626,14 +2626,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おばさん>「あまり遠くには行かないでね…。"
+                                "\\N<Aunt>Please don't go too far... Let's go to the\nshopping district... ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　商店街の方に行きましょ…♥」"
+                                ""
                             ]
                         },
                         {
@@ -3079,14 +3079,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おばさん>「あまり遠くには行かないでね…。"
+                                "\\N<Aunt>Please don't go too far... Let's go to the\nshopping district... ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　商店街の方に行きましょ…♥」"
+                                ""
                             ]
                         },
                         {
@@ -3759,7 +3759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um... it's not good to enter someone's house without\npermission, right?"
+                                "\\N<Boku>Um... it's not good to enter someone's house\nwithout permission, right?"
                             ]
                         },
                         {
@@ -4079,7 +4079,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Um... It's not good to enter someone's house without\npermission, right...?"
+                                "\\N<Boku>Um... It's not good to enter someone's house\nwithout permission, right...?"
                             ]
                         },
                         {
@@ -4180,7 +4180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um... it's not good to enter someone's house without\npermission, right?"
+                                "\\N<Boku>Um... it's not good to enter someone's house\nwithout permission, right?"
                             ]
                         },
                         {
@@ -4271,7 +4271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hakase-kun>Hey, did you know? There's a fire truck from\nthe fire brigade in here. I wonder if I'll join the fire\nbrigade when I grow up? Then maybe I can ride on the fire\ntruck too."
+                                "\\N<Hakase-kun>Hey, did you know? There's a fire truck from\nthe fire brigade in here. I wonder if\nI'll join the fire brigade when I grow\nup? Then maybe I can ride on the fire\ntruck too."
                             ]
                         },
                         {
@@ -4717,38 +4717,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おばさん>「そ、それじゃあちょっと"
+                                "\\N<Aunt>Th-then, let's take a little nighttime\nstroll...♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　夜のお散歩をしましょう…♥」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ボク>「え？　夜にお散歩していいの!?"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　すごい！」"
+                                ""
                             ]
                         },
                         {
@@ -4765,21 +4741,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おばさん>「夜だから、なるべく静かにね…♥"
+                                "\\N<Boku>Huh? Is it okay to take a nighttime stroll?\nThat's amazing!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　じゃ、じゃあ…商店街の方に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　行きましょ…？♥」"
+                                ""
                             ]
                         },
                         {
@@ -4796,7 +4765,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うん！」"
+                                "\\N<Aunt>Since it's nighttime, let's try to be as\nquiet as possible... ♥ So, shall we go\ntowards the shopping district...? ♥"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Boku>Yeah!"
                             ]
                         },
                         {

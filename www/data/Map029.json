@@ -4018,7 +4018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Do you want to exit the flashback mode?"
+                                " Do you want to exit the flashback mode?"
                             ]
                         },
                         {
@@ -4330,7 +4330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cousin's Onee-chan Onee-chan seems to be in the large\nbathhouse late at night..."
+                                "Cousin's Onee-chan Onee-chan seems to be in the\nlarge bathhouse late at night..."
                             ]
                         },
                         {
@@ -4487,7 +4487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Ah... B-Boku-kun...? Um... Do you... want to\ndo... something... naughty with Onee-chan...?"
+                                "\\N<Onee-chan>Ah... B-Boku-kun...? Um... Do you... want to\ndo... something... naughty with Onee-\nchan...?"
                             ]
                         },
                         {
@@ -5508,7 +5508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cousin's Onee-chan (Sleeping) The key to Onee-chan's room\nmight be obtained by someone in a bug battle..."
+                                "Cousin's Onee-chan (Sleeping) The key to Onee-\nchan's room might be obtained by someone\nin a bug battle..."
                             ]
                         },
                         {
@@ -5604,7 +5604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(Should I do something naughty with the sleeping\nOnee-chan?)"
+                                "\\N<Boku>(Should I do something naughty with the\nsleeping Onee-chan?)"
                             ]
                         },
                         {
@@ -6045,7 +6045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Watching a video and masturbating\\# Let's find a video and\ntry masturbating."
+                                "Watching a video and masturbating Let's find a\nvideo and try masturbating."
                             ]
                         },
                         {
@@ -6270,7 +6270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Late Night Masturbation Sometimes, there seems to be erotic\nprograms on late at night..."
+                                "Late Night Masturbation Sometimes, there\nseems to be erotic programs on late at\nnight..."
                             ]
                         },
                         {
@@ -6516,7 +6516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Naughty Dreams\\# If you're a little good, someone might\ngive you something on a sleepless night...?"
+                                "Naughty Dreams If you're a little good, someone\nmight give you something on a sleepless\nnight...?"
                             ]
                         },
                         {
@@ -6824,7 +6824,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This is the Recollection Mode. You can revisit scenes and\nerotic books, erotic videos, etc. that you experienced in\nthe main game."
+                                "This is the Recollection Mode. You can\nrevisit scenes and erotic books, erotic\nvideos, etc. that you experienced in the\nmain game."
                             ]
                         },
                         {
@@ -6862,7 +6862,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Even if you haven't experienced it in the main game, you can\nstill see certain scenes by combining the knowledge of the\ncharacters you've conquered and the gameplay."
+                                "Even if you haven't experienced it in the\nmain game, you can still see certain\nscenes by combining the knowledge of the\ncharacters you've conquered and the\ngameplay."
                             ]
                         },
                         {
@@ -7142,7 +7142,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The knowledge of sexual techniques, positions, etc. that you\nobtained in the main game can be checked using this light\nbulb to see your acquisition status."
+                                "The knowledge of sexual techniques,\npositions, etc. that you obtained in the\nmain game can be checked using this\nlight bulb to see your acquisition\nstatus."
                             ]
                         },
                         {
@@ -7381,7 +7381,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "In the Recollection Mode, you can change the time using this\nclock. In some scenes, the brightness may change depending\non the time of day."
+                                "In the Recollection Mode, you can change\nthe time using this clock. In some\nscenes, the brightness may change\ndepending on the time of day."
                             ]
                         },
                         {
@@ -7428,7 +7428,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You can end the Recollection Mode at this door."
+                                "You can end the Recollection Mode at this\ndoor."
                             ]
                         },
                         {
@@ -7445,7 +7445,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The explanation for this can be confirmed in the enclosed\ninstruction manual."
+                                "The explanation for this can be confirmed\nin the enclosed instruction manual."
                             ]
                         },
                         {
@@ -7469,7 +7469,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That concludes the explanation of the Recollection Room."
+                                "That concludes the explanation of the\nRecollection Room."
                             ]
                         },
                         {
@@ -7549,7 +7549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please select the save data to use in the Recollection Mode.\nThe appearance of your favorite and main characters will be\napplied to the selected save data. *This does not affect the\nmain game."
+                                "Please select the save data to use in the\nRecollection Mode. The appearance of\nyour favorite and main characters will\nbe applied to the selected save data.\n*This does not affect the main game."
                             ]
                         },
                         {
@@ -7931,7 +7931,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This is the Recollection Mode. You can revisit scenes and\nerotic books, erotic videos, etc. that you experienced in\nthe main game."
+                                "This is the Recollection Mode. You can\nrevisit scenes and erotic books, erotic\nvideos, etc. that you experienced in the\nmain game."
                             ]
                         },
                         {
@@ -7969,7 +7969,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Even if you haven't experienced it in the main game, you can\nstill see certain scenes by combining the knowledge of the\ncharacters you've conquered and the gameplay."
+                                "Even if you haven't experienced it in the\nmain game, you can still see certain\nscenes by combining the knowledge of the\ncharacters you've conquered and the\ngameplay."
                             ]
                         },
                         {
@@ -8016,7 +8016,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The knowledge of positions and plays that you obtained in\nthe main game can be confirmed with this light bulb."
+                                "The knowledge of positions and plays that\nyou obtained in the main game can be\nconfirmed with this light bulb."
                             ]
                         },
                         {
@@ -8056,7 +8056,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "In the Recollection Mode, time does not progress, but it is\npossible to change the time with this clock. In some scenes,\nbrightness and other factors may change depending on the\ntime of day."
+                                "In the Recollection Mode, time does not\nprogress, but it is possible to change\nthe time with this clock. In some\nscenes, brightness and other factors may\nchange depending on the time of day."
                             ]
                         },
                         {
@@ -8103,7 +8103,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You can end the Recollection Mode at this door."
+                                "You can end the Recollection Mode at this\ndoor."
                             ]
                         },
                         {
@@ -8120,7 +8120,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The explanation can be confirmed in the enclosed instruction\nmanual."
+                                "The explanation can be confirmed in the\nenclosed instruction manual."
                             ]
                         },
                         {
@@ -10054,7 +10054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Art School Onee-chan seems to be drawing some kind of\npainting in the atelier..."
+                                "Art School Onee-chan seems to be drawing\nsome kind of painting in the atelier..."
                             ]
                         },
                         {
@@ -10211,7 +10211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, Boku-kun? What's wrong? Do you want to do\nsomething naughty with your big sister?"
+                                "\\N<Onee-chan>Oh, Boku-kun? What's wrong? Do you want to\ndo something naughty with your big\nsister?"
                             ]
                         },
                         {
@@ -10667,7 +10667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shop Girl What happens when you collect all the Gacha Gacha\ntypes...?"
+                                "Shop Girl What happens when you collect all\nthe Gacha Gacha types...?"
                             ]
                         },
                         {
@@ -11280,7 +11280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Foreign Student Onee-chan seems to be fishing in the lake..."
+                                "Foreign Student Onee-chan seems to be fishing\nin the lake..."
                             ]
                         },
                         {
@@ -11437,7 +11437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Jesse>Oh, me? Do you want to do something fun with Jesse?"
+                                "\\N<Jesse>Oh, me? Do you want to do something fun\nwith Jesse?"
                             ]
                         },
                         {
@@ -12050,7 +12050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>'Oh, Boku-kun. Are you feeling naughty and wanting\nto do something lewd...?'"
+                                "\\N<\\N[2]>'Oh, Boku-kun. Are you feeling naughty and\nwanting to do something lewd...?'"
                             ]
                         },
                         {
@@ -12594,7 +12594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Art School Onee-chan (Sleeping) When you become close and\nspend the night..."
+                                "Art School Onee-chan (Sleeping) When you\nbecome close and spend the night..."
                             ]
                         },
                         {
@@ -12690,7 +12690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(Should I do something naughty with the sleeping\nOnee-chan?)"
+                                "\\N<Boku>(Should I do something naughty with the\nsleeping Onee-chan?)"
                             ]
                         },
                         {
@@ -12826,7 +12826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shop Girl (Sleeping) When you become close and spend the\nnight..."
+                                "Shop Girl (Sleeping) When you become close\nand spend the night..."
                             ]
                         },
                         {
@@ -12922,7 +12922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(Should I do something naughty with the sleeping\nOnee-chan?)"
+                                "\\N<Boku>(Should I do something naughty with the\nsleeping Onee-chan?)"
                             ]
                         },
                         {
@@ -13058,7 +13058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Foreign Student Onee-chan (Sleeping) When you become close,\nshe will give you the key to her room..."
+                                "Foreign Student Onee-chan (Sleeping) When you\nbecome close, she will give you the key\nto her room..."
                             ]
                         },
                         {
@@ -13154,7 +13154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(Should I do something naughty with sleeping Jesse?)"
+                                "\\N<Boku>(Should I do something naughty with sleeping\nJesse?)"
                             ]
                         },
                         {
@@ -13290,7 +13290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Friend's Mom If you win against Hakase-kun in Bug Battle...?"
+                                "Friend's Mom If you win against Hakase-kun in\nBug Battle...?"
                             ]
                         },
                         {
@@ -13447,7 +13447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Oh, Boku-kun? Um... Do you want to do something\nnaughty with Auntie...?"
+                                "\\N<Aunt>Oh, Boku-kun? Um... Do you want to do\nsomething naughty with Auntie...?"
                             ]
                         },
                         {
@@ -14067,7 +14067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Oh, young one. Welcome... ♥ Let's do naughty things\nwith Auntie... ♥"
+                                "\\N<Aunt>Oh, young one. Welcome... ♥ Let's do\nnaughty things with Auntie... ♥"
                             ]
                         },
                         {
@@ -14495,7 +14495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There seems to be a girl who is a little older and good at\ngrass sliding..."
+                                "There seems to be a girl who is a little\nolder and good at grass sliding..."
                             ]
                         },
                         {
@@ -15108,7 +15108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Girls of the same age I feel like I see them everywhere in\ntown..."
+                                "Girls of the same age I feel like I see them\neverywhere in town..."
                             ]
                         },
                         {
@@ -15265,7 +15265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nana-chan>Oh, it's not me? You just want to do something\nnaughty again, don't you? ♥"
+                                "\\N<Nana-chan>Oh, it's not me? You just want to do\nsomething naughty again, don't you? ♥"
                             ]
                         },
                         {
@@ -15603,7 +15603,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\# I haven't been able to conquer it yet."
+                                " I haven't been able to conquer it yet."
                             ]
                         },
                         {
@@ -16269,7 +16269,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I haven't been able to capture (the character) yet."
+                                "I haven't been able to capture (the\ncharacter) yet."
                             ]
                         },
                         {
@@ -16611,7 +16611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sui-chan>Oh, it's you ♥ You're energetic again, should I\ntake some...♥"
+                                "\\N<Sui-chan>Oh, it's you ♥ You're energetic again,\nshould I take some...♥"
                             ]
                         },
                         {
@@ -16907,7 +16907,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\# I haven't been able to conquer it yet."
+                                " I haven't been able to conquer it yet."
                             ]
                         },
                         {
@@ -17572,7 +17572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A boy of the same age When you play together and become\nfriends..."
+                                "A boy of the same age When you play\ntogether and become friends..."
                             ]
                         },
                         {
@@ -17785,7 +17785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Yu-kun>Hey, Boku-kun. Do you maybe want to do something\nnaughty with me?"
+                                "\\N<Yu-kun>Hey, Boku-kun. Do you maybe want to do\nsomething naughty with me?"
                             ]
                         },
                         {
@@ -18997,7 +18997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "My Friend's Mother (Sleeping) When we become close and spend\nthe night..."
+                                "My Friend's Mother (Sleeping) When we\nbecome close and spend the night..."
                             ]
                         },
                         {
@@ -19093,7 +19093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(Should I do something naughty with the sleeping\nlady?)"
+                                "\\N<Boku>(Should I do something naughty with the\nsleeping lady?)"
                             ]
                         },
                         {
@@ -19229,7 +19229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rich Auntie (Sleeping) When you become close and stay\novernight..."
+                                "Rich Auntie (Sleeping) When you become close\nand stay overnight..."
                             ]
                         },
                         {
@@ -19325,7 +19325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(Should I do something naughty with the sleeping\nlady?)"
+                                "\\N<Boku>(Should I do something naughty with the\nsleeping lady?)"
                             ]
                         },
                         {
@@ -19461,7 +19461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A slightly older girl (sleeping) - Not implemented in the\nmain game."
+                                "A slightly older girl (sleeping) - Not\nimplemented in the main game."
                             ]
                         },
                         {
@@ -19557,7 +19557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(Should I do something naughty with sleeping Mika-\nchan?)"
+                                "\\N<Boku>(Should I do something naughty with sleeping\nMika- chan?)"
                             ]
                         },
                         {
@@ -19693,7 +19693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A girl of the same age (sleeping) On a camping night..."
+                                "A girl of the same age (sleeping) On a\ncamping night..."
                             ]
                         },
                         {
@@ -19789,7 +19789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(Should I do something naughty with Nana-chan while\nshe's sleeping?)"
+                                "\\N<Boku>(Should I do something naughty with Nana-chan\nwhile she's sleeping?)"
                             ]
                         },
                         {
@@ -19925,7 +19925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A boy of the same age (sleeping) On a camping night..."
+                                "A boy of the same age (sleeping) On a\ncamping night..."
                             ]
                         },
                         {
@@ -20021,7 +20021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(Should I do something naughty with sleeping Yuko-\nkun?)"
+                                "\\N<Boku>(Should I do something naughty with sleeping\nYuko- kun?)"
                             ]
                         },
                         {
@@ -20157,7 +20157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mysterious Girl (Sleeping) - Not implemented in the main\ngame."
+                                "Mysterious Girl (Sleeping) - Not implemented in\nthe main game."
                             ]
                         },
                         {
@@ -20253,7 +20253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(Should I do something naughty with sleeping Sui-\nchan?)"
+                                "\\N<Boku>(Should I do something naughty with sleeping\nSui- chan?)"
                             ]
                         },
                         {
@@ -20389,7 +20389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Sacchan (sleeping)</x0> There seems to be a sleeping\nflower somewhere that can make you sleep..."
+                                "Sacchan (sleeping)</x0> There seems to be a\nsleeping flower somewhere that can make\nyou sleep..."
                             ]
                         },
                         {
@@ -20948,7 +20948,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This crystal is the All Scene Unlock System. It allows you\nto unlock all H-scenes in the reminiscence room. There are\ntwo types of unlocks available: Temporary Full Unlock and\nComplete Full Unlock, which are only valid in the current\nreminiscence room."
+                                "This crystal is the All Scene Unlock System.\nIt allows you to unlock all H-scenes in\nthe reminiscence room. There are two\ntypes of unlocks available: Temporary\nFull Unlock and Complete Full Unlock,\nwhich are only valid in the current\nreminiscence room."
                             ]
                         },
                         {
@@ -20986,7 +20986,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please note that once you execute a complete full unlock,\nyou cannot revert back to the original state."
+                                "Please note that once you execute a complete\nfull unlock, you cannot revert back to\nthe original state."
                             ]
                         },
                         {
@@ -21083,7 +21083,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#※ Once you execute this operation, you cannot revert back\nto the original state. \\# Are you sure you want to proceed?"
+                                "※ Once you execute this operation, you\ncannot revert back to the original\nstate.  Are you sure you want to\nproceed?"
                             ]
                         },
                         {
@@ -21420,7 +21420,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "With this crystal, you can currently customize characters\nonly in the flashback room."
+                                "With this crystal, you can currently\ncustomize characters only in the\nflashback room."
                             ]
                         },
                         {
@@ -21451,7 +21451,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You cannot save, so it will not affect the main story. If\nyou end the current flashback, the customized content will\nbe lost."
+                                "You cannot save, so it will not affect the\nmain story. If you end the current\nflashback, the customized content will\nbe lost."
                             ]
                         },
                         {
@@ -21482,7 +21482,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You can also issue pink flyers, but if you put them in your\npocket, you can only use them in the current flashback room."
+                                "You can also issue pink flyers, but if you\nput them in your pocket, you can only\nuse them in the current flashback room."
                             ]
                         },
                         {
@@ -21513,7 +21513,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If you want to customize characters permanently, please use\nthe Secret Attic Room in the main game."
+                                "If you want to customize characters\npermanently, please use the Secret Attic\nRoom in the main game."
                             ]
                         },
                         {
@@ -21603,7 +21603,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select the character you want to customize."
+                                "Please select the character you want to\ncustomize."
                             ]
                         },
                         {
@@ -22178,7 +22178,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "※Please note that you can only choose either Change Skin\nColor & Brightness or Tanning, not both.※Please note that\nPotbelly only applies to the naked state."
+                                "※Please note that you can only choose either\nChange Skin Color & Brightness or\nTanning, not both.※Please note that\nPotbelly only applies to the naked\nstate."
                             ]
                         },
                         {
@@ -22916,7 +22916,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(I wonder if someone is in the bathroom...)"
+                                "\\N<Boku>(I wonder if someone is in the\nbathroom...)"
                             ]
                         },
                         {
@@ -22924,8 +22924,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "お気に入りのチラシの人",
-                                    "知ってる人"
+                                    "Favorite flyer person",
+                                    "Someone I know"
                                 ],
                                 -1,
                                 0,
@@ -23190,7 +23190,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ボク>（だれか、トイレに入ってるのかな…？）"
+                                "\\N<Boku>(I wonder if someone is in the\nbathroom...)"
                             ]
                         },
                         {
@@ -24448,7 +24448,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(⁉They're coming out...⁉They might notice that I was\nwatching...⁉I should hide somewhere!)"
+                                "\\N<Boku>(⁉They're coming out...⁉They might notice that I\nwas watching...⁉I should hide\nsomewhere!)"
                             ]
                         },
                         {
@@ -24696,14 +24696,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(I wonder if someone is in the bathroom...)"
+                                "\\N<Boku>(I wonder if someone is inside, doing\nsomething...) I wonder if someone is\ninside, doing something...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　誰かが中で、何かしてるのかな…？）"
+                                ""
                             ]
                         },
                         {
@@ -24879,12 +24879,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "指2本オナニー",
-                                    "指1本オナニー",
-                                    "クリオナニー",
-                                    "立ちオナニー",
-                                    "バイブ",
-                                    "二穴バイブ"
+                                    "Masturbating with two fingers",
+                                    "Masturbating with one finger",
+                                    "Clitoral masturbation",
+                                    "Standing masturbation",
+                                    "Vibrator",
+                                    "Double Hole Vibrator"
                                 ],
                                 -2,
                                 0,
@@ -25049,7 +25049,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\#まだ、このプレイは見れません。"
+                                "You still can't see this play."
                             ]
                         },
                         {
@@ -25135,7 +25135,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\#まだ、このプレイは見れません。"
+                                "You still can't see this play."
                             ]
                         },
                         {

@@ -2566,7 +2566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There's a gacha! It says that each try of the Pokemobi\nseries costs 20 yen and there are 10 different types. If you\ncollect all the types, you'll receive a wonderful present!\nShould I give it a try?"
+                                "There's a gacha! It says that each try of the\nPokemobi series costs 20 yen and there\nare 10 different types. If you collect\nall the types, you'll receive a\nwonderful present! Should I give it a\ntry?"
                             ]
                         },
                         {
@@ -2722,7 +2722,7 @@
                             "code": 401,
                             "indent": 13,
                             "parameters": [
-                                "\\N<Boku>Yay! I collected all the types! I have to let the\nshop girl know and receive something amazing!"
+                                "\\N<Boku>Yay! I collected all the types! I have to\nlet the shop girl know and receive\nsomething amazing!"
                             ]
                         },
                         {
@@ -3789,14 +3789,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おばさん>「あまり遠くには行かないでね…。"
+                                "\\N<Aunt>Please don't go too far... Let's go to the bus\nstop bench... ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　バス停のベンチに行きましょ…♥」"
+                                ""
                             ]
                         },
                         {
@@ -4002,7 +4002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おばさん>「バス停のベンチに行きましょ…♥」"
+                                "\\N<Aunt>Let's go to the bench at the bus stop...♥"
                             ]
                         },
                         {
@@ -5216,7 +5216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Closed on Saturdays and Sundays. Today, temporary closure."
+                                "Closed on Saturdays and Sundays. Today,\ntemporary closure."
                             ]
                         },
                         {
@@ -5452,7 +5452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Hmm... it looks like the shop girl isn't here..."
+                                "\\N<Boku>Hmm... it looks like the shop girl isn't\nhere..."
                             ]
                         },
                         {
@@ -5553,7 +5553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Hmm... it looks like the shop girl isn't here..."
+                                "\\N<Boku>Hmm... it looks like the shop girl isn't\nhere..."
                             ]
                         },
                         {
@@ -6003,7 +6003,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Oh, Nana-chan is eating ice cream! I'm so jealous...\nMaybe I should buy some too..."
+                                "\\N<Boku>Oh, Nana-chan is eating ice cream! I'm so\njealous... Maybe I should buy some\ntoo..."
                             ]
                         },
                         {
@@ -6027,7 +6027,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>...Oh, I see. If you're not going to eat that\nmuch, you can have this. I'm already full anyway."
+                                "\\N<Nana-chan>...Oh, I see. If you're not going to eat that\nmuch, you can have this. I'm already\nfull anyway."
                             ]
                         },
                         {
@@ -6151,7 +6151,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>Ahaha, it's just a joke♥ You're not a boy, so\nyou don't have to say things like that all the time♥"
+                                "\\N<Nana-chan>Ahaha, it's just a joke♥ You're not a boy, so\nyou don't have to say things like that\nall the time♥"
                             ]
                         },
                         {
@@ -6229,7 +6229,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>Ahaha, it's just a joke♥ You're not a boy, so\nyou don't have to say things like that all the time♥"
+                                "\\N<Nana-chan>Ahaha, it's just a joke♥ You're not a boy, so\nyou don't have to say things like that\nall the time♥"
                             ]
                         },
                         {
@@ -6432,14 +6432,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おばさん>「ねえ、ボク君…♥"
+                                "\\N<Aunt>Hey, Boku-kun... ♥ Shall we take a break on\nthe bench at the bus stop over there...?\n♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あそこにある、バス停のベンチで休みましょう…？♥」"
+                                ""
                             ]
                         },
                         {
@@ -6456,7 +6456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ボク>「うん」"
+                                "\\N<Boku>Yeah."
                             ]
                         },
                         {
@@ -6544,45 +6544,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おばさん>「あら…？"
+                                "\\N<Aunt>Oh...? What's wrong, Boku-kun...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どうしたの、ボク君…？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ボク>「うぅ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おばさんの裸をずっと見てたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ぼくもう、おちんちんがまんできなくなっちゃった…」"
+                                ""
                             ]
                         },
                         {
@@ -6599,28 +6568,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おばさん>「まぁ…♥"
+                                "\\N<Boku>Ugh... I've been staring at Aunt's naked body\nfor so long that I can't hold back my\nerection anymore..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　おばさんも、もう"
+                                "\\N<Aunt>Well... ♥ Aunt also can't resist anymore and\nwants Boku-kun's penis so badly... ♥\nCome here... ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ボク君のおちんちんが欲しくてたまらないの…♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ほら…来て…♥」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6651,28 +6651,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<おばさん>「あぁ…すごくよかったわ…♥"
+                                "\\N<Aunt>Ah... that was really good... ♥ Did you feel\nrelieved too, Boku-kun...? ♥ Well then,\nit's about time to go home... Come on,\nBoku-kun... let's go back to your\nplace... ♥"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ボク君も、スッキリした…？♥"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　じゃあ、そろそろ帰らないと…。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　さ、ボク君…お家に戻りましょ…♥」"
+                                ""
                             ]
                         },
                         {

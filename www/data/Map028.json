@@ -3787,7 +3787,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Would you like to skip the opening and tutorial?"
+                                "Would you like to skip the opening and\ntutorial?"
                             ]
                         },
                         {
@@ -3891,7 +3891,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I ended up spending my summer vacation at my aunt's pension,\nwhere I met a female art school student from the neighboring\natelier and my cousin, and we finished having lunch that\nday..."
+                                "I ended up spending my summer vacation at\nmy aunt's pension, where I met a female\nart school student from the neighboring\natelier and my cousin, and we finished\nhaving lunch that day..."
                             ]
                         },
                         {
@@ -4328,7 +4328,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select the difficulty level of Mushi Battle. *It can\nbe changed in the options during the game."
+                                "Please select the difficulty level of Mushi\nBattle. *It can be changed in the\noptions during the game."
                             ]
                         },
                         {
@@ -4497,7 +4497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select the presentation of Mushi Battle."
+                                "Please select the presentation of Mushi\nBattle."
                             ]
                         },
                         {
@@ -4514,38 +4514,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The battles in this game are usually depicted with pixel art\nof beetles such as rhinoceros beetles."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "For those who are not good with bugs, we have prepared a\nHero Eraser mode that changes the bug pixel art into hero\nerasers."
+                                "The battles in this game are usually\ndepicted with pixel art of beetles such\nas rhinoceros beetles."
                             ]
                         },
                         {
@@ -4576,7 +4545,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "※Can be changed in the options during the game."
+                                "For those who are not good with bugs, we\nhave prepared a Hero Eraser mode that\nchanges the bug pixel art into hero\nerasers."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "※Can be changed in the options during the\ngame."
                             ]
                         },
                         {
@@ -4663,7 +4663,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select the difficulty level of the mini-game. *It can\nbe changed in the options during the game."
+                                "Please select the difficulty level of the\nmini-game. *It can be changed in the\noptions during the game."
                             ]
                         },
                         {
@@ -4804,7 +4804,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select whether to include BL content (sexual\nactivities between boys). *It can be changed in the options\nduring the game, but depending on the timing, there may be\nevents that do not occur."
+                                "Please select whether to include BL content\n(sexual activities between boys). *It\ncan be changed in the options during the\ngame, but depending on the timing, there\nmay be events that do not occur."
                             ]
                         },
                         {
@@ -4955,7 +4955,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select whether to include male characters in random\ncharacter generation, etc. *It can be changed in the options\nduring the game."
+                                "Please select whether to include male\ncharacters in random character\ngeneration, etc. *It can be changed in\nthe options during the game."
                             ]
                         },
                         {
@@ -5049,7 +5049,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select whether to include characters with male\ngenitalia in random character generation, etc. *It can be\nchanged in the options during the game."
+                                "Please select whether to include characters\nwith male genitalia in random character\ngeneration, etc. *It can be changed in\nthe options during the game."
                             ]
                         },
                         {
@@ -5143,7 +5143,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The initial settings are complete. Please check the options\nfor other detailed settings. *For more detailed information,\nplease refer to the enclosed instruction manual."
+                                "The initial settings are complete. Please\ncheck the options for other detailed\nsettings. *For more detailed\ninformation, please refer to the\nenclosed instruction manual."
                             ]
                         },
                         {
@@ -5290,7 +5290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Do you remember..."
+                                "Do you remember..."
                             ]
                         },
                         {
@@ -5324,7 +5324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The endless blue sky, the overwhelming scent of trees... the\nnever-ending sound of cicadas..."
+                                "The endless blue sky, the overwhelming\nscent of trees... the never-ending sound\nof cicadas..."
                             ]
                         },
                         {
@@ -5362,7 +5362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Every time summer comes, I remember \\#those distant,\ndistant... memories of my childhood..."
+                                "Every time summer comes, I remember those\ndistant, distant... memories of my\nchildhood..."
                             ]
                         },
                         {

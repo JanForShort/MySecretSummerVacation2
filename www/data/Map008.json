@@ -5767,7 +5767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Auntie>Hehe, welcome. This is Auntie's house. And, it's\nalso your home during summer vacation, Boku-kun."
+                                "\\N<Auntie>Hehe, welcome. This is Auntie's house. And,\nit's also your home during summer\nvacation, Boku-kun."
                             ]
                         },
                         {
@@ -5805,7 +5805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>My house? Wow! This is amazing! It's my first time\nliving in such a big house!"
+                                "\\N<Boku>My house? Wow! This is amazing! It's my\nfirst time living in such a big house!"
                             ]
                         },
                         {
@@ -5836,7 +5836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Auntie>Hehe, that's right. This house is called a\npension, and it's a big house because many guests come to\nstay here."
+                                "\\N<Auntie>Hehe, that's right. This house is called a\npension, and it's a big house because\nmany guests come to stay here."
                             ]
                         },
                         {
@@ -5874,7 +5874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Oh, really? It's interesting to have a house where\nlots of people come to stay."
+                                "\\N<Boku>Oh, really? It's interesting to have a\nhouse where lots of people come to stay."
                             ]
                         },
                         {
@@ -6819,7 +6819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>Well then, Sacchan. Sorry, but could you please\ntake me to the foot of the mountain? My father will come to\npick me up in the town at the foot."
+                                "\\N<\\N[2]>Well then, Sacchan. Sorry, but could you\nplease take me to the foot of the\nmountain? My father will come to pick me\nup in the town at the foot."
                             ]
                         },
                         {
@@ -6850,7 +6850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Art School Onee-chan>Don't worry, I actually have some\nbusiness in the town at the foot of the mountain too. So,\nhow about we go together by bus, Boku-kun?"
+                                "\\N<Art School Onee-chan>Don't worry, I actually have some business in\nthe town at the foot of the mountain\ntoo. So, how about we go together by\nbus, Boku-kun?"
                             ]
                         },
                         {
@@ -7034,7 +7034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Sacchan! I will definitely come back! So please wait\nfor me!"
+                                "\\N<Boku>Sacchan! I will definitely come back! So please\nwait for me!"
                             ]
                         },
                         {
@@ -7089,7 +7089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>You're amazing, Sacchan. Well, since the bus is\nabout to arrive, let's say our goodbyes..."
+                                "\\N<\\N[2]>You're amazing, Sacchan. Well, since the bus\nis about to arrive, let's say our\ngoodbyes..."
                             ]
                         },
                         {
@@ -7144,7 +7144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Well, see you later, Boku-kun. Um, next time,\nI'll prepare some books that you might like..."
+                                "\\N<Onee-chan>Well, see you later, Boku-kun. Um, next time,\nI'll prepare some books that you might\nlike..."
                             ]
                         },
                         {
@@ -7186,7 +7186,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Shop Girl>Next time you come, make sure to save up more\npocket money. Contribute to the store's sales."
+                                "\\N<Shop Girl>Next time you come, make sure to save up\nmore pocket money. Contribute to the\nstore's sales."
                             ]
                         },
                         {
@@ -7238,7 +7238,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Aunt>Please come and visit again. Be sure to get along\nwell with Maa-kun."
+                                "\\N<Aunt>Please come and visit again. Be sure to get\nalong well with Maa-kun."
                             ]
                         },
                         {
@@ -7283,7 +7283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Mika-chan>Next time, don't lose to the grass sliding. At\nmost, wash your neck and wait."
+                                "\\N<Mika-chan>Next time, don't lose to the grass sliding.\nAt most, wash your neck and wait."
                             ]
                         },
                         {
@@ -7326,7 +7326,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>Make sure to come next year too. If you don't\ncome, there will be punishment, okay?"
+                                "\\N<Nana-chan>Make sure to come next year too. If you\ndon't come, there will be punishment,\nokay?"
                             ]
                         },
                         {
@@ -7411,7 +7411,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>I wanted to say goodbye to everyone too..."
+                                "\\N<Boku>I wanted to say goodbye to everyone\ntoo..."
                             ]
                         },
                         {
@@ -7452,7 +7452,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Art School Onee-chan>Well, since the bus is about to\narrive, shall we go soon?"
+                                "\\N<Art School Onee-chan>Well, since the bus is about to arrive, shall\nwe go soon?"
                             ]
                         },
                         {
@@ -8243,7 +8243,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>It's Boss-kun's fault. Suddenly yesterday, he\nsaid we should all go search for you..."
+                                "\\N<Hakase-kun>It's Boss-kun's fault. Suddenly yesterday,\nhe said we should all go search for\nyou..."
                             ]
                         },
                         {
@@ -8274,7 +8274,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boushi-kun>Ah... I'm exhausted... I've been searching for\nyou all this time..."
+                                "\\N<Boushi-kun>Ah... I'm exhausted... I've been searching\nfor you all this time..."
                             ]
                         },
                         {
@@ -8305,7 +8305,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Yu-kun>It must have been tough... But I never expected\nthat we would actually find you..."
+                                "\\N<Yu-kun>It must have been tough... But I never\nexpected that we would actually find\nyou..."
                             ]
                         },
                         {
@@ -8336,7 +8336,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Huh? What? Were you all searching for the Tsuchinoko\ntogether?"
+                                "\\N<Boku>Huh? What? Were you all searching for the\nTsuchinoko together?"
                             ]
                         },
                         {
@@ -8484,7 +8484,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#Golden Stag Beetle"
+                                "Golden Stag Beetle"
                             ]
                         },
                         {
@@ -9144,7 +9144,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Eh?! Is this the Golden Stag Beetle?! It really\nexists?! Amazing!!"
+                                "\\N<Boku>Eh?! Is this the Golden Stag Beetle?! It\nreally exists?! Amazing!!"
                             ]
                         },
                         {
@@ -9182,7 +9182,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>I've been searching for something to give to\nBoku-chan who's going back to the city since yesterday, as a\nmember of the Defense Force."
+                                "\\N<Boss-kun>I've been searching for something to give to\nBoku-chan who's going back to the city\nsince yesterday, as a member of the\nDefense Force."
                             ]
                         },
                         {
@@ -9213,7 +9213,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Eh?! You're giving this to me?! Is it really okay to\nhave something this amazing?!"
+                                "\\N<Boku>Eh?! You're giving this to me?! Is it really\nokay to have something this amazing?!"
                             ]
                         },
                         {
@@ -9244,7 +9244,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Yeah, of course. That is the proof of our\nfriendship. The Hime-no-yama Defense Force will be forever\nimmortal!"
+                                "\\N<Boss-kun>Yeah, of course. That is the proof of our\nfriendship. The Hime-no-yama Defense\nForce will be forever immortal!"
                             ]
                         },
                         {
@@ -9275,7 +9275,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Thank you! Boss-kun, Hakase-kun, Boushi-kun, Yu-\nkun! I will treasure it!"
+                                "\\N<Boku>Thank you! Boss-kun, Hakase-kun, Boushi-kun,\nYu- kun! I will treasure it!"
                             ]
                         },
                         {
@@ -9433,7 +9433,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>We will hold the Bug Battle Tournament again\nnext year! Members of the Hime-no-yama Defense Force must\ndefinitely participate!"
+                                "\\N<Boss-kun>We will hold the Bug Battle Tournament\nagain next year! Members of the Hime-no-\nyama Defense Force must definitely\nparticipate!"
                             ]
                         },
                         {
@@ -9464,7 +9464,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hakase-kun>Next year, I will definitely prepare even more\namazing bugs, so be prepared."
+                                "\\N<Hakase-kun>Next year, I will definitely prepare even\nmore amazing bugs, so be prepared."
                             ]
                         },
                         {
@@ -9488,7 +9488,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boushi-kun>Next time you come, let's go fishing together.\nI know a secret fishing spot!"
+                                "\\N<Boushi-kun>Next time you come, let's go fishing\ntogether. I know a secret fishing spot!"
                             ]
                         },
                         {
@@ -9519,7 +9519,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Yu-kun>Let's play again sometime. I'll also send you a\nletter. It would make me happy if you could reply, even if\nit's just occasionally."
+                                "\\N<Yu-kun>Let's play again sometime. I'll also send you\na letter. It would make me happy if you\ncould reply, even if it's just\noccasionally."
                             ]
                         },
                         {
@@ -9577,7 +9577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>Take care and stay well, Boku-kun. Come back here\nanytime, this is already your second home, after all. We're\nlike a family here, you know."
+                                "\\N<\\N[2]>Take care and stay well, Boku-kun. Come back\nhere anytime, this is already your\nsecond home, after all. We're like a\nfamily here, you know."
                             ]
                         },
                         {
@@ -9639,7 +9639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Let's meet again!"
+                                " Let's meet again!"
                             ]
                         },
                         {
@@ -9751,7 +9751,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>We said it here on the day we first met, right?\nThat it would definitely be a fun summer vacation... I\nwonder how it turned out?"
+                                "\\N<Onee-chan>We said it here on the day we first met,\nright? That it would definitely be a fun\nsummer vacation... I wonder how it\nturned out?"
                             ]
                         },
                         {
@@ -9806,7 +9806,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#It was the best summer vacation!"
+                                "It was the best summer vacation!"
                             ]
                         },
                         {
@@ -9893,7 +9893,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#Do you remember...?"
+                                "Do you remember...?"
                             ]
                         },
                         {
@@ -9927,7 +9927,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The endless blue sky that stretches as far as the eye can\nsee, the overwhelming scent of trees... and the never-ending\nchirping of cicadas..."
+                                "The endless blue sky that stretches as far\nas the eye can see, the overwhelming\nscent of trees... and the never-ending\nchirping of cicadas..."
                             ]
                         },
                         {
@@ -9965,7 +9965,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I will never forget those irreplaceable, distant summer\ndays..."
+                                "I will never forget those irreplaceable,\ndistant summer days..."
                             ]
                         },
                         {
@@ -10045,7 +10045,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "And so, my summer came to an end. But it felt like I had\nforgotten something important. It was that kind of summer\nvacation..."
+                                "And so, my summer came to an end. But it\nfelt like I had forgotten something\nimportant. It was that kind of summer\nvacation..."
                             ]
                         },
                         {
@@ -10354,7 +10354,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\#A End\\# Well done!"
+                                "A End Well done!"
                             ]
                         },
                         {
@@ -10531,7 +10531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#All Scene Unlock System Unlocked! ※ With the crystals\nadded to the Secret Picture Diary, it is now possible to\nunlock all scenes."
+                                "All Scene Unlock System Unlocked! ※ With\nthe crystals added to the Secret Picture\nDiary, it is now possible to unlock all\nscenes."
                             ]
                         },
                         {
@@ -10574,57 +10574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Custom Mode Unlocked! ※ You can now access the Secret\nAttic Room from the ladder in the storage room on the second\nfloor of the pension. It is now possible to customize the\nappearance of the main characters."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 250,
-                            "indent": 0,
-                            "parameters": [
-                                {
-                                    "name": "E_Heart01",
-                                    "volume": 50,
-                                    "pitch": 100,
-                                    "pan": 0
-                                }
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\#\\c[2]New Game PLUS\\c[0] Unlocked! ※ You can now start a new\ngame while carrying over current bug data, some items, and\nsome sexual knowledge."
+                                "Custom Mode Unlocked! ※ You can now access the\nSecret Attic Room from the ladder in the\nstorage room on the second floor of the\npension. It is now possible to customize\nthe appearance of the main characters."
                             ]
                         },
                         {
@@ -10674,7 +10624,57 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\#Endless Mode Unlocked! ※ This is a mode where you can\ncontinue your summer vacation until August 9999. The\nlimited-time characters have returned to town, but there\nwill be no limited-time events or new events occurring."
+                                "\\c[2]New Game PLUS\\c[0] Unlocked! ※ You can now\nstart a new game while carrying over\ncurrent bug data, some items, and some\nsexual knowledge."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 250,
+                            "indent": 0,
+                            "parameters": [
+                                {
+                                    "name": "E_Heart01",
+                                    "volume": 50,
+                                    "pitch": 100,
+                                    "pan": 0
+                                }
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Endless Mode Unlocked! ※ This is a mode where\nyou can continue your summer vacation\nuntil August 9999. The limited-time\ncharacters have returned to town, but\nthere will be no limited-time events or\nnew events occurring."
                             ]
                         },
                         {

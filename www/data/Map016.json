@@ -2503,7 +2503,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Hm? Boku-chan, are you going home? Well then, I\nguess we'll disband too."
+                                "\\N<Boss-kun>Hm? Boku-chan, are you going home? Well\nthen, I guess we'll disband too."
                             ]
                         },
                         {
@@ -3705,7 +3705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Wow, this is amazing! What could this be? Is it\nsomeone's playground...? But there's no one here.... I\nwonder if there would be someone if I had come earlier...?"
+                                "\\N<Boku>Wow, this is amazing! What could this be? Is\nit someone's playground...? But there's\nno one here.... I wonder if there would\nbe someone if I had come earlier...?"
                             ]
                         },
                         {
@@ -3743,7 +3743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>It's already late, maybe I should come back another\ntime..."
+                                "\\N<Boku>It's already late, maybe I should come back\nanother time..."
                             ]
                         },
                         {
@@ -4271,7 +4271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>What's wrong? No way! You, did you just intrude into\nour super top-secret secret base of the Princess Mountain\nDefense Squad without permission!"
+                                "\\N<Boy>What's wrong? No way! You, did you just\nintrude into our super top-secret secret\nbase of the Princess Mountain Defense\nSquad without permission!"
                             ]
                         },
                         {
@@ -4309,7 +4309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Huh!? Is this your secret base? That's amazing!"
+                                "\\N<Boku>Huh!? Is this your secret base? That's\namazing!"
                             ]
                         },
                         {
@@ -4375,7 +4375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>...Not that! We won't forgive illegal intruders into\nour base! And on top of that, knowing the secrets of our\nsecret base... We can't just let you go alive..."
+                                "\\N<Boy>...Not that! We won't forgive illegal\nintruders into our base! And on top of\nthat, knowing the secrets of our secret\nbase... We can't just let you go\nalive..."
                             ]
                         },
                         {
@@ -4463,7 +4463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>If you don't like it, there's no other way. You'll\nhave to join the Princess Mountain Defense Squad too. If you\ndo that, you'll be able to enter the secret base too."
+                                "\\N<Boy>If you don't like it, there's no other\nway. You'll have to join the Princess\nMountain Defense Squad too. If you do\nthat, you'll be able to enter the secret\nbase too."
                             ]
                         },
                         {
@@ -4494,7 +4494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Eh!? Is that so!? Yeah! Then, I also want to join\nthat something-something club!"
+                                "\\N<Boku>Eh!? Is that so!? Yeah! Then, I also want to\njoin that something-something club!"
                             ]
                         },
                         {
@@ -4525,7 +4525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>It's the Princess Mountain Defense Squad. However,\nyou can't join easily. You'll have to take a strict entrance\nexam."
+                                "\\N<Boy>It's the Princess Mountain Defense Squad.\nHowever, you can't join easily. You'll\nhave to take a strict entrance exam."
                             ]
                         },
                         {
@@ -4573,7 +4573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>That's right. If you can defeat me in a 'Bug Battle,'\nI'll allow you to join."
+                                "\\N<Boy>That's right. If you can defeat me in a 'Bug\nBattle,' I'll allow you to join."
                             ]
                         },
                         {
@@ -4621,7 +4621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>What's the matter, don't you know? It's the hottest\ngame right now where you make the beetles you caught, like\nstag beetles and rhinoceros beetles, fight each other."
+                                "\\N<Boy>What's the matter, don't you know? It's the\nhottest game right now where you make\nthe beetles you caught, like stag\nbeetles and rhinoceros beetles, fight\neach other."
                             ]
                         },
                         {
@@ -4659,7 +4659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Is that so... but I don't have any bugs...?"
+                                "\\N<Boku>Is that so... but I don't have any\nbugs...?"
                             ]
                         },
                         {
@@ -4683,7 +4683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>I guess there's no other choice. Here, I'll lend you\nthis 'bug net,' so go ahead and catch something. I saw a\nstag beetle around here earlier."
+                                "\\N<Boy>I guess there's no other choice. Here,\nI'll lend you this 'bug net,' so go\nahead and catch something. I saw a stag\nbeetle around here earlier."
                             ]
                         },
                         {
@@ -4834,7 +4834,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Obtained a plaything. When you have obtained a plaything,\nyou can switch between it using the W key and the Q key, and\nuse the item with the confirm button."
+                                "Obtained a plaything. When you have obtained a\nplaything, you can switch between it\nusing the W key and the Q key, and use\nthe item with the confirm button."
                             ]
                         },
                         {
@@ -4872,7 +4872,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "When you press the W key, it will switch in the order of\nbare hands -> tool 1 -> tool 2 -> tool 3 -> bare hands. In\nthe case of the Q key, it will be the opposite."
+                                "When you press the W key, it will switch in\nthe order of bare hands -> tool 1 ->\ntool 2 -> tool 3 -> bare hands. In the\ncase of the Q key, it will be the\nopposite."
                             ]
                         },
                         {
@@ -4910,7 +4910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You can catch bugs by using a bug net for insects and a\nfishing rod for fish, depending on the target. However, you\ncannot use playthings like these inside the house."
+                                "You can catch bugs by using a bug net for\ninsects and a fishing rod for fish,\ndepending on the target. However, you\ncannot use playthings like these inside\nthe house."
                             ]
                         },
                         {
@@ -4948,7 +4948,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Furthermore, please note that you cannot talk to or examine\nthings while holding a tool. You can confirm the above\nexplanation in the instruction manual as well."
+                                "Furthermore, please note that you cannot talk to or\nexamine things while holding a tool. You\ncan confirm the above explanation in the\ninstruction manual as well."
                             ]
                         },
                         {
@@ -4986,7 +4986,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Let's quickly grab the 'bug net' and try catching the 'bugs'\nflying around or perched on trees."
+                                "Let's quickly grab the 'bug net' and try\ncatching the 'bugs' flying around or\nperched on trees."
                             ]
                         },
                         {
@@ -5092,7 +5092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>If you swing a bug net towards bugs, you can catch\nthem. Bugs are small, so search carefully. They might be\nflying around or shining black on trees."
+                                "\\N<Boy>If you swing a bug net towards bugs, you\ncan catch them. Bugs are small, so\nsearch carefully. They might be flying\naround or shining black on trees."
                             ]
                         },
                         {
@@ -5188,7 +5188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>Oh? Did you catch a sawtooth stag beetle? Then let's\nhave a bug battle right away!"
+                                "\\N<Boy>Oh? Did you catch a sawtooth stag beetle?\nThen let's have a bug battle right away!"
                             ]
                         },
                         {
@@ -5262,7 +5262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>Hmm... Listen carefully, the basics of bug battles\nare like a one-on-one rock-paper-scissors game."
+                                "\\N<Boy>Hmm... Listen carefully, the basics of bug\nbattles are like a one-on-one rock-\npaper-scissors game."
                             ]
                         },
                         {
@@ -5317,7 +5317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>That's right, rock-paper-scissors. There are four\ncommands you can give to bugs. Attack, special move,\nbarrier, and charge."
+                                "\\N<Boy>That's right, rock-paper-scissors. There are\nfour commands you can give to bugs.\nAttack, special move, barrier, and\ncharge."
                             ]
                         },
                         {
@@ -5355,7 +5355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Huh? Barrier...? Can bugs really do something like\nthat...?"
+                                "\\N<Boku>Huh? Barrier...? Can bugs really do\nsomething like that...?"
                             ]
                         },
                         {
@@ -5379,7 +5379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>Use your imagination there. You play pretend games,\nright? Even in a game of tag, can you really become the\ndemon?"
+                                "\\N<Boy>Use your imagination there. You play\npretend games, right? Even in a game of\ntag, can you really become the demon?"
                             ]
                         },
                         {
@@ -5434,7 +5434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>If you understand, then let's continue with the\nexplanation."
+                                "\\N<Boy>If you understand, then let's continue\nwith the explanation."
                             ]
                         },
                         {
@@ -5465,7 +5465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>First, attacks are strong against barriers, but weak\nagainst special moves."
+                                "\\N<Boy>First, attacks are strong against barriers,\nbut weak against special moves."
                             ]
                         },
                         {
@@ -5496,7 +5496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>Finishing moves are strong against attacks, but weak\nagainst barriers."
+                                "\\N<Boy>Finishing moves are strong against attacks, but\nweak against barriers."
                             ]
                         },
                         {
@@ -5520,7 +5520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>Barriers are strong against finishing moves, but weak\nagainst attacks."
+                                "\\N<Boy>Barriers are strong against finishing moves, but\nweak against attacks."
                             ]
                         },
                         {
@@ -5544,100 +5544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>And finally, Charge is weak against everything, but\nit slightly restores the bug's stamina and increases its\nattack power for the next turn."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Boy>What you need to be careful of is that finishing\nmoves require 'move points' and can't be used when they run\nout."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Boy>Also, you can't give the same command twice in a row."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Boy>This rule applies to both you and your opponent, so\nthink carefully about what the opponent will do next and\ngive instructions to the bug."
+                                "\\N<Boy>And finally, Charge is weak against\neverything, but it slightly restores the\nbug's stamina and increases its attack\npower for the next turn."
                             ]
                         },
                         {
@@ -5675,7 +5582,100 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>The one who reduces the opponent's bug's HP to zero\nfirst wins. Also, if the bug moves back due to an 'attack'\nor 'finishing move', falling off the dohyo (sumo ring)\ncounts as a loss."
+                                "\\N<Boy>What you need to be careful of is that\nfinishing moves require 'move points'\nand can't be used when they run out."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Boy>Also, you can't give the same command twice\nin a row."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Boy>This rule applies to both you and your\nopponent, so think carefully about what\nthe opponent will do next and give\ninstructions to the bug."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Boy>The one who reduces the opponent's bug's HP\nto zero first wins. Also, if the bug\nmoves back due to an 'attack' or\n'finishing move', falling off the dohyo\n(sumo ring) counts as a loss."
                             ]
                         },
                         {
@@ -5759,7 +5759,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boy>Well, it would be faster to actually do it. Don't\nworry, I'll go easy on you."
+                                "\\N<Boy>Well, it would be faster to actually do it.\nDon't worry, I'll go easy on you."
                             ]
                         },
                         {
@@ -5797,7 +5797,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boy>Oh, don't forget that the bug at the front of your\nteam will participate in the battle. Well then, let's get\nstarted quickly."
+                                "\\N<Boy>Oh, don't forget that the bug at the front\nof your team will participate in the\nbattle. Well then, let's get started\nquickly."
                             ]
                         },
                         {
@@ -5975,7 +5975,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "During the Bug Battle, you can change the speed of the Bug\nBattle by pressing the Shift key. When in Speed Up mode, a\nmusic note symbol will be displayed in the upper left\ncorner."
+                                "During the Bug Battle, you can change the\nspeed of the Bug Battle by pressing the\nShift key. When in Speed Up mode, a\nmusic note symbol will be displayed in\nthe upper left corner."
                             ]
                         },
                         {
@@ -6045,7 +6045,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Boy: Huh...? I don't have a bug... Let's battle with this\nbug."
+                                "Boy: Huh...? I don't have a bug... Let's\nbattle with this bug."
                             ]
                         },
                         {
@@ -6170,7 +6170,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boy>Hmm... You're pretty good for a beginner. Alright, as\npromised, I'll allow you to join the Hime-no-yama Defense\nSquad."
+                                "\\N<Boy>Hmm... You're pretty good for a beginner.\nAlright, as promised, I'll allow you to\njoin the Hime-no-yama Defense Squad."
                             ]
                         },
                         {
@@ -6243,7 +6243,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boy>Too bad. But well, you did pretty well for a\nbeginner, so I'll praise your efforts and allow you to join\nthe Hime-no-yama Defense Squad as a special exception."
+                                "\\N<Boy>Too bad. But well, you did pretty well for\na beginner, so I'll praise your efforts\nand allow you to join the Hime-no-yama\nDefense Squad as a special exception."
                             ]
                         },
                         {
@@ -6410,7 +6410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>Well then, let's go to the secret base right away. We\nneed to introduce it to the others too."
+                                "\\N<Boy>Well then, let's go to the secret base right\naway. We need to introduce it to the\nothers too."
                             ]
                         },
                         {
@@ -6481,7 +6481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>Listen up. When you want to call everyone, blow the\nwhistle inside this kettle."
+                                "\\N<Boy>Listen up. When you want to call everyone,\nblow the whistle inside this kettle."
                             ]
                         },
                         {
@@ -6592,7 +6592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>Alright then. Let me explain again. This is our super\nultra top-secret secret base of the Hime-no-yama Defense\nSquad. And these are the members."
+                                "\\N<Boy>Alright then. Let me explain again. This is our\nsuper ultra top-secret secret base of\nthe Hime-no-yama Defense Squad. And\nthese are the members."
                             ]
                         },
                         {
@@ -6630,7 +6630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boy>Hey, you guys, is this the new member...? Hey, what's\nyour name?"
+                                "\\N<Boy>Hey, you guys, is this the new member...?\nHey, what's your name?"
                             ]
                         },
                         {
@@ -6718,7 +6718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>I am the captain of this defense squad. Call me\n'Boss' or 'Captain'. After all, I am the oldest among the\nboys around here."
+                                "\\N<Boss-kun>I am the captain of this defense squad.\nCall me 'Boss' or 'Captain'. After all,\nI am the oldest among the boys around\nhere."
                             ]
                         },
                         {
@@ -6780,7 +6780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Adding 'kun' is unnecessary, but oh well. So,\nthis person with glasses is the strategist, Hakase. They\nwear glasses and seem smart, don't they? But they're younger\nthan me, unlike Boku-chan."
+                                "\\N<Boss-kun>Adding 'kun' is unnecessary, but oh well. So,\nthis person with glasses is the\nstrategist, Hakase. They wear glasses\nand seem smart, don't they? But they're\nyounger than me, unlike Boku-chan."
                             ]
                         },
                         {
@@ -6875,7 +6875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Next to Hakase is Boushi. They always wear their\nfavorite hat, so we call them Boushi. They're the same age\nas Hakase."
+                                "\\N<Boss-kun>Next to Hakase is Boushi. They always wear\ntheir favorite hat, so we call them\nBoushi. They're the same age as Hakase."
                             ]
                         },
                         {
@@ -6956,7 +6956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>And the one in the back is Yuu. They're the same\nage as me, Boku-chan."
+                                "\\N<Boss-kun>And the one in the back is Yuu. They're the\nsame age as me, Boku-chan."
                             ]
                         },
                         {
@@ -7079,7 +7079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>And this little one here is 'Sacchan'. They're\nthe youngest among us."
+                                "\\N<Boss-kun>And this little one here is 'Sacchan'.\nThey're the youngest among us."
                             ]
                         },
                         {
@@ -7134,7 +7134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Hmm? Is that so? Well then, I guess it's fine to\nintroduce them."
+                                "\\N<Boss-kun>Hmm? Is that so? Well then, I guess it's\nfine to introduce them."
                             ]
                         },
                         {
@@ -7158,7 +7158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>And finally, the most selfish girl in the\nDefense Squad, 'Nana'. They're the same age as me, Boku-chan\nand Yuu."
+                                "\\N<Boss-kun>And finally, the most selfish girl in the\nDefense Squad, 'Nana'. They're the same\nage as me, Boku-chan and Yuu."
                             ]
                         },
                         {
@@ -7292,7 +7292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Hey, hey, enough with the noise. Anyone who\nenters this secret base is automatically drafted."
+                                "\\N<Boss-kun>Hey, hey, enough with the noise. Anyone who\nenters this secret base is automatically\ndrafted."
                             ]
                         },
                         {
@@ -7395,7 +7395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nana-chan>Hmm...? Well, I guess you don't have that\ntypical countryside vibe. Anyway, nice to meet you, I guess."
+                                "\\N<Nana-chan>Hmm...? Well, I guess you don't have that\ntypical countryside vibe. Anyway, nice\nto meet you, I guess."
                             ]
                         },
                         {
@@ -7464,7 +7464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Well then, now that the self-introductions are\nover, everyone is free to do as they please."
+                                "\\N<Boss-kun>Well then, now that the self-introductions\nare over, everyone is free to do as they\nplease."
                             ]
                         },
                         {
@@ -7526,7 +7526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>You can do whatever you want. There aren't any\nspecific rules. When we gather here, we often have bug\nbattles."
+                                "\\N<Boss-kun>You can do whatever you want. There aren't\nany specific rules. When we gather here,\nwe often have bug battles."
                             ]
                         },
                         {
@@ -7588,7 +7588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>That's right. When you want to have a bug\nbattle, use that kettle over there as a substitute for a\ngong."
+                                "\\N<Boss-kun>That's right. When you want to have a bug\nbattle, use that kettle over there as a\nsubstitute for a gong."
                             ]
                         },
                         {
@@ -7619,45 +7619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Since the other five, excluding Nana who hates\nbugs, will be your opponents, you can choose whoever you\nlike. I recommend Sacchan for beginners."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Boss-kun>In bug battles, there are practice matches and\nofficial matches. It's okay to lose in practice matches, but\nif you lose in an official match, that bug will be exhausted\nand unusable for the rest of the day, so be careful."
+                                "\\N<Boss-kun>Since the other five, excluding Nana who\nhates bugs, will be your opponents, you\ncan choose whoever you like. I recommend\nSacchan for beginners."
                             ]
                         },
                         {
@@ -7695,7 +7657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>If you win a few times in official matches,\neveryone will bring out their special bugs. Well, I don't\nthink it's possible, but if you can beat my special bug,\nI'll give you a reward."
+                                "\\N<Boss-kun>In bug battles, there are practice matches\nand official matches. It's okay to lose\nin practice matches, but if you lose in\nan official match, that bug will be\nexhausted and unusable for the rest of\nthe day, so be careful."
                             ]
                         },
                         {
@@ -7733,7 +7695,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>You guys should also give something to the\nbeginners if you lose using your secret weapons. It doesn't\nhave to be anything specific."
+                                "\\N<Boss-kun>If you win a few times in official\nmatches, everyone will bring out their\nspecial bugs. Well, I don't think it's\npossible, but if you can beat my special\nbug, I'll give you a reward."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Boss-kun>You guys should also give something to the\nbeginners if you lose using your secret\nweapons. It doesn't have to be anything\nspecific."
                             ]
                         },
                         {
@@ -7781,7 +7781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boss-kun>Oh, and one more thing! We're holding the Bug\nBattle Tournament to determine who's the strongest Bug\nBattler this year on the 25th! Don't forget, everyone! Boku-\nchan will also be participating!"
+                                "\\N<Boss-kun>Oh, and one more thing! We're holding the\nBug Battle Tournament to determine who's\nthe strongest Bug Battler this year on\nthe 25th! Don't forget, everyone! Boku-\nchan will also be participating!"
                             ]
                         },
                         {
@@ -7898,7 +7898,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "When you select Bug Cage from the menu, you can exchange\nyour current bugs. Additionally, when you select Bug\nTraining, you can use Training Points to level up your bugs."
+                                "When you select Bug Cage from the menu, you\ncan exchange your current bugs.\nAdditionally, when you select Bug\nTraining, you can use Training Points to\nlevel up your bugs."
                             ]
                         },
                         {
@@ -7936,7 +7936,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If you don't have enough points for leveling up, you won't\nbe able to select it. Training Points accumulate when you\nparticipate in bug battles or catch new bugs."
+                                "If you don't have enough points for\nleveling up, you won't be able to select\nit. Training Points accumulate when you\nparticipate in bug battles or catch new\nbugs."
                             ]
                         },
                         {
@@ -8412,7 +8412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Sawtooth Stag Beetle"
+                                " Sawtooth Stag Beetle"
                             ]
                         },
                         {
@@ -9100,7 +9100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\# Sawtooth Stag Beetle"
+                                " Sawtooth Stag Beetle"
                             ]
                         },
                         {
@@ -9997,7 +9997,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Nana-chan>Ugh, it's troublesome to be called out suddenly\nlike this."
+                                "\\N<Nana-chan>Ugh, it's troublesome to be called out\nsuddenly like this."
                             ]
                         },
                         {
@@ -10114,7 +10114,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Boss-kun>That's a great response! Well then, let's start\nright away! The first match is Boku-chan versus Yuko-chan!\nTake your positions and begin!"
+                                "\\N<Boss-kun>That's a great response! Well then, let's\nstart right away! The first match is\nBoku-chan versus Yuko-chan! Take your\npositions and begin!"
                             ]
                         },
                         {
@@ -10205,7 +10205,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Boku>Hey, hey. I found a lake right over there, you know."
+                                "\\N<Boku>Hey, hey. I found a lake right over there,\nyou know."
                             ]
                         },
                         {
@@ -10260,7 +10260,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Boku>You know, I want to try camping over there. Can't we\nall do it together?"
+                                "\\N<Boku>You know, I want to try camping over there.\nCan't we all do it together?"
                             ]
                         },
                         {
@@ -10291,7 +10291,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Boss-kun>Camping? It's not really a place to stay\novernight, you know? There's nothing there."
+                                "\\N<Boss-kun>Camping? It's not really a place to stay\novernight, you know? There's nothing\nthere."
                             ]
                         },
                         {
@@ -10322,7 +10322,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Boku>But, I've never done camping before and I want to\ntry it with everyone."
+                                "\\N<Boku>But, I've never done camping before and I\nwant to try it with everyone."
                             ]
                         },
                         {
@@ -10353,7 +10353,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Boss-kun>Hmm...? Well, I guess occasionally it might be\nnice to do something like that. What do you guys think?"
+                                "\\N<Boss-kun>Hmm...? Well, I guess occasionally it might be\nnice to do something like that. What do\nyou guys think?"
                             ]
                         },
                         {
@@ -10466,7 +10466,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Nana-chan>What? Do you want me to join that much? Well,\nif you're saying it like that, I guess I can go too?"
+                                "\\N<Nana-chan>What? Do you want me to join that much? Well,\nif you're saying it like that, I guess I\ncan go too?"
                             ]
                         },
                         {
@@ -10504,7 +10504,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Boss-kun>Alright, then it's decided that everyone will\nparticipate! Um... there will be preparations, so let's\nstart from the evening of the 18th. Make sure to get\npermission from your parents. Don't forget, okay?"
+                                "\\N<Boss-kun>Alright, then it's decided that everyone will\nparticipate! Um... there will be\npreparations, so let's start from the\nevening of the 18th. Make sure to get\npermission from your parents. Don't\nforget, okay?"
                             ]
                         },
                         {
@@ -10682,7 +10682,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "The sound of the flute was swallowed up into the distant\nsky... No matter how long I waited, they never appeared. At\nthat moment, I clearly felt the end of summer..."
+                                "The sound of the flute was swallowed up\ninto the distant sky... No matter how\nlong I waited, they never appeared. At\nthat moment, I clearly felt the end of\nsummer..."
                             ]
                         },
                         {
@@ -10729,7 +10729,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Boku>I see... Well, everyone must be busy since summer\nvacation is already ending... I wanted to say goodbye..."
+                                "\\N<Boku>I see... Well, everyone must be busy\nsince summer vacation is already\nending... I wanted to say goodbye..."
                             ]
                         },
                         {
@@ -10786,7 +10786,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Boku>I guess I'll give up... It seems like everyone is\nbusy... Even though I wanted to say goodbye..."
+                                "\\N<Boku>I guess I'll give up... It seems like\neveryone is busy... Even though I wanted\nto say goodbye..."
                             ]
                         },
                         {
@@ -10976,7 +10976,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>It's getting dark, so let's stop the bug battle..."
+                                "\\N<Boku>It's getting dark, so let's stop the bug\nbattle..."
                             ]
                         },
                         {
@@ -11402,7 +11402,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "The next match was won by Hakase-kun, and after that Boss-\nkun won. In no time, Hakase-kun's second match against me,\nthe opponent, began."
+                                "The next match was won by Hakase-kun, and\nafter that Boss- kun won. In no time,\nHakase-kun's second match against me,\nthe opponent, began."
                             ]
                         },
                         {
@@ -11652,7 +11652,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\N<Boss-kun>Oh, I see. So Boku-chan is my opponent in the\nfinals. How interesting! In that case, I'll bring out my\nsecret weapon too!"
+                                "\\N<Boss-kun>Oh, I see. So Boku-chan is my opponent in\nthe finals. How interesting! In that\ncase, I'll bring out my secret weapon\ntoo!"
                             ]
                         },
                         {
@@ -11707,7 +11707,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\N<Hakase-kun>I wonder if that's considered cheating...?"
+                                "\\N<Hakase-kun>I wonder if that's considered\ncheating...?"
                             ]
                         },
                         {
@@ -11765,7 +11765,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\N<Nana-chan>Hey, Boku. If you've come this far and lose, I\nwon't accept it."
+                                "\\N<Nana-chan>Hey, Boku. If you've come this far and lose,\nI won't accept it."
                             ]
                         },
                         {
@@ -11851,7 +11851,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\N<Boss-kun>Enough already! Shut up! It would be nice if you\nwin! Now, let's battle! Boku-chan! Get ready!"
+                                "\\N<Boss-kun>Enough already! Shut up! It would be nice if\nyou win! Now, let's battle! Boku-chan!\nGet ready!"
                             ]
                         },
                         {
@@ -12110,7 +12110,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\N<Boss-kun>W-What the... My mighty monster Zaringa lost...\nIt's frustrating, but it's a complete defeat..."
+                                "\\N<Boss-kun>W-What the... My mighty monster Zaringa\nlost... It's frustrating, but it's a\ncomplete defeat..."
                             ]
                         },
                         {
@@ -12141,7 +12141,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\N<Boku>Ah, that was fun! Let's have another Bug Battle\ntournament next year!"
+                                "\\N<Boku>Ah, that was fun! Let's have another Bug\nBattle tournament next year!"
                             ]
                         },
                         {
@@ -12231,7 +12231,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\N<Boss-kun>Well, anyway, the winner of this tournament is\nBoku-chan! Everyone, give a round of applause!"
+                                "\\N<Boss-kun>Well, anyway, the winner of this tournament\nis Boku-chan! Everyone, give a round of\napplause!"
                             ]
                         },
                         {
@@ -12288,7 +12288,7 @@
                             "code": 401,
                             "indent": 9,
                             "parameters": [
-                                "\\N<Boss-kun>And with that, the Bug Battle tournament comes\nto an end!"
+                                "\\N<Boss-kun>And with that, the Bug Battle tournament\ncomes to an end!"
                             ]
                         },
                         {
@@ -13081,7 +13081,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Hakase-kun>Looks like the Mechanical Rhinoceros Beetle\nran out of energy... I guess there's no choice but to use\nthat..."
+                                "\\N<Hakase-kun>Looks like the Mechanical Rhinoceros Beetle\nran out of energy... I guess there's no\nchoice but to use that..."
                             ]
                         },
                         {
@@ -13192,7 +13192,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Hakase-kun>Boss-kun's secret weapon is amazing, so let's\nfight with bugs that we've raised properly!"
+                                "\\N<Hakase-kun>Boss-kun's secret weapon is amazing, so let's\nfight with bugs that we've raised\nproperly!"
                             ]
                         },
                         {
@@ -13269,7 +13269,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\N<Hakase-kun>Congratulations on winning, Boku-kun. It's not\nreally a celebration, but I'll give you this bug."
+                                "\\N<Hakase-kun>Congratulations on winning, Boku-kun. It's not really a\ncelebration, but I'll give you this bug."
                             ]
                         },
                         {
@@ -13408,7 +13408,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\#Hercules Beetle"
+                                "Hercules Beetle"
                             ]
                         },
                         {
@@ -13634,7 +13634,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\#Caucasus Stag Beetle"
+                                "Caucasus Stag Beetle"
                             ]
                         },
                         {
@@ -13860,7 +13860,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\#Giraffe Sawtooth Stag Beetle"
+                                "Giraffe Sawtooth Stag Beetle"
                             ]
                         },
                         {
@@ -14035,7 +14035,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\N<Hakase-kun>Yeah, it's fine. I couldn't handle it well,\nbut I'm sure you can master it, Boku-kun. Take good care of\nit until next year."
+                                "\\N<Hakase-kun>Yeah, it's fine. I couldn't handle it well,\nbut I'm sure you can master it, Boku-\nkun. Take good care of it until next\nyear."
                             ]
                         },
                         {
@@ -14107,7 +14107,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\N<Hakase-kun>I couldn't handle it well, but I'm sure you\ncan master it, Boku-kun. Take good care of it until next\nyear."
+                                "\\N<Hakase-kun>I couldn't handle it well, but I'm sure\nyou can master it, Boku-kun. Take good\ncare of it until next year."
                             ]
                         },
                         {
@@ -14181,7 +14181,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\N<Hakase-kun>Too bad, Boku-kun. I'll give you this bug, so\nlet's do our best again next year."
+                                "\\N<Hakase-kun>Too bad, Boku-kun. I'll give you this bug,\nso let's do our best again next year."
                             ]
                         },
                         {
@@ -14317,7 +14317,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hakase-kun>Boku-kun, you'll be here during summer\nvacation, right? How long will you be able to stay?"
+                                "\\N<Hakase-kun>Boku-kun, you'll be here during summer vacation,\nright? How long will you be able to\nstay?"
                             ]
                         },
                         {
@@ -14372,7 +14372,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Hakase-kun>I see. Well then, we can still play together\nfor a while longer."
+                                "\\N<Hakase-kun>I see. Well then, we can still play\ntogether for a while longer."
                             ]
                         },
                         {
@@ -14441,7 +14441,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Hakase-kun>Boku-kun, did you know? If you bring the\nbottles that are scattered around to Aoki Shop, they'll give\nyou money."
+                                "\\N<Hakase-kun>Boku-kun, did you know? If you bring the bottles\nthat are scattered around to Aoki Shop,\nthey'll give you money."
                             ]
                         },
                         {
@@ -14507,7 +14507,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Hakase-kun>Hey, Boku-kun. You know that Aoki Shop has a\n'Lucky Ice Cream,' right? If you get a winning one, they'll\ngive you money. It might be worth buying it on a lucky day."
+                                "\\N<Hakase-kun>Hey, Boku-kun. You know that Aoki Shop has a\n'Lucky Ice Cream,' right? If you get a\nwinning one, they'll give you money. It\nmight be worth buying it on a lucky day."
                             ]
                         },
                         {
@@ -14573,7 +14573,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Hakase-kun>Oh, Boku-kun. Next time, come over to my house\ntoo. My mom made snacks."
+                                "\\N<Hakase-kun>Oh, Boku-kun. Next time, come over to my\nhouse too. My mom made snacks."
                             ]
                         },
                         {
@@ -14632,7 +14632,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Hakase-kun>Summer vacation is almost over... This summer\nwas probably more fun with Boku-kun here."
+                                "\\N<Hakase-kun>Summer vacation is almost over... This summer\nwas probably more fun with Boku-kun\nhere."
                             ]
                         },
                         {
@@ -14680,7 +14680,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Hakase-kun>Oh, Boku-kun. Next time, come over to my house\ntoo. My mom made snacks."
+                                "\\N<Hakase-kun>Oh, Boku-kun. Next time, come over to my\nhouse too. My mom made snacks."
                             ]
                         },
                         {
@@ -14788,7 +14788,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Hakase-kun>By the way, Boku-kun. You did great in the Bug\nBattle Tournament. If you want, you can have this bug as a\nreward."
+                                "\\N<Hakase-kun>By the way, Boku-kun. You did great in the\nBug Battle Tournament. If you want, you\ncan have this bug as a reward."
                             ]
                         },
                         {
@@ -15155,7 +15155,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\N<Boushi-kun>Amazing, Boku-kun! To defeat that boss's\nsecret weapon!"
+                                "\\N<Boushi-kun>Amazing, Boku-kun! To defeat that boss's secret\nweapon!"
                             ]
                         },
                         {
@@ -15196,7 +15196,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\N<Boushi-kun>As expected, the secret weapon was amazing..."
+                                "\\N<Boushi-kun>As expected, the secret weapon was\namazing..."
                             ]
                         },
                         {
@@ -15373,7 +15373,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Oh, really? I wanted to have an Onee-chan too."
+                                "\\N<Boku>Oh, really? I wanted to have an Onee-chan\ntoo."
                             ]
                         },
                         {
@@ -15425,7 +15425,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boushi-kun>Boku-kun, are you fishing? I heard there's a\nsecret fishing spot somewhere. But, there's something about\nnot getting too close in the evening... What was it\nagain...?"
+                                "\\N<Boushi-kun>Boku-kun, are you fishing? I heard there's a\nsecret fishing spot somewhere. But,\nthere's something about not getting too\nclose in the evening... What was it\nagain...?"
                             ]
                         },
                         {
@@ -15491,7 +15491,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boushi-kun>The other day, I saw a foreign Onee-chan\nfishing at the lake near here. It was a place that you\ncouldn't walk to, so I wonder if she swam there...?"
+                                "\\N<Boushi-kun>The other day, I saw a foreign Onee-chan\nfishing at the lake near here. It was a\nplace that you couldn't walk to, so I\nwonder if she swam there...?"
                             ]
                         },
                         {
@@ -15557,7 +15557,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Boushi-kun>Oh, right. There are a total of 12 types of\nfish that can be caught around here. I've caught and\nconfirmed them all. I wonder if Boku-kun can catch them all\ntoo?"
+                                "\\N<Boushi-kun>Oh, right. There are a total of 12 types of\nfish that can be caught around here.\nI've caught and confirmed them all. I\nwonder if Boku-kun can catch them all\ntoo?"
                             ]
                         },
                         {
@@ -15623,7 +15623,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Boushi-kun>For my independent study, I decided to use\nfish's favorite bait. The best one was... maybe worms."
+                                "\\N<Boushi-kun>For my independent study, I decided to use\nfish's favorite bait. The best one\nwas... maybe worms."
                             ]
                         },
                         {
@@ -15671,7 +15671,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Boushi-kun>The other day, I saw a foreign Onee-chan\nfishing at the lake near here. It was a place that you\ncouldn't walk to, so I wonder if she swam there...?"
+                                "\\N<Boushi-kun>The other day, I saw a foreign Onee-chan\nfishing at the lake near here. It was a\nplace that you couldn't walk to, so I\nwonder if she swam there...?"
                             ]
                         },
                         {
@@ -16217,7 +16217,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>No! Soon, my little brother or sister will be born!"
+                                "\\N<Boku>No! Soon, my little brother or sister will\nbe born!"
                             ]
                         },
                         {
@@ -16289,7 +16289,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Yu-kun>I have an older sister, so I had a lot of hand-\nme-downs that were more girly, and I didn't really like it."
+                                "\\N<Yu-kun>I have an older sister, so I had a lot of\nhand- me-downs that were more girly, and\nI didn't really like it."
                             ]
                         },
                         {
@@ -16372,7 +16372,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Yu-kun>Do you remember the road we cleared the grass on\nthe other day? If we keep going on that road, there's a\nlarge vacant lot. Let's play there next time."
+                                "\\N<Yu-kun>Do you remember the road we cleared the\ngrass on the other day? If we keep going\non that road, there's a large vacant\nlot. Let's play there next time."
                             ]
                         },
                         {
@@ -16431,7 +16431,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Yu-kun>Until now, I've been a little lonely because there\nwere no boys my age. I'm happy that you, Boku-kun, came this\nyear."
+                                "\\N<Yu-kun>Until now, I've been a little lonely because\nthere were no boys my age. I'm happy\nthat you, Boku-kun, came this year."
                             ]
                         },
                         {
@@ -16490,7 +16490,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Yu-kun>Summer vacation is almost over... hey, Boku-kun,\ndo you think we can come back next summer vacation too?"
+                                "\\N<Yu-kun>Summer vacation is almost over... hey, Boku-\nkun, do you think we can come back next\nsummer vacation too?"
                             ]
                         },
                         {
@@ -16597,7 +16597,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Yu-kun>Summer vacation is ending... I'll write a letter.\nSo that I won't forget about you, Boku-kun."
+                                "\\N<Yu-kun>Summer vacation is ending... I'll write a\nletter. So that I won't forget about\nyou, Boku-kun."
                             ]
                         },
                         {
@@ -16645,7 +16645,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Yu-kun>Until now, I've been a little lonely because there\nwere no boys my age. I'm happy that you, Boku-kun, came this\nyear."
+                                "\\N<Yu-kun>Until now, I've been a little lonely because\nthere were no boys my age. I'm happy\nthat you, Boku-kun, came this year."
                             ]
                         },
                         {
@@ -16981,7 +16981,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Sacchan>I don't really understand, but... \\N[3]... do\nyour best..."
+                                "\\N<Sacchan>I don't really understand, but...\n\\N[3]... do your best..."
                             ]
                         },
                         {
@@ -17288,7 +17288,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Sacchan, have you been coming to this secret base\nfrom before?"
+                                "\\N<Boku>Sacchan, have you been coming to this secret\nbase from before?"
                             ]
                         },
                         {
@@ -17312,7 +17312,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Sacchan>Mom said... she can't do it alone... that it's\nokay to be with someone... now... because \\N[3] is here, I\ncan come anytime..."
+                                "\\N<Sacchan>Mom said... she can't do it alone... that\nit's okay to be with someone... now...\nbecause \\N[3] is here, I can come\nanytime..."
                             ]
                         },
                         {
@@ -17395,7 +17395,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boku>Thanks! But don't worry! I also have a water bottle!"
+                                "\\N<Boku>Thanks! But don't worry! I also have a water\nbottle!"
                             ]
                         },
                         {
@@ -17724,7 +17724,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Nana-chan>Huh? You lost? Well then, it's punishment time\n♥"
+                                "\\N<Nana-chan>Huh? You lost? Well then, it's punishment\ntime ♥"
                             ]
                         },
                         {
@@ -18063,7 +18063,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\N<Nana-chan>Hmm...? So you won, just as promised? ♥ Did you\nreally want it that badly...? ♥ Hehe, that's fine ♥ Then,\nI'll be waiting for you at the shrine tomorrow ♥"
+                                "\\N<Nana-chan>Hmm...? So you won, just as promised? ♥ Did you\nreally want it that badly...? ♥ Hehe,\nthat's fine ♥ Then, I'll be waiting for\nyou at the shrine tomorrow ♥"
                             ]
                         },
                         {
@@ -18189,7 +18189,7 @@
                             "code": 401,
                             "indent": 8,
                             "parameters": [
-                                "\\N<Nana-chan>Huh? You lost? Well then, it's punishment time\n♥"
+                                "\\N<Nana-chan>Huh? You lost? Well then, it's punishment\ntime ♥"
                             ]
                         },
                         {
@@ -18384,7 +18384,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Nana-chan>Ahh, this town is so boring because there's\nnothing here. I bet the city has discos and cafes and all\nsorts of things, right?"
+                                "\\N<Nana-chan>Ahh, this town is so boring because there's\nnothing here. I bet the city has discos\nand cafes and all sorts of things,\nright?"
                             ]
                         },
                         {
@@ -18422,7 +18422,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Huh? I don't know. I've never been to a place like\nthat before."
+                                "\\N<Boku>Huh? I don't know. I've never been to a\nplace like that before."
                             ]
                         },
                         {
@@ -18531,7 +18531,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Nana-chan>What's up? I understand that you're very\ninterested in me, but it's a bit troublesome if you're so\npushy, you know ♥"
+                                "\\N<Nana-chan>What's up? I understand that you're very\ninterested in me, but it's a bit\ntroublesome if you're so pushy, you know\n♥"
                             ]
                         },
                         {
@@ -18615,7 +18615,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Nana-chan>It's so hot. Wanna take a nap?... Huh? You took\nit seriously? Dummy ♥"
+                                "\\N<Nana-chan>It's so hot. Wanna take a nap?... Huh? You\ntook it seriously? Dummy ♥"
                             ]
                         },
                         {
@@ -18699,7 +18699,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Nana-chan>Hey hey, summer vacation is ending, you know?\nBefore you go back to the city, is there something you want\nto tell me? Well, I already know even if you don't say it ♥"
+                                "\\N<Nana-chan>Hey hey, summer vacation is ending, you\nknow? Before you go back to the city, is\nthere something you want to tell me?\nWell, I already know even if you don't\nsay it ♥"
                             ]
                         },
                         {
@@ -18783,7 +18783,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Nana-chan>Are you really going back to the city? You\nshould just move here instead. What's the big deal? It's not\nlike I care or anything. Hmph."
+                                "\\N<Nana-chan>Are you really going back to the city? You\nshould just move here instead. What's\nthe big deal? It's not like I care or\nanything. Hmph."
                             ]
                         },
                         {
@@ -18847,7 +18847,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Nana-chan>It's so hot. Wanna take a nap?... Huh? You took\nit seriously? Dummy ♥"
+                                "\\N<Nana-chan>It's so hot. Wanna take a nap?... Huh? You\ntook it seriously? Dummy ♥"
                             ]
                         },
                         {
@@ -19059,7 +19059,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Too bad, Boku-chan. You'll have to polish your\nskills by next year."
+                                "\\N<Boss-kun>Too bad, Boku-chan. You'll have to polish\nyour skills by next year."
                             ]
                         },
                         {
@@ -19163,7 +19163,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boss-kun>You did well, Boku-chan. But, don't let your\nguard down just because you look like that."
+                                "\\N<Boss-kun>You did well, Boku-chan. But, don't let\nyour guard down just because you look\nlike that."
                             ]
                         },
                         {
@@ -19222,7 +19222,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Boss-kun>I never expected Boku-chan to come this far.\nI'll show you my secret weapon!"
+                                "\\N<Boss-kun>I never expected Boku-chan to come this\nfar. I'll show you my secret weapon!"
                             ]
                         },
                         {
@@ -19297,7 +19297,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\N<Boss-kun>I'm frustrated, but I'll admit defeat this time.\nHowever, I won't lose next time, so be prepared."
+                                "\\N<Boss-kun>I'm frustrated, but I'll admit defeat this\ntime. However, I won't lose next time,\nso be prepared."
                             ]
                         },
                         {
@@ -19345,7 +19345,7 @@
                             "code": 401,
                             "indent": 7,
                             "parameters": [
-                                "\\N<Boss-kun>Too bad, Boku-chan. But it's 10 years too early\nfor you to defeat me."
+                                "\\N<Boss-kun>Too bad, Boku-chan. But it's 10 years too\nearly for you to defeat me."
                             ]
                         },
                         {
@@ -19457,7 +19457,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>How about it, isn't it amazing? We made this\nsecret base together."
+                                "\\N<Boss-kun>How about it, isn't it amazing? We made\nthis secret base together."
                             ]
                         },
                         {
@@ -19614,7 +19614,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Ah! Speaking of which, I borrowed the bug-catching\nnet and haven't returned it. I need to give it back."
+                                "\\N<Boku>Ah! Speaking of which, I borrowed the bug-\ncatching net and haven't returned it. I\nneed to give it back."
                             ]
                         },
                         {
@@ -19645,7 +19645,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boss-kun>Huh? Fine, whatever. I'll lend it to you during\nsummer vacation. You need it for bug battles, right?"
+                                "\\N<Boss-kun>Huh? Fine, whatever. I'll lend it to you\nduring summer vacation. You need it for\nbug battles, right?"
                             ]
                         },
                         {
@@ -19735,7 +19735,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boss-kun>Hey, Boku-chan. Are you properly prepared for\nthe Bug Battle Tournament? Make sure to go to various\nplaces, gather strong bugs, and train them well."
+                                "\\N<Boss-kun>Hey, Boku-chan. Are you properly prepared\nfor the Bug Battle Tournament? Make sure\nto go to various places, gather strong\nbugs, and train them well."
                             ]
                         },
                         {
@@ -19818,7 +19818,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Boss-kun>Hey, Boku-chan. Have you ever seen a golden stag\nbeetle?"
+                                "\\N<Boss-kun>Hey, Boku-chan. Have you ever seen a golden\nstag beetle?"
                             ]
                         },
                         {
@@ -19842,7 +19842,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Boku>Eh, what's that!? A golden stag beetle? I've never\nseen anything like that before!"
+                                "\\N<Boku>Eh, what's that!? A golden stag beetle?\nI've never seen anything like that\nbefore!"
                             ]
                         },
                         {
@@ -19873,7 +19873,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Boss-kun>Hehehe. This is classified information from the\nHime-no-yama Defense Squad, but it seems that once every 100\nyears, a legendary Golden Stag Beetle appears on this\nmountain."
+                                "\\N<Boss-kun>Hehehe. This is classified information from the\nHime-no-yama Defense Squad, but it seems\nthat once every 100 years, a legendary\nGolden Stag Beetle appears on this\nmountain."
                             ]
                         },
                         {
@@ -19976,7 +19976,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Yu-kun>There has been a defense squad since 100 years\nago...?"
+                                "\\N<Yu-kun>There has been a defense squad since 100\nyears ago...?"
                             ]
                         },
                         {
@@ -20000,7 +20000,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Boss-kun>Eh! I saw it the other day! Just a glimpse! For\na moment! Probably!"
+                                "\\N<Boss-kun>Eh! I saw it the other day! Just a glimpse!\nFor a moment! Probably!"
                             ]
                         },
                         {
@@ -20048,7 +20048,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Boku>But if it really exists, that would be amazing! A\ngolden stag beetle..."
+                                "\\N<Boku>But if it really exists, that would be\namazing! A golden stag beetle..."
                             ]
                         },
                         {
@@ -20082,7 +20082,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Boss-kun>Ahh, summer vacation is almost over. I wish it\ncould last forever."
+                                "\\N<Boss-kun>Ahh, summer vacation is almost over. I wish\nit could last forever."
                             ]
                         },
                         {
@@ -20151,7 +20151,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<Boss-kun>Oh no... I haven't finished my summer homework\nat all..."
+                                "\\N<Boss-kun>Oh no... I haven't finished my summer\nhomework at all..."
                             ]
                         },
                         {
@@ -20335,7 +20335,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Hey, you know, how can I get to the house on the\nother side below the fishing spot waterfall you told me\nabout the other day?"
+                                "\\N<Boku>Hey, you know, how can I get to the house on\nthe other side below the fishing spot\nwaterfall you told me about the other\nday?"
                             ]
                         },
                         {
@@ -20366,7 +20366,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Hmm? What are you talking about, Boku-chan?\nNobody lives in a place like that. There used to be an old\nvillage there, though."
+                                "\\N<Boss-kun>Hmm? What are you talking about, Boku-chan?\nNobody lives in a place like that. There\nused to be an old village there, though."
                             ]
                         },
                         {
@@ -20404,7 +20404,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Eh? But Sui-chan lives on the other side below the\nwaterfall..."
+                                "\\N<Boku>Eh? But Sui-chan lives on the other side\nbelow the waterfall..."
                             ]
                         },
                         {
@@ -20459,7 +20459,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>The girl I met at the waterfall, around the same age\nas me"
+                                "\\N<Boku>The girl I met at the waterfall, around the\nsame age as me"
                             ]
                         },
                         {
@@ -20476,69 +20476,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Hey hey, in this town, there's only Nana-chan\nwho's around the same age as you, Boku-chan. Did you meet a\nghost or something?"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<Boku>U-Um... I don't think she's a ghost or anything..."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<Boku>(But, I played with Sui-chan... But I could only\nmeet her in the evening, and there seems to be some\nconnection between not being able to swim in the\nevening...?)"
+                                "\\N<Boss-kun>Hey hey, in this town, there's only Nana-\nchan who's around the same age as you,\nBoku-chan. Did you meet a ghost or\nsomething?"
                             ]
                         },
                         {
@@ -20576,7 +20514,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Hey, Boss-kun. Who did you hear the story from that\nyou shouldn't swim alone in the evening? I want to know more\nabout it."
+                                "\\N<Boku>U-Um... I don't think she's a ghost or\nanything..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Boku>(But, I played with Sui-chan... But I could\nonly meet her in the evening, and there\nseems to be some connection between not\nbeing able to swim in the evening...?)"
                             ]
                         },
                         {
@@ -20614,7 +20576,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Eh? I heard it from my grandpa, but he's\ncurrently working as a migrant worker with my dad, so it's\nimpossible for me to ask him about it."
+                                "\\N<Boku>Hey, Boss-kun. Who did you hear the story\nfrom that you shouldn't swim alone in\nthe evening? I want to know more about\nit."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Boss-kun>Eh? I heard it from my grandpa, but he's\ncurrently working as a migrant worker\nwith my dad, so it's impossible for me\nto ask him about it."
                             ]
                         },
                         {
@@ -20695,7 +20695,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Oh, but maybe other elderly people know about it\ntoo?"
+                                "\\N<Boss-kun>Oh, but maybe other elderly people know\nabout it too?"
                             ]
                         },
                         {
@@ -20726,7 +20726,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>I see. That might be true. Thanks. Let's try to find\nan elderly person who knows about it."
+                                "\\N<Boku>I see. That might be true. Thanks. Let's\ntry to find an elderly person who knows\nabout it."
                             ]
                         },
                         {
@@ -20764,7 +20764,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Well, I don't really understand, but do your\nbest. Don't get kidnapped by ghosts or anything."
+                                "\\N<Boss-kun>Well, I don't really understand, but do your\nbest. Don't get kidnapped by ghosts or\nanything."
                             ]
                         },
                         {
@@ -20943,7 +20943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I'm in the middle of a Bug Battle tournament now! I\ncan't just run away, right?"
+                                "\\N<Boku>I'm in the middle of a Bug Battle\ntournament now! I can't just run away,\nright?"
                             ]
                         },
                         {
@@ -21209,7 +21209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>It's a huge spider web!...I-I can't get through\nthis....If only there was something like a tree branch..."
+                                "\\N<Boku>It's a huge spider web!...I-I can't get\nthrough this....If only there was\nsomething like a tree branch..."
                             ]
                         },
                         {
@@ -21401,7 +21401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>It's a huge spider web!...I-I can't get through\nthis....If only there was something like a tree branch..."
+                                "\\N<Boku>It's a huge spider web!...I-I can't get\nthrough this....If only there was\nsomething like a tree branch..."
                             ]
                         },
                         {
@@ -21492,7 +21492,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Hm? Boku-chan, are you going home? Well then, I\nguess we'll disband too."
+                                "\\N<Boss-kun>Hm? Boku-chan, are you going home? Well\nthen, I guess we'll disband too."
                             ]
                         },
                         {

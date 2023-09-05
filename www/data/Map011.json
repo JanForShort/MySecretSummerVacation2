@@ -2108,7 +2108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Wow! It's a fish!... If only I had a fishing rod, I\ncould catch it..."
+                                "\\N<Boku>Wow! It's a fish!... If only I had a fishing\nrod, I could catch it..."
                             ]
                         },
                         {
@@ -2737,7 +2737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Wha?! It's a ghost! Quick, let's run, Nana-chan!"
+                                "\\N<Boku>Wha?! It's a ghost! Quick, let's run, Nana-\nchan!"
                             ]
                         },
                         {
@@ -2816,7 +2816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "At that moment, I grabbed her hand in a frenzy and tried to\nleave the scene."
+                                "At that moment, I grabbed her hand in a\nfrenzy and tried to leave the scene."
                             ]
                         },
                         {
@@ -2985,7 +2985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>So this is what fireflies look like... I've never\nseen them before..."
+                                "\\N<Boku>So this is what fireflies look like...\nI've never seen them before..."
                             ]
                         },
                         {
@@ -3173,7 +3173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Her expression, illuminated by the faint light of the\nfireflies, was difficult to see clearly, but I still vividly\nremember the warmth of her hand from that moment..."
+                                "Her expression, illuminated by the faint\nlight of the fireflies, was difficult to\nsee clearly, but I still vividly\nremember the warmth of her hand from\nthat moment..."
                             ]
                         },
                         {
