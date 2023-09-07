@@ -2908,7 +2908,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Ah, Boku-kun, welcome. You came to play,\nright? So, what do you want to do?"
+                                "\\N<Hakase-kun>Ah, welcome, my friend. You've come to play,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "right? So, what do you want to do?"
                             ]
                         },
                         {
@@ -2949,7 +2956,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Ah, Boku-kun, welcome. You came to play,\nright? Here, this is it. It's the\npromised mechanical rhinoceros beetle."
+                                "\\N<Hakase-kun>Ah, welcome, my friend. You've come to play,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "right? Here, this is it. It's the promised"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "mechanical rhinoceros beetle."
                             ]
                         },
                         {
@@ -3080,7 +3101,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                " Mechanical Rhinoceros Beetle MkII"
+                                "\\# Mechanical Rhinoceros Beetle MkII"
                             ]
                         },
                         {
@@ -3231,7 +3252,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Wow! Thank you, Hakase-kun! I'll treasure\nit!"
+                                "\\N<Boku>Wow! Thank you, Hakase-kun! I'll treasure it!"
                             ]
                         },
                         {
@@ -3262,7 +3283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Hmm, then what should we play?"
+                                "\\N<Hakase-kun>Hmm, so what should we play?"
                             ]
                         },
                         {
@@ -3337,7 +3358,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Hide and seek... It's cramped inside, so how\nabout playing treasure hunt instead?"
+                                "\\N<Hakase-kun>Hide and seek, huh... It's cramped inside, so how"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "about playing a treasure hunt instead?"
                             ]
                         },
                         {
@@ -3368,7 +3396,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Treasure hunt game?"
+                                "\\N<Boku>A treasure hunt, you say?"
                             ]
                         },
                         {
@@ -3385,7 +3413,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>I will hide this capsule inside the house\nand you, Boku-kun, will search for it.\nIf you can find it within 100 seconds,\nyou win."
+                                "\\N<Hakase-kun>I'll hide this capsule inside the house, and you"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "have to find it, Boku-kun. If you can find it"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "within 100 seconds, you win."
                             ]
                         },
                         {
@@ -3447,7 +3489,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Alright then, let's do it. I'll go hide, so\nwait for me."
+                                "\\N<Hakase-kun>Well then, shall we do it? I'll go hide, so wait"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "for me."
                             ]
                         },
                         {
@@ -3515,7 +3564,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Hakase-kun>Sounds good. Then, let's do it. I'll go hide,\nso wait for me."
+                                "\\N<Hakase-kun>Sounds good. Then, let's do it. I'll go hide, so"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "wait for me."
                             ]
                         },
                         {
@@ -3604,7 +3660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hakase-kun>I hid it on the first floor. Alright,\nlet's start!"
+                                "\\N<Hakase-kun>I hid it on the first floor. Alright, let's start!"
                             ]
                         },
                         {
@@ -3725,7 +3781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hakase-kun>I hid it on the first floor. Please go\nfind it."
+                                "\\N<Hakase-kun>I hid it on the first floor. Go find it, okay?"
                             ]
                         },
                         {

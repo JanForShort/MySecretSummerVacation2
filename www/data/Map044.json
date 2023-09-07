@@ -2594,7 +2594,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boushi-kun>Ah, Boku-kun? This is my secret bug-\ncatching spot! No entry allowed!"
+                                "\\N<Boushi-kun>Ah, it's me, Boushi-kun! This is my secret bug-"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "catching spot! No entry allowed!"
                             ]
                         },
                         {
@@ -2632,7 +2639,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Eh? I want to go in too..."
+                                "\\N<Boku>Eh? I want to come in too..."
                             ]
                         },
                         {
@@ -2656,7 +2663,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boushi-kun>Hmm... I guess there's no other choice. In\nthat case, let's have a competition of\n'catching cicadas' between you and me.\nYou see, I'm actually a 'cicada catching\nexpert'. I caught \\V[431] cicadas in\njust 10 seconds!"
+                                "\\N<Boushi-kun>Hmm... I guess there's no other choice. In that"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "case, let's have a competition of 'Cicada"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Catching' together. You see, I'm actually a"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "'Cicada Catching Master'. I caught \\V[431] cicadas"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "in just 10 seconds!"
                             ]
                         },
                         {
@@ -2711,7 +2756,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boushi-kun>Right? If Boku-kun can catch more than \\x0\nbugs in 10 seconds, then you can catch\nbugs here."
+                                "\\N<Boushi-kun>Right? If I can catch more than \\V[431] bugs in 10"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "seconds, then you can catch bugs here."
                             ]
                         },
                         {
@@ -2784,7 +2836,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boushi-kun>You're challenging me to catch cicadas again,\nhuh? If you can catch more than \\V[431]\nbugs in 10 seconds, then you can catch\nbugs here."
+                                "\\N<Boushi-kun>So you're challenging me to catch cicadas again,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "huh? If you can catch more than \\V[431] bugs in 10"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "seconds, then you can catch bugs here."
                             ]
                         },
                         {
@@ -2825,7 +2891,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boushi-kun>Well then, I'll count to 10 starting now, so\ncatch as many cicadas as you can."
+                                "\\N<Boushi-kun>Well then, I'll start counting from now for 10"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "seconds, so catch as many cicadas as you can."
                             ]
                         },
                         {
@@ -2902,7 +2975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Start!"
+                                "\\# Start!"
                             ]
                         },
                         {
@@ -3005,7 +3078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boushi-kun>I have to catch the cicada quickly!"
+                                "\\N<Boushi-kun>We need to catch the cicada quickly!"
                             ]
                         },
                         {
@@ -3127,7 +3200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boushi-kun>Yes, I'm finished."
+                                "\\N<Boushi-kun>Yes, it's finished."
                             ]
                         },
                         {
@@ -3144,7 +3217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Result\\V[437] pieces!"
+                                "\\#Result\\# \\V[437] cocks!"
                             ]
                         },
                         {
@@ -3179,7 +3252,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boushi-kun>Oh no... I'll give up the title of the\nCicada Catching Master to you,\nSacchan... But I'll train hard and\nsomeday take back that title!"
+                                "\\N<Boushi-kun>Oh no... I'll give up the title of the Cicada"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Catching Master to you, Serena... But I'll train"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "hard and someday reclaim that title!"
                             ]
                         },
                         {
@@ -3311,7 +3398,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boushi-kun>Too bad. You can try again if you want. But\nI don't think the caught cicada will\ncome back until tomorrow."
+                                "\\N<Boushi-kun>Too bad. You can try again if you want. But I"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "don't think the caught cicada will come back until"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "tomorrow."
                             ]
                         },
                         {
@@ -4645,7 +4746,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Th-This is...?! It's a really nice-looking\n'tree branch'‼"
+                                "\\N<Boku>Th-this is...⁉ Such a nice feeling 'wooden"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "branch'‼"
                             ]
                         },
                         {
@@ -4698,7 +4806,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>The length, weight, hardness... and the way\nthe leaves are attached... It's the\nperfect branch in every aspect! With\nthis, I won't be afraid of spider webs\nanymore!"
+                                "\\N<Boku>The length, the weight, the hardness... and the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "way the leaves are attached... It's the perfect"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "branch in every aspect! With this, I won't be"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "afraid of spider webs anymore!"
                             ]
                         },
                         {
@@ -4736,7 +4865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " I obtained a plaything called a tree\nbranch!"
+                                "I obtained the plaything wooden branch!"
                             ]
                         },
                         {

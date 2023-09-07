@@ -2578,7 +2578,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "With this crystal, it is possible to\ncustomize the appearance of the\ncharacters that appear in the main game."
+                                "With this crystal, it is possible to customize the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "appearance of the characters that appear in the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "main game."
                             ]
                         },
                         {
@@ -2609,7 +2623,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "However, please note that only the appearance\ncan be changed, so there may be\ninconsistencies with the dialogue and\nother aspects."
+                                "However, please note that only the appearance can"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "be changed, so there may be inconsistencies with"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "the dialogue and other aspects."
                             ]
                         },
                         {
@@ -2640,7 +2668,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Also, please note that if you change the\ncharacter's gender or the presence of\nmale genitalia, it will not be\ncompatible with the character's specific\nH events (special adult scenes)."
+                                "Also, please note that if you change the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "character's gender or the presence of male"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "genitalia, it will not be compatible with the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "character-specific H events (special sex scenes)."
                             ]
                         },
                         {
@@ -2698,7 +2747,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Character Customization",
+                                    "Character customization",
                                     "Reset character to default",
                                     "Cancel"
                                 ],
@@ -2713,7 +2762,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "キャラクターのカスタマイズ"
+                                "Character customization"
                             ]
                         },
                         {
@@ -2730,7 +2779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select the character you want to\ncustomize."
+                                "Please select the character you want to customize."
                             ]
                         },
                         {
@@ -2820,7 +2869,7 @@
                                     "Customize from favorites",
                                     "Customize by loading the pink flyer",
                                     "Enter the secret password to customize",
-                                    "Customize from a random character",
+                                    "Customize from random characters",
                                     "Cancel"
                                 ],
                                 5,
@@ -2834,7 +2883,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "今の状態からカスタマイズ"
+                                "Customize from the current state"
                             ]
                         },
                         {
@@ -2858,7 +2907,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "お気に入りからカスタマイズ"
+                                "Customize from favorites"
                             ]
                         },
                         {
@@ -2925,7 +2974,7 @@
                             "indent": 1,
                             "parameters": [
                                 2,
-                                "ピンクチラシを読み込んでカスタマイズ"
+                                "Customize by loading the pink flyer"
                             ]
                         },
                         {
@@ -2995,7 +3044,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Failed to load."
+                                "Loading failed."
                             ]
                         },
                         {
@@ -3032,7 +3081,7 @@
                             "indent": 1,
                             "parameters": [
                                 3,
-                                "秘密の合言葉を入力してカスタマイズ"
+                                "Enter the secret password to customize"
                             ]
                         },
                         {
@@ -3078,7 +3127,7 @@
                             "indent": 1,
                             "parameters": [
                                 4,
-                                "ランダムキャラからカスタマイズ"
+                                "Customize from random characters"
                             ]
                         },
                         {
@@ -3107,7 +3156,7 @@
                             "indent": 1,
                             "parameters": [
                                 5,
-                                "キャンセル"
+                                "Cancel"
                             ]
                         },
                         {
@@ -3305,7 +3354,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "※Please note that you can only choose either\nChange Skin Color & Brightness or\nTanning, not both.※Please note that\nPregnant Belly only applies to the naked\nstate."
+                                "※Please note that you can only choose either"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Change Skin Color & Brightness or Tanning, not"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "both.※Please note that Pregnant Belly is only"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "compatible with the naked state."
                             ]
                         },
                         {
@@ -3339,7 +3409,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "キャラクターをデフォルトに戻す"
+                                "Reset character to default"
                             ]
                         },
                         {
@@ -3435,7 +3505,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "はい"
+                                "Yes"
                             ]
                         },
                         {
@@ -3851,7 +3921,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "いいえ"
+                                "No"
                             ]
                         },
                         {
@@ -3881,7 +3951,7 @@
                             "indent": 0,
                             "parameters": [
                                 2,
-                                "キャンセル"
+                                "Cancel"
                             ]
                         },
                         {
@@ -3987,7 +4057,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "With this crystal, during Endless Mode, it\nis possible to make it seem like you\nhave successfully captured a character\nthat can only be captured for a limited\ntime during the main game."
+                                "In this crystal, during endless mode, it is"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "possible to make it seem like you have"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "successfully captured a character that can only be"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "captured for a limited time during the main game."
                             ]
                         },
                         {
@@ -4029,7 +4120,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Shall we pretend that we've become close with\nNana-chan? ※This action cannot be\nundone."
+                                "Shall we pretend that we've become close with"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Nana-chan? *Please note that this action cannot be"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "undone."
                             ]
                         },
                         {
@@ -4058,7 +4163,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "はい"
+                                "Yes"
                             ]
                         },
                         {
@@ -4094,7 +4199,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "いいえ"
+                                "No"
                             ]
                         },
                         {
@@ -4131,7 +4236,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Currently, there are no characters that require\nthis action."
+                                "Currently, there are no characters that require"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "this action."
                             ]
                         },
                         {
@@ -4320,7 +4432,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "裸"
+                                "Naked"
                             ]
                         },
                         {
@@ -4340,7 +4452,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "着衣"
+                                "Clothed"
                             ]
                         },
                         {
@@ -4516,7 +4628,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "裸"
+                                "Naked"
                             ]
                         },
                         {
@@ -4536,7 +4648,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "着衣"
+                                "Clothed"
                             ]
                         },
                         {
@@ -4712,7 +4824,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "裸"
+                                "Naked"
                             ]
                         },
                         {
@@ -4732,7 +4844,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "着衣"
+                                "Clothed"
                             ]
                         },
                         {
@@ -4908,7 +5020,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "裸"
+                                "Naked"
                             ]
                         },
                         {
@@ -4928,7 +5040,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "着衣"
+                                "Clothed"
                             ]
                         },
                         {
@@ -5104,7 +5216,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "裸"
+                                "Naked"
                             ]
                         },
                         {
@@ -5124,7 +5236,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "着衣"
+                                "Clothed"
                             ]
                         },
                         {
@@ -5300,7 +5412,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "裸"
+                                "Naked"
                             ]
                         },
                         {
@@ -5320,7 +5432,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "着衣"
+                                "Clothed"
                             ]
                         },
                         {
@@ -5496,7 +5608,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "裸"
+                                "Naked"
                             ]
                         },
                         {
@@ -5516,7 +5628,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "着衣"
+                                "Clothed"
                             ]
                         },
                         {
@@ -5692,7 +5804,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "裸"
+                                "Naked"
                             ]
                         },
                         {
@@ -5712,7 +5824,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "着衣"
+                                "Clothed"
                             ]
                         },
                         {
@@ -5888,7 +6000,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "裸"
+                                "Naked"
                             ]
                         },
                         {
@@ -5908,7 +6020,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "着衣"
+                                "Clothed"
                             ]
                         },
                         {
@@ -6084,7 +6196,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "裸"
+                                "Naked"
                             ]
                         },
                         {
@@ -6104,7 +6216,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "着衣"
+                                "Clothed"
                             ]
                         },
                         {
@@ -6280,7 +6392,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "裸"
+                                "Naked"
                             ]
                         },
                         {
@@ -6300,7 +6412,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "着衣"
+                                "Clothed"
                             ]
                         },
                         {
@@ -6476,7 +6588,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "裸"
+                                "Naked"
                             ]
                         },
                         {
@@ -6496,7 +6608,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "着衣"
+                                "Clothed"
                             ]
                         },
                         {
@@ -6649,7 +6761,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Welcome to the Secret Attic Room. In the Secret\nAttic Room, it is possible to customize\nthe appearance of the characters that\nappear in the main game."
+                                "Welcome to the Secret Attic Room. In the Secret"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Attic Room, you can customize the appearance of"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "the characters that appear in the main game."
                             ]
                         },
                         {
@@ -6687,7 +6813,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There are also mannequins installed to check\nthe customized appearance."
+                                "There are also mannequins installed to check the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "customized appearances."
                             ]
                         },
                         {
@@ -6711,7 +6844,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please be aware that changing the appearance\nmay result in inconsistencies in\ndialogue and significant changes in the\natmosphere of the game."
+                                "Please note that changing the appearance may"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "result in inconsistencies in dialogue and"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "significant changes in the atmosphere of the game."
                             ]
                         },
                         {

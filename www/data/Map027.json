@@ -3022,7 +3022,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The room of the older sister's atelier had\na mysterious smell... Even now, as an\nadult, when I smell the scent of oil\npaints, the vivid scenery of that room\nand the gentle sound of wind chimes come\nto mind."
+                                "The room of the older sister's atelier had a"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "mysterious scent... Even now, as an adult, when I"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "smell the scent of oil paints, the vivid scenery"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "of that room and the gentle sound of wind chimes"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "come to mind."
                             ]
                         },
                         {
@@ -3797,7 +3835,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, welcome, Boku-kun. Have you found\nsomething you want to draw?"
+                                "\\N<Older sister>Oh, welcome, my dear. Have you found something you"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "want to draw?"
                             ]
                         },
                         {
@@ -3838,7 +3883,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>I see. But there's still plenty of summer\nvacation left, so you can take your time\nand search."
+                                "\\N<Older sister>I see. But there's still plenty of summer vacation"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "left, so you should take your time and search."
                             ]
                         },
                         {
@@ -3869,7 +3921,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Yeah! Onee-chan, what are you drawing right\nnow?"
+                                "\\N<Boku>Yeah! What are you drawing right now, older"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "sister?"
                             ]
                         },
                         {
@@ -3900,7 +3959,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Hehehe. It's a secret♥ I think it will be\ncompleted by next week... Ah, but, it\nmight be a bit too stimulating for you,\nBoku-kun...?"
+                                "\\N<Older sister>Hehehe. It's a secret♥ I think it will be"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "completed by next week... Ah, but it might be a"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "bit too stimulating for you, my dear...?"
                             ]
                         },
                         {
@@ -4040,7 +4113,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Welcome, Boku-kun. Did you come to see the\npaintings today?"
+                                "\\N<Older sister>Welcome, my dear. Have you come to see the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "paintings again today?"
                             ]
                         },
                         {
@@ -4064,7 +4144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Yeah! And I also wanted to see Onee-chan."
+                                "\\N<Boku>Yeah! And I also wanted to see you, older sister."
                             ]
                         },
                         {
@@ -4097,7 +4177,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, how delightful ♥ You can take your time\nand stay as long as you want."
+                                "\\N<Older sister>Oh, how delightful ♥ You can stay and relax for as"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "long as you want, okay?"
                             ]
                         },
                         {
@@ -4242,7 +4329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Ah, Sacchan. You came again today ♥"
+                                "\\N<Older sister>Ah, you came again today, my dear ♥"
                             ]
                         },
                         {
@@ -4266,7 +4353,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>'Yeah!'"
+                                "\\N<Boku>Yeah!"
                             ]
                         },
                         {
@@ -4283,7 +4370,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>...But, summer vacation is almost over, isn't\nit? The sound of cicadas is starting to\nchange..."
+                                "\\N<Older sister>...But, summer vacation is almost over. The sound"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "of cicadas is starting to change..."
                             ]
                         },
                         {
@@ -4331,7 +4425,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Hehe. You seem lonely, Boku-kun?"
+                                "\\N<Older sister>Hehe. You seem lonely, my dear?"
                             ]
                         },
                         {
@@ -4372,7 +4466,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, is that so? Even though Onee-chan would\nfeel lonely if she were to part with\nyou, Boku-kun."
+                                "\\N<Older sister>Oh, is that so? Even though I would feel lonely if"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "I were to part ways with you, my dear."
                             ]
                         },
                         {
@@ -4427,7 +4528,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Hehe. Well then, we should enjoy the\nremaining summer vacation even more."
+                                "\\N<Older sister>Hehe. Well then, we should enjoy the remaining"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "summer vacation even more."
                             ]
                         },
                         {
@@ -4485,7 +4593,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, Boku-kun. Welcome ♥ Did you come to see\nOnee-chan today?"
+                                "\\N<Older sister>Oh, you're here, my dear. Did you come to see your"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "big sister today?"
                             ]
                         },
                         {
@@ -4533,7 +4648,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>I see ♥ But, it's not just about playing,\nyou have to do your homework properly,\nokay?"
+                                "\\N<Older sister>I see ♥ But, it's not just about playing, you have"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "to do your homework properly, okay?"
                             ]
                         },
                         {
@@ -4581,7 +4703,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Or, should I take the nude drawing of Onee-\nchan that you drew the other day as your\nart homework...? ♥"
+                                "\\N<Older sister>Or maybe, should I take the nude drawing of your"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "big sister that you drew the other day... and"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "bring it with me...? ♥"
                             ]
                         },
                         {
@@ -4791,7 +4927,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Ah, Boku-kun... You're going home tomorrow,\nright?"
+                                "\\N<Older sister>Ah, you... are you coming back tomorrow?"
                             ]
                         },
                         {
@@ -4832,7 +4968,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>I see... It'll be lonely..."
+                                "\\N<Older sister>I see... It'll get lonely..."
                             ]
                         },
                         {
@@ -4873,7 +5009,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>...You shouldn't make such a face, Boku-kun."
+                                "\\N<Older sister>...Hey, boys shouldn't make that kind of face, you"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "know."
                             ]
                         },
                         {
@@ -4914,7 +5057,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Don't worry. We'll be able to see each other\nagain. Come back next summer. Onee-chan\nwill still be here in this atelier."
+                                "\\N<Older sister>Don't worry. We'll meet again. Come back next"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "summer. Big sister will be here at this atelier"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "too."
                             ]
                         },
                         {
@@ -4969,7 +5126,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>...So that you won't feel lonely until then,\nI'll give you this painting, Boku-kun."
+                                "\\N<Older sister>...So that you won't feel lonely until then, I'll"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "give you this painting, my dear."
                             ]
                         },
                         {
@@ -4993,7 +5157,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Huh...? Did Onee-chan paint this...?"
+                                "\\N<Boku>Huh...? Did you paint this, big sister...?"
                             ]
                         },
                         {
@@ -5017,45 +5181,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>That's right. Take good care of it until we\nmeet again next year. Onee-chan will\ntreasure this painting that Boku-kun\ndrew in her place ♥"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
+                                "\\N<Older sister>That's right. Take good care of it until we meet"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Eh?! Th-That painting...?! I-It's\nembarrassing... Can't you use another\none?"
+                                "again next year. Big sister will treasure this"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "painting that I, Boku-kun, drew for you ♥"
                             ]
                         },
                         {
@@ -5093,7 +5233,59 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>No ♥ If you wanted a different painting,\nthen come back next year and draw\nanother one...?"
+                                "\\N<Boku>Eh?! Th-That painting...?! I-It's embarrassing..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Can't you give me another one?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Older sister>No way ♥ If you wanted a different painting, I can"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "draw another one next year...?"
                             ]
                         },
                         {
@@ -5148,7 +5340,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Hmm hmm. Then, this is a promise charm..."
+                                "\\N<Older sister>Hmm hmm. Well then, this is a charm of our"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "promise..."
                             ]
                         },
                         {
@@ -5246,7 +5445,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>...Well then, let's meet again, okay?"
+                                "\\N<Older sister>...Well then, let's meet again, okay?"
                             ]
                         },
                         {
@@ -5263,7 +5462,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Y-Yeah! See you later, Onee-chan!"
+                                "\\N<Boku>Y-Yeah! See you later, big sister!"
                             ]
                         },
                         {
@@ -5297,7 +5496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Ah, Boku-kun. You're going home tomorrow,\nright?"
+                                "\\N<Older sister>Oh, Boku-kun. You're coming back tomorrow, right?"
                             ]
                         },
                         {
@@ -5338,7 +5537,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>I see. It'll be lonely. But we'll be able\nto meet again next summer vacation."
+                                "\\N<Older sister>I see. It'll be lonely, huh? But we'll be able to"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "meet again next summer vacation."
                             ]
                         },
                         {
@@ -5393,7 +5599,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Well then, see you next year."
+                                "\\N<Older sister>Well then, see you next year."
                             ]
                         },
                         {
@@ -5410,7 +5616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Yeah! See you later, Onee-chan!"
+                                "\\N<Boku>Yeah! See you later, big sister!"
                             ]
                         },
                         {
@@ -5602,7 +5808,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, Boku-kun. Welcome ♥ Did you come to see\nOnee-chan today?"
+                                "\\N<Older sister>Oh, you're here, Boku-kun. Did you come to see"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "your big sister today?"
                             ]
                         },
                         {
@@ -5650,7 +5863,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>I see ♥ But you can't just play all the\ntime, you have to do your homework\nproperly, okay?"
+                                "\\N<Older sister>I see ♥ But you can't just play all the time, you"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "have to do your homework properly, okay?"
                             ]
                         },
                         {
@@ -5698,7 +5918,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Or, should I take the nude drawing of Onee-\nchan that you drew the other day... and\nbring it for your art homework...? ♥"
+                                "\\N<Older sister>Or, should I take the nude drawing of your big"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "sister that you drew the other day... and bring it"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "with me...? ♥"
                             ]
                         },
                         {
@@ -5729,7 +5963,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>N-No, that's not allowed...!"
+                                "\\N<Boku>N-No, that's not good...!"
                             ]
                         },
                         {
@@ -5774,7 +6008,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Welcome, Boku-kun. Did you come to see the\npaintings today?"
+                                "\\N<Older sister>Welcome, Boku-kun. Did you come to see the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "paintings today?"
                             ]
                         },
                         {
@@ -5798,7 +6039,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Yeah! And I also wanted to see Onee-chan."
+                                "\\N<Boku>Yeah! And I also wanted to see you, big sister."
                             ]
                         },
                         {
@@ -5831,7 +6072,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, how delightful ♥ You can take your time\nand relax, you know."
+                                "\\N<Older sister>Oh, how delightful ♥ You can take your time and"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "relax, okay?"
                             ]
                         },
                         {
@@ -7281,7 +7529,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(The painting that was here, it's gone...)"
+                                "\\N<Boku>(The picture that was here, it's gone...)"
                             ]
                         },
                         {
@@ -7327,7 +7575,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(I haven't drawn anything yet.)"
+                                "\\N<Boku>(I haven't drawn anything yet)"
                             ]
                         },
                         {
@@ -7504,7 +7752,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(I still feel like this art school onee-\nchan did the artwork...)"
+                                "\\N<Boku>(I feel like this artwork belongs to a big"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "sister...)"
                             ]
                         },
                         {
@@ -7587,7 +7842,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>'Hey, Boku-kun?'"
+                                "\\N<Older sister>Hey, you there?"
                             ]
                         },
                         {
@@ -7644,7 +7899,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Wha!? Wha-wha-what...!?"
+                                "\\N<Boku>Wha!? W-W-What...⁉"
                             ]
                         },
                         {
@@ -7668,7 +7923,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>You've been looking at that painting a lot\nlately, haven't you?"
+                                "\\N<Older sister>You've been looking at that picture a lot lately,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "haven't you?"
                             ]
                         },
                         {
@@ -7692,7 +7954,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>I-I'm not so sure about that...!?"
+                                "\\N<Boku>I-Is that so...⁉"
                             ]
                         },
                         {
@@ -7709,7 +7971,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Could it be... you're interested...?"
+                                "\\N<Older sister>Could it be... you're interested...?"
                             ]
                         },
                         {
@@ -7726,7 +7988,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Uh... huh... um, well... you see..."
+                                "\\N<Boku>Eh...⁉ Uh, um, it's just that... well..."
                             ]
                         },
                         {
@@ -7750,7 +8012,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>I see... Well then, should I teach\nyou...?"
+                                "\\N<Older sister>I see... Well then, should I teach you, big"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "sister?"
                             ]
                         },
                         {
@@ -7791,7 +8060,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>You want to try drawing, don't you? A\nportrait?"
+                                "\\N<Older sister>You want to try drawing, right? A portrait?"
                             ]
                         },
                         {
@@ -7815,7 +8084,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Huh...? Ah, um, yeah! That's right! I want to\ngive it a try! Drawing... a person? Is\nthat what you mean?"
+                                "\\N<Boku>Eh...? Ah, um, yeah! That's right! I want to give"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "it a try! A, a portrait... of a person, you know?"
                             ]
                         },
                         {
@@ -7853,7 +8129,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>As I thought. Well then, shall we try\ndrawing now?"
+                                "\\N<Older sister>As I thought. Well then, should we try drawing"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "now?"
                             ]
                         },
                         {
@@ -7877,7 +8160,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Y-yeah!"
+                                "\\N<Boku>Y-Yeah!"
                             ]
                         },
                         {
@@ -7941,7 +8224,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>How about it? Do you think you can draw me\nas a model?"
+                                "\\N<Older sister>How about it? Do you think big sister would make a"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "good model?"
                             ]
                         },
                         {
@@ -7965,7 +8255,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Y-yeah"
+                                "\\N<Boku>Uh, yeah."
                             ]
                         },
                         {
@@ -7982,7 +8272,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Then, please look closely and draw me\nproperly..."
+                                "\\N<Older sister>...Then, make sure to look closely and draw,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "okay..."
                             ]
                         },
                         {
@@ -8146,7 +8443,28 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "It was not in books or videos, but the\nfirst time I saw the naked body of a\nreal woman other than my mother... that\nsight of her skin color burned into my\nchildhood memories."
+                                "It wasn't from books or videos, but the first time"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "I saw a naked woman in real life, other than my"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "mother... that sight of her bare skin burned into"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "my childhood memories."
                             ]
                         },
                         {
@@ -8214,7 +8532,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>What...!? W-why are you undressing...!?"
+                                "\\N<Boku>⁉ Eh...⁉ W-Why are you undressing...!?"
                             ]
                         },
                         {
@@ -8245,76 +8563,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Huh? Nude painting... Did you want to draw a\nnaked picture of a woman? Should I put\nsome clothes on?"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
+                                "\\N<Older sister>Huh, nude painting... Did you want to draw a naked"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Eh...? B-but, Onee-chan, you don't mind...?"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
+                                "woman's picture? Maybe it's better to wear"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, nude drawing is a normal thing, and a\nnude model is a popular motif in art,\nyou know?"
+                                "clothes?"
                             ]
                         },
                         {
@@ -8352,62 +8615,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Mochi...? P-Popular...?"
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\N<Onee-chan>The motif is the subject matter... well,\nit's about what to draw, you know."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 2,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\N<Onee-chan>Popular means it's common... It's not unusual.\nMany people draw pictures of naked\nwomen."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 2,
-                            "parameters": [
-                                ""
+                                "\\N<Boku>Eh...? B-But, um, older sister, you don't mind...?"
                             ]
                         },
                         {
@@ -8438,7 +8646,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>I-I see... I didn't know that... T-then,\nmaybe I'll try drawing too..."
+                                "\\N<Older sister>Oh, nude drawing is a normal thing, and nude women"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "are a popular motif in art, you know?"
                             ]
                         },
                         {
@@ -8476,7 +8691,76 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Is that so? Then, the basics of drawing\nstart with observation. Look closely at\nthe model and give it a try."
+                                "\\N<Boku>Mochi...? P-Poppyur...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\N<Older sister>The motif is the subject matter... well, it's"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "about what to draw."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\N<Older sister>Popular means common... I guess it means it's not"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "unusual. Many people draw pictures of naked women."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8507,7 +8791,97 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Y-yeah... I'll give it a try..."
+                                "\\N<Boku>I-I see... I didn't know that... W-Well, maybe I"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "should try drawing too..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\N<Older sister>Is that so? Then, the basics of drawing start with"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "observation. Look closely at the model and give it"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "a try."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 2,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "\\N<Boku>Y-Yeah... I'll give it a try..."
                             ]
                         },
                         {
@@ -8630,7 +9004,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>How is it? Are you able to draw?"
+                                "\\N<Older sister>How is it? Are you able to draw?"
                             ]
                         },
                         {
@@ -8654,7 +9028,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Y-yeah..."
+                                "\\N<Boku>Uh, yeah..."
                             ]
                         },
                         {
@@ -8671,7 +9045,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, that's good. You've captured the\nfeatures well... but it seems like your\nfocus is breaking around this area... Is\nthere something bothering you?"
+                                "\\N<Older sister>Oh, that's good. You've captured the features"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "well... but it seems like your focus is lost"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "around this area... Was there something bothering"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "you?"
                             ]
                         },
                         {
@@ -8740,7 +9135,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Um...uh, well..."
+                                "\\N<Boku>Uh... um, well..."
                             ]
                         },
                         {
@@ -8757,7 +9152,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Could it be... you wanted to see this part of\nme, Onee-chan...?"
+                                "\\N<Older sister>Could it be... you wanted to see this part of"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "me...?"
                             ]
                         },
                         {
@@ -8781,7 +9183,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>...Y-yeah..."
+                                "\\N<Boku>...Y-Yeah..."
                             ]
                         },
                         {
@@ -8798,7 +9200,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>I see... So you were thinking naughty\nthings while looking at Onee-chan's\nnaked body. It seems like you were doing\nsomething naughty here the other day\ntoo..."
+                                "\\N<Older sister>I see... You were thinking naughty thoughts while"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "looking at your older sister's naked body. It"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "seems like you were doing something naughty here"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "the other day too..."
                             ]
                         },
                         {
@@ -8836,7 +9259,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Ugh... S-sorry..."
+                                "\\N<Boku>Ugh... S-Sorry..."
                             ]
                         },
                         {
@@ -8860,7 +9283,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Hehe, I'm not mad. After all, you're a boy,\nBoku-kun. It's natural to be interested\nin a woman's body, right?"
+                                "\\N<Older sister>Hehe, I'm not mad. After all, you're a boy. It's"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "natural to be curious about a woman's body, right?"
                             ]
                         },
                         {
@@ -8907,7 +9337,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>If you want to see that badly, you can\nlook ♥ Come over here...♥"
+                                "\\N<Older sister>If you want to see that badly, you can look ♥ Come"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "over here... ♥"
                             ]
                         },
                         {
@@ -8931,7 +9368,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Huh? Umm... What?"
+                                "\\N<Boku>Huh? Umm...⁉"
                             ]
                         },
                         {
@@ -9114,7 +9551,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>(As expected, this is a naked painting of a\nwoman... I want to look at it more\nclosely, but if I stare too much, Onee-\nchan might catch me...)"
+                                "\\N<Boku>(So this is a naked picture of a woman... I want"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "to look at it more closely, but if I stare too"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "much, my older sister might catch me...)"
                             ]
                         },
                         {
@@ -9162,7 +9613,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>(It's a painting of a naked woman...! Ugh...\nI'm curious, but if I look too much,\nOnee-chan might catch me...)"
+                                "\\N<Boku>(It's a picture of a naked woman...! Ugh... I'm"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "curious, but if I look too much, my older sister"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "might catch me...)"
                             ]
                         },
                         {
@@ -9304,7 +9769,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boku>(......Could it be that Onee-chan was the model for\nthis painting...? If that's the case,\nthen this is... Onee- chan's... naked\nbody...⁉)"
+                                "\\N<Boku>(...Could it be that this picture is a model of my"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "older sister...? If that's the case, then this"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "is... my older sister's... naked body...⁉)"
                             ]
                         },
                         {
@@ -9344,7 +9823,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Onee-chan>Boku-kun"
+                                "\\N<Older sister>You, my dear..."
                             ]
                         },
                         {
@@ -9401,7 +9880,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boku>Huh? W-What...?"
+                                "\\N<Boku>Huh? W-What...⁉"
                             ]
                         },
                         {
@@ -9425,7 +9904,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Onee-chan>I'll come down for a moment."
+                                "\\N<Older sister>Big sister, I'll come down for a moment."
                             ]
                         },
                         {
@@ -9552,7 +10031,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boku>(...I-Is this really Onee-chan's naked body...?\nUgh... my... my private part is starting\nto... tingle... W-What should I do...)"
+                                "\\N<Boku>(...M-Maybe this really is a picture of my older"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "sister's naked body... Ugh... My cock is starting"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "to throb... W-What should I do...)"
                             ]
                         },
                         {
@@ -9595,7 +10088,7 @@
                             "indent": 4,
                             "parameters": [
                                 0,
-                                "オナニーする"
+                                "Masturbate"
                             ]
                         },
                         {
@@ -9623,7 +10116,21 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Boku>(Just a little... If I do it quickly, it'll\nbe okay, right? My private part... I\ncan't hold it in anymore...)"
+                                "\\N<Boku>(Just a little... If I do it quickly, it should be"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 5,
+                            "parameters": [
+                                "fine, right...? My cock... I can't hold back"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 5,
+                            "parameters": [
+                                "anymore...)"
                             ]
                         },
                         {
@@ -9692,7 +10199,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Boku>(Ahh... while looking at Onee-chan's naked\nbody... my... my private part... it's\nrubbing...)"
+                                "\\N<Boku>(Ahh... While looking at my older sister's naked"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 5,
+                            "parameters": [
+                                "body... I'm... rubbing my cock...)"
                             ]
                         },
                         {
@@ -9836,7 +10350,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Onee-chan>Boku-kun, would you like some barley tea? Or\nwould you prefer juice?"
+                                "\\N<Older sister>Hey, would you like some barley tea, or maybe"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 5,
+                            "parameters": [
+                                "juice instead?"
                             ]
                         },
                         {
@@ -9891,7 +10412,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Boku>U-Um, um, um...⁉ Uh, well, um, I'm going home\nfor today!"
+                                "\\N<Boku>U-Um, um...! Uh, well, um, I-I'm going home for"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 5,
+                            "parameters": [
+                                "today!"
                             ]
                         },
                         {
@@ -9922,7 +10450,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Onee-chan>Hmm? Is that so? Okay, see you later."
+                                "\\N<Older sister>Hmm? Is that so? Okay, well, see you later."
                             ]
                         },
                         {
@@ -9953,7 +10481,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Boku>Y-Yeah! Goodbye!"
+                                "\\N<Boku>Y-Yeah! Bye-bye!"
                             ]
                         },
                         {
@@ -10602,7 +11130,7 @@
                             "indent": 4,
                             "parameters": [
                                 1,
-                                "何もしない"
+                                "Do nothing"
                             ]
                         },
                         {
@@ -10619,7 +11147,21 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<Boku>(Ugh, it's no good doing it here... but if I\nkeep looking, I won't be able to hold\nback anymore... I should just go home\nfor today!)"
+                                "\\N<Boku>(Ugh, it's no good doing it here... but if I keep"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 5,
+                            "parameters": [
+                                "looking, I won't be able to hold back anymore... I"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 5,
+                            "parameters": [
+                                "should just go home for today!)"
                             ]
                         },
                         {
@@ -10854,7 +11396,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, Boku-kun? Are you feeling naughty again\nand wanting to do something lewd?"
+                                "\\N<Older sister>Oh, you, Boku-kun? Could it be that you want to do"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "naughty things again?"
                             ]
                         },
                         {
@@ -10876,7 +11425,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "M-Maybe",
+                                    "Y-Yes, maybe",
                                     "N-No, that's not it!"
                                 ],
                                 1,
@@ -10890,7 +11439,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "そ、そうかも…"
+                                "Y-Yes, maybe"
                             ]
                         },
                         {
@@ -10907,7 +11456,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Hehe ♥ Sure, that's fine ♥ Then, shall we go\nto Onee-chan's room?"
+                                "\\N<Older sister>Hehe ♥ Sure, that's fine ♥ Then, shall we go to"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "big sister's room?"
                             ]
                         },
                         {
@@ -10938,7 +11494,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Y-Yeah...!"
+                                "\\N<Boku>Uh, yeah...!"
                             ]
                         },
                         {
@@ -10986,7 +11542,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "ち、ちがうよ！"
+                                "N-No, that's not it!"
                             ]
                         },
                         {
@@ -11003,7 +11559,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>I-I was just looking...!"
+                                "\\N<Boku>W-Wait, I was just looking...!"
                             ]
                         },
                         {
@@ -11020,7 +11576,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, is that so? Hehe"
+                                "\\N<Older sister>Oh, is that so? Hehe"
                             ]
                         },
                         {
@@ -11164,7 +11720,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(The painting that was here, it's gone...)"
+                                "\\N<Boku>(The picture that was here, it's gone...)"
                             ]
                         },
                         {
@@ -11251,7 +11807,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(The painting that was here, it's gone...)"
+                                "\\N<Boku>(The picture that was here, it's gone...)"
                             ]
                         },
                         {
@@ -11338,7 +11894,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(It's a painting of a white house and a green\nhill. I wonder where this scenery is?)"
+                                "\\N<Boku>(It's a picture of a white house and a green hill."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I wonder where this scenery is?)"
                             ]
                         },
                         {
@@ -11422,7 +11985,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(It's a picture of flowers. I don't know what\nkind of flowers they are.)"
+                                "\\N<Boku>(It's a picture of flowers. I don't know what kind"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "of flowers they are.)"
                             ]
                         },
                         {
@@ -11506,7 +12076,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>(Drawing flowers in a bottle on the table...\ndoesn't seem very interesting...)"
+                                "\\N<Boku>(Drawing flowers in a bottle on the table... seems"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "boring...)"
                             ]
                         },
                         {

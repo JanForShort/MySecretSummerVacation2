@@ -170,16 +170,16 @@
     // パラメータの取得と整形
     //=============================================================================
     var paramAlwaysDash = getParamBoolean(['AlwaysDash', '常時ダッシュ']);
-    var paramCommandRemember = getParamBoolean(['CommandRemember', 'コマンド記憶']);
+    var paramCommandRemember = getParamBoolean(['CommandRemember', "command memory"]);
     var paramBgmVolume = getParamNumber(['BgmVolume', 'BGM音量'], 0, 100);
     var paramBgsVolume = getParamNumber(['BgsVolume', 'BGS音量'], 0, 100);
     var paramMeVolume = getParamNumber(['MeVolume', 'ME音量'], 0, 100);
     var paramSeVolume = getParamNumber(['SeVolume', 'SE音量'], 0, 100);
-    var paramEraseAlwaysDash = getParamBoolean(['EraseAlwaysDash', '常時ダッシュ消去']);
-    var paramEraseCommandRemember = getParamBoolean(['EraseCommandRemember', 'コマンド記憶消去']);
+    var paramEraseAlwaysDash = getParamBoolean(['EraseAlwaysDash', "Always clear dash"]);
+    var paramEraseCommandRemember = getParamBoolean(['EraseCommandRemember', "Clear command memory"]);
     var paramEraseBgmVolume = getParamBoolean(['EraseBgmVolume', 'BGM音量消去']);
     var paramEraseBgsVolume = getParamBoolean(['EraseBgsVolume', 'BGS音量消去']);
-    var paramEraseMeVolume = getParamBoolean(['EraseMeVolume', 'ME音量消去']);
+    var paramEraseMeVolume = getParamBoolean(['EraseMeVolume', "Clear ME volume"]);
     var paramEraseSeVolume = getParamBoolean(['EraseSeVolume', 'SE音量消去']);
 
     //=============================================================================

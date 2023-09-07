@@ -3006,7 +3006,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(Hmm, I hear a strange sound...? Let me take\na peek...)"
+                                "\\N<Boku>(Hmm, I hear a strange sound...? Let's take a"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "peek...)"
                             ]
                         },
                         {
@@ -3361,7 +3368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I can't just go home without permission,\nright...?"
+                                "\\N<Boku>You can't just go home on your own, right...?"
                             ]
                         },
                         {
@@ -3544,7 +3551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I can't just go home without permission,\nright...?"
+                                "\\N<Boku>You can't just go home on your own, right...?"
                             ]
                         },
                         {
@@ -4893,7 +4900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>So, I wonder what you want to ask, Boku-\nkun?"
+                                "\\N<Older sister>So, what is it that you want to ask, my dear?"
                             ]
                         },
                         {
@@ -4917,45 +4924,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um, you see, for the summer homework, I\nhave to draw a picture. But, I can draw\nanything I want, so I don't know what I\nshould draw."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
+                                "\\N<Boku>Um, well, you see... I have to draw a picture for"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Then, Sacchan, I was thinking of consulting\nwith Art School Onee-chan..."
+                                "my summer homework. But, I can draw anything I"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "want, and I don't know what to draw."
                             ]
                         },
                         {
@@ -4963,23 +4946,6 @@
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<Onee-chan>I see... So, Boku-kun, you still haven't\nfound something you want to draw, huh?"
                             ]
                         },
                         {
@@ -5010,7 +4976,97 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>In that case, maybe you could take a look\ninside the art studio. There are various\npaintings there, and it might give you\nsome hints on what you want to draw, you\nknow?"
+                                "\\N<Boku>Then, \\N[2], why don't you consult with your older"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "sister who is an art college student..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Older sister>I see... So, you still haven't found something you"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "want to draw, huh?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Older sister>In that case, maybe you could take a look inside"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "the atelier. There are various paintings there,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "and it might give you some hints on what you want"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "to draw, you know?"
                             ]
                         },
                         {
@@ -5065,7 +5121,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Of course. This art studio is too big for\njust one person, so it's more fun to\nhave a little bit of liveliness."
+                                "\\N<Older sister>Of course. This atelier is too big for just one"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "person, so it's more fun to have a little bit of"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "liveliness."
                             ]
                         },
                         {
@@ -5120,7 +5190,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Yes, yes. You can come anytime. Oh, but I'm\noften not here in the morning because I\ngo for walks."
+                                "\\N<Older sister>Mhm, mhm. You can come anytime. Oh, but I'm often"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "not here in the morning because I go for walks."
                             ]
                         },
                         {
@@ -5158,7 +5235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Yes! I got it!"
+                                "\\N<Boku>Yeah! I got it!"
                             ]
                         },
                         {
@@ -5307,7 +5384,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Yes, thank you for the meal. And, Boku-kun,\ndon't forget to brush your teeth and\ntake a bath, okay?"
+                                "\\N<Older sister>Yes, thank you for the meal. Oh, and Boku-kun,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "don't forget to brush your teeth and take a bath,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "okay?"
                             ]
                         },
                         {
@@ -5355,7 +5446,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>I'll lay out the futon in my room, so you\ncan sleep anytime you feel tired."
+                                "\\N<Older sister>I'll lay out the futon in my room, so you can"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "sleep anytime you feel tired."
                             ]
                         },
                         {
@@ -5702,7 +5800,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>...If it's just one pair of Onee-chan's\npanties... would it be okay for me to\ntake them...?"
+                                "\\N<Boku>...There's a pair of panties from onee-san... I"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "wonder if it's okay to take just one..."
                             ]
                         },
                         {
@@ -5717,7 +5822,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Take them",
+                                    "Take it",
                                     "I'll stop"
                                 ],
                                 1,
@@ -5731,7 +5836,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "もっていく"
+                                "Take it"
                             ]
                         },
                         {
@@ -5754,7 +5859,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "やめておく"
+                                "I'll stop"
                             ]
                         },
                         {
@@ -5926,7 +6031,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>You can go take a bath first. I have some\ncleaning up to do."
+                                "\\N<Older sister>You can go take a bath first. I have some cleaning"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "up to do."
                             ]
                         },
                         {
@@ -6152,7 +6264,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, Boku-kun? Did you want to take a bath\ntogether? ...Or maybe...you're feeling\nnaughty and want to do something naughty\nwith Onee-chan...? ♥"
+                                "\\N<Older sister>Oh, you want to take a bath together, little me?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "...Or maybe... you're feeling naughty and want to"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "do something naughty with your big sister...? ♥"
                             ]
                         },
                         {
@@ -6190,7 +6316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Y-Yeah... I, I want to do something naughty...!"
+                                "\\N<Boku>Y-Yeah... I-I want to do something naughty...!"
                             ]
                         },
                         {
@@ -6214,7 +6340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>Hehe, sure ♥ Shall we go to the bed...♥"
+                                "\\N<Older sister>Hehe, sure ♥ Then, shall we go to the bed...♥"
                             ]
                         },
                         {
@@ -6414,7 +6540,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah... Onee-chan, you're sleeping... Is it\nokay if I play a little prank on you?"
+                                "\\N<Boku>Ah... Big sister, you're sleeping... Is it okay if"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "I play a little prank on you...?"
                             ]
                         },
                         {
@@ -6443,8 +6576,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Undressing",
-                                    "Let's not do it"
+                                    "Undress the clothes",
+                                    "Let's stop"
                                 ],
                                 1,
                                 0,
@@ -6457,7 +6590,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "服を脱がせる"
+                                "Undress the clothes"
                             ]
                         },
                         {
@@ -6474,7 +6607,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(...Is it okay if I do it just a little bit...\njust to take a quick look...)"
+                                "\\N<Boku>(...It's okay to do it just a little bit, right..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "Just a quick peek...)"
                             ]
                         },
                         {
@@ -6770,7 +6910,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(...Oh, she's not awake... right?... If she\ndoesn't wake up even with this... um,\nmaybe just a little bit more... is it\nokay to play a prank...?)"
+                                "\\N<Boku>(...She's not awake... right...? If she won't wake"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "up even with just this... M-Maybe I can play a"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "little prank...?)"
                             ]
                         },
                         {
@@ -6799,7 +6953,7 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "To play a naughty prank",
+                                    "Play a naughty prank",
                                     "Let's stop"
                                 ],
                                 1,
@@ -6813,7 +6967,7 @@
                             "indent": 2,
                             "parameters": [
                                 0,
-                                "エッチないたずらをする"
+                                "Play a naughty prank"
                             ]
                         },
                         {
@@ -6928,7 +7082,7 @@
                             "indent": 2,
                             "parameters": [
                                 1,
-                                "やめとこう"
+                                "Let's stop"
                             ]
                         },
                         {
@@ -6945,7 +7099,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>(N-No, no good! I have to put her clothes back\nbefore she wakes up...!)"
+                                "\\N<Boku>(N-No, no! I have to put her clothes back before"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "she wakes up...!)"
                             ]
                         },
                         {
@@ -7106,7 +7267,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "やめとこう"
+                                "Let's stop"
                             ]
                         },
                         {
@@ -7149,7 +7310,7 @@
                             "code": 408,
                             "indent": 2,
                             "parameters": [
-                                "睡姦の知識画れば夜這い出来るように変更"
+                                "By depicting knowledge of sleep rape, it can be changed to be able to sneak into someone's bed at night"
                             ]
                         },
                         {
@@ -7183,7 +7344,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah... Onee-chan, you're sleeping... It's\nbetter not to wake you up, right?"
+                                "\\N<Boku>Ah... Big sister, you're sleeping... It's better"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "not to wake you up, right...?"
                             ]
                         },
                         {
@@ -7450,7 +7618,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Onee-chan>So, I wonder what kind of naughty things\nyou want to do with me, Boku-kun? ♥"
+                                "\\N<Older sister>So, I wonder what kind of naughty things you want"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "to do with your big sister? ♥"
                             ]
                         },
                         {

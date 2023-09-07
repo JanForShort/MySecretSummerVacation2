@@ -2144,7 +2144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Excuse me, I'm coming in."
+                                "\\N<Boku>Excuse meee~"
                             ]
                         },
                         {
@@ -2219,7 +2219,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um... it's not good to enter someone's house\nwithout permission, right?"
+                                "\\N<Boku>Um... it's not good to enter someone's house"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "without permission, right?"
                             ]
                         },
                         {
@@ -2341,7 +2348,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boku>(M-Maybe I should stop for today...)"
+                                "\\N<Boku>(M-maybe I should stop for today...)"
                             ]
                         },
                         {
@@ -2535,7 +2542,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<Boku>Excuse me!"
+                                "\\N<Boku>Excuse me~"
                             ]
                         },
                         {
@@ -2618,7 +2625,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>Yes?"
+                                "\\N<Older sister>Yes~"
                             ]
                         },
                         {
@@ -2688,7 +2695,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, Boku-kun. What's wrong? Did you come to\nplay?"
+                                "\\N<Older sister>Oh, it's you, Boku-kun. What's up? Did you come to"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "play?"
                             ]
                         },
                         {
@@ -2719,7 +2733,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Um, Onee-chan, there's something I wanted\nto ask you..."
+                                "\\N<Boku>Um, you know, there's something I want to ask my"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "older sister..."
                             ]
                         },
                         {
@@ -2743,7 +2764,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Onee-chan>Oh, really? Well then, shall we talk\ninside? Come on in."
+                                "\\N<Older sister>Oh, really? Well then, shall we talk inside? Come"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "on in."
                             ]
                         },
                         {
@@ -2774,7 +2802,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Yeah! Excuse meee~"
+                                "\\N<Boku>Yeah! I'm here to intrude~"
                             ]
                         },
                         {
@@ -2847,7 +2875,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>It's probably better not to bother you too\nlate..."
+                                "\\N<Boku>It's probably better not to intrude too late..."
                             ]
                         },
                         {
@@ -2891,7 +2919,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Huh? The door is locked... Maybe she's\nout...?"
+                                "\\N<Boku>Huh? The door is locked... Maybe she's out...?"
                             ]
                         },
                         {
@@ -3303,7 +3331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Ugh... I wonder if it's still not here..."
+                                "\\N<Boku>Ugh... I wonder when it will be..."
                             ]
                         },
                         {
@@ -3320,7 +3348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nana-chan>Hey, hurry up and go!"
+                                "\\N<Nana-chan>Hey, hurry up!"
                             ]
                         },
                         {
@@ -3344,7 +3372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I-I understand... A-Alright! Let's go!"
+                                "\\N<Boku>I-I know... Al-alright! Let's go!"
                             ]
                         },
                         {

@@ -10,7 +10,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Attack! It blows away the opponent's barrier too! But it\nloses to a finishing move.",
+        "description": "Attack! I'll blow away the opponent's barrier too! But I'll lose to\nthe ultimate move.",
         "effects": [
             {
                 "code": 21,
@@ -33,7 +33,7 @@
         ],
         "hitType": 0,
         "iconIndex": 0,
-        "message1": " chose an attack!",
+        "message1": "I chose to attack!",
         "message2": "",
         "mpCost": 0,
         "name": "Attack",
@@ -59,7 +59,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Barrier! It can block the opponent's powerful moves! But it\nis weak against attacks...",
+        "description": "Barrier! I can block the opponent's ultimate move! But I'm weak\nagainst normal attacks...",
         "effects": [
             {
                 "code": 21,
@@ -82,11 +82,11 @@
         ],
         "hitType": 0,
         "iconIndex": 81,
-        "message1": " chose a barrier!",
+        "message1": "I chose the barrier!",
         "message2": "",
         "mpCost": 0,
         "name": "Barrier",
-        "note": "スキル２番は［防御］コマンドを\n選択したときに使用されます。",
+        "note": "Skill 2 is the [Defense] command.\nIt is used when selected.",
         "occasion": 1,
         "repeats": 1,
         "requiredWtypeId1": 0,
@@ -122,7 +122,7 @@
         "message1": "'s attack!",
         "message2": "",
         "mpCost": 0,
-        "name": "Continuous Attack",
+        "name": "Combo Attack",
         "note": "",
         "occasion": 1,
         "repeats": 2,
@@ -159,7 +159,7 @@
         "message1": "'s attack!",
         "message2": "",
         "mpCost": 0,
-        "name": "Double Attack",
+        "name": "Combo Attack",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -196,7 +196,7 @@
         "message1": "'s attack!",
         "message2": "",
         "mpCost": 0,
-        "name": "Triple Attack",
+        "name": "Trible Combo",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -230,7 +230,7 @@
         ],
         "hitType": 0,
         "iconIndex": 82,
-        "message1": " ran away.",
+        "message1": "Ran away",
         "message2": "",
         "mpCost": 0,
         "name": "Escape",
@@ -260,10 +260,10 @@
         "effects": [],
         "hitType": 0,
         "iconIndex": 81,
-        "message1": " is observing the situation.",
+        "message1": "Is observing",
         "message2": "",
         "mpCost": 0,
-        "name": "To observe",
+        "name": "Observing",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -290,7 +290,7 @@
         "effects": [],
         "hitType": 0,
         "iconIndex": 72,
-        "message1": "Translated Text:  cast %1!",
+        "message1": "Casted %1!",
         "message2": "",
         "mpCost": 5,
         "name": "Heal",
@@ -320,7 +320,7 @@
         "effects": [],
         "hitType": 2,
         "iconIndex": 64,
-        "message1": " cast %1!",
+        "message1": "Casted %1!",
         "message2": "",
         "mpCost": 5,
         "name": "Fire",
@@ -350,7 +350,7 @@
         "effects": [],
         "hitType": 2,
         "iconIndex": 66,
-        "message1": " cast %1!",
+        "message1": " chanted %1!",
         "message2": "",
         "mpCost": 5,
         "name": "Spark",
@@ -513,10 +513,10 @@
         "effects": [],
         "hitType": 0,
         "iconIndex": 76,
-        "message1": "'s barrier attack!",
+        "message1": "Barrier attack!",
         "message2": "",
         "mpCost": 0,
-        "name": "Barrier Attack",
+        "name": "Barrier attack",
         "note": "<move: 15>\n<arc: 50>\n",
         "occasion": 1,
         "repeats": 1,
@@ -539,7 +539,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Your attack power will increase on the next turn! You will\nalso recover a bit of stamina!",
+        "description": "The attack power for the next turn will increase! I'll also recover a\nbit of stamina!",
         "effects": [
             {
                 "code": 21,
@@ -568,7 +568,7 @@
         ],
         "hitType": 0,
         "iconIndex": 0,
-        "message1": " chose to charge!",
+        "message1": "I chose to charge!",
         "message2": "",
         "mpCost": 0,
         "name": "Charge",
@@ -605,7 +605,7 @@
         ],
         "hitType": 2,
         "iconIndex": 78,
-        "message1": "'s own bomber!",
+        "message1": "Self Bomber!",
         "message2": "",
         "mpCost": 0,
         "name": "Self Bomber!",
@@ -631,7 +631,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I'm going to explode myself!",
+        "description": "I'm going to be a bomber!",
         "effects": [
             {
                 "code": 21,
@@ -654,7 +654,7 @@
         ],
         "hitType": 0,
         "iconIndex": 78,
-        "message1": " will use their own bomber!",
+        "message1": "I'm going to use Self Bomber!",
         "message2": "",
         "mpCost": 5,
         "name": "Self Bomber",
@@ -680,7 +680,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "It's a special move that spins the opponent round and round!\nYou might get dizzy!",
+        "description": "It's an ultimate move that spins the opponent around! You might get\ndizzy!",
         "effects": [
             {
                 "code": 21,
@@ -697,10 +697,10 @@
         ],
         "hitType": 2,
         "iconIndex": 69,
-        "message1": "'s important mountain descent!",
+        "message1": "No Daisetsu Zanoroshi!",
         "message2": "",
         "mpCost": 0,
-        "name": "Important Mountain Drop!",
+        "name": "Daisetsuzan Oroshi!",
         "note": "<move: 20>\n",
         "occasion": 1,
         "repeats": 1,
@@ -723,7 +723,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's a special move that spins the opponent round and round!\nYou might get dizzy!",
+        "description": "It's an ultimate move that spins the opponent around! You might get\ndizzy!",
         "effects": [
             {
                 "code": 21,
@@ -746,10 +746,10 @@
         ],
         "hitType": 0,
         "iconIndex": 69,
-        "message1": " will use the important mountain descent!",
+        "message1": "I'm going to use Daisetsu Zan Oroshi!",
         "message2": "",
         "mpCost": 10,
-        "name": "Important Mountain Descent",
+        "name": "Daisetsuzan Oroshi",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -789,7 +789,7 @@
         ],
         "hitType": 2,
         "iconIndex": 78,
-        "message1": "'s Dynamite Special!",
+        "message1": "Dynamite Special!",
         "message2": "",
         "mpCost": 0,
         "name": "Dynamite Special!",
@@ -815,7 +815,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Anyway, it's an amazing finishing move! I'll use 10 move\npoints.",
+        "description": "In any case, it's an incredible ultimate move! It'll also use 10\nability points.",
         "effects": [
             {
                 "code": 21,
@@ -838,7 +838,7 @@
         ],
         "hitType": 0,
         "iconIndex": 78,
-        "message1": " is going to use Dynamite Special!",
+        "message1": "I'm going to use Dynamite Special!",
         "message2": "",
         "mpCost": 10,
         "name": "Dynamite Special",
@@ -864,7 +864,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I'll stick out my tongue and make the other person angry!\nBut I wonder where the bug's tongue is...",
+        "description": "I'll play the down to provoke the opponent! But, I wonder where the\ndown of the bug is exactly...?",
         "effects": [
             {
                 "code": 21,
@@ -875,10 +875,10 @@
         ],
         "hitType": 2,
         "iconIndex": 78,
-        "message1": "'s, Akkanbee!",
+        "message1": "Counterattack!",
         "message2": "",
         "mpCost": 0,
-        "name": "Akkanbee!",
+        "name": "Counterattack!",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -901,7 +901,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Stick out your tongue and make the opponent angry! But, I\nwonder where the tongue of an insect is...? It will cost 10\nskill points.",
+        "description": "I'm going to stick out my tongue to provoke the opponent! But, I\nwonder where a bug's tongue is exactly...? I'll also use 10 ability\npoints.",
         "effects": [
             {
                 "code": 21,
@@ -924,10 +924,10 @@
         ],
         "hitType": 0,
         "iconIndex": 80,
-        "message1": " will use Akkanbee!",
+        "message1": "I'm going to use Counterattack!",
         "message2": "",
         "mpCost": 10,
-        "name": "Akkanbee",
+        "name": "Counterattack",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -961,10 +961,10 @@
         ],
         "hitType": 2,
         "iconIndex": 78,
-        "message1": "'s Mach speed!",
+        "message1": "'s Mach speed is amazing!",
         "message2": "",
         "mpCost": 0,
-        "name": "Mach Needle!",
+        "name": "Mach Speed Thrust!",
         "note": "<DAE攻撃:12,20,0,0>      # 12フレーム、高度10で対象まで移動\n<DAE帰投:18,25>          # 18フレーム、高度25で元に位置に戻る",
         "occasion": 1,
         "repeats": 1,
@@ -1010,10 +1010,10 @@
         ],
         "hitType": 0,
         "iconIndex": 78,
-        "message1": " will use the Mach Harite!",
+        "message1": " is going to use the Mach Harite!",
         "message2": "",
         "mpCost": 12,
-        "name": "Mach Needle",
+        "name": "Mach Harite",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -1073,7 +1073,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's an incredibly strong and cool finishing move! Gather\nyour energy and unleash a counterattack!",
+        "description": "It's an incredibly strong and cool Ultimate! Build up your\nenergy and unleash a complete reversal!",
         "effects": [
             {
                 "code": 21,
@@ -1096,7 +1096,7 @@
         ],
         "hitType": 0,
         "iconIndex": 78,
-        "message1": " will use the Super Miracle Hyper Dangerous Attack!",
+        "message1": " is going to use the Super Miracle Hyper Dangerous Attack!",
         "message2": "",
         "mpCost": 0,
         "name": "Super Miracle Hyper Dangerous Attack",
@@ -1122,7 +1122,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will put my opponent to sleep with a mysterious dance!",
+        "description": "I'll put my opponent to sleep with a mysterious dance!",
         "effects": [
             {
                 "code": 21,
@@ -1133,10 +1133,10 @@
         ],
         "hitType": 2,
         "iconIndex": 80,
-        "message1": "'s, every day of confusion!",
+        "message1": "'s, the Dance of Temptation!",
         "message2": "",
         "mpCost": 0,
-        "name": "Confusion Dance!",
+        "name": "Dance of Seduction!",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -1159,7 +1159,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will put my opponent to sleep with a mysterious dance!",
+        "description": "I'll put my opponent to sleep with a mysterious dance!",
         "effects": [
             {
                 "code": 21,
@@ -1182,10 +1182,10 @@
         ],
         "hitType": 0,
         "iconIndex": 80,
-        "message1": " will use their secret technique!",
+        "message1": " will use their seductive dance!",
         "message2": "",
         "mpCost": 10,
-        "name": "Dance of Confusion",
+        "name": "Dance of Seduction",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -1208,14 +1208,14 @@
             "type": 2,
             "variance": 20
         },
-        "description": "I will put my opponent to sleep with a mysterious dance!",
+        "description": "I'll put my opponent to sleep with a mysterious dance!",
         "effects": [],
         "hitType": 2,
         "iconIndex": 80,
-        "message1": "'s move is powerful!",
+        "message1": "'s move failed!",
         "message2": "",
         "mpCost": 0,
-        "name": "Skill name: Skill Break!",
+        "name": "Skill Destruction!",
         "note": "<DAE攻撃:12,20,0,0>      # 12フレーム、高度10で対象まで移動\n<DAE帰投:18,25>          # 18フレーム、高度25で元に位置に戻る",
         "occasion": 1,
         "repeats": 1,
@@ -1238,7 +1238,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will reduce the opponent's move points!",
+        "description": "I'll reduce the opponent's skill points!",
         "effects": [
             {
                 "code": 21,
@@ -1261,7 +1261,7 @@
         ],
         "hitType": 0,
         "iconIndex": 80,
-        "message1": " will use a special move!",
+        "message1": " is going to use a special move!",
         "message2": "",
         "mpCost": 5,
         "name": "Skill Destruction",
@@ -1287,7 +1287,7 @@
             "type": 2,
             "variance": 20
         },
-        "description": "I will put my opponent to sleep with a mysterious dance!",
+        "description": "I'll put my opponent to sleep with a mysterious dance!",
         "effects": [
             {
                 "code": 12,
@@ -1298,10 +1298,10 @@
         ],
         "hitType": 2,
         "iconIndex": 80,
-        "message1": "'s move, Thief!",
+        "message1": "'s skill, Thief!",
         "message2": "",
         "mpCost": 0,
-        "name": "Skill Name: Skill Steal!",
+        "name": "Skill Steal!",
         "note": "<DAE攻撃:12,20,0,0>      # 12フレーム、高度10で対象まで移動\n<DAE帰投:18,25>          # 18フレーム、高度25で元に位置に戻る",
         "occasion": 1,
         "repeats": 1,
@@ -1324,7 +1324,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will steal the opponent's move points!",
+        "description": "I'm going to steal the opponent's skill points!",
         "effects": [
             {
                 "code": 21,
@@ -1347,7 +1347,7 @@
         ],
         "hitType": 0,
         "iconIndex": 142,
-        "message1": " will use the move Thief!",
+        "message1": " is going to use a special move, Thief!",
         "message2": "",
         "mpCost": 5,
         "name": "Skill Steal",
@@ -1384,10 +1384,10 @@
         ],
         "hitType": 2,
         "iconIndex": 69,
-        "message1": "'s Skill Showdown!",
+        "message1": "'s naughty game!",
         "message2": "",
         "mpCost": 0,
-        "name": "Skill name: Skill Slaughter!",
+        "name": "Skill Slaughter!",
         "note": "<DAE攻撃:12,20,0,0>      # 12フレーム、高度10で対象まで移動\n<DAE帰投:18,25>          # 18フレーム、高度25で元に位置に戻る",
         "occasion": 1,
         "repeats": 1,
@@ -1410,7 +1410,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I might be able to seal the opponent's technique!",
+        "description": "Can Seal the Enemy's Techniques!",
         "effects": [
             {
                 "code": 21,
@@ -1433,7 +1433,7 @@
         ],
         "hitType": 0,
         "iconIndex": 70,
-        "message1": " will use a trick!",
+        "message1": " is going to use a special move!",
         "message2": "",
         "mpCost": 8,
         "name": "Skill Slaughter",
@@ -1473,7 +1473,7 @@
         "message1": "'s Charging Attack!",
         "message2": "",
         "mpCost": 0,
-        "name": "Charge Attack!",
+        "name": "Charge Slam!",
         "note": "<DAE攻撃:12,20,0,0>      # 12フレーム、高度10で対象まで移動\n<DAE帰投:18,25>          # 18フレーム、高度25で元に位置に戻る",
         "occasion": 1,
         "repeats": 1,
@@ -1496,7 +1496,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I might be able to seal the opponent's charge!",
+        "description": "Might be able to seal the opponent's charge!",
         "effects": [
             {
                 "code": 21,
@@ -1519,10 +1519,10 @@
         ],
         "hitType": 0,
         "iconIndex": 70,
-        "message1": " will use Charge Attack!",
+        "message1": " is going to use the charging attack!",
         "message2": "",
         "mpCost": 8,
-        "name": "Charge Attack",
+        "name": "Charge Slam",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -1556,7 +1556,7 @@
         ],
         "hitType": 2,
         "iconIndex": 69,
-        "message1": "'s Barrier Breaker!",
+        "message1": "'s Barrier Break!",
         "message2": "",
         "mpCost": 0,
         "name": "Barrier Crusher!",
@@ -1582,7 +1582,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I might be able to seal the opponent's barrier!",
+        "description": "Might be able to break through the opponent's barrier!",
         "effects": [
             {
                 "code": 21,
@@ -1608,7 +1608,7 @@
         "message1": " will use Barrier Breaker!",
         "message2": "",
         "mpCost": 8,
-        "name": "Barrier Crusher",
+        "name": "Barrier Breaker",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -1642,7 +1642,7 @@
         ],
         "hitType": 2,
         "iconIndex": 69,
-        "message1": "'s attack slayer!",
+        "message1": "'s attack slays!",
         "message2": "",
         "mpCost": 0,
         "name": "Attack Slayer!",
@@ -1668,7 +1668,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I might be able to block the opponent's attack!",
+        "description": "Might be able to counter the opponent's attack!",
         "effects": [
             {
                 "code": 21,
@@ -1691,7 +1691,7 @@
         ],
         "hitType": 0,
         "iconIndex": 70,
-        "message1": " will use an attack move!",
+        "message1": " is going to use an attack move!",
         "message2": "",
         "mpCost": 8,
         "name": "Attack Slayer",
@@ -1728,10 +1728,10 @@
         ],
         "hitType": 2,
         "iconIndex": 69,
-        "message1": "'s Thousand-Year Curse!",
+        "message1": "'s Thousand-Year Romance!",
         "message2": "",
         "mpCost": 0,
-        "name": "Thousand-Year Healing!",
+        "name": "Thousand-Year Curse!",
         "note": "<DAE攻撃:12,20,0,0>      # 12フレーム、高度10で対象まで移動\n<DAE帰投:18,25>          # 18フレーム、高度25で元に位置に戻る",
         "occasion": 1,
         "repeats": 1,
@@ -1754,7 +1754,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "I will use my Flying-type move! I will also use 10 Power\nPoints.",
+        "description": "I'll create an opponent's flight! I'll also use 10 skill points.",
         "effects": [
             {
                 "code": 21,
@@ -1777,7 +1777,7 @@
         ],
         "hitType": 0,
         "iconIndex": 70,
-        "message1": " will use the Millennium Puzzle!",
+        "message1": " is going to use the millennium magic!",
         "message2": "",
         "mpCost": 10,
         "name": "Thousand-Year Curse",
@@ -1807,7 +1807,7 @@
         "effects": [],
         "hitType": 2,
         "iconIndex": 80,
-        "message1": "'s, every day of confusion!",
+        "message1": "'s, a perplexing dance!",
         "message2": "",
         "mpCost": 0,
         "name": "Calculating...",
@@ -1925,7 +1925,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Go! Hercules! Show me your power! I'll use 12 move points.",
+        "description": "Go! Hercules! Show me your power! I'll use 12 skill points.",
         "effects": [
             {
                 "code": 21,
@@ -1948,7 +1948,7 @@
         ],
         "hitType": 0,
         "iconIndex": 78,
-        "message1": " will use Hercules Power!",
+        "message1": " is going to use Hercules Power!",
         "message2": "",
         "mpCost": 12,
         "name": "Hercules Power",
@@ -2017,7 +2017,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Defeat them with three horns! It will also consume 12 skill\npoints.",
+        "description": "Defeat them with three horns! It will cost 12 skill points.",
         "effects": [
             {
                 "code": 21,
@@ -2040,7 +2040,7 @@
         ],
         "hitType": 0,
         "iconIndex": 78,
-        "message1": " will use the Triple Crusher!",
+        "message1": " is going to use the Triple Crusher!",
         "message2": "",
         "mpCost": 12,
         "name": "Triple Crusher",
@@ -2109,7 +2109,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's a special move! But, I wonder what Guillotine is? It\nalso uses 12 move points.",
+        "description": "It's a special move! But, I wonder what Guillotine is? It also uses 12\nmove points.",
         "effects": [
             {
                 "code": 21,
@@ -2132,7 +2132,7 @@
         ],
         "hitType": 0,
         "iconIndex": 78,
-        "message1": " will use the Guillotine Special!",
+        "message1": " is going to use the Guillotine Special!",
         "message2": "",
         "mpCost": 12,
         "name": "Guillotine Special",
@@ -2218,7 +2218,7 @@
         ],
         "hitType": 0,
         "iconIndex": 78,
-        "message1": " will use a water gun!",
+        "message1": " is going to use a water gun!",
         "message2": "",
         "mpCost": 10,
         "name": "Water Gun",
@@ -2281,7 +2281,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Anything goes!",
+        "description": "It's an all-you-can-eat buffet!",
         "effects": [
             {
                 "code": 21,

@@ -2155,7 +2155,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Wow, this grass is amazing. I can't pass\nthrough this..."
+                                "\\N<Boku>Wow, this grass is so tall. We can't pass through"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "this..."
                             ]
                         },
                         {
@@ -2563,7 +2570,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Wow, this grass is amazing. I can't pass\nthrough this..."
+                                "\\N<Boku>Wow, this grass is so tall. We can't pass through"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "this..."
                             ]
                         },
                         {
@@ -3295,7 +3309,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Wow, this grass is amazing. I can't pass\nthrough this path like this..."
+                                "\\N<Boku>Wow, this grass is so tall. We can't pass through"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "this..."
                             ]
                         },
                         {
@@ -3592,7 +3613,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Wow, this grass is amazing. I can't pass\nthrough this path like this..."
+                                "\\N<Boku>Wow, this grass is so tall. We can't pass through"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "this..."
                             ]
                         },
                         {
@@ -3727,7 +3755,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Wow, this grass is amazing. I can't pass\nthrough this..."
+                                "\\N<Boku>Wow, this grass is so tall. We can't pass through"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "this..."
                             ]
                         },
                         {
@@ -3862,7 +3897,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Wow, this grass is amazing. I can't pass\nthrough this path like this..."
+                                "\\N<Boku>Wow, this grass is so tall. We can't pass through"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "this..."
                             ]
                         },
                         {
@@ -3997,7 +4039,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Wow, this grass is amazing. I can't pass\nthrough this..."
+                                "\\N<Boku>Wow, this grass is so tall. We can't pass through"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "this..."
                             ]
                         },
                         {
@@ -4294,7 +4343,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Wow, this grass is amazing. I can't pass\nthrough this..."
+                                "\\N<Boku>Wow, this grass is so tall. We can't pass through"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "this..."
                             ]
                         },
                         {
@@ -6220,7 +6276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boushi-kun>Hey, wait a minute! I was the one who found\nthis place first, you know!"
+                                "\\N<Boushi-kun>Hey! I found this place first, you know!"
                             ]
                         },
                         {
@@ -6253,7 +6309,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boushi-kun>...Well, I didn't bring my fishing rod today, so\nyou can go ahead and fish first."
+                                "\\N<Boushi-kun>...Well, I didn't bring my fishing rod today, so"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "you can go ahead and fish first."
                             ]
                         },
                         {
@@ -6284,7 +6347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Is that so? Thanks."
+                                "\\N<Boku>Oh, really? Thanks."
                             ]
                         },
                         {
@@ -6666,7 +6729,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>Oh, Boku-kun. You came. ♥ Well then, let's\nall finish cutting the grass together."
+                                "\\N<\\N[2]>Oh, you're here, my dear. ♥ Well then, let's all"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "finish cutting the grass together."
                             ]
                         },
                         {
@@ -6697,7 +6767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Yeah!"
+                                "\\N<Boku>Yes!"
                             ]
                         },
                         {
@@ -6803,7 +6873,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>Phew, we finally finished. Thank you,\neveryone. Take some snacks and juice\nbefore you go home, okay?"
+                                "\\N<\\N[2]>Phew, we finally finished. Thank you, everyone."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Take some snacks and juice before you leave, okay?"
                             ]
                         },
                         {
@@ -6964,7 +7041,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Phew, that was tough. There were so many\npeople, I couldn't chat with them. But\nnow, this path is finally passable!"
+                                "\\N<Boku>Phew, that was tough. There were so many people,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "but I was too busy to chat... But now, this path"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "is finally passable!"
                             ]
                         },
                         {

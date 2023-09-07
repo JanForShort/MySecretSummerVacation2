@@ -3328,7 +3328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nana-chan>Oh, it's not you, Boku. What are you doing\nhere?"
+                                "\\N<Nana-chan>Oh, it's not me. What are you doing here?"
                             ]
                         },
                         {
@@ -3369,7 +3369,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nana-chan>Hmm... Are you saying that, but deep down\nyou're actually looking for some naughty\nbooks, aren't you? Tourists often leave\nthem behind, you know."
+                                "\\N<Nana-chan>Hmm... Are you saying that, but deep down you're"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "actually looking for some naughty books, right?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Tourists often leave them behind, you know."
                             ]
                         },
                         {
@@ -3438,7 +3452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nana-chan>Hmm...? You seem flustered, how suspicious~♥"
+                                "\\N<Nana-chan>Hmm...? You're getting flustered, how suspicious~♥"
                             ]
                         },
                         {

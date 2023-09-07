@@ -2428,7 +2428,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>I have everything, so I'm done."
+                                "\\N<Boku>I have them all, so I'm done."
                             ]
                         },
                         {
@@ -2566,7 +2566,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There's a gacha! It says that each try of the\nPokemobi series costs 20 yen and there\nare 10 different types. If you collect\nall the types, you'll receive a\nwonderful present! Should I give it a\ntry?"
+                                "There's a gacha! It says that each Pokémon mobile"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "series capsule costs 20 yen for one try, and if"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "you collect all the types, you'll get a wonderful"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "present! Should I give it a try?"
                             ]
                         },
                         {
@@ -2595,8 +2616,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "I'll give it a try!",
-                                    "Never mind"
+                                    "Let's give it a try!",
+                                    "Changed my mind"
                                 ],
                                 1,
                                 0,
@@ -2609,7 +2630,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "やってみる！"
+                                "Let's give it a try!"
                             ]
                         },
                         {
@@ -2722,7 +2743,14 @@
                             "code": 401,
                             "indent": 13,
                             "parameters": [
-                                "\\N<Boku>Yay! I collected all the types! I have to\nlet the shop girl know and receive\nsomething amazing!"
+                                "\\N<Boku>Yay! I've collected all the species! I have to let"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 13,
+                            "parameters": [
+                                "the shop lady know and get something amazing!"
                             ]
                         },
                         {
@@ -3368,7 +3396,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "やーめた"
+                                "Changed my mind"
                             ]
                         },
                         {
@@ -3789,7 +3817,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Please don't go too far... Let's go to the bus\nstop bench... ♥"
+                                "\\N<Aunt>Please don't go too far... Let's go to the bus"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "stop bench... ♥"
                             ]
                         },
                         {
@@ -4812,7 +4847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Huh? Is it a day off today..."
+                                "\\N<Boku>Huh? Is it closed today..."
                             ]
                         },
                         {
@@ -5005,7 +5040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Huh? Is it a day off today..."
+                                "\\N<Boku>Huh? Is it closed today..."
                             ]
                         },
                         {
@@ -5216,7 +5251,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Closed on Saturdays and Sundays. Today,\ntemporary closure."
+                                "Closed on Saturdays and Sundays. Today, temporary"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "closure."
                             ]
                         },
                         {
@@ -5240,7 +5282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Huh? Is it a day off today..."
+                                "\\N<Boku>Huh? Is it closed today..."
                             ]
                         },
                         {
@@ -5452,7 +5494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Hmm... it looks like the shop girl isn't\nhere..."
+                                "\\N<Boku>Hmm... It looks like the store is closed..."
                             ]
                         },
                         {
@@ -5553,7 +5595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Hmm... it looks like the shop girl isn't\nhere..."
+                                "\\N<Boku>Hmm... It looks like the store is closed..."
                             ]
                         },
                         {
@@ -5979,7 +6021,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>Oh, it's not you. We meet often, don't we?"
+                                "\\N<Nana-chan>Oh, it's not me. We meet often, don't we?"
                             ]
                         },
                         {
@@ -6003,7 +6045,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Oh, Nana-chan is eating ice cream! I'm so\njealous... Maybe I should buy some\ntoo..."
+                                "\\N<Boku>Ah, Nana-chan is eating ice cream! How nice..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Maybe I should buy one too..."
                             ]
                         },
                         {
@@ -6027,7 +6076,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>...Oh, I see. If you're not going to eat that\nmuch, you can have this. I'm already\nfull anyway."
+                                "\\N<Nana-chan>...Hmm. If you're not going to eat that much, you"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "can have this. I'm already full anyway."
                             ]
                         },
                         {
@@ -6110,7 +6166,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>...Hai, indirect kissu♥ My naughty♥"
+                                "\\N<Nana-chan>...Hai, indirect kissu~♥ My naughty~♥"
                             ]
                         },
                         {
@@ -6134,7 +6190,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Eh, eh...⁉"
+                                "\\N<Boku>Eh, eeeh...⁉"
                             ]
                         },
                         {
@@ -6151,7 +6207,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>Ahaha, it's just a joke♥ You're not a boy, so\nyou don't have to say things like that\nall the time♥"
+                                "\\N<Nana-chan>Ahaha, it's just a joke ♥ You're not a guy, so you"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "don't have to say things like that all the time ♥"
                             ]
                         },
                         {
@@ -6229,7 +6292,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Nana-chan>Ahaha, it's just a joke♥ You're not a boy, so\nyou don't have to say things like that\nall the time♥"
+                                "\\N<Nana-chan>Ahaha, it's just a joke ♥ You're not a guy, so you"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "don't have to say things like that all the time ♥"
                             ]
                         },
                         {
@@ -6432,7 +6502,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Hey, Boku-kun... ♥ Shall we take a break on\nthe bench at the bus stop over there...?\n♥"
+                                "\\N<Aunt>Hey, you...♥ Shall we take a break on the bench at"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "the bus stop over there...? ♥"
                             ]
                         },
                         {
@@ -6456,7 +6533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Yeah."
+                                "\\N<Boku>Yeah"
                             ]
                         },
                         {
@@ -6544,7 +6621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Oh...? What's wrong, Boku-kun...?"
+                                "\\N<Aunt>Oh...? What's wrong, my dear...?"
                             ]
                         },
                         {
@@ -6568,7 +6645,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Ugh... I've been staring at Aunt's naked body\nfor so long that I can't hold back my\nerection anymore..."
+                                "\\N<Boku>Ugh... Aunt, I've been staring at your naked body"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "for so long that I can't hold back my cock"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "anymore..."
                             ]
                         },
                         {
@@ -6599,7 +6690,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Well... ♥ Aunt also can't resist anymore and\nwants Boku-kun's penis so badly... ♥\nCome here... ♥"
+                                "\\N<Aunt>Well... ♥ Aunt also can't resist anymore and wants"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "your cock so badly... ♥ Come here... ♥"
                             ]
                         },
                         {
@@ -6651,7 +6749,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Ah... that was really good... ♥ Did you feel\nrelieved too, Boku-kun...? ♥ Well then,\nit's about time to go home... Come on,\nBoku-kun... let's go back to your\nplace... ♥"
+                                "\\N<Aunt>Ah... that was amazing... ♥ Did you feel relieved"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "too, my dear...? ♥ Well then, it's about time to"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "go home... So, my dear... let's go back to your"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "place... ♥"
                             ]
                         },
                         {

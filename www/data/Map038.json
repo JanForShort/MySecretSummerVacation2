@@ -2077,7 +2077,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hakase-kun>Hmm... Is this bug the same one I caught\nearlier?"
+                                "\\N<Hakase-kun>Hmm... Is this bug the same one I caught"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "earlier...?"
                             ]
                         },
                         {
@@ -2305,7 +2312,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>It's a huge spider web!... I can't touch\nit... If only there was something like a\nwooden branch..."
+                                "\\N<Boku>It's a huge spider web!... I can't touch this...."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "If only there was something like a wooden"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "branch..."
                             ]
                         },
                         {
@@ -2464,7 +2485,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Ah! There's a discarded saw! It's rusty,\nbut it still seems usable... With this,\nI can fix the bridge!"
+                                "\\N<Boku>Huh?! There's a discarded saw! It's rusty, but it"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "still seems usable... With this, we can fix the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "bridge!"
                             ]
                         },
                         {
@@ -2542,7 +2577,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Wow, there's a lot of junk here..."
+                                "\\N<Boku>Wow, there's so much junk..."
                             ]
                         },
                         {

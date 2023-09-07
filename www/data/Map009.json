@@ -3213,7 +3213,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<\\N[2]>Today is a clear and cloudless sunny day♥"
+                                "\\N<\\N[2]>It's a clear and sunny day today♥"
                             ]
                         },
                         {
@@ -3258,7 +3258,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<\\N[2]>Phew. I have to be careful not to get\nsunburned..."
+                                "\\N<\\N[2]>Phew. I need to be careful not to get sunburned..."
                             ]
                         },
                         {
@@ -3310,7 +3310,21 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<\\N[2]>Come to think of it, it seems like my\nunderwear is decreasing...? I wonder if\nI dropped it somewhere...?"
+                                "\\N<\\N[2]>Come to think of it, it seems like my underwear is"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "decreasing...? I wonder if I dropped it"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 4,
+                            "parameters": [
+                                "somewhere...?"
                             ]
                         },
                         {
@@ -3362,7 +3376,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<\\N[2]>Oh, cumulus clouds... Summer is almost\nover, isn't it..."
+                                "\\N<\\N[2]>Oh, cumulus clouds... Summer will be ending"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 5,
+                            "parameters": [
+                                "soon..."
                             ]
                         },
                         {

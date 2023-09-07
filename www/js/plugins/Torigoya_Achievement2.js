@@ -422,7 +422,7 @@
             popupOpacity: pickNumberValueFromParameter(parameter, 'popupOpacity', -1),
             titleMenuUseInTitle: pickBooleanValueFromParameter(parameter, 'titleMenuUseInTitle', true),
             titleMenuUseInMenu: pickBooleanValueFromParameter(parameter, 'titleMenuUseInMenu', true),
-            titleMenuText: pickStringValueFromParameter(parameter, 'titleMenuText', '実績'),
+            titleMenuText: pickStringValueFromParameter(parameter, 'titleMenuText', "Achievements"),
             achievementMenuHiddenTitle: pickStringValueFromParameter(
                 parameter,
                 'achievementMenuHiddenTitle',
@@ -434,7 +434,7 @@
             achievementMenuCancelMessage: pickStringValueFromParameter(
                 parameter,
                 'achievementMenuCancelMessage',
-                '閉じる'
+                "Close"
             ),
         };
     }
@@ -1314,21 +1314,21 @@
             switch (command) {
                 case 'Achievement':
                 case 'GetAchievement':
-                case '実績':
-                case '実績獲得':
+                case "Achievements":
+                case "Achievement Acquisition":
                     Torigoya.Achievement2.Manager.unlock(`${args[0]}`.trim());
                     return;
                 case 'RemoveAchievement':
-                case '実績消去':
-                case '実績削除':
+                case "Clear Achievements":
+                case "Delete Achievements":
                     Torigoya.Achievement2.Manager.remove(`${args[0]}`.trim());
                     return;
                 case 'ShowAchievement':
-                case '実績表示':
+                case "Performance Display":
                     SceneManager.push(Torigoya.Achievement2.Scene_Achievement);
                     return;
                 case 'ResetAchievement':
-                case '実績リセット':
+                case "Achievement Reset":
                     Torigoya.Achievement2.Manager.clear();
                     return;
             }

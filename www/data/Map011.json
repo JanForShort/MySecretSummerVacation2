@@ -2108,7 +2108,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Wow! It's a fish!... If only I had a fishing\nrod, I could catch it..."
+                                "\\N<Boku>Wow! It's a fish!... If only I had a fishing rod,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I could catch it..."
                             ]
                         },
                         {
@@ -2737,7 +2744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Wha?! It's a ghost! Quick, let's run, Nana-\nchan!"
+                                "\\N<Boku>Wow! It's a ghost! Let's run, Nana-chan!"
                             ]
                         },
                         {
@@ -2816,7 +2823,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "At that moment, I grabbed her hand in a\nfrenzy and tried to leave the scene."
+                                "At that moment, I grabbed her hand in a frenzy and"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "tried to leave that place."
                             ]
                         },
                         {
@@ -2840,7 +2854,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nana-chan>Hey, calm down. Wait, it's not a ghost, it's\nfireflies."
+                                "\\N<Nana-chan>Hey, calm down. Wait, it's not a ghost, it's"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "fireflies."
                             ]
                         },
                         {
@@ -2985,7 +3006,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>So this is what fireflies look like...\nI've never seen them before..."
+                                "\\N<Boku>So this is a firefly... I've never seen one"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "before..."
                             ]
                         },
                         {
@@ -3035,7 +3063,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nana-chan>Hey, um... how long are you going to keep\nholding my hand?"
+                                "\\N<Nana-chan>Hey, um... how long are you going to keep holding"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "my hand?"
                             ]
                         },
                         {
@@ -3116,7 +3151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nana-chan>...Well, it's fine though."
+                                "\\N<Nana-chan>...W-Well, it's fine, I guess."
                             ]
                         },
                         {
@@ -3173,7 +3208,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Her expression, illuminated by the faint\nlight of the fireflies, was difficult to\nsee clearly, but I still vividly\nremember the warmth of her hand from\nthat moment..."
+                                "Her expression, illuminated by the faint light of"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "the fireflies, was not clear, but I still vividly"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "remember the warmth of her hand from that"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "moment..."
                             ]
                         },
                         {

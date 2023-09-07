@@ -2584,7 +2584,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(I wonder if someone is inside...? Let's\ntake a peek through the keyhole...)"
+                                "\\N<Boku>(I wonder if someone is inside...? Let's take a"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "peek through the keyhole...)"
                             ]
                         },
                         {
@@ -2887,7 +2894,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>(Hmm, I hear a strange sound...? Let me take\na peek...)"
+                                "\\N<Boku>(Hmm, I hear a strange sound...? Let's take a"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "peek...)"
                             ]
                         },
                         {

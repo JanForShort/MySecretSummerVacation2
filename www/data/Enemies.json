@@ -128,7 +128,7 @@
         "exp": 40,
         "traits": [],
         "gold": 0,
-        "name": "Oni Stag Beetle",
+        "name": "Oni Kuwagata",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:12>\n<ENEMY_MAX_LEVEL:2>\n\n",
         "params": [
             1,
@@ -290,7 +290,7 @@
         "exp": 80,
         "traits": [],
         "gold": 0,
-        "name": "Red-legged Stag Beetle",
+        "name": "Red-Legged Stag Beetle",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:14>\n<ENEMY_MAX_LEVEL:3>\n",
         "params": [
             1,
@@ -681,7 +681,7 @@
         "exp": 200,
         "traits": [],
         "gold": 0,
-        "name": "Female Rhinoceros Beetle",
+        "name": "Female Kabutomushi",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:19>\n<ENEMY_MAX_LEVEL:6>\n",
         "params": [
             1,
@@ -930,7 +930,7 @@
         "exp": 150,
         "traits": [],
         "gold": 0,
-        "name": "Maimai Killer (Maimai Kaburi)",
+        "name": "My My Killer (My My Scary)",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:22>\n<ENEMY_MAX_LEVEL:4>\n",
         "params": [
             1,
@@ -1011,7 +1011,7 @@
         "exp": 100,
         "traits": [],
         "gold": 0,
-        "name": "Giant Stag Beetle",
+        "name": "Great Stag Beetle",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:23>\n<ENEMY_MAX_LEVEL:4>\n",
         "params": [
             1,
@@ -1240,7 +1240,7 @@
         "exp": 80,
         "traits": [],
         "gold": 0,
-        "name": "White-backed Wood-boring Beetle",
+        "name": "White-haired Stag Beetle",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:26>\n<ENEMY_MAX_LEVEL:12>\n",
         "params": [
             1,
@@ -1328,7 +1328,7 @@
         "exp": 100,
         "traits": [],
         "gold": 0,
-        "name": "Ruri-chan (Ruriboshi Kamikiri)",
+        "name": "Rurichan (Ruriboshikamikiri)",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:27>\n<ENEMY_MAX_LEVEL:3>\n",
         "params": [
             1,
@@ -1744,7 +1744,7 @@
         "exp": 3000,
         "traits": [],
         "gold": 0,
-        "name": "Giant Monster Zaringa (American Zari-gani)",
+        "name": "Giant Monster Zaringa (American Zaringani)",
         "note": "<BattlerScale:4>\n[SV Animated]\n<ENEMY_CLASS:33>\n<ENEMY_MAX_LEVEL:8>\n",
         "params": [
             1,
@@ -2012,7 +2012,7 @@
         "exp": 800,
         "traits": [],
         "gold": 0,
-        "name": "Giraffe",
+        "name": "Girafa",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:37>\n<ENEMY_MAX_LEVEL:3>\n",
         "params": [
             1,
@@ -2266,7 +2266,7 @@
             }
         ],
         "gold": 0,
-        "name": "Weak Onikwagata E",
+        "name": "Weak Rhinoceros Beetle E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:10>\n<ENEMY_MAX_LEVEL:1>\n\n",
         "params": [
             1,
@@ -2407,7 +2407,7 @@
         "exp": 40,
         "traits": [],
         "gold": 0,
-        "name": "Oni-Kuwagata E",
+        "name": "Oni Kuwagata E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:12>\n<ENEMY_MAX_LEVEL:2>\n\n",
         "params": [
             1,
@@ -2569,7 +2569,7 @@
         "exp": 80,
         "traits": [],
         "gold": 0,
-        "name": "Red-legged Stag Beetle E",
+        "name": "Red-Legged Stag Beetle E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:14>\n<ENEMY_MAX_LEVEL:3>\n",
         "params": [
             1,
@@ -2960,7 +2960,7 @@
         "exp": 200,
         "traits": [],
         "gold": 0,
-        "name": "Female Kabutomushi",
+        "name": "Female Kabutomushi E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:19>\n<ENEMY_MAX_LEVEL:6>\n",
         "params": [
             1,
@@ -3135,7 +3135,7 @@
             }
         ],
         "gold": 0,
-        "name": "Aokanabun E",
+        "name": "Blue Kanae",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:21>\n<ENEMY_MAX_LEVEL:1>\n",
         "params": [
             1,
@@ -3209,7 +3209,7 @@
         "exp": 150,
         "traits": [],
         "gold": 0,
-        "name": "My My Killer (My My Kaburi) E",
+        "name": "My My Killer (My My Scary) E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:22>\n<ENEMY_MAX_LEVEL:4>\n",
         "params": [
             1,
@@ -3290,7 +3290,7 @@
         "exp": 100,
         "traits": [],
         "gold": 0,
-        "name": "Ooosamushi E",
+        "name": "Great Stag Beetle E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:23>\n<ENEMY_MAX_LEVEL:4>\n",
         "params": [
             1,
@@ -3519,7 +3519,7 @@
         "exp": 80,
         "traits": [],
         "gold": 0,
-        "name": "White-backed Wood-boring Beetle E",
+        "name": "White-haired Stag Beetle E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:26>\n<ENEMY_MAX_LEVEL:12>\n",
         "params": [
             1,
@@ -3607,7 +3607,7 @@
         "exp": 100,
         "traits": [],
         "gold": 0,
-        "name": "Ruri-chan (Ruriboshi Kamikiri)",
+        "name": "Rurichan (Ruriboshikamikiri) E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:27>\n<ENEMY_MAX_LEVEL:3>\n",
         "params": [
             1,
@@ -4023,7 +4023,7 @@
         "exp": 3000,
         "traits": [],
         "gold": 0,
-        "name": "Giant Monster Zaringa (American Zari-gani) E",
+        "name": "Giant Monster Zaringa (American Zaringani) E",
         "note": "<BattlerScale:4>\n[SV Animated]\n<ENEMY_CLASS:33>\n<ENEMY_MAX_LEVEL:8>\n",
         "params": [
             1,
@@ -4291,7 +4291,7 @@
         "exp": 800,
         "traits": [],
         "gold": 0,
-        "name": "Giraffe E",
+        "name": "Girafa E",
         "note": "<BattlerScale:2>\n[SV Animated]\n<ENEMY_CLASS:37>\n<ENEMY_MAX_LEVEL:3>\n",
         "params": [
             1,

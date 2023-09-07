@@ -3592,7 +3592,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Hmm...? It's probably better not to go too\nfar... I think I'll stop here and not go\nany further."
+                                "\\N<Boku>Hmm...? It's probably best not to go too far..."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Let's stop going any further."
                             ]
                         },
                         {

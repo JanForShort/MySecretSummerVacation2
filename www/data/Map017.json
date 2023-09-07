@@ -3590,7 +3590,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um... it's not good to enter someone's house\nwithout permission, right?"
+                                "\\N<Boku>Um... it's not good to enter someone's house"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "without permission, right?"
                             ]
                         },
                         {
@@ -3681,7 +3688,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um... it's not good to enter someone's house\nwithout permission, right?"
+                                "\\N<Boku>Um... it's not good to enter someone's house"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "without permission, right?"
                             ]
                         },
                         {
@@ -3772,7 +3786,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um... it's not good to enter someone's house\nwithout permission, right?"
+                                "\\N<Boku>Um... it's not good to enter someone's house"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "without permission, right?"
                             ]
                         },
                         {
@@ -3934,7 +3955,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Hey, Grandpa. There's something I want to\nask you, can I?"
+                                "\\N<Boku>Hey, Grandpa. There's something I want to ask you,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "can I?"
                             ]
                         },
                         {
@@ -3982,7 +4010,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Do you know the story about not swimming\nalone in the waterfall beyond that river\nover there in the evening?"
+                                "\\N<Boku>Hey, do you know the story about not swimming"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "alone in the waterfall across the river over there"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "in the evening?"
                             ]
                         },
                         {
@@ -4013,7 +4055,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandfather>Oh, that brings back memories. Yes, I know.\nI heard it from my grandfather when I\nwas young."
+                                "\\N<Grandfather>Oh, that's nostalgic. Yes, I know. I heard it from"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "my grandfather when I was young."
                             ]
                         },
                         {
@@ -4060,7 +4109,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>What? Really?"
+                                "\\N<Boku>Eh? Really?"
                             ]
                         },
                         {
@@ -4084,45 +4133,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandfather>Ah, that's true. There's a legend that says\nthere's a river princess living in these\nmountains who survives by devouring\nmen's essence."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
+                                "\\N<Grandfather>Ah, it's true. There's a legend that says there's"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandfather>They say the river princess sucks the souls\nof children who approach the riverbank\nin the evening... Well, it's just a\nsuperstition that means children\nshouldn't go near the water's edge at\ndusk."
+                                "a river princess living in these mountains who"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "survives by devouring men's essence."
                             ]
                         },
                         {
@@ -4160,21 +4185,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandfather>Well... Actually, I had a strange experience\nonce on the riverbank at dusk when I was\na child..."
+                                "\\N<Grandfather>They say the river princess sucks the souls of"
                             ]
                         },
                         {
-                            "code": 0,
+                            "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "children who approach the riverbank in the"
                             ]
                         },
                         {
-                            "code": 0,
+                            "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "evening... Well, it's just a superstition that"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "means 'children should not approach the water's"
                             ]
                         },
                         {
@@ -4191,45 +4223,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandfather>I saw a girl with long white hair and\npale skin across the river, but as soon\nas I saw her, I lost consciousness...\nAfter that, I was bedridden for three\ndays, it was quite a ordeal..."
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 0,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N<Grandfather>I told everyone that I caught a summer\ncold from sleeping on the riverbank and\nbeing feverish, but no one believed me.\nBut maybe, that was the river princess\nafter all..."
+                                "edge at dusk' because it's dangerous."
                             ]
                         },
                         {
@@ -4267,7 +4261,184 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Grandfather>Well, that's a story from many decades ago.\nSince then, I haven't approached the\nriverbank at dusk out of fear. Thanks to\nthat, I've been able to live a long life\nwithout any accidents."
+                                "\\N<Grandfather>Well... Actually, I had a strange experience once"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "when I was a child, on the riverbank at dusk..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Grandfather>I saw a fair-skinned, long-haired person across"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "the river, but as soon as I saw them, I lost"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "consciousness... After that, I was bedridden for"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "three days, it was quite a ordeal..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Grandfather>I told everyone that I caught a summer cold from"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "sleeping on the riverbank and being feverish, but"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "no one believed me. But maybe, just maybe, that"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "was the river princess..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "\\N<Grandfather>Well, that's a story from many decades ago. Since"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "then, I haven't approached the riverbank in the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "evening out of fear. Thanks to that, I've been"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "able to live a long life without any accidents."
                             ]
                         },
                         {
@@ -4329,7 +4500,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Yes."
+                                "\\N<Boku>Yes"
                             ]
                         },
                         {
@@ -4346,7 +4517,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(Hmm... The story was long and I didn't quite\nunderstand, but there's a girl by the\nriverbank in the evening who devours\nmen's essence...?)"
+                                "\\N<Boku>(Hmm... The story was long and I didn't quite"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "understand, but there's a girl by the riverbank in"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "the evening who devours men's essence...?)"
                             ]
                         },
                         {
@@ -4384,7 +4569,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(I don't really understand what essence\nmeans, but could it be something\nnaughty...? If that's the case, then I'm\nnot scared at all. Maybe I should go to\nthat place again in the evening?)"
+                                "\\N<Boku>(I don't really understand what he's talking"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "about, but could it be something naughty...? If"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "that's the case, I'm not scared at all. Maybe I"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "should go to that place again in the evening?)"
                             ]
                         },
                         {
@@ -4581,7 +4787,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>T-Then, it's about time we start playing SM\npretend...♥"
+                                "\\N<Aunt>W-Well then, it's about time we start our SM"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "roleplay... ♥"
                             ]
                         },
                         {
@@ -4753,7 +4966,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>U-Um...? In SM pretend, you sometimes make women\nwalk around naked like this...?"
+                                "\\N<Aunt>U-Um...? In SM roleplay, you sometimes make women"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "walk around naked like this...? ♥"
                             ]
                         },
                         {
@@ -4784,7 +5004,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I-I see... I don't really understand, but\nadults do these kinds of things, huh..."
+                                "\\N<Boku>I-Is that so... I don't really understand, but I"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "guess adults do these kinds of things..."
                             ]
                         },
                         {
@@ -4815,7 +5042,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>I-Is that so...♥ But, it would be\ntroublesome if someone saw us, so we\nhave to do it secretly like this, late\nat night...♥"
+                                "\\N<Aunt>I-Is that so... ♥ But, it would be troublesome if"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "someone saw us, so we have to do it secretly like"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "this, late at night... ♥"
                             ]
                         },
                         {
@@ -4870,7 +5111,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>T-Then, here...♥ Take this leash and think of\nme as a female dog and take me for a\nwalk to the shopping district...♥"
+                                "\\N<Aunt>W-Well then, here... ♥ Take this leash and think"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "of me as a female dog, and let's take a walk to"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "the shopping district... ♥"
                             ]
                         },
                         {
@@ -4908,7 +5163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Y-Yeah..."
+                                "\\N<Boku>Uh, yeah..."
                             ]
                         },
                         {

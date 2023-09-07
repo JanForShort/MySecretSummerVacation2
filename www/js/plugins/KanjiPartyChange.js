@@ -936,7 +936,12 @@
         param.maxBattleMembers = Number(param['maxBattleMembers'] || 0)
     param.addThisIntoMenuCommand = eval(param['addThisIntoMenuCommand'] || false),
         param.partyChangeCommand = String(param['partyChangeCommand'] || "パーティ編成"),
-        param.cwPos = param['CWpos'] || "[0, 0, 250, 192]",
+        param.cwPos = param['CWpos'] || `[
+  0,
+  0,
+  250,
+  192
+]`,
         param.pwPos = param['PWpos'] || "[250, 0, w - 250, 192]",
         param.wwPos = param['WWpos'] || "[0, 192, 250, h - 192]",
         param.swPos = param['SWpos'] || "[250, 192, w - 250, h - 192]",
@@ -954,17 +959,58 @@
         param.statusShow = eval(param['statusShow']),
         param.nameShow = eval(param['nameShow']),
         param.classShow = eval(param['classShow']),
-        param.levelPos = param['levelPos'] || "[150, 36, 120]",
-        param.equipPos = param['equipPos'] || "[0, 158, 320]",
-        param.statusPos = param['statusPos'] || "[340, 158, 180]",
-        param.facePos = param['facePos'] || "[0, 0]",
-        param.namePos = param['namePos'] || "[150, 0, 180]",
-        param.classPos = param['classPos'] || "[330, 0, 180]",
-        param.iconsPos = param['iconsPos'] || "[330, 36, 180]",
-        param.hpPos = param['hpPos'] || "[150, 72, 200]",
-        param.mpPos = param['mpPos'] || "[150, 108, 200]",
-        param.tpPos = param['tpPos'] || "[360, 72, 144]",
-        param.horzLineYPos = param['horzLineYPos'] || "[148]",
+        param.levelPos = param['levelPos'] || `[
+  150,
+  36,
+  120
+]`,
+        param.equipPos = param['equipPos'] || `[
+  0,
+  158,
+  320
+]`,
+        param.statusPos = param['statusPos'] || `[
+  340,
+  158,
+  180
+]`,
+        param.facePos = param['facePos'] || `[
+  0,
+  0
+]`,
+        param.namePos = param['namePos'] || `[
+  150,
+  0,
+  180
+]`,
+        param.classPos = param['classPos'] || `[
+  330,
+  0,
+  180
+]`,
+        param.iconsPos = param['iconsPos'] || `[
+  330,
+  36,
+  180
+]`,
+        param.hpPos = param['hpPos'] || `[
+  150,
+  72,
+  200
+]`,
+        param.mpPos = param['mpPos'] || `[
+  150,
+  108,
+  200
+]`,
+        param.tpPos = param['tpPos'] || `[
+  360,
+  72,
+  144
+]`,
+        param.horzLineYPos = param['horzLineYPos'] || `[
+  148
+]`,
         param.wwRowHeight = Number(param['wwRowHeight'] || 48),
         param.equipRow = Number(param['equipRowHeight'] || 36),
         param.statusRow = Number(param['statusRowHeight'] || 36),
@@ -1147,7 +1193,7 @@
     };
 
     Window_PCActorList.prototype.standardFontSize = function () {
-        return 18;
+        return 22;
     };
 
     Window_PCActorList.prototype.drawItem = function (index) {
@@ -1253,7 +1299,7 @@
             if (actor) {
                 var w = Graphics.boxWidth, h = Graphics.boxHeight, a, x, y, width;
 
-                window.contents.fontSize = 16;
+                window.contents.fontSize = 26;
                 if (param.swFaceType !== "none") {
                     a = eval(param.facePos);
                     switch (param.swFaceType) {

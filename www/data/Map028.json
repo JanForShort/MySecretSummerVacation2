@@ -3718,8 +3718,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "\\c[2]New Game PLUS\\c[0]",
-                                    "New Game (Normal)"
+                                    "Strong New Game",
+                                    "New Game"
                                 ],
                                 -1,
                                 0,
@@ -3732,7 +3732,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "強くてニューゲーム"
+                                "Strong New Game"
                             ]
                         },
                         {
@@ -3760,7 +3760,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "通常ニューゲーム"
+                                "New Game"
                             ]
                         },
                         {
@@ -3787,7 +3787,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Would you like to skip the opening and\ntutorial?"
+                                "Skip the opening and tutorial?"
                             ]
                         },
                         {
@@ -3809,7 +3809,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "スキップする"
+                                "Skip"
                             ]
                         },
                         {
@@ -3891,7 +3891,28 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I ended up spending my summer vacation at\nmy aunt's pension, where I met a female\nart school student from the neighboring\natelier and my cousin, and we finished\nhaving lunch that day..."
+                                "I spent my summer vacation at my aunt's pension"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "and met a female college student from the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "neighboring atelier and my cousin, and after"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "finishing lunch that day..."
                             ]
                         },
                         {
@@ -3999,7 +4020,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "What is the name to call my aunt?"
+                                "What should I call my aunt?"
                             ]
                         },
                         {
@@ -4008,7 +4029,7 @@
                             "parameters": [
                                 [
                                     "Auntie",
-                                    "Mother",
+                                    "Mom",
                                     "Mom"
                                 ],
                                 -1,
@@ -4022,7 +4043,7 @@
                             "indent": 2,
                             "parameters": [
                                 0,
-                                "おばちゃん"
+                                "Auntie"
                             ]
                         },
                         {
@@ -4030,7 +4051,7 @@
                             "indent": 3,
                             "parameters": [
                                 2,
-                                "Auntie"
+                                "おばちゃん"
                             ]
                         },
                         {
@@ -4054,7 +4075,7 @@
                             "indent": 2,
                             "parameters": [
                                 1,
-                                "お母さん"
+                                "Mom"
                             ]
                         },
                         {
@@ -4062,7 +4083,7 @@
                             "indent": 3,
                             "parameters": [
                                 2,
-                                "Mother"
+                                "お母さん"
                             ]
                         },
                         {
@@ -4086,7 +4107,7 @@
                             "indent": 2,
                             "parameters": [
                                 2,
-                                "ママ"
+                                "Mom"
                             ]
                         },
                         {
@@ -4094,7 +4115,7 @@
                             "indent": 3,
                             "parameters": [
                                 2,
-                                "Mama"
+                                "ママ"
                             ]
                         },
                         {
@@ -4132,7 +4153,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "What is the name to call Sacchan?"
+                                "What should I call Sacchan?"
                             ]
                         },
                         {
@@ -4140,7 +4161,7 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "Onee-chan",
+                                    "Big brother",
                                     "Boku-kun"
                                 ],
                                 -1,
@@ -4154,7 +4175,7 @@
                             "indent": 2,
                             "parameters": [
                                 0,
-                                "お兄ちゃん"
+                                "Big brother"
                             ]
                         },
                         {
@@ -4162,7 +4183,7 @@
                             "indent": 3,
                             "parameters": [
                                 3,
-                                "Onii-chan"
+                                "おにいちゃん"
                             ]
                         },
                         {
@@ -4186,7 +4207,7 @@
                             "indent": 2,
                             "parameters": [
                                 1,
-                                "ボク君"
+                                "Boku-kun"
                             ]
                         },
                         {
@@ -4194,7 +4215,7 @@
                             "indent": 3,
                             "parameters": [
                                 3,
-                                "Boku-kun"
+                                "ボクくん"
                             ]
                         },
                         {
@@ -4284,7 +4305,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "スキップしない"
+                                "Don't skip"
                             ]
                         },
                         {
@@ -4328,7 +4349,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select the difficulty level of Mushi\nBattle. *It can be changed in the\noptions during the game."
+                                "Please select the difficulty level of Bug"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Battle. *It can be changed in the options during"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "the game."
                             ]
                         },
                         {
@@ -4343,7 +4378,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Very Easy",
+                                    "Very easy",
                                     "Easy",
                                     "Normal (Default)",
                                     "Difficult"
@@ -4359,7 +4394,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "とってもかんたん"
+                                "Very easy"
                             ]
                         },
                         {
@@ -4390,7 +4425,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "かんたん"
+                                "Easy"
                             ]
                         },
                         {
@@ -4421,7 +4456,7 @@
                             "indent": 1,
                             "parameters": [
                                 2,
-                                "ふつう（デフォルト）"
+                                "Normal (Default)"
                             ]
                         },
                         {
@@ -4452,7 +4487,7 @@
                             "indent": 1,
                             "parameters": [
                                 3,
-                                "むずかしい"
+                                "Difficult"
                             ]
                         },
                         {
@@ -4497,7 +4532,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select the presentation of Mushi\nBattle."
+                                "Please select the presentation of the Mushi"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Battle."
                             ]
                         },
                         {
@@ -4514,7 +4556,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The battles in this game are usually\ndepicted with pixel art of beetles such\nas rhinoceros beetles."
+                                "The battles in this game are usually depicted with"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "dot illustrations of beetles such as rhinoceros"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "beetles."
                             ]
                         },
                         {
@@ -4545,7 +4601,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "For those who are not good with bugs, we\nhave prepared a Hero Eraser mode that\nchanges the bug pixel art into hero\nerasers."
+                                "For those who are not good with bugs, we have"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "prepared a Hero Eraser mode that changes the bug"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "dot illustrations to hero erasers."
                             ]
                         },
                         {
@@ -4576,7 +4646,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "※Can be changed in the options during the\ngame."
+                                "※Can be changed in the options during the game."
                             ]
                         },
                         {
@@ -4598,7 +4668,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "ムシバトル（デフォルト）"
+                                "Bug Battle (Default)"
                             ]
                         },
                         {
@@ -4620,7 +4690,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "ヒーロー消しゴムモード"
+                                "Hero Eraser Mode"
                             ]
                         },
                         {
@@ -4663,7 +4733,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select the difficulty level of the\nmini-game. *It can be changed in the\noptions during the game."
+                                "Please select the difficulty level of the mini-"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "game. *It can be changed in the options during the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "game."
                             ]
                         },
                         {
@@ -4694,7 +4778,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "とってもかんたん"
+                                "Very easy"
                             ]
                         },
                         {
@@ -4718,7 +4802,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "かんたん"
+                                "Easy"
                             ]
                         },
                         {
@@ -4742,7 +4826,7 @@
                             "indent": 1,
                             "parameters": [
                                 2,
-                                "ふつう（デフォルト）"
+                                "Normal (Default)"
                             ]
                         },
                         {
@@ -4766,7 +4850,7 @@
                             "indent": 1,
                             "parameters": [
                                 3,
-                                "むずかしい"
+                                "Difficult"
                             ]
                         },
                         {
@@ -4804,7 +4888,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select whether to include BL content\n(sexual activities between boys). *It\ncan be changed in the options during the\ngame, but depending on the timing, there\nmay be events that do not occur."
+                                "Please select whether to include BL expressions"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "(sexual acts between boys). *It can be changed in"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "the options during the game, but depending on the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "timing, there may be events that do not occur."
                             ]
                         },
                         {
@@ -4834,7 +4939,7 @@
                             "parameters": [
                                 [
                                     "All included (default)",
-                                    "It's available, but the protagonist doesn't take the receptive role",
+                                    "Yes, but the protagonist does not receive",
                                     "None"
                                 ],
                                 -1,
@@ -4848,7 +4953,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "すべて有り（デフォルト）"
+                                "All included (default)"
                             ]
                         },
                         {
@@ -4879,7 +4984,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "有りだが、主人公の受けは無し"
+                                "Yes, but the protagonist does not receive"
                             ]
                         },
                         {
@@ -4910,7 +5015,7 @@
                             "indent": 1,
                             "parameters": [
                                 2,
-                                "無し"
+                                "None"
                             ]
                         },
                         {
@@ -4955,7 +5060,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select whether to include male\ncharacters in random character\ngeneration, etc. *It can be changed in\nthe options during the game."
+                                "Please select whether to include male characters"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "in random character generation, etc. *It can be"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "changed in the options during the game."
                             ]
                         },
                         {
@@ -4991,7 +5110,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "有り"
+                                "Yes"
                             ]
                         },
                         {
@@ -5013,7 +5132,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "無し"
+                                "None"
                             ]
                         },
                         {
@@ -5049,7 +5168,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select whether to include characters\nwith male genitalia in random character\ngeneration, etc. *It can be changed in\nthe options during the game."
+                                "Please select whether to include characters with"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "male genitalia in random character generation,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "etc. *It can be changed in the options during the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "game."
                             ]
                         },
                         {
@@ -5085,7 +5225,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "有り"
+                                "Yes"
                             ]
                         },
                         {
@@ -5107,7 +5247,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "無し"
+                                "None"
                             ]
                         },
                         {
@@ -5143,7 +5283,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The initial settings are complete. Please\ncheck the options for other detailed\nsettings. *For more detailed\ninformation, please refer to the\nenclosed instruction manual."
+                                "The initial settings are as mentioned above."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Please check the options for other detailed"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "settings, etc. *For more detailed information,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "please refer to the enclosed instruction manual."
                             ]
                         },
                         {
@@ -5181,7 +5342,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Now, please enjoy the main story."
+                                "Please enjoy the main story."
                             ]
                         },
                         {
@@ -5290,7 +5451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Do you remember..."
+                                "\\#Do you remember..."
                             ]
                         },
                         {
@@ -5324,7 +5485,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The endless blue sky, the overwhelming\nscent of trees... the never-ending sound\nof cicadas..."
+                                "The endless blue sky that stretches as far as the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "eye can see, the overwhelming scent of trees, and"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "the never-ending chirping of cicadas..."
                             ]
                         },
                         {
@@ -5362,7 +5537,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Every time summer comes, I remember those\ndistant, distant... memories of my\nchildhood..."
+                                "Every time summer comes, I remember those distant,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "distant... memories of my childhood..."
                             ]
                         },
                         {

@@ -64,7 +64,7 @@
         "traits": [],
         "initialLevel": 6,
         "maxLevel": 99,
-        "name": "Older brother",
+        "name": "Onii-chan",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -88,7 +88,7 @@
         "initialLevel": 10,
         "maxLevel": 10,
         "name": "Boku",
-        "nickname": "For events",
+        "nickname": "Event Use",
         "note": "",
         "profile": ""
     },
@@ -113,7 +113,7 @@
         "name": "Woman",
         "nickname": "",
         "note": "",
-        "profile": "Third-person perspective of an AV actress"
+        "profile": "3P AV Actress"
     },
     {
         "id": 6,
@@ -133,10 +133,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "I",
+        "name": "Boku",
         "nickname": "",
         "note": "",
-        "profile": "First-person perspective of an AV actress"
+        "profile": "POV AV Actress"
     },
     {
         "id": 7,
@@ -159,7 +159,7 @@
         "name": "You",
         "nickname": "",
         "note": "",
-        "profile": "Second person pronoun for the partner role."
+        "profile": "Second person role"
     },
     {
         "id": 8,
@@ -182,7 +182,7 @@
         "name": "Female",
         "nickname": "",
         "note": "",
-        "profile": "The term used to refer to the protagonist's partner\ncharacter in the game."
+        "profile": "Nickname for Characters"
     },
     {
         "id": 9,
@@ -219,7 +219,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Weak",
+        "name": "Weak Stag Beetle",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -236,7 +236,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Sawtooth",
+        "name": "Sawtooth Stag Beetle",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -253,7 +253,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Giant",
+        "name": "Onikwagata",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -287,7 +287,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Red-legged",
+        "name": "Red-legged Stag Beetle",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -304,7 +304,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Nebula",
+        "name": "Nebuto Kuwagata",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -321,7 +321,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Miyama",
+        "name": "Miyama Stag Beetle",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -338,7 +338,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Flat",
+        "name": "Hiratakuwagata",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -355,7 +355,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Great",
+        "name": "Great Stag Beetle",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -372,7 +372,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Rhinoceros ♀",
+        "name": "Female Kabutomushi",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -389,7 +389,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Rhinoceros ♂️",
+        "name": "Kabutomushi",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -406,7 +406,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Blue Beetle",
+        "name": "Aokanabun",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -440,7 +440,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Giantic",
+        "name": "Ooosamushi",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -457,7 +457,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Hammer",
+        "name": "Hanmyou",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -491,7 +491,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "White Longhorn",
+        "name": "White-haired Stag Beetle",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -508,7 +508,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Blue Jewel",
+        "name": "Ruriboshi Kamikiri",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -525,7 +525,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Mantis",
+        "name": "Harabirokamikiri",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:3>",
         "profile": ""
@@ -542,7 +542,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Praying Mantis",
+        "name": "Otokomakiri",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:3>",
         "profile": ""
@@ -576,7 +576,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Firefly",
+        "name": "Gengorou",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:3>",
         "profile": ""
@@ -593,7 +593,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Crab",
+        "name": "Sawagani",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:3>",
         "profile": ""
@@ -610,7 +610,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Crayfish",
+        "name": "American Lobster",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:4>",
         "profile": ""
@@ -627,7 +627,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Mechabug",
+        "name": "Mechanical Kabutomushi MkII",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -650,7 +650,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Hercules",
+        "name": "Hercules Beetle",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -673,7 +673,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Caucasus",
+        "name": "Caucasus Beetle",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -696,7 +696,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Giraffa",
+        "name": "Girafunokogirikuwagata",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -719,7 +719,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 10,
-        "name": "Golden",
+        "name": "Golden Stag Beetle",
         "nickname": "",
         "note": "<PickupSkill>\n<BattlerScale:2>",
         "profile": ""
@@ -972,7 +972,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ハカセくんのお母さん（裸）",
+        "name": "Hakase's mother (naked)",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -995,7 +995,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ハカセくんのお母さん",
+        "name": "Hakase's mother",
         "nickname": "",
         "note": "",
         "profile": ""

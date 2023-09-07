@@ -3330,7 +3330,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Is this the secret path to the fishing\nspot that Boss-kun mentioned...? Oh,\nthere's a rope hidden in the tree!\nShould I pull it?"
+                                "\\N<Boku>Is this the secret passage to the fishing spot"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "that Boss mentioned...? Oh, there's a rope hidden"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "in the tree! Should I pull it...?"
                             ]
                         },
                         {

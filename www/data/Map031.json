@@ -1446,7 +1446,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Colorful dazzling lights bloom in the summer\nnight sky."
+                                "In the summer night sky, a dazzling array of"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "colorful lights bloom."
                             ]
                         },
                         {
@@ -1484,7 +1491,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Looking back now, it was just an ordinary small\nfirework, not particularly big or\nimpressive. However, the fireworks we\nall looked up to on that day were more\ndazzling and radiant than any fireworks\nI had ever seen before..."
+                                "\\#Looking back now, it was never a grand or"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "magnificent display. It was just a very ordinary"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "small firework. But the fireworks we all looked up"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "to on that day were more dazzling and radiant than"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "any fireworks I had ever seen before..."
                             ]
                         },
                         {

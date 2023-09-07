@@ -2077,7 +2077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Yu-kun>Hey, Boku-kun. Do you want to play together?"
+                                "\\N<Yu-kun>Hey, you. Wanna play together?"
                             ]
                         },
                         {
@@ -2092,7 +2092,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yeah!",
+                                    "Sure!",
                                     "See you later!"
                                 ],
                                 1,
@@ -2106,7 +2106,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "うん！"
+                                "Sure!"
                             ]
                         },
                         {
@@ -2164,7 +2164,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Yu-kun>Hmm, yeah... Since we have a spacious place,\nhow about flying paper airplanes?"
+                                "\\N<Yu-kun>Hmm, I see... Since we have a spacious place, how"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "about we fly some paper airplanes?"
                             ]
                         },
                         {
@@ -2219,7 +2226,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Yu-kun: Oh, really? In that case, let's have a\ncompetition to see who can fly them the\nfarthest."
+                                "\\N<Yu-kun>Oh, I see. In that case, let's have a competition"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "to see who can fly them the farthest."
                             ]
                         },
                         {
@@ -2277,7 +2291,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Yu-kun>Then, shall we have another paper airplane\ncompetition today?"
+                                "\\N<Yu-kun>Well then, shall we have another paper airplane"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "competition today?"
                             ]
                         },
                         {
@@ -2312,7 +2333,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boku>Yeah!... Oh... My paper airplane flew away..."
+                                "\\N<Boku>Yeah!... Oh... My paper airplane, it flew away..."
                             ]
                         },
                         {
@@ -2343,7 +2364,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Yu-kun: Shall we go and get it together?"
+                                "\\N<Yu-kun>Shall we go together to retrieve it?"
                             ]
                         },
                         {
@@ -2439,7 +2460,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "またね！"
+                                "See you later!"
                             ]
                         },
                         {
@@ -2456,7 +2477,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Yu-kun>Yeah, see you later."
+                                "\\N<Yu-kun>Yeah. Well then, see you later."
                             ]
                         },
                         {
@@ -2580,35 +2601,35 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "翌日から女装姿で出現"
+                                "The next day, they appeared in cross-dressing attire"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "ムシバトル勝利で好感度+1"
+                                "Goodwill gained from winning a bug battle+1"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "紙飛行機で+1"
+                                "With a paper airplane,+1"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "2の状態で一晩寝ると3に"
+                                "2Sleeping overnight in that state will result in a level 3"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "3以上で出現"
+                                "3Appears above"
                             ]
                         },
                         {
@@ -2723,7 +2744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Girl>Hehe. Hey, Boku-kun. Can you guess who I am?"
+                                "\\N<Girl>Hehe. Hey, you. Can you guess who I am?"
                             ]
                         },
                         {
@@ -2754,7 +2775,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Huh? I wonder who it could be...? Nice to\nmeet you, right...? Hmm... Ah!"
+                                "\\N<Boku>Huh? I wonder who...? Nice to meet you, right...?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hmm... Ah!"
                             ]
                         },
                         {
@@ -2785,7 +2813,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Could it be, Onee-chan, Yuko's older sister?\nI think I heard that you have an older\nsister before!"
+                                "\\N<Boku>Could it be that you're Yuu's older sister? I feel"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "like I heard that he has an older sister before!"
                             ]
                         },
                         {
@@ -2816,7 +2851,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Girl>Huh...? Ah, y-yes, that's right. I'm Yuko's\nolder sister... Yuko-chan. Nice to meet\nyou, Boku-kun."
+                                "\\N<Girl>Huh...? Ah, y-yeah, that's right. I'm Yuu's older"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "sister... Yuuko. Nice to meet you, buddy."
                             ]
                         },
                         {
@@ -2854,7 +2896,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Yeah! Nice to meet you, Yuko-chan! So, where\nis Yuko today?"
+                                "\\N<Boku>Yeah! Nice to meet you, Yuuko-chan! So, where's"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Yuu-kun today?"
                             ]
                         },
                         {
@@ -2901,7 +2950,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Yuko-chan>Ah, um, Yuu has something to do today and\nwon't be coming."
+                                "\\N<Yuko-chan>Ah, um, Yuu has something to do today and won't be"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "coming."
                             ]
                         },
                         {
@@ -2925,7 +2981,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Oh, I see. Then, how about playing together\nwith Yuko-chan today?"
+                                "\\N<Boku>Oh, I see. Then, how about we play together today,"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Yuuko-chan?"
                             ]
                         },
                         {
@@ -2956,7 +3019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Yuko-chan>Y-yeah, that's fine."
+                                "\\N<Yuko-chan>Y-Yeah, that's fine."
                             ]
                         },
                         {
@@ -2980,7 +3043,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Well then, what should we play? I wonder\nwhat girls usually play. Hey, Yuko-chan,\nwhat kind of games do you usually play?"
+                                "\\N<Boku>Well then, what should we play? I wonder what"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "girls like to play. Hey, Yuuko-chan, what kind of"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "games do you play?"
                             ]
                         },
                         {
@@ -3027,7 +3104,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Yuko-chan>U-um... w-well...? H-how about... going to your\nhouse, Boku-kun?"
+                                "\\N<Yuko-chan>U-Um... w-well... how about...? Oh, I know, why"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "don't we go to your place?"
                             ]
                         },
                         {
@@ -3065,7 +3149,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>My house? Yeah, that's fine! Alright,\nlet's go, Yuko-chan!"
+                                "\\N<Boku>My house? Yeah, that's fine! Alright then, let's"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "go, Yuuko-chan!"
                             ]
                         },
                         {
@@ -3241,7 +3332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Yu-kun>Ah, Boku-kun. What do you want to do today?"
+                                "\\N<Yu-kun>Ah, what do you want to play today, buddy?"
                             ]
                         },
                         {
@@ -3257,7 +3348,7 @@
                             "parameters": [
                                 [
                                     "Let's play with paper airplanes",
-                                    "I want to do something naughty",
+                                    "I want to do naughty things",
                                     "Let's play another time"
                                 ],
                                 2,
@@ -3271,7 +3362,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "紙ヒコーキで遊ぼ"
+                                "Let's play with paper airplanes"
                             ]
                         },
                         {
@@ -3288,7 +3379,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Yu-kun: Then, shall we have a paper airplane\ncompetition again today?"
+                                "\\N<Yu-kun>How about we have another paper airplane"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "competition today?"
                             ]
                         },
                         {
@@ -3323,7 +3421,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>Yeah!... Ah... My paper airplane flew away..."
+                                "\\N<Boku>Yeah!... Ah... my paper airplane, it flew away..."
                             ]
                         },
                         {
@@ -3440,7 +3538,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "エッチなこと、したいな"
+                                "I want to do naughty things"
                             ]
                         },
                         {
@@ -3457,7 +3555,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Yu-kun>Hehe, is that so? ♥ Sure ♥ Then, shall we go\nto your room, Boku-kun?"
+                                "\\N<Yu-kun>Hehe, is that so? ♥ Sure, let's go to my room ♥"
                             ]
                         },
                         {
@@ -3519,7 +3617,7 @@
                             "indent": 0,
                             "parameters": [
                                 2,
-                                "また今度、遊ぼ"
+                                "Let's play another time"
                             ]
                         },
                         {
@@ -3536,7 +3634,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Yu-kun>Okay, see you later."
+                                "\\N<Yu-kun>Okay. See you later."
                             ]
                         },
                         {

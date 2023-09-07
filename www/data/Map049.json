@@ -2239,7 +2239,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Huh...?... This scent, it's the same scent as\nDream Popuri... Maybe this flower is a\nDream Grass flower...! Yeah, that must\nbe it!"
+                                "\\N<Boku>Huh...?... This scent, it's the same as the Dream"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Popuri... Maybe this flower is the Dream Grass"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "flower...! Yeah, that must be it!"
                             ]
                         },
                         {
@@ -2277,7 +2291,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I remember that drinking the nectar of\nthis flower before going to bed helps\nyou sleep soundly...? It sounds\ninteresting, so let's give it a try!"
+                                "\\N<Boku>I remember that if you drink the nectar of this"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "flower before going to bed, you can sleep"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "soundly... It sounds interesting, so let's give it"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "a try!"
                             ]
                         },
                         {

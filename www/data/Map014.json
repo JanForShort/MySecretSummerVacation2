@@ -2626,7 +2626,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Please don't go too far... Let's go to the\nshopping district... ♥"
+                                "\\N<Aunt>Please don't go too far... Let's go to the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "shopping district... ♥"
                             ]
                         },
                         {
@@ -3079,7 +3086,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Please don't go too far... Let's go to the\nshopping district... ♥"
+                                "\\N<Aunt>Please don't go too far... Let's go to the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "shopping district... ♥"
                             ]
                         },
                         {
@@ -3759,7 +3773,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um... it's not good to enter someone's house\nwithout permission, right?"
+                                "\\N<Boku>Um... it's not good to enter someone's house"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "without permission, right?"
                             ]
                         },
                         {
@@ -4079,7 +4100,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Um... It's not good to enter someone's house\nwithout permission, right...?"
+                                "\\N<Boku>Um... It's not good to enter someone's house"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "without permission, right...?"
                             ]
                         },
                         {
@@ -4180,7 +4208,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Um... it's not good to enter someone's house\nwithout permission, right?"
+                                "\\N<Boku>Um... It's not good to enter someone's house"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "without permission, right?"
                             ]
                         },
                         {
@@ -4271,7 +4306,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hakase-kun>Hey, did you know? There's a fire truck from\nthe fire brigade in here. I wonder if\nI'll join the fire brigade when I grow\nup? Then maybe I can ride on the fire\ntruck too."
+                                "\\N<Hakase-kun>Hey, did you know? There's a fire truck in here."
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "When I grow up, maybe I'll join the fire brigade"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "too? Then I might be able to ride on the fire"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "truck."
                             ]
                         },
                         {
@@ -4717,7 +4773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Th-then, let's take a little nighttime\nstroll...♥"
+                                "\\N<Aunt>Th-then, let's take a little nighttime stroll...♥"
                             ]
                         },
                         {
@@ -4741,7 +4797,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Huh? Is it okay to take a nighttime stroll?\nThat's amazing!"
+                                "\\N<Boku>Huh? Is it okay to take a nighttime stroll!?"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "That's amazing!"
                             ]
                         },
                         {
@@ -4765,7 +4828,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Since it's nighttime, let's try to be as\nquiet as possible... ♥ So, shall we go\ntowards the shopping district...? ♥"
+                                "\\N<Aunt>Since it's nighttime, let's try to be as quiet as"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "possible... ♥ Then, shall we go towards the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "shopping district...? ♥"
                             ]
                         },
                         {

@@ -184,7 +184,7 @@
 
     var parameters = PluginManager.parameters('Gacha');
     var message = String(parameters['Help Message Text'] || '1回Required Amount\\Gでガチャを引きます');
-    var buttonText = String(parameters['Button Text'] || 'ガチャを引く');
+    var buttonText = String(parameters['Button Text'] || "Pull Gacha");
     var getText = String(parameters['Get Message Text'] || 'GET Item Name');
     var itemDescEnable = !!Number(parameters['Show Item Description'] || 0);
     var effect = Number(parameters['Effect'] || '119');

@@ -3751,7 +3751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>I have to go to the festival."
+                                "\\N<Boku>We have to go to the festival."
                             ]
                         },
                         {
@@ -4081,7 +4081,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Wow, this is amazing! Even though there's no\nshop, it feels like a real festival!"
+                                "\\N<Boku>Wow, this is amazing! It's like a real festival"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "even though there are no shops!"
                             ]
                         },
                         {
@@ -4112,7 +4119,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>Hehe, since there are no men around and I\ncan't go out, I at least try to recreate\nthe atmosphere of a festival for the\nchildren. We do it every year."
+                                "\\N<\\N[2]>Hehe, since there are no men around to go out"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "with, I at least try to create a festive"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "atmosphere for the children. We do it every year."
                             ]
                         },
                         {
@@ -4326,7 +4347,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>Hey everyone, did you all get your snacks?\nWell then, after we watch the fireworks,\nlet's go home."
+                                "\\N<\\N[2]>Hey everyone, did you all get your candy? Well"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "then, after watching the fireworks, make sure to"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "go home."
                             ]
                         },
                         {
@@ -4453,7 +4488,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Aunt>Everyone, don't get too carried away and make\nsure you don't get hurt, okay?"
+                                "\\N<Aunt>Everyone, don't get too carried away and make sure"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "you don't get hurt, okay?"
                             ]
                         },
                         {
@@ -4537,7 +4579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boku>Huh? Are you acquainted with those older\nsisters?"
+                                "\\N<Boku>Huh? Are those girls acquaintances?"
                             ]
                         },
                         {
@@ -4561,7 +4603,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<College student sister>Yeah, that's right. I've been coming to\nUncle's studio to play during summer\nvacation since a long time ago, so we've\nbeen friends since then. They were still\ncute with black hair back then."
+                                "\\N<Big sister art student>Yeah, that's right. We've been friends since we"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "used to come and play at Uncle's studio during"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "summer vacation. They were still cute with black"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "hair back then."
                             ]
                         },
                         {
@@ -4630,7 +4693,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Shop lady>Hey, stop it! Don't talk about embarrassing\nthings like that."
+                                "\\N<Shopkeeper>Hey, stop it. Don't talk about embarrassing stuff"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "like that."
                             ]
                         },
                         {
@@ -4685,7 +4755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<College student sister>Yeah yeah, sorry sorry."
+                                "\\N<Big sister art student>Yeah yeah, sorry sorry."
                             ]
                         },
                         {
@@ -4787,7 +4857,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Older sister>Come on, hurry up and dance. We need to get\nrid of the leftover sweets and fireworks\ninventory."
+                                "\\N<Older sister>Come on, hurry up and dance. We need to get rid of"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "the leftover sweets and fireworks inventory."
                             ]
                         },
                         {
@@ -4894,7 +4971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Older sister>Ugh... I wanted to laze around at home..."
+                                "\\N<Big sister>Ugh... I wanted to laze around at home..."
                             ]
                         },
                         {
@@ -5847,7 +5924,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Jesse>Oh, so this is the Japanese Festival. It's\nso exotic. Hmm... is this what they call\n'wabi-sabi'?"
+                                "\\N<Jesse>Oh, so this is the Japanese Festival. It's so"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "exotic. Hmm... Is this what they call 'wabi-"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "sabi'?"
                             ]
                         },
                         {
@@ -6840,7 +6931,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Oh? What is it, Boku-chan? Do you want to\nplay the drums?"
+                                "\\N<Boss-kun>Oh? What's up, kiddo? Do you want to play the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "drums?"
                             ]
                         },
                         {
@@ -6871,7 +6969,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Alright, I got it! However, it's an important\nfestival. If you practice and score over\n50 points, I'll let you play in the\nactual performance."
+                                "\\N<Boss-kun>Alright, sounds good! However, it's an important"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "festival, so make sure to practice and score at"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "least 50 points. If you can do that, I'll let you"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "play in the actual performance."
                             ]
                         },
                         {
@@ -6938,7 +7057,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Are you ready? Alright then, it's showtime!\nI'm counting on you!"
+                                "\\N<Boss-kun>Are you ready? Alright then, it's showtime! I'm"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "counting on you!"
                             ]
                         },
                         {
@@ -6961,7 +7087,7 @@
                             "parameters": [
                                 [
                                     "Let's start the main event",
-                                    "I need to practice a little more",
+                                    "I need more practice",
                                     "Give up",
                                     "Change the difficulty level"
                                 ],
@@ -6976,7 +7102,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "本番を始める"
+                                "Let's start the main event"
                             ]
                         },
                         {
@@ -6996,7 +7122,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "もう少し練習する"
+                                "I need more practice"
                             ]
                         },
                         {
@@ -7040,7 +7166,7 @@
                             "indent": 1,
                             "parameters": [
                                 2,
-                                "あきらめる"
+                                "Give up"
                             ]
                         },
                         {
@@ -7060,7 +7186,7 @@
                             "indent": 1,
                             "parameters": [
                                 3,
-                                "難易度を変える"
+                                "Change the difficulty level"
                             ]
                         },
                         {
@@ -7104,7 +7230,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>Are you ready? Well, since it's practice,\nyou can do it as many times as you want.\nIf you can score 50 points or more even\nonce, you'll pass."
+                                "\\N<Boss-kun>Are you ready? Well, since it's practice, you can"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "do it as many times as you want. If you can score"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "50 points or more even once, you'll pass."
                             ]
                         },
                         {
@@ -7137,7 +7277,7 @@
                             "parameters": [
                                 [
                                     "Practice",
-                                    "I'm still mentally preparing",
+                                    "I'm not mentally prepared yet",
                                     "Give up",
                                     "Change the difficulty level"
                                 ],
@@ -7152,7 +7292,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "練習する"
+                                "Practice"
                             ]
                         },
                         {
@@ -7254,7 +7394,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "When the ● reaches the center of the ▽,\npress the decision button at the right\ntiming and play the drums! Aim for 100\npoints and do your best!"
+                                "When \\#● reaches the center ▽, press the decision"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "button at the right timing to hit the drum! Aim"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "for 100 points and do your best!"
                             ]
                         },
                         {
@@ -7401,7 +7555,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "まだ心の準備が…"
+                                "I'm not mentally prepared yet"
                             ]
                         },
                         {
@@ -7418,7 +7572,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>If you're ready, let me know."
+                                "\\N<Boss-kun>Well then, let me know when you're ready."
                             ]
                         },
                         {
@@ -7438,7 +7592,7 @@
                             "indent": 0,
                             "parameters": [
                                 2,
-                                "あきらめる"
+                                "Give up"
                             ]
                         },
                         {
@@ -7462,7 +7616,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boss-kun>What's wrong, is it okay? Well then, I'll play\nthe drums, so Boku-chan, dance with\neveryone."
+                                "\\N<Boss-kun>What's up? Well, in that case, I'll play the drums"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "and you can dance with everyone."
                             ]
                         },
                         {
@@ -7606,7 +7767,7 @@
                             "indent": 0,
                             "parameters": [
                                 3,
-                                "難易度を変える"
+                                "Change the difficulty level"
                             ]
                         },
                         {
@@ -7637,7 +7798,7 @@
                             "indent": 1,
                             "parameters": [
                                 0,
-                                "とってもかんたん"
+                                "Very easy"
                             ]
                         },
                         {
@@ -7661,7 +7822,7 @@
                             "indent": 1,
                             "parameters": [
                                 1,
-                                "かんたん"
+                                "Easy"
                             ]
                         },
                         {
@@ -7685,7 +7846,7 @@
                             "indent": 1,
                             "parameters": [
                                 2,
-                                "ふつう"
+                                "Normal"
                             ]
                         },
                         {
@@ -7709,7 +7870,7 @@
                             "indent": 1,
                             "parameters": [
                                 3,
-                                "むずかしい"
+                                "Difficult"
                             ]
                         },
                         {
@@ -10137,7 +10298,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Alright! You passed, Boku-chan! Well then, I'll\nleave the real thing to you!"
+                                "\\N<Boss-kun>Alright! You passed, my dear! Well then, I'll"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "leave the real thing to you!"
                             ]
                         },
                         {
@@ -10178,7 +10346,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>Hmm... You still have a long way to go. I\ncan't leave the real thing to you yet.\nYou need more practice."
+                                "\\N<Boss-kun>Hmm... You still have a long way to go. I can't"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "leave the real thing to you just yet. You need"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "more practice."
                             ]
                         },
                         {
@@ -10247,7 +10429,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boss-kun>You're amazing, Boku-chan!"
+                                "\\N<Boss-kun>Wow, you're amazing, my dear!"
                             ]
                         },
                         {
@@ -10298,7 +10480,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Yu-kun>You're amazing. I didn't know you had that\ntalent."
+                                "\\N<Yu-kun>Wow, you're amazing. I didn't know you had that"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "kind of talent."
                             ]
                         },
                         {
@@ -10339,7 +10528,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Nana-chan>Wow, you're doing great. Did you train at\nthe disco after all?"
+                                "\\N<Nana-chan>Wow, you're doing great. Did you train at a disco"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "after all?"
                             ]
                         },
                         {
@@ -10400,7 +10596,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boss-kun>Well done, Boku-chan."
+                                "\\N<Boss-kun>Well done, my dear."
                             ]
                         },
                         {
@@ -10417,7 +10613,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Glasses-kun>Is this your first time and you're able to\ndo this much?"
+                                "\\N<Glasses-kun>Is this your first time and you're already this"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "good?"
                             ]
                         },
                         {
@@ -10468,7 +10671,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Sacchan>\\N[3]... You're skilled, huh..."
+                                "\\N<Sacchan>\\N[3]... You're skilled..."
                             ]
                         },
                         {
@@ -10485,7 +10688,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Nana-chan>Hmm? Well, isn't it quite well done?"
+                                "\\N<Nana-chan>Hmm? Well, isn't this quite impressive?"
                             ]
                         },
                         {
@@ -10576,7 +10779,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Boushi-kun>I couldn't dance well because the rhythm\nwas weird..."
+                                "\\N<Boushi-kun>I couldn't dance well because the rhythm was"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 3,
+                            "parameters": [
+                                "weird..."
                             ]
                         },
                         {
@@ -10634,7 +10844,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<Nana-chan>Hey... Can't you do a little more...?"
+                                "\\N<Nana-chan>Hey... Can't we manage a little more...?"
                             ]
                         },
                         {
@@ -12588,7 +12798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>Hehe, everyone in the town decorated it\ntogether."
+                                "\\N<\\N[2]>Hehe, everyone in town decorated them together."
                             ]
                         },
                         {
@@ -12612,7 +12822,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<\\N[2]>Alright, the Bon dance is starting. Have a great\ntime!"
+                                "\\N<\\N[2]>Alright, the Bon dance is starting. Have a great"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "time!"
                             ]
                         },
                         {
@@ -12826,7 +13043,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nana-chan>Ahh, I wish I could dance at a disco instead\nof doing Bon Odori."
+                                "\\N<Nana-chan>Ahh, instead of Bon Odori, I want to dance at a"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "disco."
                             ]
                         },
                         {
@@ -12959,7 +13183,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Nana-chan>Ahh, I wish I could dance at a disco instead\nof doing Bon Odori."
+                                "\\N<Nana-chan>Ahh, instead of Bon Odori, I want to dance at a"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "disco."
                             ]
                         },
                         {
@@ -13101,7 +13332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sacchan>Hmm... I feel like there was someone I didn't\nknow earlier..."
+                                "\\N<Sacchan>Hmm... Did I see someone I don't know earlier...?"
                             ]
                         },
                         {
@@ -13227,7 +13458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sacchan>Hmm... I feel like there was someone I didn't\nknow earlier..."
+                                "\\N<Sacchan>Hmm... Did I see someone I don't know earlier...?"
                             ]
                         },
                         {
@@ -13373,7 +13604,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Girl>Hmm, who is it? Tetsu's friend? If you're\nlooking for Tetsu, they're at the taiko\ndrum area."
+                                "\\N<Girl>Hmm, who's that? Tetsu's friend? If you're looking"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "for Tetsu, he's over by the taiko drums."
                             ]
                         },
                         {
@@ -13421,7 +13659,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Mika-chan>Geez, I'm not at an age where I can frolic\naround at festivals anymore, you know?\nI'm only here because of Tetsu's\ninsistence, you know?"
+                                "\\N<Mika-chan>Geez, I'm not at an age where I can frolic around"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "at festivals anymore, you know? I'm only here"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "because of Tetsu's insistence, you know?"
                             ]
                         },
                         {
@@ -13582,7 +13834,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Girl>Hmm, who is it? Tetsu's friend? If you're\nlooking for Tetsu, they're at the taiko\ndrum area."
+                                "\\N<Girl>Hmm, who's that? Tetsu's friend? If you're looking"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "for Tetsu, he's over by the drums."
                             ]
                         },
                         {
@@ -13630,7 +13889,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Mika-chan>Geez, I'm not at an age where I can frolic\naround at festivals anymore, you know?\nI'm only here because of Tetsu's\ninsistence, you know?"
+                                "\\N<Mika-chan>Geez, I'm not at an age where I can frolic around"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "at festivals anymore, you know? I'm only here"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "because of Tetsu's insistence, you know?"
                             ]
                         },
                         {
@@ -13806,7 +14079,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Yu-kun>During the festival, Boku always plays the\ndrums. If I ask Boku, they might let me\nplay too."
+                                "\\N<Yu-kun>During the festival, Boss-kun always plays the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "drums. If we ask Boss-kun, maybe they'll let us"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "play too."
                             ]
                         },
                         {
@@ -13854,7 +14141,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Yu-kun>It's usually a quiet night, but it's fun to\nhave a lively night like this."
+                                "\\N<Yu-kun>Usually it's a quiet night, but it's fun to have a"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "lively night like this."
                             ]
                         },
                         {
@@ -14007,7 +14301,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Yu-kun>During the festival, Boku always plays the\ndrums. If I ask Boku, they might let me\nplay too."
+                                "\\N<Yu-kun>During the festival, Boss-kun always plays the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "drums. If we ask Boss-kun, maybe he'll let us play"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "too."
                             ]
                         },
                         {
@@ -14055,7 +14363,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Yu-kun>It's usually a quiet night, but it's fun to\nhave a lively night like this."
+                                "\\N<Yu-kun>It's usually a quiet night, but it's fun to have a"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "lively night like this."
                             ]
                         },
                         {
@@ -14200,7 +14515,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boushi-kun>I'm looking forward to the sweets! I get\nthem every year!"
+                                "\\N<Boushi-kun>I'm looking forward to the sweets! I get them"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "every year!"
                             ]
                         },
                         {
@@ -14326,7 +14648,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Boushi-kun>I'm looking forward to the sweets! I get\nthem every year!"
+                                "\\N<Boushi-kun>I'm looking forward to the sweets! I get them"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "every year!"
                             ]
                         },
                         {
@@ -14461,7 +14790,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hakase-kun>Hmm... I wonder if I can dance well...? It's\nnot really my strong suit, you know..."
+                                "\\N<Hakase-kun>Hmm... I wonder if I can dance well? It's not"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "really my strong suit, you know..."
                             ]
                         },
                         {
@@ -14594,7 +14930,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Hakase-kun>Hmm... I wonder if I can dance well...? It's\nnot really my strong suit, you know..."
+                                "\\N<Hakase-kun>Hmm... I wonder if I can dance well? It's not"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "really my strong suit, you know..."
                             ]
                         },
                         {
@@ -14827,7 +15170,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Girl?>Oh, what's wrong? Aren't you playing with\neveryone? Come on, let's go back to\nwhere everyone is."
+                                "\\N<Girl?>Oh, what's wrong? Aren't you playing with"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "everyone? Come on, let's go back to where everyone"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "is."
                             ]
                         },
                         {
@@ -14858,7 +15215,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>Huh? Uh... yeah..."
+                                "\\N<Boku>Huh? Ah... yeah..."
                             ]
                         },
                         {
@@ -14882,7 +15239,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<Boku>(Did I see this girl in town...? Hmm...?)"
+                                "\\N<Boku>(Was this girl in town...? Hmm...?)"
                             ]
                         },
                         {
@@ -14949,7 +15306,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Suichan>Hehe, you caught me...♥"
+                                "\\N<Suichan>Hehe, I've been caught...♥"
                             ]
                         },
                         {
@@ -14966,7 +15323,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Boku>I came to the festival! So, let's play\ntogether with everyone!"
+                                "\\N<Boku>I came to the festival! So let's play together"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "with everyone!"
                             ]
                         },
                         {
@@ -14990,7 +15354,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Suichan>It's okay ♥ I just like immersing myself in\nthe festival atmosphere like this, a\nlittle bit."
+                                "\\N<Suichan>Don't worry ♥ I just like immersing myself in the"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "festival atmosphere like this, a little bit."
                             ]
                         },
                         {
@@ -15070,7 +15441,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<Suichan>I like immersing myself in the festival\natmosphere like this, just a little bit.\nCome on, everyone is waiting over\nthere."
+                                "\\N<Suichan>I just love immersing myself in the festival"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "atmosphere like this, even if it's just a little"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 2,
+                            "parameters": [
+                                "bit. Come on, everyone is waiting over there."
                             ]
                         },
                         {
@@ -15249,7 +15634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<Sacchan>Hmm... I feel like there was someone I didn't\nknow earlier..."
+                                "\\N<Sacchan>Hmm... Did I see someone I don't know earlier...?"
                             ]
                         },
                         {
