@@ -7,7 +7,6 @@
 !*.zip
 !*.7z
 !*.csv
-!*.4096
 !.gitignore
 !README.md
 package.json
@@ -29,4 +28,3 @@ package.json
 !Map15_taki.rpgmvp
 !Map16_suki.rpgmvp
 !Map17_nukemiti2.rpgmvp
-!texture_01.rpgmvp
