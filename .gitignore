@@ -10,21 +10,3 @@
 !.gitignore
 !README.md
 package.json
-
-# Images
-!Map00.rpgmvp
-!Map01_himitukiti.rpgmvp
-!Map02_atoie.rpgmvp
-!Map03_mizuumi.rpgmvp
-!Map04_anaba.rpgmvp
-!Map05_ohana.rpgmvp
-!Map06_haikyo.rpgmvp
-!Map07_bokujou.rpgmvp
-!Map08_gakkou.rpgmvp
-!Map09_zinnja.rpgmvp
-!Map11_akiti.rpgmvp
-!Map12_bessou.rpgmvp
-!Map13_doukutu.rpgmvp
-!Map15_taki.rpgmvp
-!Map16_suki.rpgmvp
-!Map17_nukemiti2.rpgmvp
